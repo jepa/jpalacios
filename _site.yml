@@ -2,6 +2,8 @@ name: "Hello World"
 navbar:
   title: "Juliano Palacios A."
   left:
+    - text: "Home"
+      href: index.html
     - text: "Research"
       href: Research.html
     - text: "My Not-Professional Self"
