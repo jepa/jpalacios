@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Black Bird" />
+
+
+<title>O lar do passarinho e o ar e não o ninho.</title>
+
+<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-0.8/htmlwidgets.js"></script>
+<link href="site_libs/leaflet-0.7.7/leaflet.css" rel="stylesheet" />
+<script src="site_libs/leaflet-0.7.7/leaflet.js"></script>
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
+<link href="site_libs/leaflet-label-0.2.2/leaflet.label.css" rel="stylesheet" />
+<script src="site_libs/leaflet-label-0.2.2/leaflet.label.js"></script>
+<script src="site_libs/Proj4Leaflet-0.7.2/proj4-compressed.js"></script>
+<script src="site_libs/Proj4Leaflet-0.7.2/proj4leaflet.js"></script>
+<script src="site_libs/leaflet-binding-1.1.0/leaflet.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4,h5,h6",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Juliano Palacios A.</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="Research.html">Research</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    My Not-Professional Self
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="Diving.html">Diving</a>
+    </li>
+    <li>
+      <a href="Travel.html">Travel (Spanish)</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="Contact.html">Contact</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">O lar do passarinho e o ar e não o ninho.</h1>
+<h4 class="author"><em>Black Bird</em></h4>
+
+</div>
+
+
+<p><img src="Images/Viajes2.jpg" alt="Drawing" style="width: 1000px;"/></p>
+<div id="bienvenidos-al-blog" class="section level1">
+<h1>¡Bienvenidos al blog!</h1>
+<p>Este portal no pretende sustituir los dos millones setenta mil resultados que Don Google arroja cuando escribes “Guía Turística” Tampoco pretendo hacer un diario, pero la verdad es que, en esta encomienda uno nunca sabe lo que va a terminar escribiendo. Antes de que escribiera aquí, es decir antes del 2012 cuando empecé a escribir esto en blogspot.com, nunca se me había ocurrido llevar un registro de mis viajes, simplemente me nació.</p>
+<p>Desde entonces procuro compartir con los 5 amigos que me leen y mis padres (fieles seguidores e inequívocos críticos) mis viajes y experiencias. Algunos relatos son especialmente chistosos (e.g. <strong>De Migraciones cetáceas</strong> o <strong>El del sureste</strong>) otros son tristes con aires melancólicos (como <strong>La triste historia de la Panta</strong>) y otros son vil informativos ( <a href="O_Lar/Chapada_V/Cavalcante.html">Chapada dos Veadeiros</a> ). En fin, lo único que pretendo hacer con este espacio es motivarlos a viajar siempre que puedan, a escribir sobre ello e invitarlos a que escriban aquí cuando viajen (como lo hizo el buen Osvaldo en su entrada de <strong>Malinalco</strong>)</p>
+
+<hr />
+<div id="el-mapa-de-las-escalas" class="section level2">
+<h2>El Mapa de las Escalas</h2>
+<center>
+<div id="htmlwidget-a688fa9f5712f560fc73" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-a688fa9f5712f560fc73">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"Maps by <a href=\"http://www.mapbox.com/\">Mapbox<\/a>"}]},{"method":"addMarkers","args":[[8.538,8.538,8.538,8.538,21.5218,23.1136,22.16,20.2148,18.7157,40.7128,18.9446,16.737,17.4848,16.8187,16.7039,24.1426,43.7696,21.125,21.125,14.0389,13.6773,14.177,null,22.7709,22.7709,22.6469,17.4848,16.8989,25.7617,32.7157,36.3615,24.1426,23.0799,23.4464,36.6062,36.458,36.5054],[-80.7821,-80.7821,-80.7821,-80.7821,-77.7812,-82.3666,-80.4438,-87.4293,-87.708,-74.0059,-99.4954,-92.6376,-92.0459,-93.0692,-91.0646,-110.3128,-11.2558,-101.686,-101.686,-47.623,-47.6062,-47.8136,null,-102.5832,-102.5832,-102.9876,-92.0459,-90.9659,-80.1918,-117.1611,-121.8563,-110.3128,-109.7124,-110.2265,-117.1465,-116.8709,-117.0794],null,null,null,{"clickable":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["El Inicio","Ciudad de Panama","Feliz TuristiAndo","La cena de despedida","Cuba la linda","La Habana","Cienfuegos","Tulum","Mahahual","NYC","Malinalco","San Cristobal de las Casa","De Palenque a Oaxaca","Sumidero","Bonampak","La Paz (BJCS)","Firenze","Del DF a Leon","Leon","Chapada dos Veadeiros","Cavalcante","Sao jorge","O rei do Prata","Zacatecas","Zacatecas_2","Jerez","Palenque_2","Yaxchilan","Miami","San Diego","Big Sur","La Paz_2","Los Cabos","Todos Santos","Death Valley (Stovepipe Wells)","Death Valley (Furnace Creek)","Death Valley"],null,null,null,null,null,null]}],"setView":[[1.3,-90],2,[]],"limits":{"lat":[8.538,43.7696],"lng":[-121.8563,-11.2558]}},"evals":[],"jsHooks":[]}</script>
+<p><br></p>
+<hr />
+<!-- ## Las Escalas Disponibles Hasta Ahora -->
+<!-- ### 2014 -->
+<!-- #### Zacatecas -->
+<!-- <a  -->
+<!-- href="O_Lar/Zacatecas/Llegando.html"> ¿Cómo lleog al norte? -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/Zacatecas/Completo.html"> ¡Zacatécalas! Del plato a la taza pasando por la panza... -->
+<!-- </a> -->
+<!-- #### Chapada dos Veadeiros, GO, Brasil -->
+<!-- <a  -->
+<!-- href="O_Lar/Chapada_V/Generalidades.html"> Generalidades -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/Chapada_V/Sao_Jorge.html"> São Jorge, El Tepoz de Goias -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/Chapada_V/Cavalcante.html"> Cavalcante, lá onde a estrada termina -->
+<!-- </a>  -->
+<!-- ### 2013 -->
+<!-- #### Festival Internacional del Globo, León Guanajuato -->
+<!-- <a  -->
+<!-- href="O_Lar/FIG/FIGl.html"> Festival Internacional del Globo -->
+<!-- </a> -->
+<!-- #### Eurotrip -->
+<!-- <a  -->
+<!-- href="O_Lar/Eurotrip/Firenze_Italia.html"> Firenze, Italia -->
+<!-- </a> -->
+<!-- #### La Paz, Baja Caliofrnia Sur -->
+<!-- <a  -->
+<!-- href="O_Lar/La_Paz_BCS/SanCris_Gen.html"> El Golfo de California, La Paz de Cortés -->
+<!-- #### Roadtrip: Oaxaca-San Cristobal -->
+<!-- <a  -->
+<!-- href="O_Lar/San_Cristobal/SanCris_Gen.html">Del DF a San Cristobal -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/San_Cristobal/SanCris_Detallado.html">San Cristobal Detalles -->
+<!-- </a>• -->
+<!-- <a  -->
+<!-- href="O_Lar/San_Cristobal/Sumidero.html">El Cañon del Sumidero -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/San_Cristobal/SaCris_Palenque.html">De San Cristobal a Palenque -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/San_Cristobal/Bonampak.html">Bonampak -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/San_Cristobal/Bonampak.html">De Palenque a Oaxaca -->
+<!-- </a> -->
+<!-- #### New York City -->
+<!-- <a  -->
+<!-- href="O_Lar/NYC/NYC.html">Englishman in New York -->
+<!-- </a> -->
+<!-- #### Malinalco -->
+<!-- <a  -->
+<!-- href="O_Lar/Malinalco/Malinalco.html">Malinalco (Por Osvaldo) -->
+<!-- </a> -->
+<!-- #### Mahahual -->
+<!-- <a  -->
+<!-- href="O_Lar/Mahaha/Mahaha.html">Mahaha! -->
+<!-- </a> -->
+<!-- ### 2012 -->
+<!-- #### Tulum -->
+<!-- <a  -->
+<!-- href="O_Lar/Tulum/Tulum.html">Generalidades -->
+<!-- </a> -->
+<!-- #### Cuba, la linda -->
+<!-- <a  -->
+<!-- href="O_Lar/Cuba_Primera/Cuba_Primera.html">Generalidades, la Habana y Camilo Cienfuegos -->
+<!-- </a> -->
+<!-- #### Panamá -->
+<!-- <a  -->
+<!-- href="O_Lar/Panama_CSBS/La_Cena_de_Despedida.html">La Cena de Despedida -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/Panama_CSBS/Feliz_Turistiando.html"> Feliz Turistiando -->
+<!-- </a> • -->
+<!-- <a  -->
+<!-- href="O_Lar/Panama_CSBS/Ciudad_Panama.html">Ciudad de Panamá, Panamá -->
+<!-- </a> -->
+<!-- #### El Inicio -->
+<!-- <center> -->
+<!-- • <a  -->
+<!-- href="O_Lar/Panama_CSBS/El_Inicio.html">El Inicio -->
+<!-- </a> • -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-3');
+</script>
+</head>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

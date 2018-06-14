@@ -1,0 +1,37 @@
+---
+title: "El Inicio"
+subtitle: "Ciudad de Panamá, Panamá."
+author: "Black Bird"
+output: html_document
+---
+<br>
+<center>
+
+![](Images/El_Inicio.jpg)
+
+</center>
+
+<br>
+
+Pues como lo dice la descripción del blog no pretendo sustituir los dos millones setenta mil resultados que Don Google arroja cuando escribes “Guía Turística”...(Tiempo para que lo hagan) o la maravillosa "Loneley Planet" que es más completa que nada. Tampoco pretendo estar escribiendo un diario de todos mis viajes para que todos lo lean y así, cada quién escribe para si mismo lo necesario y se comparte lo que quiera. Considero que en esta vida letras en un papel son de las pocas cosas que nos quedan para nosotros mismos, ¡no las subestimen! es el momento ideal para ejercer el egoísmo al 100%.
+
+Entonces... ¿Qué pretendo hacer con este espacio?
+La verdad es que ni yo lo se, ni soy buen escritor ni tengo buena redacción/ortografía, pero me gusta compartir y desde que una gran amiga que estimo mucho me dijo un día "La única cosa para la que vale la pena ahorrar es viajar" me he dedicado a hacerlo. Viajo mucho solo, viajo en lo que se pueda y casi siempre a donde me inviten, no discrimino, pero sobre todo solo. El viaje solo no es malo, si sabes llevarte bien contigo mismo, la puedes pasar muy bien, pero es muy fácil recaer, el sub-conciente es un hijo de Bush... Ya me viajé...
+
+Volviendo, hay una serie de objetivos que quiero alcanzar con este espacio, los señalaré a continuación:
+
+- A) Viajar. Banda, ¡viajen! con los $500 varos que te gastas en a peda del fin de semana puedes irte un día completo a unos 10 pueblitos cerca de la Ciudad de México. No importa si nunca oyeron hablar, no importa si ya fueron 10 veces, siempre hay algo nuevo, nunca es la misma cosa, un viaje nunca se repite.
+
+- B) Escriban sobre sus viajes. Alguien alguna vez me dijo (no recuerdo quién, así que si lees esto y fuiste tu, cobra tu autoría, ja) "Lo único que perdura de un viaje son los recuerdos" pues infelizmente en mi caso no es así, mi pésima memoria no me ayuda por lo que escribir suena interesante, para serles sincero, nunca he leído lo que he escrito en mis viajes, no soporto leerme más de una cuartilla ja,ja,ja. Sin embargo, creo que en muchos años lo superaré, podré mostrarle a mis sobrinos, ahijados... ¿hijos? y por ahora, puedo darle tips a mis amigos cuando viajan a lugares que yo ya fui (objeto de este espacio).
+
+- C) Compartan. No pretendo que esto sea un monólogo. Compartan experiencias y "tips".
+
+Con los objetivos establecidos no me queda más que empezar con esto, no se si alguien alguna vez lo leerá, no se si yo logre seguirlo, tal vez se vuelva parte de todos los proyectos que uno va empezando en su vida y que nunca finaliza, me gustaría lograr mantener este.
+
+Bueno... a ver como nos va.
+
+<br>
+<center>
+<a 
+href="Travel.html">Regresar
+</a>

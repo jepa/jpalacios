@@ -1,0 +1,96 @@
+---
+title: "I'd like to be under the sea, in an octopus's garden, with you"
+output: html_document
+---
+
+
+![](Images/YoMero2.png)
+
+<br>
+
+My first official contact with the underwater world was in 2008. Since then I was sure that this was a life time activity. The underwater world grew on me so much and so fast that I became a dive instructor and co-owned a diving center in Mexico city. The diving center is called Medusa Buceo. During that time I taught, traveled and dived a lot. Now I’m retired from all that excruciating responsibility and only dive for fun or research. I’ve dove in many different places and conditions and there is always something new to see, even in those places that you already visited.
+
+You should really try it, for me diving is the closest feeling to be floating in out-space. It is so quiet that even thou you are always (hopefully you are!) diving with a buddy, I still feel I’m all by myself. The feeling of floating in the vastness of nothing, by yourself, hearing only abstract noises in the distance, is invaluable!
+
+----
+
+<center>
+##  Diving Certifications
+
+
+
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+  }
+</style>
+
+<div class="col2">
+<br>
+
+### CMAS/FMAS
+
+- Dive Instructor
+- Advanced Diver
+- Basic Diver
+- Cave 1 Diver
+
+<br>
+
+### SDI/TDI
+
+- Advanced Dive Instructor
+- Advanced NITORX diver
+- Basic NITORX diver
+- Scientific Diver
+
+</div>
+
+<br>
+
+[<img src="Images/CMAS_Logo.jpg" width="250px">](http://www.cmas.org/federation-list/federation-federacion-mexicana-de-actividades-subacuaticas-ac) [<img src="Images/Medusa_Logo.png" width="250px">](https://www.facebook.com/medusabuceo/)[<img src="Images/SDITDI_Logo.png" width="250px">](https://www.tdisdi.com/)
+
+<br>
+
+---- 
+
+## Underwater Worlds Explored
+
+```{r Diving_Places, eval =TRUE, echo =FALSE, warning=F,message=F}
+library(leaflet)
+library(dplyr)
+Diving_Data <- read.csv("Data/Dive_Log.csv") %>% 
+  mutate(Pop = paste(Site, City,
+                     sep=", "))
+
+
+leaflet(Diving_Data) %>%
+  addTiles(
+    urlTemplate = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",
+    attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>'
+  ) %>%
+  setView(lng = -90, lat = 1.3, zoom = 2) %>% 
+  addMarkers(
+    lng = ~Long*-1,
+    lat= ~Lat,
+    popup = ~Pop
+  )
+
+
+```
+
+<br>
+
+*“The sea is everything. It covers seven tenths of the terrestrial globe. Its breath is pure and healthy. It is an immense desert, where man is never lonely, for he feels life stirring on all sides. The sea is only the embodiment of a supernatural and wonderful existence. It is nothing but love and emotion; it is the Living Infinite. ”* 
+<br>
+Jules Verne, Twenty Thousand Leagues Under the Sea
+
+<br>
+<hr>
+<center>
+
+**Contact**
+
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Research gate](https://www.researchgate.net/profile/Juliano_Palacios_Abrantes2) • [Googel Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)

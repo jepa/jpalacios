@@ -1,17 +1,17 @@
-name: "Hellow World"
+name: "Hello World"
 navbar:
-  title: "HOME"
+  title: "Juliano Palacios A."
   left:
     - text: "Research"
-      href: 
+      href: Research.html
     - text: "My Not-Professional Self"
       menu:
         - text: "Diving"
-          href: 
+          href: Diving.html
         - text: "Travel (Spanish)"
-          href: 
+          href: Travel.html
     - text: "Contact"
-      href: 
+      href: Contact.html
 output_dir: "."
 output:
   html_document:

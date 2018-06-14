@@ -1,0 +1,22 @@
+---
+title: "La cena de despedida"
+author: "Black Bird"
+date: "23/9/2012"
+output: html_document
+---
+
+Es mi última noche en Panamá, sin plan para "reven-tar" en sábado dije "bueno al menos voy a cenar algún lugar rico" mas estoy muy cansado así que decido ir a la pizzería Napoli (dos cuadras del hotel).
+
+El diálogo a seguir es digno de risas:
+Mesero: buenas noches joven ¿ya sabe que va pedir?
+Juliano: si mire, déme una pizza Nápoles pero ¿en vez de hongos le puede poner pimientos?
+M: si pero le cobraría un dólar más.
+J: pero no quiero un ingrediente extra, quiero cambiar los hongos es todo.
+M: lo siento joven políticas de la empresa.
+J: bueno quítele los hongos...
+M: le cobraría un dólar más
+J: jajajajajajajajaj ¿es broma verdad?
+M: no joven yo se que es absurdo pero en los 20 años que llevo trabajando aquí siempre ha sido así...
+J: (aún riendo) oh pues déme una pasta y una copa del vino de la casa.
+
+Título de la obra: De donde te cobran por no consumir

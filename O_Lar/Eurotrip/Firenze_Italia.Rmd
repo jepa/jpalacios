@@ -1,0 +1,68 @@
+---
+title: "Firenze, Italia"
+author: "Black bird"
+date: "24/10/2013"
+output: html_document
+---
+
+<center>
+
+<img src="Images/Firenze.png" style="width: 600px;"/>
+
+</center>
+
+Casi dos años después de hacer este viaje traspasaré del diario de viaje al blog la primera de varias entradas sobre mi viaje a Europa. Un viaje de 53 Días, más de 15 ciudades, más de 20 amistades.
+
+## En resumen
+
+Días de visita: 2.
+Gasto aproximado (sin hospedaje): 90 euros.
+Lugares visitados:
+
+- La casa de los Uffizi
+- Academia del Arte
+- Fortaleza Da Basso
+- San marco
+- Palacio Vecchino
+- Palacio Strozzi
+- Palazzo Pitty
+- Basilica di Santo Spirito
+- Plaza Duomo
+- Sinagoga
+- Iglesia de San Remigeo
+- Plaza de la Señora
+- Catedral de Santa María Fiore
+
+El clima en las tierras de la Toscana en inicio de septiembre es una maravilla, días parcialmente nublados, calurosos pero nada en exceso, ideal para estilar la bermuda y playera, es un lindo cliché Felinesco, pero si pueden hacerse de una bicicleta, van a disfrutar la ciudad aún más. Yo así hice, me quedé en casa de mi nuevo amigo Saverio, salí en un horario descente (por ahí de las 11 am jejeje) y anduve en bici hasta la "Plaza de la Madonna". Si planeas entrar a la casa de los Uffizi (si no lo vas a hacer ni vayas a Firenze) te aconsejo ir directo a comprar tu boleto ya que el acceso es limitado a grupos de… ¿20? personas, yo lo compré por ahí del medio día y me dieron horario de las 8pm. TIP: Hay descuento para cualquier estudiante Y como es verano muchos lugares de Europa cierran más tarde así que puedes salir a turistear a las 11 am y aún tener como 10 horas de cosas abiertas. 
+
+La clave aquí es caminar errante por la ciudad. Vete a una plaza, da 10 giros de trompo y sal caminando por ahí. Yo pasé unas 4 horas vagando por las calles de la ciudad, esto es una maravilla pues escapas de la aglomeración de la fauna europea y asiática en los principales lugares (si el verano europeo está LLENO de turistas), con tan solo alejarte un par de cuadras de las principales atracciones turísticas, no temas, en dos días verás toda la ciudad, no te perderás de nada y aún así puedes divagar y decir que conociste un poco más de esta hermosa ciudad italiana.
+
+## Museo di Plazzo Vecchino
+Como tenía mucho tiempo libre me fui para allá, Firenze es muy pequeña por eso andar en bici o caminar son medidas excelentes para conocer la ciudad. El palacio como todas las antiguas construcciones europeas es enorme, imponente, ostentoso y claro, ¡increíblemente bonito! techos pintados, paredes con acabados de oto, grandes salones y bellas pinturas colgadas de la pared. En el sigo correcto, el Palacio era la cede de la corte. Lo increíble de este lugar es que sucede como las películas, el Palacio se conecta por un pasillo a lo que era la Residencia Real, el trayecto cruza el río Fiume, pasa por lo que hoy es el museo Uffizi (antes eran las oficinas, ¡si todo un palacio para oficinas!) y una capilla probada. Necesitarás como 2 horas para ver el palacio detenidamente.
+
+## Los Uffizi
+"isso aquí e absurdo, muito grande!" Eso dijo mi nueva adquisición amistosa, un brasileño perdido a 2 meses en Italia. Y si, el guerito tenía razón el museo es digno de 4 horas, mínimas, yo tuve que volar, ¿recuerdan como les dije que mi entrada era a las 8pm? Bueno pues el museo cierra a las 9.30pm así que tomen en cuenta eso al comprar su boleto, tal vez valga la pena comprarlo para el día siguiente (se puede) y visitarlo con paz. No les voy a arruinar la visita, es una locura, a mi, en una ora y media apenitas me dio tiempo de ver todo en velocidad FFW, la iluminación en algunas salas es muy mala, pero les aseguro que después de esto, el arte del renacentista nunca será igual ante sus ojos, nunca más.
+
+## Academia Del Arte
+Qué divertida me estoy dando releyendo mis anotaciones, aquí les comparto lo que escribí sobre El David de Miguel Ángel,
+
+<div style="text-align: right">
+
+Manos proporcionalmente mayores que el resto, la derecha casi del mismo tamaño que el pié.
+-Pito chico pero… ¿tanto? Huevos, ok.
+-Por primera vez los ojos tiene detalle (Pupila,        )...
+-Juliano Palacios miércoles 10 de agosto, Firenze , Italia-
+
+</div>
+
+Tengo poca capacidad de ver arte en las esculturas, es algo que no aprendí de chico por lo que tendré que esperar cierta madures para ello, por lo que el resto del museo me pareció bastante simple, por mi, ve, observa el David, vete. 
+
+<img src="Images/Firenze_I.png" align="right" style="width: 300px;"/>
+
+## Catedral de Florencia
+
+463 escalones (si, soy obsesivo y los conté) no aptos para cardíacos o claustrofóbicos ya que la subida es por un pasillo que muchas veces no caben dos personas al mismo tiempo. Valen la pena los 463 escalones, la verdad es que yo soy una persona de altruas, siempre que voy a una ciudad nueva tengo que ir a las alturas, me gusta ver los techos, el orden del caos metropolitano y aquí no fue la excepción, la cúpula de la iglesia (ni voy a entrar en detalles del interior del santuario) brinda una vista panorámica de la ciudad excelsa.
+
+##La comida, la gente la bebida
+
+No hay mucho que decir sobre la comida Italiana, come pasta, pizza, pescado, ¡ensalada! Lo que más disfruté en Firenze fueron las ensaladas ¿qué les pasa a estos Italianos? es una cosa de locos, aprendí a comer pasto en esta ciudad. Se puede comer muy bien por relativamente pocos euros, claro que para eso es necesario salir de la zona turística. La bebida ni se diga, no salgas del vino, el de copeo, más vulgar, 2 euros por una copa de vino es un paraíso, no puedo ni imaginar lo que sea una botella de 30 euros… Ahora la gente es algo interesante, mi amigo Savero me comentó que la gente en el norte de Italia es más seria que la del sur, yo la verdad es que no pude conocer a nadie fuera del propio Saero y él es un tipazo, pero lo que si descubrí es que la gente del sur es muy simpática, eso si me queda claro.

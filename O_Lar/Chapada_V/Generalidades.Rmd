@@ -1,0 +1,76 @@
+---
+title: "Chapada dos Veadeiros, Generalidades"
+author: "Black bird"
+date: "6/11/2017"
+output: html_document
+---
+
+<div style="text-align: right">
+
+Our task must be to free ourselves... by widening our circle of compassion to embrace all living creatures and the whole of nature and it's beauty.” 
+
+― Albert Einstein
+
+---
+
+</div>
+
+Inicio el 2014 en el extranjero y qué mejor lugar que el próximo anfitrión y campeón de la Copa del Mundo FIFA, Brasil. Por la manera en la que fui haciendo el viaje y recopilando la información creo que estas entradas quedarán muy parecidas a una guía de turismo, esta intención viene del hecho que no encontré ni una y hay poca info de los lugares "en lo que viene siendo la interné", habrá algunos relatos pero supongo que más que nada habrá información útil para quien venga, es un hecho que si alguien viene a la Copa y se queda en Brasilia (capital) no se puede perder este paseo. 
+
+
+**Observación**: La chapada es una zona con alto cambio climático de acuerdo con la época del año, por lo que todo lo relacionado con ella se vivió en diciembre, el verano que es caracterizado por calor, aguaceros cortos pero repetidos y muy húmedo. hashtagporsuatenciongracias
+
+## La Chapada
+
+Dice wiki *"Una chapada es una formación rocosa elevada (superior a los 600 metros de altura), que tiene una porción bien plana en la parte superior, a causa de la erosión a la que ha sido sometida. Naturalmente son terrenos de superficie bastante plana, cuya altitud se destaca en las áreas a su alrededor."* Es decir, una chapada es una montañotototota chata arriba, con harta piedra por todos lados, algo así: 
+
+<center>
+
+<img src="Images/Chapada.jpg" style="width: 400px;"/>
+
+</center>
+
+Lo que los espera en el mes de diciembre es mucho sol, mucha lluvia, un paisaje verde que te quiero verde, una cantidad ridícula de agua que te hace dudar que el mundo esté con los días contados, mucha selva baja en pleno bloom, cascadas inimaginablemente bonitas, cada una más espectacular que la otra, ejércitos bien entrenados de mosquitos, mosquitas, moscotes, mosquetes, mosquees, es decir: ¡chingos de bichos pequeños molestando!.
+
+La chapada dos veadeiros consiste en tres ciudades principales. La puerta de bienvenida, más estructurada y única que no conocí: **Alto do Paraíso**, aquí la sofisticación es un poco mayor, los servicios son más confiables y las cascadas de más fácil acceso, ideal para niños y gente con limitaciones a caminatas. Después de ésta, a 40 kilómetros se encuentra **São Jorge** bautizado por mi como el "Tepoztlán Brasileiro" este pueblito de dos calles de tierra cuenta con posadas muy "monas" se come bien y la infraestructura turística es, decente. Por último, a unos 100 km de Alto do paraíso tenemos mi favorita, **Cavalcante** un pueblo del interior con cero infraestructura turística, posadas de pueblito, gente increíble del interior, llena de historias y magia, las cascadas más formidables del lugar están aquí, un lugar distante, calmo ideal para los que quieren huir de las masas. 
+
+Les dejo el link de la página oficial de la comunidad www.chapadadosveadeiros.com 
+
+## De camino 
+
+La Chapada dos Veadeiros queda en en estado de Goias, el mismo que alberga la capital brasileña, Brasilia. A escasos 250 km de la capital, el viaje a la ciudad principal (Alto de Paraiso) es de 3 horas. La carretera es principalmente de ida y vuelta con partes donde el asfalto está bastante lastimado, sin embargo no encontrarán mayor dificultad. 
+
+
+Una vez en la Chapada las cosas no son tan bonitas. De Alto do Paraiso a Cavalcante (la "ciudad" más lejana del parque) son como 100 km de carretera con el asfalto bastante maltratado (1 hora, máximo 1.30 horas). Hacia Sao Jorge, la "ciudad" más turística de la región la cosa es aún peor (o mejor dependiendo del gusto turístico de cada uno) encontrarán 20 km de asfalto impecable seguido de 14 kilómetros de tercería que te sentirás en la Luna, paciencia y si puedes buena suspensión, son las dos cosas que más necesitarás.
+
+Para ponerle gasolina al carro tiene que ser en Alto de Paraíso o Cavalcante (São Jorge no tiene), a pesar de que las distancias son cortas vale la pena no circular con menos de medio tanque pues si "la luz se va" las gasolineras no sirven y esto sucede con frecuencia. 
+No te preocupes por llantas ponchadas y quedarte varado en la carretera, lo que más vas a ver son letreros de grúas (gincho) y vulcanizadora (borracharia).
+
+## El clima
+
+El clima en la zona varía durante todo el año. Yo fui en diciembre (verano del sur) por lo que la caracterización que daré se refiere únicamente a esta temporada ya que por lo que me dijeron, hay temporadas muy marcadas de seca y lluvias. 
+El clima en verano es caliente día y noche, el sol sale como a las 6 am y se pone 7pm. Acostumbra a tener semanas completas de nublados con lluvias esporádicas, pero también te puede tocar cielos despejados con lluvias torrenciales cada 3 horas que parecen venir de la nada, "nubes pasajeras". Por las lluvias, los moscos están a la orden del día y las carreteras de tierra en algunas partes se vuelven de lodo, sin embargo nada que un carro normal no pueda superar. 
+
+## Qué conviene llevar
+
+- *Tienda de campaña*, hay algunas caminatas (trilhas) de más de un día, que valen MUCHO la pena, para ellas hay que acampar, vale mucho la pena llevar una tienda de campaña, ojo que en la noche acostumbra a caer un diluvio así que asegúrate de que tu tienda sea para lluvia intensa.
+
+- *Cremas*, nunca vas a extrañar tanto un repelente como aquí, recuerda que es un pueblito así que las cosas son difíciles de conseguir. Lo mismo para protector solar y demás productos de ese estilo, es mejor salir equipado desde Brasilia.
+Cámara, con las fotos que estaré publicando quedará más que claro. Es indispensable llevar alguna protección contra lluvia pues en el verano llueve mucho.
+
+- *Traje de baño*, puedes olvidar todo, incluso a la pareja, pero **NO OLVIDES EL TRAJE DE BAÑO.**
+
+- *Calzado*, normalmente para caminatas recomendaría unas buenas botas, sin embargo muchas trilhas cruzan ríos por lo que mojar las botas puede ser molesto (por el peso) yo hice todo el viaje con tenis y fue muy bien, recomiendo unos buenos tenis de caminata, de preferencia de algún material que se seque rápido o se lleve bien con el agua. Mi hermana usó uno de esos zapatos de neopreno con suela dura, fue la más feliz de la zona.
+
+- *Sombrero*, el sol es fuerte, te tatemas en poco tiempo y muchas de las trilhas son en camino despejado.
+
+- *Impermeable*, el verano es caracterizado por nubes viajeras cargadas de hartos chingos de agua, por lo que en menos de 30 min se puede cerrar, caer el diluvio universal y el sol otra vez. Un buen impermeable es muy recomendable (sobre todo para cubrir las cosas que no quieres que se mojen) 
+
+- *Cash*, lo que manda allá es el cash, en Cavalcante hay un "Banco do Brasil" que no siempre tiene dinero/ funciona y casi nada se puede pagar con tarjeta (prácticamente nada) por lo que es indispensable llevar una buena suma, en São Jorge no hay banco pero por ser más turística hay más lugares que aceptan tarjeta. Si puedes, lleva cash (punto).
+
+- *4x4*, si bien las carreteras de tierra son accesibles y Brasil es un país muy caro, si tienen la posibilidad de rentar un 4x4 siempre es una ventaja y comodidad, al menos para los "amantes de la naturaleza en V8 4x4 R30".
+
+<br>
+
+Me encararía tener la capacidad poética para generar un verso hermoso que hablara de todo lo que vi en este lugar, del paisaje infinito que solo había visto en el mar, de la cantidad de agua cayendo por la piedra y del gritar de las cataratas similar a una turbina de avión, pero no tengo, así que cerraré esta entrada diciendo que este es uno de los lugares más mágicos y bellos en los que he estado, no sólo el potencial natural si no que las personas y la magia que corre en el lugar son maravillosos.
+Definitivamente de mis destinos favoritos.

@@ -1,30 +1,40 @@
 ---
-title: "Making free websites with RStudio's R Markdown"
-author:  "[Julie Lowndes](https://github.com/jules32) at [NCEAS](https://www.nceas.ucsb.edu/), 12/14/16"
+title: "Hello World!"
 output:
-  html_document:
-    fig_width: 1
+  html_document
 ---
 
-----
+<br>
 
-It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
-
-***Creating websites with R Markdown can be done without knowing R or HTML, CSS, etc,*** and that's where we'll start. However, R Markdown integrates with these tools so the more you know the more complex and beautiful your website can be. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too -- there are links throughout. 
-
-The best way to learn is to follow along with your own laptop, but all are welcome. We'll spend half the time with the tutorial and half the time for you to work on your own website and get help. If you bring your laptop please do this beforehand: 
-
-1. install [RStudio](https://www.rstudio.com/products/rstudio/download/)
-1. create a [GitHub]((http://github.com)) account ([advice](http://happygitwithr.com/github-acct.html))
-1. set up your computer to talk to GitHub
-    - have RStudio linked directly (preferred) ([instructions sections 8-14](http://happygitwithr.com/hello-git.html))
-    - or install the [Desktop App](https://desktop.github.com/)
-    - or be familiar with git commands for the command line ([tutorial](https://try.github.io/levels/1/challenges/1))
-
-----
+<div style= "float:left;position: relative; right: 10px;">
+<img src="Images/Home/Me.jpg" alt="Drawing" style="width: 200px;"/>
+</div>
 
 
-**Examples:**
+Welcome to my personal webpage. I am a PhD. student at the University of British Columbia in Vancouver, Canada. As part of The Changing Ocean Research Unit [(CORU)](http://coru.oceans.ubc.ca/), I am particularly interested on how climate change will impact fisheries management in Latin America and how to mitigate its socio-ecological implications. My projects and emerging professional direction look to understand how does climate change impacts affect social structures, such as food security and local economies, how they can be measured, and how to create social adaptive capacity to such changes.
 
-We have been using R Markdown for the Ocean Health Index:  [**ohi-science.org/ohi-global**](http://ohi-science.org/ohi-global).  
-And R Markdown is much more than just websites -- here's a [**one-minute video about R Markdown**](http://rmarkdown.rstudio.com/lesson-1.html) to get you excited. 
+I support collaborative-inter-disciplinary work and I believe that all scientific work (and data) should be public and of open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resources management decisions with a strong interdisciplinary science. I have worked with different governmental (e.g. *Comisión Nacional Para el Conocimiento de la BIodiversidad (CONABIO)*) and non-governmental organizations (e.j. Environmental Defense Fund - Mexico and The nature Conservancy - Peru) to tackle important problems facing fisheries in Latin America.
+
+<br>
+
+On my free time I like to explore the above-and-under water world, play some soccer, take random walks, and watch movies, all of these in company of my pup, Niema. In my webpage you will find information regarding my research and other work-related activities. You will also find a section intended to share some of my personal hobbies. Please refer to the contact section for any comments or future communication.
+
+<br>
+<hr>
+<center>
+
+**Contact**
+
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Googel Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-3');
+</script>
+</head>

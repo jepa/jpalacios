@@ -1,0 +1,53 @@
+---
+title: "Bonampak, muros pintados"
+author: "Black bird"
+date: "3/10/2017"
+output: html_document
+---
+
+<div style="text-align: right">
+
+Um dia, numa rua da cidade, eu vi um velinho sentado na calcada, com uma cuida de esmola e uma viola na mao. O povo parou pra ouvir, ele agradeceu as moedas e cantou essa música, que contava uma historia mas o menos assim...
+
+<br>
+
+Raul Seixas - Eu nací a Dez Mil Anos Atrás
+
+</div>
+
+## Bonampak, "Muros Pintados"
+
+Cuando uno vive en México desde hace 18 años (o es mexicano de nacimiento), o viaja mucho, o vive en el sur entonces está cerca, ¡bueno como sea! en mi caso el tener padres "pata de perro" dedicados a las ciencias sociales me hace creer aveces que a los 25 años ya lo he visto todo (si ya se, ay mi vidaaaaa). Así, los amigos te preguntan ¿vamos a... Chichen Itza, Teotihuacán, Tula, Tajin, La Venta, Uxmal, Mayapan, Monte Albán, Palenque, Tulum, etc.? Y a todos, contestas algo como "si ¡vamos! ya conozco pero no hay problema". Así uno que creció al lado de un historiador y viendo Indiana Jones pasa la juventud buscando cualquier pretexto para hacer viajes en carro visitando sitios arqueológicos creyendo que ya los vio todos hasta que un día... ¡PUM! que lo ponen en su lugar -dice-. Eso fue lo que le sucedió a este simple mortal cuando llegó a Bonampak, "otra ruina maya" -decían- si si pirámides y bosque con harto calor -decía-...
+
+Bonampak, situado en el centro (o al menos muy pinche dentro de...) la selva Lacandona, no es un sitio muy grande, no tendrá más de 100x100 metros explorados, en los que se ven dos edificaciones "La Gran Plaza" y la "Acrópolis", así que uno llega, lo ve y dice "bahhhh con una hora tengo de sobra" ¡PUM! mínimo hora y media y lo pasaste rápido, nosotros lo visitamos en dos horas y creo que cómodo se hace en 2.5 horas. En medio del pastito muy bien cortado lleno de moscos, esta erguida con gran orgullo una grab... ¿lápida? presumiblemente la más grande del mundo maya, una de 3, en las lápidas hay representaciones de los momentos de esta ciudad, una boda, una pedida de mano... Lamento mi memoria de elefante en estos momentos, ¿o esos tiene buena memoria?. Bueno sigamos al "mero mole" de Bonampak, como su nombre lo dice, "Muros Pintados" es lo más impresionante de este sitio. En el tope derecho de la Acrópolis se encuentran 3 cuartos rectangulares de aproximadamente 1.5 x 3 y unos 3 de altura, dichos cuartos están completamente pintados (y bien conservados) con colores muy vivos te llevan a vivir parte de la historia que sucedió a más de mil quinientos años atrás.
+
+### El cuarto 1.
+En este cuarto podemos ver una ceremonia realizada aparentemente en la creación del edificio junto con los cuartos de los murales. En la parte del marco, arriba, podemos ver lo que parece ser el inicio de la batalla que se verá en el cuarto dos.
+
+### El cuarto 2. 
+Desenvuelve una gran batalla que sucedió entre los jefes que Bonampak y alguna población aledaña (no recuerdo bien cual) y al parecer, si no me equivoco, al final de esta gran batalla, el señor de Bonampak toma la mano de la hija del señor de Yaxchilan, haciendo así, una gran alianza entre los dos. De hecho la lápida 2 tiene una imagen del señor de Bon. con su madre y atrás de él su "amada". En el marco de la entrada se ve como el jefe de Bonampak somete al enemigo.
+
+### El cuarto 3.
+Ya pasada la batalla, aquí se ven los prisioneros, algunos siendo sometidos. En este marco se ve al señor de Bonampak clavándole la lanza aen el pecho al antes sometido jefe enemigo.
+
+<br>
+<center>
+¡¡no olviden ver el marco de las tres entradas que es de lo más nítido que hay!! 
+</center>
+<br>
+
+Vale la pena seguir subiendo hasta que la selva se come la pirámide, allá arriba, en lo más lejano busquen un lugar para sentarse (aguas con las hormigas) y escuchen la selva, 5 min. bastan para la orquesta de ruidos que hace, en especial hay uno que chilla muy agudo constantemente, es fascinante.
+
+## Generalidades
+
+- Bonampak está como a 2 horas en coche de Palenque (ciudad) por lo que les recomiendo salir temprano y comer en el camino, hay unos cuantos puestos nada malos.
+- Entrada al parque $45, tarifa lacandona por carro: $60+/-, tarifa lacandona para llevarte al sitio desde el estacionamiento $75, total por persona $100+/-
+- Yo no lo hice, pero estoy convencido de que lo mejor, si quieres ver Bonampak y Yaxchilan es que rentes un tour desde Palenque...
+- Lleven pantalón (moscos), bloqueador solar (sol a plomo) y bastante agua (muy húmedo) 
+- Lleguen temprano, a cada cuarto de mural entran 5 personas a la vez, puede que les toque muy lleno cuando empiecen a llegar los autobuses turísticos (como 10.10,30 am)
+
+### Una observación
+
+A pesar de que la entrada del parque cuesta $45 en la entrada de la zona te cobran una "taza de la comunidad lacandona" de como $60 pesos por coche, hasta ahí vamos bien, el problema surge adelante, resulta que para "conservar el ambiente" tu no puedes llegar al sitio en tu propio auto, debes dejarlo en el estacionamiento (a unos 3 kilómetros del lugar) desde tu auto a la entrada del sitio, la "comunidad lacandona" te cobra $75 pesos POR PERSONA para llevarte en un tramo de, ¿2-3 kilómetros?, al final, por persona pagas más de $100 por visitar el sitio. Ahora yo se que hay que apoyar a las comunidades y que Chiapas es un estado muy pobre y demás problemáticas que el Estado Federal debería de resolver pero también creo que es un total abuso el cobrar $75 por persona para llevarte 2 klm arriba y que, además. no te den otra opción (esto sin contar los 60 de la entrada al... ¿pueblo?. ¡Ah bueno, hay una buena noticia el viaje es redondo! 
+
+Si requieres información más técnica y no los disparates de un aficionado, esta página contiene más información al respecto del sitio... http://www.mundomaya.travel/es/arqueologia/chiapas/item/bonampak.html
