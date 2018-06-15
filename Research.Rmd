@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-<img src="Images/Panga.jpg" width="600px"
+<img src="Images/Panga.jpg" width="800px"
 
 <br>
 
@@ -52,15 +52,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
-- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move: Policy must anticipate conflict over geographic shifts. Science, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360 *[Full paper](http://science.sciencemag.org/content/360/6394/1189.full)*
-
-<center>
-
-<a 
-href="Translations/Border_Crossing.pdf">Trducción al español
-</a>
-
-</center>
+- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move: Policy must anticipate conflict over geographic shifts. Science, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360 *[Full paper](http://science.sciencemag.org/content/360/6394/1189.full)* • *[Artículo en Español](Translations/Border_Crossing.pdf)*
 
 - **Palacios-Abrantes J.,** Felins E., Handelman T., Liu R.O., Howard A., Mpelack J., Gilbane, L. Using citizen science to monitor the rocky intertidal: A tool for the Bureau of Ocean Energy Management in the US. *[Under review]*
 
@@ -78,6 +70,12 @@ href="Translations/Border_Crossing.pdf">Trducción al español
 ----
 
 ## Full Curriculum Vitae
+
+<center>
+
+[Download Full CV](CV.PalaciosAbrantes.pdf)
+
+</center>
 
 <object data="CV.PalaciosAbrantes.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="CV.PalaciosAbrantes.pdf">
