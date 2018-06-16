@@ -22,5 +22,21 @@ output:
 <SPAN STYLE="color: white; font-size: 50pt">Juliano Palacios Abrantes</SPAN>
 
 </center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<div style="text-align: right; color: grey">
 Photo credit: <a href="https://cdn-enterprise.discourse.org/mcneel/uploads/default/original/3X/4/6/46322470990036e034ce75f889ec3bc623af5eb1.jpg">Discourse.org</a>
+</div>
