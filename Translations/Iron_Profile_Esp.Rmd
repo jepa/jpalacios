@@ -1,0 +1,67 @@
+---
+title: "Contenido de hierro de *Octopus hubbsorum* (Celphalopoda: Octopodidae) del Oceano Pacífico mexicano"
+author: "Palacios-Abrantes J.*, Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. & Urbano B"
+date: "2016"
+output: pdf_document
+---
+
+- **NOTA: esta es una traducción al español del artículo** *Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet* escrito por Juliano Palacios-Abrantes, Virginia Melo-Ruiz, Ricardo Diaz-Garcia, Carlos Gazga-Urioste y Brian Urbano y que se puede encontrar en el siguiente [^link](http://www.davidpublisher.org/index.php/Home/Article/index?id=28446.html).
+
+- **Forma de Citar**: Palacios-Abrantes J., Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. & Urbano B. (2016). Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008
+
+------------------------
+
+#1.- Introducción 
+Los minerales son esenciales para la salud humana, su falta está relacionada con diversas enfermedades degenerativas[^1]. El hierro (Fe) es un mineral importante que debe incluirse en la dieta humana ya que cumple un papel fundamental en varias funciones químicas como el transporte de electrones, la regulación génica y la regulación del sistema inmune y del sistema nervioso central[^2]. El *Fe* También es un elemento esencial que actúa como un componente clave para las proteínas transportadoras de oxígeno, está involucrado en el crecimiento y la diferenciación celular y es tiene un papel fundamental en el metabolismo celular$^2$[^3]. 
+
+Para un adulto, el contenido de *Fe* del cuerpo es de tan solo 50 mg/kg debido a su alta retención$^1$[^4]. Con la excepción de las pérdidas de *Fe* causadas por la menstruación y el embarazo, las necesidades diarias son considerablemente bajas para los humanos y las pérdidas son de tan solo 1 a 2 mg por día[^5]. La anemia es la deficiencia nutricional más común en todo el mundo[^^6], pero no es la única enfermedad causada por la falta de este metal$^2$. La deficiencia materna de hierro es la causa más común de falta de hierro en recién nacidos a nivel mundial[^^7] afectando del 30% al 50% de los embarazos a nivel mundial. Si la ingesta es baja durante los primeros seis meses del embarazo, hay un mayor riesgo de aumento de actividades de preparto, bajo peso en recién nacidos, e incluso aumento en mortalidad materna neonatal[^8].
+
+Para los seres humanos, la absorción de hierro a partir de alimentos de origen animal tiene una mayor tasa de absorción que los provenientes de plantas vegetales comestibles$^1$. Sin embargo, en México la dieta tiende a ser insuficiente y no siempre cubre los requerimientos humanos de hierro. La mayoría de los mexicanos satisfacen sus necesidades de hierro a partir de vegetales, incluso la población costera de bajos recursos ya que rara vez incluyen peces en su dieta[^9]. Además, se ha mencionado que el consumo de fibra afecta la absorción de hierro. El consumo de tan solo 12g de fibra al día disminuye la absorción de hierro desde 51% hasta 74%, lo cual es importante para la población mexicana cuya nutrición básica es rica en cereales $^9$[^ 10].
+
+Los cefalópodos son uno de los recursos marinos más importantes a nivel mundial y México no es la excepción[^11]. Durante 2010, se produjeron 169 mil toneladas de alimentos marinos (sin incluir peces), de los cuales 23 mil toneladas fueron pulpos, ocupando el décimo lugar entre las pesquerías de especies marinas de México y el cuarto lugar de las pesquerías de moluscos[^12]. Debido a su importancia económica, *Octopus maya* en el Caribe y *Octopus vulgaris* en el Golfo de México son las principales especies pescadas $^11$[^13]. En el Océano Pacífico, las pesquerías se centran principalmente en *O. hubbsorum, O. macrocopus* y, por último, *O. bimaculatus*. *Octopus hubbsorum B*, es un cefalópodo endémico mexicano que solo se puede encontrar en el Océano Pacífico, desde el Golfo de California (norte) hasta la costa del mar del estado de Oaxaca (sur).
+
+El objetivo de este estudio fue investigar el contenido de hierro de tres organismos de *Octopus hubbsorum B* de diferentes regiones de México y utilizar esta información para mejorar la salud, la nutrición y la seguridad alimentaria de la población mexicana.
+
+#2.- Materiales y métodos
+
+## 2.1 Colección de muestras
+
+El muestreo se llevó a cabo durante agosto de 2013 en dos sitios: la bahía de Acapulco en el estado de Guerrero (16 ° 51 '0' 'S, 99 ° 55' 0 '' O) y San José, Los Cabos, en el estado de Baja California (16 ° 51 '0' 'S, 99 ° 55' 0 '' W), ambos ubicados en el Océano Pacífico. Los individuos de *Octopus hubbsorum B* se obtuvieron de pescadores locales, se identificaron taxonómicamente in situ [^14] y se introdujeron inmediatamente en un recipiente de plástico a -4 ° C para el transporte terrestre a la Ciudad de México.
+
+## 2.2 Análisis de laboratorio
+
+Se cortaron los tentáculos del "manto" y se seleccionó un tentáculo de cada animal de forma aleatoria para el análisis molecular y registro del individuo. Dichas muestras fueron conservadas en una solución concentrada de 70% de alcohol. El resto de los tentáculos se cortó en cubos de aproximadamente 4x4 cm para determinar el contenido de humedad mediante el método de secado directo. 
+
+Una vez cortados los tentáculos se deshidrataron durante 24 h en un horno de aire ajustado a 60 °C hasta que se obtuvo el peso constante de la muestra. Consecuentemente se molió el material deshidratado y se pasó a través de un tamiz de malla 60 para homogeneizar la muestra. La cantidad de ceniza se determinó mediante el método de ceniza seca. Las muestras se incineraron en un horno de mufla fria a 650 °C durante 2 horas o hasta que se obtuvo ceniza blanquecina / grisácea. La materia orgánica se quemó y el material inorgánico restante se usó para la determinación de hierro disolviéndolo en una solución de 100 ml de ácido clorhídrico 1-N. Finalmente, la cuantificación del hierro se realizó mediante espectrofotometría de absorción atómica repitiendo todas las muestras por tres.
+
+# 3. Resultados y discusión
+
+## 3.1 Resultados
+
+Los pulpos estudiados están ampliamente distribuidos en la zona costera del Océano Pacífico (Fig. 1). El pulpo es un recurso pesquero que se puede encontrar durante todo el año, sin embargo, existe un período de veda entre agosto y octubre, por lo que la temporada principal de pesca es entre abril y julio (Tabla 1). La especie estudiada fue *Octopus hubbsorum B*, un cephalopodo endémico de México (Tabla 2). Los resultados del laboratorio indicaron que el *O. hubbsorum * de Acapulco contiene mayor cantidad de humedad que los individuos provenientes de Los Cabos (Tabla 3). La cantidad total de materia inorgánica determinada por el método de cenizas secas fue de 7.78%. A lo que refiere el contenido de hierro, el análisis atómico de espectrometría reveló una similitud entre la cantidad de hierro en los individuos de ambas regiones (Tabla 4), lo que siguiere una homogeneidad en el ambiente.
+
+
+La anemia es una enfermedad provocada por la ausencia de hierro en la sangre, que puede llegar a hacer daños irreversibles en el desarrollo físico y mental de los humanos representando uno de los mayores problemas nutricionales que enfrentan las poblaciones de bajos recursos a nivel mundial. La cantidad de hierro encontrada en el las muestras de *Octopus hubbsorum* analizadas en el presente artículo representa una buena fuente de dicho mineral esencial (Tabla 5). Por consiguiente, dicha especie puede ser de gran ayuda para cubrir los requerimientos diarios de hierro que el cuerpo humano requiere mejorando, así, la salud humana debido a las importantes funciones que dicho mineral tienen en el metabolismo y otros procesos funcionales.
+
+Además de esto, el pulpo representa una fuente de "heme-iron" el cuál se absorbe (al rededor de 30%) mucho más rápido que el hierro "no-heme" encontrado en los vegetales (al rededor de 5% si se combina con vitamina C). Sin embargo, la capacidad de absorción del hierro en el cuerpo está relacionada con la capacidad de retención como "ferritin", por las limitantes dietéticas, y por la disponibilidad de hierro en los alimentos consumidos al día día[^15].
+
+# 4. Conclusiones
+
+El hierro proporcionado por la especie de pulpo *Octopus hubbsorum, B* es vital para la nutrición humana, por lo que se recomienda consumir más de dicho producto para reducir la deficiencia de hierro en la sangre, un problema que afecta a las comunidades de bajos recursos a nivel mundial, y para aumentar, así, la salud humana.
+
+[^1]: Reilly, C. 2006. The Nutritional Trace Metals. Oxford: Blackwell Publishing. 35-70.
+[^2]: Beard, J. 2006. “Iron.” In Present Knowledge in Nutrition, 9th ed, edited by Bowman, B., & Russell, R. Washington DC: International Life Sciences Institute, 430-44.
+[^3]: Nemeth, E., and Ganz, T. 2006. “Regulation of Iron Metabolism by Hepcidin.” Annu. Rev. Nutr. 26: 323-42.
+[^4]: Hunt, J. R., Zito, C. A., and Johnson, L. 2009. “Body Iron Excretion by Healthy Men and Women.” Am J Clin Nutr 89 (6): 1792-8
+[^5]: Ray, Yip. 2003. Hierro. In Barbara Bowman & Robert Russell Ed. Conocimientos Actuals Sobre Nutrición. Organización Panamericana de la Salud. Washington, DC. 340-59.
+[^6]: Martínez-Salgado, H., Casanueva, E., Rivera-Dommarco, J., Viteri, J., and Bourgues-Rodríguez, H. 2008. “La Deficiencia de Hierro y la Anemia en Niños Mexicanos. Acciones Para Prevenirlas y Corregirlas.” Bol. Med. Hosp. Infant. Mex. 65: 86-99.
+[^7]: WHO (World Helath Organization). 2008. “Micronutrient Deficiences.” http://www.who.int/nutrition/topics/ida/en/.
+[^8]: Khan, L., Wojdya, D., Say, I., Gulmezoglu, A. M., and
+Van Look P. F. 2006. “WHO Analysis of Causes of Maternal Death: A Systematic Review.” Lancet. 367: 1066-74.
+[^9]: Martínez, I., and Villezca, P. 2003. “La Alimentación en México: un Estudio a Partir de la Encuesta Nacional de Ingresos y Gastos de los Hogares.” Rev. Info, y Anal. 21: 26-37.
+[^10]: Vieteri, F. E., and Torum, B. 1974. “Anemia and Physical Work Capacity.” Clin Hematol. 3: 609-26.
+[^11]: Alejo-Plata, C. R., Gómez-Márquez, J. L., Ramos, S., and Herrera-Galindo, J. E. 2009. “Reproducción, Dieta y Pesquería Del Pulpo Octopus (Octopus) Hubssorum (Mollusca:Cephalopoda) en la Costa de OAXACA.” Revista Biología Tropical 57(1-2): 63-78.
+[^12]: SAGARPA. 2004. Anuario Estadístico de Pesca. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. México, D.F. 266.
+[^13]: Arreguín-Sánchez, F., Solís-Ramírez, M., and Gonsales de la Rosa, M. 2000. “Population Dynamics and Stock Assessment of Octopus Maya (Cephalopoda: Octopodidae) Fishery in the Campeche Bank, Gulf of México.” Rev. Biol. Trop. 48(2-3): 323-31.
+[^14]: Roper, C. L., Sweeney, M. J., and Nauen, C. E. 1984. Species Catalog. Vol 3. Cephalopods of the World. An Annotated and Illustrated Catalogue of Species of Interest to Fisheries. FAO Fisheries Synopsis.
+[^15]: FAO/WHO (Food and Agricultural Organization of the United Nations/World Health Organization). 2004. Vitamin and Mineral Requirements in Human Nutrition. Geneva, Switzerland.
