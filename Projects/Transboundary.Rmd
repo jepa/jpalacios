@@ -1,0 +1,58 @@
+---
+title: "Transboundary Fisheries Management Under Climate Change"
+output:
+  html_document:
+    theme: "yeti"
+---
+
+<center>
+
+<img src="/Users/jpalacios/Documents/Github/jpalacios/Images/Projects/Transboundary.tif" width="1000px">
+</center>
+
+
+## Working Papers
+
+- **Palacios-Abrantes J.**, Sumaila R., Cheung W.L. (2018).
+
+## Publications
+
+- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move: Policy must anticipate conflict over geographic shifts. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+
+<a span class="label label-primary" href= "http://science.sciencemag.org/content/360/6394/1189.full?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci" >Full Paper</span></a>
+<a span class="label label-success" href= "Translations/Border_Crossing_Esp.pdf" >Artículo en Español</span></a>
+
+## Related Work
+
+## News
+- [National Geographic](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment")
+- [University of British Columbia](https://science.ubc.ca/news/climate-change-has-fish-migrating-faster-regulations-can-keep)
+- [University of British Columbia, French](http://pinsky.marine.rutgers.edu/wp-content/uploads/2018/06/Science-Policy-Forum_FINAL_FRENCH.pdf)
+- [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603)
+
+<center>
+
+<a class="btn btn-default" href="https://www.julianopalacios.com/Research.html">Back to Research</a>
+<a class="btn btn-default" href="Projects/Open_Science.html">Previous Project</a>
+
+**Contact**
+
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
+
+</center>
