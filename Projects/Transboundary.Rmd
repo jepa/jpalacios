@@ -10,6 +10,9 @@ output:
 <img src="/Users/jpalacios/Documents/Github/jpalacios/Images/Projects/Transboundary.tif" width="1000px">
 </center>
 
+<br>
+
+Climate change is driving shifts in distribution of fish stocks towards areas with cooler environment, generally in higher latitude or deeper water. Particularly, distribution shifts in fish stocks that straddle between national jurisdictions or Exclusive Economic Zones (EEZ) are challenging transboundary fisheries management.
 
 ## Working Papers
 
@@ -39,20 +42,20 @@ output:
 
 Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
 
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- <div id="google_translate_element"></div><script type="text/javascript"> -->
+<!-- function googleTranslateElementInit() { -->
+<!--   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element'); -->
+<!-- } -->
+<!-- </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script> -->
+<!-- <script> -->
+<!--   window.dataLayer = window.dataLayer || []; -->
+<!--   function gtag(){dataLayer.push(arguments);} -->
+<!--   gtag('js', new Date()); -->
 
-  gtag('config', 'UA-105699898-4');
-</script>
+<!--   gtag('config', 'UA-105699898-4'); -->
+<!-- </script> -->
 
-</center>
+<!-- </center> -->

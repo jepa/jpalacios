@@ -44,11 +44,31 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <a href="Projects/Transboundary.html">
 <img src="Images/Research/Transboundary_Image.jpg" class="img-thumbnail" width="310px">
 <div class="caption">
-<p>Transboundary Fisheries Management</p>
+<p> Management of Shifting Stocks </p>
 </div>
 </a>
 
 </div>
+
+<!-- Fisheries Management in LA -->
+<!-- <a href="Projects/Fisheries_LA.html"> -->
+<!-- <img src="Images/Research/Transboundary_Image.jpg" class="img-thumbnail" width="310px"> -->
+<!-- <div class="caption"> -->
+<!-- <p> Fisheries Management in Latin America </p> -->
+<!-- </div> -->
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- MPA's  SESYNC (Ojalá) -->
+<!-- <a href="Projects/MPAs_SESYNC.html"> -->
+<!-- <img src="Images/Research/Transboundary_Image.jpg" class="img-thumbnail" width="310px"> -->
+<!-- <div class="caption"> -->
+<!-- <p>Marine Protected Areas Under Climate Change </p> -->
+<!-- </div> -->
+<!-- </a> -->
+
+<!-- </div> -->
 
 ----
       
@@ -63,8 +83,9 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2018
 
-- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move: Policy must anticipate conflict over geographic shifts. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
+<!-- Paper Links -->
 <center>
 
 <a span class="label label-primary" href= "http://science.sciencemag.org/content/360/6394/1189.full?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci" >Full Paper</span></a>
