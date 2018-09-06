@@ -10,7 +10,7 @@ The Meta-database of Marine Research in Mexico project aims to create a meta-dat
 
 <center>
 
-<img src="/Projects_Images/Time_Plot.png" width="600px">
+<img src="Projects_Images/Time_Plot.png" width="600px">
 
 <a button type="button" class="btn btn-primary" href="https://jepa.shinyapps.io/marmetadatamexeng/">Visit Project's Webpage</button>
 <a button type="button" class="btn btn-success" href = "https://jepa.shinyapps.io/marmetadatamexesp/">Visitar la Página del Proyecto
