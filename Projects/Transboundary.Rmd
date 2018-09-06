@@ -8,7 +8,9 @@ output:
 <center>
 
 <img src="Projects_Images/Transboundary.tif" width="1000px">
+
 DOI: 10.1126/science.aat2360
+
 </center>
 
 <br>
@@ -45,7 +47,7 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 <center>
 
 <a class="btn btn-default" href="https://www.julianopalacios.com/Research.html">Back to Research</a>
-<a class="btn btn-default" href="Projects/Metamares.html">Previous Project</a>
+<a class="btn btn-default" href="https://www.julianopalacios.com/Projects/Metamares.html">Previous Project</a>
 
 **Contact**
 
