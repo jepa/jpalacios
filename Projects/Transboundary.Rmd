@@ -32,14 +32,14 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 <center>
 
 <a span class="label label-primary" href= "http://science.sciencemag.org/content/360/6394/1189.full?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci" >Full Paper</span></a>
-<a span class="label label-success" href= "Translations/Border_Crossing_Esp.pdf" >Artículo en Español</span></a>
+<a span class="label label-success" href= "Files/Border_Crossing_Esp.pdf" >Artículo en Español</span></a>
 
 </center>
 
 <!-- ## Related Work  -->
 
 ## News 
-- [National Geographic](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment")
+- [National Geographic]("https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment")
 - [University of British Columbia](https://science.ubc.ca/news/climate-change-has-fish-migrating-faster-regulations-can-keep)
 - [University of British Columbia, French](http://pinsky.marine.rutgers.edu/wp-content/uploads/2018/06/Science-Policy-Forum_FINAL_FRENCH.pdf)
 - [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603)
