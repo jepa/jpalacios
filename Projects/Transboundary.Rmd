@@ -7,7 +7,7 @@ output:
 
 <center>
 
-<img src="Projects_Images/Transboundary.tif" width="1000px">
+<img src="Projects_Images/Transboundary.tif" width="800px">
 
 DOI: 10.1126/science.aat2360
 
