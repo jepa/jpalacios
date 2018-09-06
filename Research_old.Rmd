@@ -1,13 +1,12 @@
 ---
-title: "Research_B"
+title: "Research"
 output:
   html_document:
     toc: true
     toc_float: true
-    theme: "yeti"
 ---
 
-<img src="Images/Panga.jpg" width="800px">
+<img src="Images/Panga.jpg" width="800px"
 
 <br>
 
@@ -22,56 +21,28 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ## Current Projects 
 
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 350px;    /* firefox */
-  }
-</style>
+### Building a Meta-database of Marine Research in Mexico
 
-<div class="col2">
+**Collaborators:** Arreguín-Sánchez F, Cheung W. William, Cisneros-Mata Miguel A, Cisneros-Montemayor Andres, Rodriguez Laura
 
-<!-- Metadatos  -->
-<a href="Projects/Open_Science.html">
-<img src="Images/MetaMares.png" alt="Lights" class="img-thumbnail" width="300px">  
-<div class="caption">
-<p> Marine Metadata Mexico</p>
-</div>
-</a>
+**Description:** The Meta-database of Marine Research in Mexico project aims to create a meta-database of all marine research data developed in Mexico. A meta-database is a documentation of the sources of information instead of a database of the actual data. Since October of 2016 we have collected more than 100 k records containing information from more than 300 k data points, from more than 60 on-line repositories. You can read the details on the project's webpage as well as some of our preeliminary results.
 
-<!-- Transboundary  -->
-<a href="Projects/Transboundary.html">
-<img src="Images/Research/Transboundary_Image.jpg" class="img-thumbnail" width="310px">
-<div class="caption">
-<p> Management of Shifting Stocks </p>
-</div>
-</a>
+<center>
 
-</div>
+[Visit Project's Webpage](https://jepa.shinyapps.io/marmetadatamexeng/) •
+ [Visitar la Página del Proyecto](https://jepa.shinyapps.io/marmetadatamexesp/)
 
-<!-- Fisheries Management in LA -->
-<!-- <a href="Projects/Fisheries_LA.html"> -->
-<!-- <img src="Images/Research/Transboundary_Image.jpg" class="img-thumbnail" width="310px"> -->
-<!-- <div class="caption"> -->
-<!-- <p> Fisheries Management in Latin America </p> -->
-<!-- </div> -->
-<!-- </a> -->
-
-<!-- </div> -->
-
-<!-- MPA's  SESYNC (Ojalá) -->
-<!-- <a href="Projects/MPAs_SESYNC.html"> -->
-<!-- <img src="Images/Research/Transboundary_Image.jpg" class="img-thumbnail" width="310px"> -->
-<!-- <div class="caption"> -->
-<!-- <p>Marine Protected Areas Under Climate Change </p> -->
-<!-- </div> -->
-<!-- </a> -->
-
-<!-- </div> -->
+</center>
 
 ----
-      
+
+### Transboundary Fisheries Management in Changing North Atlantic and Pacific Oceans: Taking Stock, Future Scenarios
+
+**Collaborators:** Cheung W. William, Sumaila Rashid, et al.
+
+**Description:** This project aims to understand how possible shifts on species distribution due to climate change can affect the transboundary fisheries of Canada and the United States. Transboundary fisheries are defined as fish stocks that move freely between (1) State Countries Economic Exclusive Zones (EEZ) and between (2) EEZ’s and the high seas, imposing an extra challenge for fisheries management.
+
+----
 
 ## Publications on Scientific Journals
 
@@ -83,35 +54,29 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2018
 
-- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move: Policy must anticipate conflict over geographic shifts. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
-<!-- Paper Links -->
 <center>
-
-<a span class="label label-primary" href= "http://science.sciencemag.org/content/360/6394/1189.full?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci" >Full Paper</span></a>
-<a span class="label label-primary" href= "http://science.sciencemag.org/content/360/6394/1189.summary?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci" >Summary</span></a>
-<a span class="label label-primary" href= "https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment" >National Geographic</span></a>
-<a span class="label label-success" href= "Translations/Border_Crossing_Esp.pdf" >Artículo en Español</span></a>
+• *[Summary](http://science.sciencemag.org/content/360/6394/1189.summary?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci)* • *[Full paper](http://science.sciencemag.org/content/360/6394/1189.full)* • *[National Geographic](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment)*
+• *[Artículo en Español](Translations/Border_Crossing_Esp.pdf)* 
 
 </center>
+
+- **Palacios-Abrantes J.,** Felins E., Handelman T., Liu R.O., Howard A., Mpelack J., Gilbane, L. Using citizen science to monitor the rocky intertidal: A tool for the Bureau of Ocean Energy Management in the US. *[Under review]*
+
+- **Palacios-Abrantes J.,** Herrera-Correal J., Molina R., Rodriguez Van Dyck S. & Brunkow J. Evaluating the performance of a Callo de hacha restoration plan in La Paz, Mexico *[Under review]*
 
 ### 2017
 
-- **Palacios-Abrantes J.**, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. & Gazga-Urioste C. (2017). Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6. 
+- **Palacios-Abrantes J.**, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. & Gazga-Urioste C. (2017). Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6. *[Full paper](http://doi.org/10.9734/JALSI/2017/31031)*
 
-<center>
-<a span class="label label-primary" href= "http://doi.org/10.9734/JALSI/2017/31031" >Full Paper</span></a>
-<a span class="label label-success disabled" href= "Translations/Nutritional_Hub_Esp.pdf" >Artículo en Español</span></a>
-
-</center>
 ### 2016
 
 - **Palacios-Abrantes J.,** Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. & Urbano B. (2016). Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008 
 
 <center>
 
-<a span class="label label-primary" href= "http://www.davidpublisher.org/index.php/Home/Article/index?id=28446.html" >Full Paper</span></a>
-<a span class="label label-success" href= "Translations/Iron_Profile_Esp.pdf" >Artículo en Español</span></a>
+*[Full paper](http://www.davidpublisher.org/index.php/Home/Article/index?id=28446.html)* • *[Artículo en Español](Translations/Iron_Profile_Esp.pdf)*
 
 </center>
 
@@ -127,7 +92,8 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 ## Full Curriculum Vitae
 
 <center>
-<a button type="button" class="btn btn-primary" href= "CV.PalaciosAbrantes.pdf" >Download Full CV</a></button>
+
+[Download Full CV](CV.PalaciosAbrantes.pdf)
 
 </center>
 
@@ -143,23 +109,23 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <br>
 
- <a 
+ <a
 href="http://www.xoc.uam.mx/">
 <img src="Images/Research/Uam_Logo.png" alt="Drawing" style="width: 110px;"/>
 </a>
-<a 
+<a
 href="http://www.bren.ucsb.edu/">
 <img src="Images/Research/Bren_logo.png" alt="Drawing" style="width: 100px;"/>
 </a>
-<a 
+<a
 href="http://www.laff.bren.ucsb.edu/">
 <img src="Images/Research/laff_logo.jpeg" alt="Drawing" style="width: 100px;"/>
 </a>
-<a 
+<a
 href="http://www.coru.oceans.ubc.ca/">
 <img src="Images/Research/CORU_logo.png" alt="Drawing" style="width: 100px;"/>
 </a>
-<a 
+<a
 href="http://www.oceancanada.org/">
 <img src="Images/Research/OC_logo.png" alt="Drawing" style="width: 200px;"/>
 </a>
