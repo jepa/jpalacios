@@ -7,7 +7,7 @@ output:
 
 <center>
 
-<img src="/Users/jpalacios/Documents/Github/jpalacios/Images/Projects/Transboundary.tif" width="1000px">
+<img src="Projects_Images/Transboundary.tif" width="1000px">
 DOI: 10.1126/science.aat2360
 </center>
 

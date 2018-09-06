@@ -34,7 +34,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <!-- Metadatos  -->
 <a href="Projects/Metamares.html">
-<img src="Images/MetaMares.png" alt="Lights" class="img-thumbnail" width="300px">  
+<img src="Images/Research/MetaMares.png" alt="Lights" class="img-thumbnail" width="300px">  
 <div class="caption">
 <p> Marine Metadata Mexico</p>
 </div>
