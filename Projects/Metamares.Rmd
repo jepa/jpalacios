@@ -36,7 +36,7 @@ The Meta-database of Marine Research in Mexico project aims to create a meta-dat
 <center>
 
 <a class="btn btn-default" href="https://www.julianopalacios.com/Research.html">Back to Research</a>
-<a class="btn btn-default" href="Transboundary.html">Next Project</a>
+<a class="btn btn-default" href="https://www.julianopalacios.com/Projects/Transboundary.html">Next Project</a>
 
 <br>
 <hr>
