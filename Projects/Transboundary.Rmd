@@ -27,11 +27,11 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 
 ## Publications
 
-- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move: Policy must anticipate conflict over geographic shifts. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
 <center>
 
-<a span class="label label-primary" href= "http://science.sciencemag.org/content/360/6394/1189.full?ijkey=WyWEhcBWpXzKU&keytype=ref&siteid=sci" >Full Paper</span></a>
+<a span class="label label-primary" href= "https://www.julianopalacios.com/Original_Articles/Pinsky_etal_2018.pdf" >Full Paper</span></a>
 <a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Border_Crossing_Esp.pdf" >Artículo en Español</span></a>
 
 </center>
