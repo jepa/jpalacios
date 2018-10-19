@@ -50,11 +50,11 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </div>
 
-<!-- Fisheries Management in LA -->
-<!-- <a href="Projects/Fisheries_LA.html"> -->
+<!-- SESYNC -->
+<!-- <a href="Projects/SESYNC.html"> -->
 <!-- <img src="Images/Research/Transboundary_Image.jpg" class="img-thumbnail" width="310px"> -->
 <!-- <div class="caption"> -->
-<!-- <p> Fisheries Management in Latin America </p> -->
+<!-- <p> Marine Protected Areas under Climate Change </p> -->
 <!-- </div> -->
 <!-- </a> -->
 

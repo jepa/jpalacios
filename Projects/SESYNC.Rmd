@@ -1,0 +1,59 @@
+---
+title: " Socio-Ecological Impacts of Climate Change to Marine Protected Areas"
+output:
+  html_document:
+    theme: "yeti"
+---
+
+<center>
+
+<img src="Projects_Images/Transboundary.png" width="1000px">
+
+</center>
+
+<br>
+
+Marine protected areas (MPAs) are an important tool in the context of marine spatial planning where resources are managed according to specific regulations that typically focus on conservation and sustainable harvesting. Marine species are shifting their distribution because of climate change towards colder waters, potentially compromising the benefits and management objectives of currently established MPAs. Therefore, it remains unclear what is the long-term effectiveness of MPAs for conservation, fisheries, and reliant communities under a changing climate. We propose to use MPAs as an example of marine spatial planning to explore the ecological, economic and social implications of climate change in the world’s oceans with two main objectives:
+
+1) Quantify the impacts that shifts in species distribution due to climate change will have on the current economic value of MPAs worldwide
+2) Investigate the socio-economic implications of these species shifts to local communities that depend on MPAs for eco-tourism, generated income, and food security
+
+This is project is part of the [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals).
+
+
+<!-- ## Working Papers -->
+
+
+<!-- ## Publications -->
+
+
+<!-- ## Related Work  -->
+
+<!-- ## News  -->
+
+<center>
+
+<a class="btn btn-default" href="https://www.julianopalacios.com/Research.html">Back to Research</a>
+<a class="btn btn-default" href="https://www.julianopalacios.com/Projects/Transboundary.html">Previous Project</a>
+
+**Contact**
+
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
+
+</center>
