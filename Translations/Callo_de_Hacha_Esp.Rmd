@@ -1,0 +1,28 @@
+---
+title: "Evaluación bioeconómica del plan de recuperación de la pesquería de callo de hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) de la bahía de La Paz, Baja California Sur"
+author: "Juliano Palacios Abrantes, Juliana Herrera Correal, Salvador Rodríguez, Jacy Brunkow y Renato Molina"
+date: "11/20/2018"
+output: pdf_document
+---
+
+- **NOTA: esta es una traducción al español del artículo** *Evaluating the bio-economic performance of a Callo de hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) fishery restoration plan in La Paz, Mexico.* escrito por Juliano Palacios Abrantes, Juliana Herrera, Salvador Rodríguez, Jacy Brunkow y Renato Molina y que se puede encontrar en el siguiente [^link](???).
+
+- **Forma de Citar**: Palacios-Abrantes J., Herrera J., Rodríguez S., Brunkow J., Molina R. (2018). Evaluating the bio-economic performance of a Callo de hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, ???????? 
+
+------------------------
+
+# Introducción 
+# Materiales y Métodos
+## Estimación de biomasa
+## Análisis económico
+## Fuente de datos
+# Resultados
+## Resultados biológicos
+## Resultados económicos
+# Discusión
+# Conslusión
+# Agradecimientos
+
+
+
+
