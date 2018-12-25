@@ -1,28 +1,70 @@
 ---
-title: "Evaluación bioeconómica del plan de recuperación de la pesquería de callo de hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) de la bahía de La Paz, Baja California Sur"
-author: "Juliano Palacios Abrantes, Juliana Herrera Correal, Salvador Rodríguez, Jacy Brunkow y Renato Molina"
+title: Evaluación bioeconómica del plan de recuperación de la pesquería de callo de
+  hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) de la bahía de La Paz, Baja
+  California Sur
+author: Juliano Palacios Abrantes, Juliana Herrera Correal, Salvador Rodríguez, Jacy
+  Brunkow y Renato Molina
 date: "11/20/2018"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float: true
 ---
 
 - **NOTA: esta es una traducción al español del artículo** *Evaluating the bio-economic performance of a Callo de hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) fishery restoration plan in La Paz, Mexico.* escrito por Juliano Palacios Abrantes, Juliana Herrera, Salvador Rodríguez, Jacy Brunkow y Renato Molina y que se puede encontrar en el siguiente [^link](???).
 
 - **Forma de Citar**: Palacios-Abrantes J., Herrera J., Rodríguez S., Brunkow J., Molina R. (2018). Evaluating the bio-economic performance of a Callo de hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, ???????? 
 
+<center>
+<a span class="label label-success" href= "Translations/Callo_de_Hacha_Esp.pdf" >Descargar traducción en PDF</span></a>
+</center>
 ------------------------
 
 # Introducción 
+
+Las pesquerías artesanalas (*menor escala*) de América Latina han sido reonocidas por su aportación a las economías regionales y su importancia en el bienestar de las comunidades costeras [1], desafortunadamente, las propias características de dichas pesquerías representan un reto al manejo pesquero adecuado [2]. Este es el caso de las pesquerías de México, uno de los mayores productores de pescados y mariscos de América Latina donde el 97% de los barcos pesqueros son artesanalas [2] y donde hay evidencia clara de sobreexplotación y mal manejo de recursos pesqueros [3,4]. Algunos ejemplos de dicho mal manejo en la costa del Pacífico inluyen la almeja chocolarta (*Megapitaria squalida*) [5]; el abulón azul (*Haliotis fulgens*) y amarillo (*Haliotis corrugata*) [6]; mientras que en la costa del Atlántico, se encuentran peces pelágicos como **macarela?** (*Scomberomorus maculatus*) y *red snapper* el guachinango? (*Lutjanus campechanus*) [3]. En respuesta, la recuperación de pesquerias deterioradas se vuelve una prioridad para que las comunidades que dependen de éstas puedan obtener los beneficios de la pesquería a través de un manejo pesquero sustentbale que asegure el bienestar de futuras generaciones [4,7,8]
+
+El presente estudio examina un esfuerzo comunitario para recuperar una pesquería artesanal de la ensenada de La Paz, Baja California Sur, México. La pesquería de callo de hacha se compone de tres especies disferentes: *Atrina maura, Atrina tuberculosa* and *Pinna rugosa* y representa uno de los productos mejor valorados de la pesca artesanal de la región [9]. Con precios históricos de hasta US 23 por kg en La Paz [10], los pescadores reportaron un precio en abril de 2018 de US 21 por kg de callo. Dicho precio es 50% más alto que otros moluscos del mismo estilo en el mercado de mariscos del país [10]. 
+
+Mexican fisheries management falls under the umbrella of several sub-agencies within the Ministry of Agriculture, Livestock, Rural Development, Fisheries and Food (“Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación”; SAGARPA). The main guiding regulation is dictated by the “Ley General de Pesca y Acuacultura Sustentables (LGPAS)” [11], which establishes the obligations and guidelines for most fisheries in the country through the “Carta Nacional Pesquera” [12]. By law, the Fisheries Institute (Instituto Nacional de Pesca; INAPESCA) is in charge of recommending fishing quotas to the Fisheries Council (Consejo Nacional de Pesca; CONAPESCA), which is then responsible for implementing the management actions necessary to comply with that recommendation. The monitoring and enforcement of activities are then the responsibility of both CONAPESCA and the Navy (Secretaría de Marina) [11]. Despite these requirements, fisheries like the callo de hacha lack a proper management plan or official standard [12] resulting in most small scale fisheries in the country operate under de facto open access [13,14]. In the callo de hacha fishery of the cove of La Paz, these practices led to its collapse in 2008 [15,16]. According to stakeholders, years of mismanagement, corruption, and poor enforcement in the fishery had led to such a degree of overexploitation that it had to be officially closed [15,16]. As a moratorium on fishing went into effect, fishers were faced with the loss of an important source of income. This created a strong incentive not to respect the moratorium and to continued fishing for the resource both in the cove and in other locations [15,16].
+
+This situation led to a local effort to recover the fishery and, with it, the stability of the fishing community. A local NGO, Noroeste Sustentable (NOS), partnered with El Mangle fishing community of the cove to launch a joint restoration plan. The initiative sought to increase biomass up to that necessary for a sustainable commercial harvest while, at the same time, to help the community gain property rights over the resource and incentivize a sustainable stewardship of the resource [17,18]. Gaining property rights over the resource was essential for the community if they were to benefit from the restoration plan and ensure the sustainable fishery [4]. NOS was able to fund fishers to engage in several activities related to the recovery plan that resulted in more than four years of active enforcing and monitoring of the callo de hacha biomass. The recovery plan was careful to consider not only the biological conditions of the stock, but also the economic and legal frameworks governing the fishery, as well as the social dynamics of the fishing community; all previously identified as important components of fisheries restoration [16,19-21]. 
+
+Social capital, defined as the rules and community networks that facilitate co-operation, seems to be key in developing sustainable co-management of small-scale fisheries in Latin America [22]. The recovery program successfully incorporated this notion and worked to build social capital by engaging with the community to co-develop their social, economic, and environmental goals. The program focused on promoting self-organization and self-enforcement, as well as on organizing information campaigns that were used to disseminate sustainable fishing practices. Workshops led by NOS also provided a space to discuss the community’s organization, mend internal issues, and determine management strategies and fishing policies. These activities gave the fishers a sense of ownership over the resource, allowed them to set their own internal rules for enforcement, and promoted sustainable harvest methods. Finally, the process also helped overcome differences within the community and resulted in fishers forming a cooperative collective. The collective, or organization (“Organización de Pescadores Rescatando la Ensenada”), was key to controlling illegal harvest as well as to securing property rights over a resource that eventually recovered. This transition led the fishery, at least from the fishers’ perspective, from de facto open access to a property-right based system [17,18].
+
+While many examples of successful stock recoveries have been documented for a wide array of species, including king mackerel (Scomberomorus cavalla), stiped bass (Marone saxatilis), and deep-sea scallops (Placopecten magellanicus) [21], there is very little analysis as to how Mexican fisheries have performed [3]. This statement is also true for the callo de hacha in La Paz. In this context, and given the potential for reopening this high-value fishery, the objective of this study was to evaluate the performance of the restoration plan in terms of biomass recovery and the likeness of its economic solvency. Our analysis was based on biological data collected since the fishery closed as well as an appraisal of the best available economic variables for its operation. Our results suggest that, after four years (2011-2014), the resource substantially recovered, potentially making the fishery profitable with significant benefits for the community. Nevertheless, high uncertainty in the biological samples hinders economic analysis, concealing the true potential benefits of the callo de hacha fishery. Our results suggest that, in some cases, the fishery could be profitable; however, our most pessimistic scenarios provide a warning against overly positive expectations.  
+
+
+
 # Materiales y Métodos
+
+Es éxito del plan de recuperación de la pesquería fue evaluado de acuerdo a estimados de biomasa y valor económico de la pesquería por lo que los métodos se dividen en tres secciónes: estimación de biomasa, análisis económico y fuentes de datos.
+
 ## Estimación de biomasa
+
+La biomasa total en la ensenada fue estimada a partir de la estructura de tallas de la poblacío así como su abundancia promedio [23]. Primero, se estimó el peso individual a partir del tamaño de cada individuo utilizando la siguiente ecuación de crecimiento alométrico [24]: $$W = a (L^b)$$.
+
+donde *a* is una constante, *L* es el tamaño del individuo y *b* es el crecimiénto intrínsico de la espécie. Los valores de *a* y *b* fueron tomados de Serrano-Guzmán (2004) [24]. Posteriormente se estimó el peso promedio de acuerdo a la siguiente equción [23]:
+
+$$ W = \sum^n_{i=1} \frac{X_i}{n_i}$$  
+
+donde *$X_i$* es el peso de todos los individuos del cuadrante *i* y *n* es el area total muestrada de cada cuadrante. El peso promedio fue utilizado para estimar la biomasa pomedio (*B*) multiplicando *$X_i$* por el área total ocupada por el recurso, así mismo, se estimó la varianza del peso y biomasa promedio. Finalmente, los intervalos de confianza de 95% mínimos y máximos fueron estimados utilizando el método descrito por DeLong et al (1988) [25]. La biomasa extraíble fue estimada utilizando únicamente individuos por ensima de los 14 cm, la talla mínima determinada por la ley mexicana [12]. Finalmente, se consideró que lo que se vende principalmente es el músculo abductor del callo de hacha, estimado en 25% del peso total del individuo [26].
+
+A caveat in this analysis is the unfeasibility of projecting the population dynamics into the future due to data restrictions and the number of observations available. An initial attempt to establish a relationship between spawning biomass and individual recruits had to be discarded due to insufficient data-points (S1 Fig). In addition, there was limited substantiated biological knowledge of the stock to determine if the population was self-maintained, or larvae was supplied from external sources. To tackle this limitation, while still providing insights on the economic feasibility of the fishery, the population was assumed to be in equilibrium in the last sample due to the low degree of variation with respect to the previous year. Projections were then done assuming the that the stock will be in equilibrium at a fixed fishing mortality. For each year, harvestable biomass available (H) was randomly projected assuming a normal distribution with a noise component as follows: 
+
+
+$$ H(\pi|\mu,\o^2) = \frac{1}{\sqrt{2\pi\o^2}}e^{- \frac} $$
+
 ## Análisis económico
-## Fuente de datos
+## Fuentes de datos
 # Resultados
 ## Resultados biológicos
 ## Resultados económicos
 # Discusión
 # Conslusión
 # Agradecimientos
-
+# Referencias
 
 
 
