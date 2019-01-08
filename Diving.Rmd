@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-![](Images/YoMero2.png)
+![](Images/YoMero.png)
 
 <br>
 
@@ -93,7 +93,7 @@ Jules Verne, Twenty Thousand Leagues Under the Sea
 
 **Contact**
 
-Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Research gate](https://www.researchgate.net/profile/Juliano_Palacios_Abrantes2) • [Googel Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Research gate](https://www.researchgate.net/profile/Juliano_Palacios_Abrantes2) • [Googel Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
