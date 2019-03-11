@@ -1,6 +1,6 @@
 name: "Hello World"
 navbar:
-  title: "Juliano Palacios A."
+  title: "Juliano Palacios Abrantes"
   left:
     - text: "Home"
       href: Home.html
