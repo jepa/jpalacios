@@ -99,6 +99,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -113,7 +116,6 @@ body {
   padding-top: 50px;
   margin-top: -50px;
 }
-
 .section h2 {
   padding-top: 50px;
   margin-top: -50px;
@@ -133,6 +135,43 @@ body {
 .section h6 {
   padding-top: 50px;
   margin-top: -50px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,18 +193,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -323,7 +421,7 @@ div.tocify {
 <p><br></p>
 <div id="quick-intro" class="section level2">
 <h2>Quick Intro</h2>
-<p>I graduated in Biology in 2012 from the <em>Universidad Autónoma Metropolitana</em> in Mexico City. During my time as an undergrad I did research aiming to improve food security on coastal communities in Mexico. After my undergrad I worked at the Global Institute for Sustainability and managed my own diving center in Mexico City. In 2014 I was honored with a <a href="http://www.laff.bren.ucsb.edu/">Latin American Fisheries Fellowship</a> by the Walton Foundation to study a Masters in Environmental Science &amp; Management from the Bren School of Environmental Science and Management at the University of California, Santa Barbara. My <a href="http://www.esm.ucsb.edu/research/2016Group_Projects/documents/CopyofFinal_INTERTIDALFINALREPORT_Bren2016.pdf">group dissertation</a> worked along with the Bureau of Energy and Management of the United States and focused on the development of a citizen science monitoring protocol for the rocky intertidal in the west coast of the US. Currently, I’m doing a Ph.D. at the University of British Columbia in Vancouver, Canada. Under the guidance of Dr. William Cheung, my work looks at the socio-ecological implications of climate change on fish that moves freely between the national waters (transboundary) of Canada, United States and Mexico.</p>
+<p>I graduated with a Bachelor of Science in Biology in 2012 from the <em>Universidad Autónoma Metropolitana</em> in Mexico City. During my time as an undergrad I did research aiming to improve food security in coastal communities in Mexico. After my undergrad, I worked at the Global Institute for Sustainability and managed my own diving center in Mexico City. In 2014 I was honored with a <a href="http://www.laff.bren.ucsb.edu/">Latin American Fisheries Fellowship</a> by the Walton Foundation to study a Masters in Environmental Science &amp; Management from the Bren School of Environmental Science and Management at the University of California, Santa Barbara. My <a href="http://www.esm.ucsb.edu/research/2016Group_Projects/documents/CopyofFinal_INTERTIDALFINALREPORT_Bren2016.pdf">group dissertation</a> worked along with the Bureau of Energy and Management of the United States and focused on the development of a citizen science monitoring protocol for the rocky intertidal of the West Coast of the US. Currently, I’m doing a Ph.D. at the University of British Columbia in Vancouver, Canada. Under the guidance of Dr. William Cheung, my work looks at the socio-ecological implications of climate change on fish that move freely between the national waters (transboundary) of Canada, the United States and Mexico.</p>
 <p>If you are interested, you can download my CV at the bottom of this page. Feel free to contact me to discuss any of my past or current projects and please keep in mind that the most recent ones might not be there. On my <a href="https://github.com/jepa?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=source&amp;language=">GitHub</a> profile you will find some of my scripts revealing my computer programming skills.</p>
 <hr />
 </div>
@@ -381,7 +479,7 @@ Management of Shifting Stocks
 <div id="section" class="section level3">
 <h3>2018</h3>
 <ul>
-<li><strong>Palacios-Abrantes J</strong>, Herrera-Correal J, Rodríguez S, Brunkow J, Molina R (2018) Evaluating the bio-economic performance of a Callo de hacha (<em>Atrina maura, Atrina tuberculosa &amp; Pinna rugosa</em>) fishery restoration plan in La Paz, Mexico. <em>PLoS ONE</em> 13(12): e0209431. DOI: 10.1371/journal.pone.0209431</li>
+<li><strong>Palacios-Abrantes J.</strong>, Herrera-Correal J., Rodríguez S., Brunkow J. &amp; Molina R. (2018) Evaluating the bio-economic performance of a Callo de hacha (<em>Atrina maura, Atrina tuberculosa &amp; Pinna rugosa</em>) fishery restoration plan in La Paz, Mexico. <em>PLoS ONE</em> 13(12): e0209431. DOI: 10.1371/journal.pone.0209431</li>
 </ul>
 <!-- Paper Links -->
 <center>
@@ -389,7 +487,7 @@ Management of Shifting Stocks
 <p><a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209431" >Full Paper</span></a> <!-- Press --> <!-- <a span class="label label-primary" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> --> <!-- Spanish version --> <!-- <a span class="label label-success" href= "Translations/Callo_de_Hacha_Esp.pdf" >Artículo en Español</span></a> --></p>
 </center>
 <ul>
-<li>Malin L. Pinsky, Reygondeau G., Caddell R., <strong>Palacios-Abrantes J.</strong>, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move. <em>Science</em>, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360</li>
+<li>Malin L. Pinsky, Reygondeau G., Caddell R., <strong>Palacios-Abrantes J.</strong>, Spijkers J. &amp; Cheung W.L. (2018) Preparing ocean governance for species on the move. <em>Science</em>, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360</li>
 </ul>
 <!-- Paper Links -->
 <center>
@@ -400,7 +498,7 @@ Management of Shifting Stocks
 <div id="section-1" class="section level3">
 <h3>2017</h3>
 <ul>
-<li><strong>Palacios-Abrantes J.</strong>, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. &amp; Gazga-Urioste C. (2017). Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6.</li>
+<li><strong>Palacios-Abrantes J.</strong>, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. &amp; Gazga-Urioste C. (2017) Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6.</li>
 </ul>
 <!-- Paper Links -->
 <center>
@@ -411,7 +509,7 @@ Management of Shifting Stocks
 <div id="section-2" class="section level3">
 <h3>2016</h3>
 <ul>
-<li><strong>Palacios-Abrantes J.,</strong> Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. &amp; Urbano B. (2016). Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008</li>
+<li><strong>Palacios-Abrantes J.,</strong> Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. &amp; Urbano B. (2016) Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008</li>
 </ul>
 <!-- Paper Links -->
 <center>
@@ -422,8 +520,8 @@ Management of Shifting Stocks
 <div id="section-3" class="section level3">
 <h3>2013</h3>
 <ul>
-<li><p>Ruiz V. M., Aguirre H. D., Martínez B., <strong>Palacios-Abrantes J.</strong> &amp; Vargas, N. (2013). Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079.</p></li>
-<li><p>Melo V., Jiménez H., <strong>Palacios-Abrantes J.</strong> &amp; Barreda T. Q. (2013). Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.</p></li>
+<li><p>Ruiz V. M., Aguirre H. D., Martínez B., <strong>Palacios-Abrantes J.</strong> &amp; Vargas, N. (2013) Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079.</p></li>
+<li><p>Melo V., Jiménez H., <strong>Palacios-Abrantes J.</strong> &amp; Barreda T. Q. (2013) Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.</p></li>
 </ul>
 <hr />
 </div>

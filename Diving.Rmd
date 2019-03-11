@@ -8,9 +8,9 @@ output: html_document
 
 <br>
 
-My first official contact with the underwater world was in 2008. Since then I was sure that this was a life time activity. The underwater world grew on me so much and so fast that I became a dive instructor and co-owned a diving center in Mexico city. The diving center is called Medusa Buceo. During that time I taught, traveled and dived a lot. Now I’m retired from all that excruciating responsibility and only dive for fun or research. I’ve dove in many different places and conditions and there is always something new to see, even in those places that you already visited.
+My first official contact with the underwater world was in 2008. Since then I was sure that this was a lifetime activity. The underwater world grew on me so much and so quickly that I became a dive instructor and co-owned a diving center in Mexico city. The diving center is called Medusa Buceo. During that time I taught, traveled and dived a lot. Now I’m retired from all that excruciating responsibility and only dive for fun or research. I’ve dove in many different places and conditions and there is always something new to see, even in those places that you already visited.
 
-You should really try it, for me diving is the closest feeling to be floating in out-space. It is so quiet that even thou you are always (hopefully you are!) diving with a buddy, I still feel I’m all by myself. The feeling of floating in the vastness of nothing, by yourself, hearing only abstract noises in the distance, is invaluable!
+You should really try it; for me diving is the closest feeling to floating in outer-space. It is so quiet that even though you are always (hopefully you are!) diving with a buddy, I still feel I’m all alone. The feeling of floating in the vastness of nothing, by yourself, hearing only abstract noises in the distance, is invaluable!
 
 ----
 

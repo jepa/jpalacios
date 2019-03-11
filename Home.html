@@ -96,6 +96,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -110,7 +113,6 @@ body {
   padding-top: 50px;
   margin-top: -50px;
 }
-
 .section h2 {
   padding-top: 50px;
   margin-top: -50px;
@@ -130,6 +132,43 @@ body {
 .section h6 {
   padding-top: 50px;
   margin-top: -50px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -151,18 +190,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -225,10 +323,10 @@ $(document).ready(function () {
 <div style="float:left;position: relative; right: 10px;">
 <p><img src="Images/Home/Me.jpg" alt="Drawing" style="width: 200px;"/></p>
 </div>
-<p>Welcome to my personal webpage. I am a PhD. student at the University of British Columbia in Vancouver, Canada. As part of the Changing Ocean Research Unit <a href="http://coru.oceans.ubc.ca/">(CORU)</a>, I am particularly interested on how climate change will impact fisheries management in Latin America and how to mitigate its socio-ecological implications. My projects and emerging professional direction look to understand how does climate change impacts affect social structures, such as food security and local economies, how they can be measured, and how to create social adaptive capacity to such changes.</p>
-<p>I support collaborative-inter-disciplinary work and I believe that all scientific work (and data) should be public and of open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resources management decisions with a strong interdisciplinary science. In parallel to research, I have worked with different governmental (e.g. <em>Comisión Nacional Para el Conocimiento de la Biodiversidad (CONABIO)</em>) and non-governmental organizations (e.j. Environmental Defense Fund - Mexico) to tackle important problems facing fisheries in Latin America.</p>
+<p>Welcome to my personal webpage. I am a Ph.D. student at the University of British Columbia in Vancouver, Canada. As part of the Changing Ocean Research Unit <a href="http://coru.oceans.ubc.ca/">(CORU)</a>, I am particularly interested in how climate change impacts fisheries management in Latin America and how to mitigate its socio-ecological implications. My projects and emerging professional direction look to understand how the effects of climate change impact social structures, such as food security and local economies, how they can be measured, and how to create social adaptive capacity to such changes.</p>
+<p>I support collaborative interdisciplinary work and I believe that all scientific work (and data) should be public and open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions with a strong interdisciplinary science. In parallel with my research, I have worked with different governmental (e.g. <em>Comisión Nacional Para el Conocimiento de la Biodiversidad (CONABIO)</em>) and non-governmental organizations (e.j. Environmental Defense Fund - Mexico) to tackle important problems facing fisheries in Latin America.</p>
 <p><br></p>
-<p>On my free time I like to explore the above-and-under water world, play some soccer, go for random walks, and watch movies, all of these in company of my pup, Niema. In my webpage you will find information regarding my research and other work-related activities. You will also find a section intended to share some of my personal hobbies. Please refer to the contact section for any comments or future communication.</p>
+<p>In my free time I like to explore the above-and-under water world, play soccer, go for random walks, and watch movies. On my webpage you will find information regarding my research and other work-related activities. You will also find a section intended to share some of my personal hobbies. Please refer to the contact section for any comments or future communication.</p>
 <br>
 <hr>
 <center>

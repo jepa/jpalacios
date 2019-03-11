@@ -11,13 +11,13 @@ output:
 </div>
 
 
-Welcome to my personal webpage. I am a PhD. student at the University of British Columbia in Vancouver, Canada. As part of the Changing Ocean Research Unit [(CORU)](http://coru.oceans.ubc.ca/), I am particularly interested on how climate change will impact fisheries management in Latin America and how to mitigate its socio-ecological implications. My projects and emerging professional direction look to understand how does climate change impacts affect social structures, such as food security and local economies, how they can be measured, and how to create social adaptive capacity to such changes.
+Welcome to my personal webpage. I am a Ph.D. student at the University of British Columbia in Vancouver, Canada. As part of the Changing Ocean Research Unit [(CORU)](http://coru.oceans.ubc.ca/), I am particularly interested in how climate change impacts fisheries management in Latin America and how to mitigate its socio-ecological implications. My projects and emerging professional direction look to understand how the effects of climate change impact social structures, such as food security and local economies, how they can be measured, and how to create social adaptive capacity to such changes.
 
-I support collaborative-inter-disciplinary work and I believe that all scientific work (and data) should be public and of open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resources management decisions with a strong interdisciplinary science. In parallel to research, I have worked with different governmental (e.g. *Comisión Nacional Para el Conocimiento de la Biodiversidad (CONABIO)*) and non-governmental organizations (e.j. Environmental Defense Fund - Mexico) to tackle important problems facing fisheries in Latin America.
+I support collaborative interdisciplinary work and I believe that all scientific work (and data) should be public and open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions with a strong interdisciplinary science. In parallel with my research, I have worked with different governmental (e.g. *Comisión Nacional Para el Conocimiento de la Biodiversidad (CONABIO)*) and non-governmental organizations (e.j. Environmental Defense Fund - Mexico) to tackle important problems facing fisheries in Latin America.
 
 <br>
 
-On my free time I like to explore the above-and-under water world, play some soccer, go for random walks, and watch movies, all of these in company of my pup, Niema. In my webpage you will find information regarding my research and other work-related activities. You will also find a section intended to share some of my personal hobbies. Please refer to the contact section for any comments or future communication.
+In my free time I like to explore the above-and-under water world, play soccer, go for random walks, and watch movies. On my webpage you will find information regarding my research and other work-related activities. You will also find a section intended to share some of my personal hobbies. Please refer to the contact section for any comments or future communication.
 
 <br>
 <hr>

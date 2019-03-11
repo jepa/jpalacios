@@ -14,7 +14,7 @@ output:
 
 ## Quick Intro
 
-I graduated in Biology in 2012 from the *Universidad Autónoma Metropolitana* in Mexico City. During my time as an undergrad I did research aiming to improve food security on coastal communities in Mexico. After my undergrad I worked at the Global Institute for Sustainability and managed my own diving center in Mexico City. In 2014 I was honored with a [Latin American Fisheries Fellowship](http://www.laff.bren.ucsb.edu/) by the Walton Foundation to study a Masters in Environmental Science & Management from the Bren School of Environmental Science and Management at the University of California, Santa Barbara. My [group dissertation](http://www.esm.ucsb.edu/research/2016Group_Projects/documents/CopyofFinal_INTERTIDALFINALREPORT_Bren2016.pdf) worked along with the Bureau of Energy and Management of the United States and focused on the development of a citizen science monitoring protocol for the rocky intertidal in the west coast of the US. Currently, I'm doing a Ph.D. at the University of British Columbia in Vancouver, Canada. Under the guidance of Dr. William Cheung, my work looks at the socio-ecological implications of climate change on fish that moves freely between the national waters (transboundary) of Canada, United States and Mexico.
+I graduated with a Bachelor of Science in Biology in 2012 from the *Universidad Autónoma Metropolitana* in Mexico City. During my time as an undergrad I did research aiming to improve food security in coastal communities in Mexico. After my undergrad, I worked at the Global Institute for Sustainability and managed my own diving center in Mexico City. In 2014 I was honored with a [Latin American Fisheries Fellowship](http://www.laff.bren.ucsb.edu/) by the Walton Foundation to study a Masters in Environmental Science & Management from the Bren School of Environmental Science and Management at the University of California, Santa Barbara. My [group dissertation](http://www.esm.ucsb.edu/research/2016Group_Projects/documents/CopyofFinal_INTERTIDALFINALREPORT_Bren2016.pdf) worked along with the Bureau of Energy and Management of the United States and focused on the development of a citizen science monitoring protocol for the rocky intertidal of the West Coast of the US. Currently, I'm doing a Ph.D. at the University of British Columbia in Vancouver, Canada. Under the guidance of Dr. William Cheung, my work looks at the socio-ecological implications of climate change on fish that move freely between the national waters (transboundary) of Canada, the United States and Mexico.
 
 If you are interested, you can download my CV at the bottom of this page. Feel free to contact me to discuss any of my past or current projects and please keep in mind that the most recent ones might not be there. On my [GitHub](https://github.com/jepa?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=) profile you will find some of my scripts revealing my computer programming skills.
 
@@ -82,7 +82,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 </center>
 
 ### 2018
-- **Palacios-Abrantes J**, Herrera-Correal J, Rodríguez S, Brunkow J, Molina R (2018) Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
+- **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. & Molina R. (2018) Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
 
 <!-- Paper Links -->
 <center>
@@ -95,7 +95,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
-- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J. & Cheung W.L. (2018) Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
 <!-- Paper Links -->
 <center>
@@ -112,7 +112,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2017
 
-- **Palacios-Abrantes J.**, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. & Gazga-Urioste C. (2017). Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6. 
+- **Palacios-Abrantes J.**, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. & Gazga-Urioste C. (2017) Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6. 
 
 <!-- Paper Links -->
 <center>
@@ -124,7 +124,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 </center>
 ### 2016
 
-- **Palacios-Abrantes J.,** Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. & Urbano B. (2016). Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008 
+- **Palacios-Abrantes J.,** Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. & Urbano B. (2016) Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008 
 
 <!-- Paper Links -->
 <center>
@@ -138,9 +138,9 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2013
 
-- Ruiz V. M., Aguirre H. D., Martínez B., **Palacios-Abrantes J.** & Vargas, N. (2013). Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079. 
+- Ruiz V. M., Aguirre H. D., Martínez B., **Palacios-Abrantes J.** & Vargas, N. (2013) Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079. 
 
-- Melo V., Jiménez H., **Palacios-Abrantes J.** & Barreda T. Q. (2013). Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.
+- Melo V., Jiménez H., **Palacios-Abrantes J.** & Barreda T. Q. (2013) Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.
 
 
 ----
