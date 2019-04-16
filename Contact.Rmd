@@ -9,7 +9,7 @@ output:
 <center>
 <img src="Images/Contacto.jpg" alt="Drawing" style="width: 700px;"/>
 
-<center> **Telephone:** +1 (778) 835 4298
+<center> 
 <br>
 **Email:** j.palacios@oceans.ubc.ca
 <br>

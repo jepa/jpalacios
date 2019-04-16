@@ -101,7 +101,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <!-- Press -->
 <!-- <a span class="label label-primary" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> -->
 <!-- Spanish version -->
-<!-- <a span class="label label-success" href= "Translations/Callo_de_Hacha_Esp.pdf" >Artículo en Español</span></a> -->
+<a span class="label label-success" href= "Translations/Callo_de_Hacha_Esp.html" >Artículo en Español</span></a>
 
 </center>
 
