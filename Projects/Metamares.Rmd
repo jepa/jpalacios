@@ -23,8 +23,8 @@ The Meta-database of Marine Research in Mexico project aims to create a meta-dat
 
 <img src="Projects_Images/Time_Plot.png" width="600px">
 
-<a button type="button" class="btn btn-primary" href="https://jepa.shinyapps.io/marmetadatamexeng/">Visit Project's Webpage</button>
-<a button type="button" class="btn btn-success" href = "https://jepa.shinyapps.io/marmetadatamexesp/">Visitar la Página del Proyecto
+<a button type="button" class="btn btn-primary" href="https://jepa.shinyapps.io/marmetadatamexeng/" target="_blank">Visit Project's Webpage</button>
+<a button type="button" class="btn btn-success" href = "https://jepa.shinyapps.io/marmetadatamexesp/" target="_blank">Visitar la Página del Proyecto
 </a>
 </center>
 
@@ -37,12 +37,12 @@ The Meta-database of Marine Research in Mexico project aims to create a meta-dat
 <!-- ## Publications -->
 
 ## Related Work
-- [MarXiv Ambassadors](https://www.marxivinfo.org/ambassadors). MarXiv Ambassadors serve as preprint-sharing experts for the local institutions, helping their fellow researchers determine which documents can (and cannot) be legally shared in MarXiv.
+- [MarXiv Ambassadors](https://www.marxivinfo.org/ambassadors){target="_blank"}. MarXiv Ambassadors serve as preprint-sharing experts for the local institutions, helping their fellow researchers determine which documents can (and cannot) be legally shared in MarXiv.
 
 ## Media
-- [Oceans Deeply; MarXiv](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all)
-- [CONACYT Prensa; MetaMares (Spanish)](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico)
-- [Blog de EDF de México; MetaMares (Spanish)](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico)
+- [Oceans Deeply; MarXiv](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all){target="_blank"}
+- [CONACYT Prensa; MetaMares (Spanish)](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
+- [Blog de EDF de México; MetaMares (Spanish)](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico){target="_blank"}
 
 <center>
 
@@ -54,7 +54,7 @@ The Meta-database of Marine Research in Mexico project aims to create a meta-dat
 
 **Contact**
 
-Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"}
 
 <!-- Google Translate -->
 <div id="google_translate_element"></div><script type="text/javascript">

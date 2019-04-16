@@ -43,19 +43,19 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 
 <center>
 
-<a span class="label label-primary" href= "https://www.julianopalacios.com/Original_Articles/Pinsky_etal_2018.pdf" >Full Paper</span></a>
-<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Border_Crossing_Esp.html" >Artículo en Español</span></a>
+<a span class="label label-primary" href= "https://www.julianopalacios.com/Original_Articles/Pinsky_etal_2018.pdf" target="_blank">Full Paper</span></a>
+<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a>
 
 </center>
 
 <!-- ## Related Work  -->
 
 ## News 
-- [CONACyT Prensa, Spanish](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo)
-- [National Geographic]("https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment")
-- [University of British Columbia](https://science.ubc.ca/news/climate-change-has-fish-migrating-faster-regulations-can-keep)
-- [University of British Columbia, French](http://pinsky.marine.rutgers.edu/wp-content/uploads/2018/06/Science-Policy-Forum_FINAL_FRENCH.pdf)
-- [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603)
+- [CONACyT Prensa, Spanish](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
+- [National Geographic](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment/){target="_blank"}
+- [University of British Columbia](https://science.ubc.ca/news/climate-change-has-fish-migrating-faster-regulations-can-keep){target="_blank"}
+- [University of British Columbia, French](http://pinsky.marine.rutgers.edu/wp-content/uploads/2018/06/Science-Policy-Forum_FINAL_FRENCH.pdf){target="_blank"}
+- [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603){target="_blank"}
 
 <center>
 
@@ -64,7 +64,7 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 
 **Contact**
 
-Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"}
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
