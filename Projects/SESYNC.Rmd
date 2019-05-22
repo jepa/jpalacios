@@ -5,9 +5,21 @@ output:
     theme: "yeti"
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
+
+</center>
+
 <center>
 
-<img src="Projects_Images/Transboundary.png" width="1000px">
+<img src="http://d2khr93zjdy3w9.cloudfront.net/Website/Official_MPA_map_April2016.png" width="1000px">
 
 </center>
 
@@ -16,18 +28,21 @@ output:
 Marine protected areas (MPAs) are an important tool in the context of marine spatial planning where resources are managed according to specific regulations that typically focus on conservation and sustainable harvesting. Marine species are shifting their distribution because of climate change towards colder waters, potentially compromising the benefits and management objectives of currently established MPAs. Therefore, it remains unclear what is the long-term effectiveness of MPAs for conservation, fisheries, and reliant communities under a changing climate. We propose to use MPAs as an example of marine spatial planning to explore the ecological, economic and social implications of climate change in the world’s oceans with two main objectives:
 
 1) Quantify the impacts that shifts in species distribution due to climate change will have on the current economic value of MPAs worldwide
+
 2) Investigate the socio-economic implications of these species shifts to local communities that depend on MPAs for eco-tourism, generated income, and food security
 
-This is project is part of the [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals).
+This project is part of the [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals) program.
 
+**Members** 
+- Anneloes Mook, Juliano Palacios Abrantes, Sarah Roberts, Talya Tenbrink, Timothy Cashion, Tu Ngoc Nguyen.
 
 <!-- ## Working Papers -->
 
-
 <!-- ## Publications -->
 
+## Related Work
 
-<!-- ## Related Work  -->
+[SESYNC link to project](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to)
 
 <!-- ## News  -->
 
@@ -45,15 +60,3 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-105699898-4');
-</script>
-
-</center>

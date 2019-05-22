@@ -1,5 +1,5 @@
 ---
-title: "Building a Meta-database of Marine Research in Mexico"
+title: "A Meta-database of Marine Research in Mexico"
 output:
   html_document:
     theme: "yeti"
@@ -16,15 +16,17 @@ output:
 </script>
 
 
-The Meta-database of Marine Research in Mexico project aims to create a meta-database of all marine research data developed in Mexico. A meta-database is a documentation of the sources of information instead of a database of the actual data. Since October of 2016 we have collected more than 100 k records containing information from more than 300 k data points, from more than 60 on-line repositories. You can read the details on the project's webpage as well as some of our preeliminary results.
-
-
 <center>
-
 <img src="Projects_Images/Time_Plot.png" width="600px">
 
-<a button type="button" class="btn btn-primary" href="https://jepa.shinyapps.io/marmetadatamexeng/" target="_blank">Visit Project's Webpage</button>
-<a button type="button" class="btn btn-success" href = "https://jepa.shinyapps.io/marmetadatamexesp/" target="_blank">Visitar la Página del Proyecto
+</center>
+
+Although several disciplines are generating large amounts of data on marine socio-ecological systems, such information is often underutilized due to fragmentation across institutions or stakeholders, limited standardization across scale, time or disciplines, and the fact that information is often not searchable within existing databases. Compiling metadata, the information which describes existing sets of data, is an effective tool that can address these challenges, particularly when metadata corresponding to multiple datasets can be combined to integrate, organize and classify multidisciplinary data. A meta-database is a documentation of the sources of information instead of a database of the actual data. These are critical tools to make efficient use of existing data, highlight and address strengths and deficiencies, and develop scenarios to inform policies for managing complex marine social-ecological systems.
+
+The Meta-database of Marine Research in Mexico project aims to improve access to information, facilitate multidisciplinary data sharing and integration, and foster collaboration among stakeholders. Since October of 2016 different stakeholders have shared over 100 k records containing information from more than 300 k data points. As of May of 2019, the project has been overseen by the *Comisión Nacional para el Conocimiento y Uso de la Biodiversidad* ( [CONABIO](https://www.gob.mx/conabio) ) through the program, [Infocéanos](http://infoceanos.conabio.gob.mx). In here you can learn more about the project, explore the metadatabase, and collaborate with this initiative.
+
+<center>
+<a button type="button" class="btn btn-primary" href="http://infoceanos.conabio.gob.mx" target="_blank"> Go to *Infoceanos* (Spanish) </button>
 </a>
 </center>
 
@@ -32,9 +34,11 @@ The Meta-database of Marine Research in Mexico project aims to create a meta-dat
 
 - **Palacios-Abrantes J.**, & Cisneros-Montemayor A. (2018). Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. In *Pescadores en México retos y oportunidades ante el cambio climático. Ciudad de México*. *In press*
 
-- **Palacios-Abrantes J.**, Cisneros-Montemayor A.M., Cisneros-Mata M.A., Rodríguez L.F., Arreguín-Sánchez, F. Cheung W.L. (NA). A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico.
+## Publications
 
-<!-- ## Publications -->
+- **Palacios-Abrantes J.**, Cisneros-Montemayor A.M., Cisneros-Mata M.A., Rodríguez L.F., Arreguín-Sánchez, F. Cheung W.L. (2019). A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico.
+
+- DOI de los metadatos
 
 ## Related Work
 - [MarXiv Ambassadors](https://www.marxivinfo.org/ambassadors){target="_blank"}. MarXiv Ambassadors serve as preprint-sharing experts for the local institutions, helping their fellow researchers determine which documents can (and cannot) be legally shared in MarXiv.
