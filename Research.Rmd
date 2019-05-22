@@ -66,7 +66,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <a href="Projects/SESYNC.html">
 <img src="http://d2khr93zjdy3w9.cloudfront.net/Website/Official_MPA_map_April2016.png" class="img-thumbnail" width="300px">
 <div class="caption">
-<p>MPA's under Climate Change </p>
+<p> MPA's under Climate Change </p>
 </div>
 </a>
 
