@@ -62,7 +62,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <div class="col1">
 
-<!-- MPA's  SESYNC -->
+<!-- MPA's  SESYNC s-->
 <a href="Projects/SESYNC.html">
 <img src="http://d2khr93zjdy3w9.cloudfront.net/Website/Official_MPA_map_April2016.png" class="img-thumbnail" width="300px">
 <div class="caption">
