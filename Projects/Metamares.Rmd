@@ -25,6 +25,10 @@ Although several disciplines are generating large amounts of data on marine soci
 
 The Meta-database of Marine Research in Mexico project aims to improve access to information, facilitate multidisciplinary data sharing and integration, and foster collaboration among stakeholders. Since October of 2016 different stakeholders have shared over 100 k records containing information from more than 300 k data points. As of May of 2019, the project has been overseen by the *Comisión Nacional para el Conocimiento y Uso de la Biodiversidad* ( [CONABIO](https://www.gob.mx/conabio) ) through the program, [Infocéanos](http://infoceanos.conabio.gob.mx). In here you can learn more about the project, explore the metadatabase, and collaborate with this initiative.
 
+## Publications
+
+- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI e0216723.
+
 <center>
 <a button type="button" class="btn btn-primary" href="http://infoceanos.conabio.gob.mx" target="_blank"> Go to *Infoceanos* (Spanish) </button>
 </a>
@@ -34,19 +38,21 @@ The Meta-database of Marine Research in Mexico project aims to improve access to
 
 - **Palacios-Abrantes J.**, & Cisneros-Montemayor A. (2018). Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. In *Pescadores en México retos y oportunidades ante el cambio climático. Ciudad de México*. *In press*
 
-## Publications
-
-- **Palacios-Abrantes J.**, Cisneros-Montemayor A.M., Cisneros-Mata M.A., Rodríguez L.F., Arreguín-Sánchez, F. Cheung W.L. (2019). A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico.
-
-- DOI de los metadatos
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
 
 ## Related Work
 - [MarXiv Ambassadors](https://www.marxivinfo.org/ambassadors){target="_blank"}. MarXiv Ambassadors serve as preprint-sharing experts for the local institutions, helping their fellow researchers determine which documents can (and cannot) be legally shared in MarXiv.
 
-## Media
+## Media and communication
+- [UBC Stories](http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/)
+- [adn40 (Spanish)](https://www.adn40.mx/noticia/mexico/nota/2019-06-08-20-21/plataforma-permitira-conocer-riqueza-de-los-oceanos-de-mexico/?utm_source=adn40mxNota&utm_medium=tw&utm_campaign=M)
+- [Blog de EDF de México; Infocéanos (Spanish)](https://mexico.edf.org/blog/2019/06/07/la-ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de-mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter)
 - [Oceans Deeply; MarXiv](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all){target="_blank"}
-- [CONACYT Prensa; MetaMares (Spanish)](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
-- [Blog de EDF de México; MetaMares (Spanish)](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico){target="_blank"}
+- [CONACYT Prensa; MetaMares (Infocéanos) (Spanish)](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
+- [Blog de EDF de México; MetaMares (Infocéanos) (Spanish)](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico){target="_blank"}
 
 <center>
 

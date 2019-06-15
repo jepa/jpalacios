@@ -83,7 +83,22 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
+### 2019
+
+- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI e0216723.
+
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<!-- <a span class="label label-primary" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> -->
+<!-- Spanish version -->
+<!-- <a span class="label label-success" href= "Translations/Metadata_Esp.html" target="_blank">Artículo en Español</span></a> -->
+
+
 ### 2018
+
 - **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. & Molina R. (2018) Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
 
 <!-- Paper Links -->
