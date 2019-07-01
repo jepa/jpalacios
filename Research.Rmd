@@ -92,7 +92,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <!-- Original article -->
 <a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<!-- <a span class="label label-primary" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> -->
+<a span class="label label-primary" href= "http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/" >UBC Stories</span></a>
 <!-- Spanish version -->
 <!-- <a span class="label label-success" href= "Translations/Metadata_Esp.html" target="_blank">Artículo en Español</span></a> -->
 

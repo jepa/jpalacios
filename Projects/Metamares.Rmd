@@ -23,25 +23,28 @@ output:
 
 Although several disciplines are generating large amounts of data on marine socio-ecological systems, such information is often underutilized due to fragmentation across institutions or stakeholders, limited standardization across scale, time or disciplines, and the fact that information is often not searchable within existing databases. Compiling metadata, the information which describes existing sets of data, is an effective tool that can address these challenges, particularly when metadata corresponding to multiple datasets can be combined to integrate, organize and classify multidisciplinary data. A meta-database is a documentation of the sources of information instead of a database of the actual data. These are critical tools to make efficient use of existing data, highlight and address strengths and deficiencies, and develop scenarios to inform policies for managing complex marine social-ecological systems.
 
-The Meta-database of Marine Research in Mexico project aims to improve access to information, facilitate multidisciplinary data sharing and integration, and foster collaboration among stakeholders. Since October of 2016 different stakeholders have shared over 100 k records containing information from more than 300 k data points. As of May of 2019, the project has been overseen by the *Comisión Nacional para el Conocimiento y Uso de la Biodiversidad* ( [CONABIO](https://www.gob.mx/conabio) ) through the program, [Infocéanos](http://infoceanos.conabio.gob.mx). In here you can learn more about the project, explore the metadatabase, and collaborate with this initiative.
+The Meta-database of Marine Research in Mexico project aims to improve access to information, facilitate multidisciplinary data sharing and integration, and foster collaboration among stakeholders. Since October of 2016 different stakeholders have shared over 100 k records containing information from more than 300 k data points. As of May of 2019, the project has been overseen by the *Comisión Nacional para el Conocimiento y Uso de la Biodiversidad* ( [CONABIO](https://www.gob.mx/conabio) ) through the program, [Infocéanos](http://infoceanos.conabio.gob.mx). In there you can learn more about the project, explore the metadatabase, and collaborate with this initiative.
+
+<!-- Infocéanos -->
+<center>
+<a button type="button" class="btn btn-primary" href="http://infoceanos.conabio.gob.mx" target="_blank"> Go to *Infoceanos* (Spanish) </button>
+</a>
+</center>
 
 ## Publications
 
 - **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI e0216723.
 
+<!-- Paper Links -->
 <center>
-<a button type="button" class="btn btn-primary" href="http://infoceanos.conabio.gob.mx" target="_blank"> Go to *Infoceanos* (Spanish) </button>
-</a>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
 </center>
 
 ## Working Papers
 
 - **Palacios-Abrantes J.**, & Cisneros-Montemayor A. (2018). Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. In *Pescadores en México retos y oportunidades ante el cambio climático. Ciudad de México*. *In press*
 
-<!-- Paper Links -->
-<center>
-<!-- Original article -->
-<a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
 
 ## Related Work
 - [MarXiv Ambassadors](https://www.marxivinfo.org/ambassadors){target="_blank"}. MarXiv Ambassadors serve as preprint-sharing experts for the local institutions, helping their fellow researchers determine which documents can (and cannot) be legally shared in MarXiv.

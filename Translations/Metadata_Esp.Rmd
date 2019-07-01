@@ -1,0 +1,47 @@
+---
+title: "Evaluación del estado del conocimiento oceánico a partir de una base de metadatos: fortalezas, limitaciones y aplicación a México"
+author: "Juliano Palacios-Abrantes, Andrés Cisneros-Montemayor, Miguel Ángel Cisneros-Mata, Laura Rodríguez, Francisco Arreguín-Sánchez, Santiago Domínguez-Sánchez, Verónica Aguilar, Raquel López-Sagástegui, Hector Reyes, Rocío Rivera, Silvia Salas, Stuart Fulton, Nuno Simoes y William Cheung"
+date: "5/2019"
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: no
+---
+
+<!-- <!-- Global site tag (gtag.js) - Google Analytics --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
+
+
+- **NOTA: esta es una traducción al español del artículo** *A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico* escrito por Juliano Palacios-Abrantes, Andrés Cisneros-Montemayor, Miguel Ángel Cisneros-Mata, Laura Rodríguez, Francisco Arreguín-Sánchez, Santiago Domínguez-Sánchez, Verónica Aguilar, Raquel López-Sagástegui, Hector Reyes, Rocío Rivera, Silvia Salas, Stuart Fulton, Nuno Simoes y William Cheung. El artículo original se puede encontrar en el siguiente [link](https://doi.org/10.1371/journal.pone.0209431).
+
+- **Palacios-Abrantes J**,
+
+<center>
+<a span class="label label-success" href= "Metadata_Esp.pdf" >Descargar traducción en PDF</span></a>
+</center>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+# Introducción 
+# Materiales y Métodos
+# Resultados
+# Discusión
+# Conclusión
+
+
+- **Forma de Citar (Artículo original)**: 
+
+Traducido por Juliano Palacios Abrantes. Revisión técnica de...
+
+
+# Referencias
