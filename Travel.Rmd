@@ -5,7 +5,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    toc_depth: 6
+    toc_depth: 2
 ---
 
 <img src="Images/Viajes2.jpg" alt="Drawing" style="width: 1000px;"/>
@@ -44,6 +44,16 @@ leaflet(Escalas) %>%
 <br>
 
 ---
+
+## Escala más reciente
+
+```{r, echo=FALSE}
+htmltools::includeHTML("http://olardopassarinhoeoar.blogspot.com/2019/05/como-hacer-un-road-trip-cero.html")
+```
+
+
+
+!![demographics map](http://olardopassarinhoeoar.blogspot.com/2019/05/como-hacer-un-road-trip-cero.html)
 
 <!-- ## Las Escalas Disponibles Hasta Ahora -->
 
