@@ -3,8 +3,8 @@ title: "O lar do passarinho e o ar e não o ninho."
 author: "Black Bird"
 output:
   html_document:
-    toc: true
-    toc_float: true
+    toc: false
+    toc_float: false
     toc_depth: 2
 ---
 
@@ -25,20 +25,38 @@ Desde entonces procuro compartir con los 5 amigos que me leen y mis padres (fiel
 <center>
 
 ```{r Mapa_Olar, eval=T, echo=F, warning=F,message=F}
+library(dplyr)
+Escalas <-read.csv("./Data/Escalas.csv") %>% 
+  mutate(Links = paste("<b><a href=",
+               Link,
+               ">",
+               Viaje,
+               ", ",
+               Fecha,
+               " (",
+               Pais,
+               ")",
+               "</a></b><br/>",
+               sep=""
+               )
+  )
 
-Escalas <-read.csv("./Data/Escalas.csv")
+
 library('leaflet')
 leaflet(Escalas) %>%
         addTiles(
           urlTemplate = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",
           attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>'
         ) %>%
+  addProviderTiles(providers$Stamen.Toner) %>% 
       setView(lng = -90, lat = 1.3, zoom = 2) %>% 
         addMarkers(
           lng = ~Long,
           lat= ~Lat,
-          popup = ~Viaje
+          popup = ~Links,
+          clusterOptions = markerClusterOptions()
         )
+
 ```
 
 <br>
