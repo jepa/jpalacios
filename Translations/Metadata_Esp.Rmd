@@ -7,13 +7,13 @@ author: Juliano Palacios-Abrantes, Andrés Cisneros-Montemayor, Miguel Ángel Ci
   Fulton, Nuno Simoes y William Cheung
 date: "5/2019"
 output:
-  pdf_document:
+  word_document:
     toc: no
   html_document:
     df_print: paged
     toc: yes
     toc_float: yes
-  word_document:
+  pdf_document:
     toc: no
 ---
 

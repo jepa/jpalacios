@@ -78,8 +78,9 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 ## Publications in Scientific Journals
 
 <center>
+<a button type="button" class="btn btn-primary" href= "Data/CV.PalaciosAbrantes.pdf" >Download Full CV</a></button>
 
-[Visit My Google Schoolar Profile](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"}
+<a button type="button" class="btn btn-primary" href= "https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en" >Google Schoolar Profile</a></button>
 
 </center>
 
@@ -156,22 +157,6 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 - Ruiz V. M., Aguirre H. D., Martínez B., **Palacios-Abrantes J.** & Vargas, N. (2013) Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079. 
 
 - Melo V., Jiménez H., **Palacios-Abrantes J.** & Barreda T. Q. (2013) Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.
-
-
-----
-
-## Full Curriculum Vitae
-
-<center>
-<a button type="button" class="btn btn-primary" href= "Data/CV.PalaciosAbrantes.pdf" >Download Full CV</a></button>
-
-</center>
-
-<object data="CV.PalaciosAbrantes.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Data/CV.PalaciosAbrantes.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="CV.PalaciosAbrantes.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
 ---- 
 
