@@ -30,6 +30,30 @@ output:
 <a span class="label label-success" href= "Callo_de_Hacha_Esp.pdf" >Descargar traducción en PDF</span></a>
 </center>
 
+<!-- Abstract rectangle -->
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+# Resúmen
+
+Las pesquerías de pequeña escala contrinuyen de manera importante a la economía y bienestar de las comunidades costeras de América Latina. Si bien México es uno de los casos en que la pesca de pequeña escala desempeña un papel importante, la sobrepesca y estrategias de gestión pesquera ineficientes han llevado al colapso de muchas de sus pesquerías. La pesquería de callo de hacha de la Ensenada de La Paz en Baja California Sur es un ejemplo de una pesquería que, después de años de mala gestión, fue cerrada por las autoridades mexicanas en 2009. El presente estudio evaluó los esfuerzos de recuperación en la ensenada y los posibles resultados de una colaboración entre una organización no gubernamental y una comunidad pesquera que trabaja para la restauración de esta pesquería de concha. Después de más de cuatro años de cierre y monitoreo activo del proceso de recuperación, la población de callo de hacha mostró una recuperación significativa de la población, con una posible solvencia para reabrir las actividades pesqueras. Se evaluaron cuatro escenarios de incertidumbre y dos de ellos proporcionan valores presentes netos positivos desde la reapertura de la pesquería. También documentamos la participación de una organización no gubernamental con una comunidad pesquera, que creó capital social y, en nuestra opinión, fue esencial para una restauración exitosa. Tener una comunidad activamente involucrada ayudó a recaudar fondos para el cierre de la pesca para que los pescadores pudieran cumplir con la legislación mexicana, también fomentó la construcción de la comunidad y la autoorganización que serán cruciales para mantener la sostenibilidad de la pesquería.
+
+
+<!-- Image for Abstract -->
+<center>
+
+<img src="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209431.g002&type=large" width="600px">
+
+**Simulaciones del valor presente neto para cada escenario de callo de hacha. Se realizaron 1000 simulaciones para cada escenario.** https://doi.org/10.1371/journal.pone.0209431.g002
+
+</center>
+
+<br>
+
+</div>
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 # Introducción 
