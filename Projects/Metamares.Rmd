@@ -39,6 +39,8 @@ The Meta-database of Marine Research in Mexico project aims to improve access to
 <center>
 <!-- Original article -->
 <a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
+<!-- Spanish version -->
+<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Metadata/Metadata_Esp.html" target="_blank">Artículo en Español</span></a>
 </center>
 
 ## Working Papers
