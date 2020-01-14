@@ -28,6 +28,9 @@ I graduated with a Bachelor of Science in Biology in 2012 from the *Universidad 
 
 If you are interested, you can download my CV at the bottom of this page. Feel free to contact me to discuss any of my past or current projects and please keep in mind that the most recent ones might not be there. On my [GitHub](https://github.com/jepa?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=){target="_blank"} profile you will find some of my scripts revealing my computer programming skills.
 
+<center>
+<a button type="button" class="btn btn-primary" href= "Data/CV.PalaciosAbrantes.pdf" >Download Full CV</a></button>
+</center>
 ----
 
 ## Current Research Projects 
@@ -76,10 +79,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
       
 
 ## Publications in Scientific Journals
-
 <center>
-<a button type="button" class="btn btn-primary" href= "Data/CV.PalaciosAbrantes.pdf" >Download Full CV</a></button>
-
 <a button type="button" class="btn btn-primary" href= "https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en" >Google Schoolar Profile</a></button>
 
 </center>
@@ -119,10 +119,11 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <center>
 <!-- Original article -->
 <a span class="label label-primary" href= "Original_Articles/Pinsky_etal_2018.pdf" target="_blank">Full Paper</span></a>
-<!-- Spanish version -->
-<a span class="label label-success" href= "Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a>
 <!-- Press -->
 <a span class="label label-primary" href= "https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment" target="_blank">National Geographic</span></a>
+<!-- Spanish version -->
+<a span class="label label-success" href= "Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a>
+
 
 </center>
 
