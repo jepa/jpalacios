@@ -79,6 +79,9 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
       
 
 ## Publications in Scientific Journals
+
+<!-- NOTE: Use Harvard Bou. style -->
+
 <center>
 <a button type="button" class="btn btn-primary" href= "https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en" >Google Schoolar Profile</a></button>
 
@@ -86,12 +89,38 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2020
 
-- Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Alvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, doi:10.1093/icesjms/fsz247.
+<!-- - **Palacios-Abrantes J.,** U. Sumaila R., and William W. L. Cheung. 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology & Society* -->
+
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+
+<!-- </center> -->
+
+<!-- - U. Sumaila R., **Palacios-Abrantes J.,** and William W. L. Cheung. 2020. Climate change, shifting threat points and the management of transboundary fish stocks. *Ecology & Society* -->
+
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+
+<!-- </center> -->
+
+- Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485. DOI: doi:10.1093/icesjms/fsz247
 
 <!-- Paper Links -->
 <center>
 <!-- Original article -->
 <a span class="label label-primary" href= "https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsz247/5704875" target="_blank">Full Paper</span></a>
+
+</center>
 
 ### 2019
 
@@ -102,34 +131,37 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <!-- Original article -->
 <a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<a span class="label label-primary" href= "http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/" target="_blank">UBC Stories</span></a>
+<a span class="label label-info" href= "http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/" target="_blank">UBC Stories</span></a>
 <!-- Spanish version -->
 <a span class="label label-success" href= "Translations/Metadata/Metadata_Esp.html" target="_blank">Artículo en Español</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/metadatamexico" target="_blank"> Code </span></a>
 
+</center>
 
 ### 2018
 
-- **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. & Molina R. (2018) Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
+- **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. and Molina R. 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
 
 <!-- Paper Links -->
 <center>
 <!-- Original article -->
 <a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209431" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<!-- <a span class="label label-primary" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> -->
+<!-- <a span class="label label-info" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> -->
 <!-- Spanish version -->
 <a span class="label label-success" href= "Translations/Callo_hacha/Callo_de_Hacha_Esp.html" target="_blank">Artículo en Español</span></a>
 
 </center>
 
-- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J. & Cheung W.L. (2018) Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+- Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J. and Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
 <!-- Paper Links -->
 <center>
 <!-- Original article -->
 <a span class="label label-primary" href= "Original_Articles/Pinsky_etal_2018.pdf" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<a span class="label label-primary" href= "https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment" target="_blank">National Geographic</span></a>
+<a span class="label label-info" href= "https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment" target="_blank">National Geographic</span></a>
 <!-- Spanish version -->
 <a span class="label label-success" href= "Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a>
 
@@ -138,7 +170,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2017
 
-- **Palacios-Abrantes J.**, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. & Gazga-Urioste C. (2017) Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6. 
+- **Palacios-Abrantes J.**, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. and Gazga-Urioste C. 2017. Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6. 
 
 <!-- Paper Links -->
 <center>
@@ -148,9 +180,10 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <!-- <a span class="label label-success disabled" href= "Translations/Nutritional_Hub_Esp.pdf" >Artículo en Español</span></a> -->
 
 </center>
+
 ### 2016
 
-- **Palacios-Abrantes J.,** Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. & Urbano B. (2016) Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008 
+- **Palacios-Abrantes J.,** Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. and Urbano B. 2016. Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008 
 
 <!-- Paper Links -->
 <center>
@@ -164,9 +197,9 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2013
 
-- Ruiz V. M., Aguirre H. D., Martínez B., **Palacios-Abrantes J.** & Vargas, N. (2013) Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079. 
+- Ruiz V. M., Aguirre H. D., Martínez B., **Palacios-Abrantes J.** and Vargas, N. 2013. Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079. 
 
-- Melo V., Jiménez H., **Palacios-Abrantes J.** & Barreda T. Q. (2013) Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.
+- Melo V., Jiménez H., **Palacios-Abrantes J.** and Barreda T. Q. 2013. Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.
 
 ---- 
 
