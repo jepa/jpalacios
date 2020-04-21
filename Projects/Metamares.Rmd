@@ -17,7 +17,10 @@ output:
 
 
 <center>
-<img src="Projects_Images/Time_Plot.png" width="600px">
+<!-- <img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0216723.g005" width="500px"> -->
+
+Geographic location of metadata according to sub-regions and research category.
+DOI: 10.1371/journal.pone.0216723.g005
 
 </center>
 
@@ -41,6 +44,11 @@ The Meta-database of Marine Research in Mexico project aims to improve access to
 <a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
 <!-- Spanish version -->
 <a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Metadata/Metadata_Esp.html" target="_blank">Artículo en Español</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/metadatamexico" target="_blank">Code</span></a> 
+<!-- Data -->
+ <a span class="label label-warning" href= "https://datadryad.org/stash/dataset/doi:10.5061/dryad.pt80482" target="_blank">Data</span></a>
+
 </center>
 
 ## Working Papers
