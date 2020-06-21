@@ -35,11 +35,39 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 
 ## Working Papers
 
-- **Palacios-Abrantes J.**, Sumaila R., Cheung W.L. Future Scenarios for Transboundary Fisheries Management in Changing Oceans: Gauging the Biological Tides
+- U. Sumaila R., **Palacios-Abrantes J.,** and Cheung W.W. L. Climate change, shifting threat points and the management of transboundary fish stocks.
+
+- **Palacios-Abrantes J.,** U. Sumaila R., and Cheung W.W.L. Challenges to transboundary fisheries management in North America under climate change.
+
+- **Palacios-Abrantes J.**, Reygondeau G., Wabnitz C., and Cheung W.W.L. Marine species do not need visas: the transboundary nature of the world’s exploited marine species.
 
 ## Publications
 
-- Malin L. Pinsky, Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L (2018) Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+<!-- - **Palacios-Abrantes J.,** U. Sumaila R., and Cheung W.W.L. 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology & Society* -->
+
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+
+<!-- </center> -->
+
+<!-- - U. Sumaila R., **Palacios-Abrantes J.,** and Cheung W.W. L. 2020. Climate change, shifting threat points and the management of transboundary fish stocks. *Ecology & Society* -->
+
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+
+<!-- </center> -->
+
+- Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
 <center>
 
