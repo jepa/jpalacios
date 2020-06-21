@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Investigación</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Juliano Palacios Abrantes</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="Home.html">Bienvenidos</a>
+</li>
+<li>
+  <a href="Research.html">Investigación</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    No tan serio
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="Diving.html">Buceo</a>
+    </li>
+    <li>
+      <a href="Travel.html">Viajando-ando</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="Contact.html">Contacto</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Investigación</h1>
+
+</div>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
+<p><img src="../Images/Panga.jpg" width="800px"></p>
+<p><br></p>
+<div id="quick-intro" class="section level2">
+<h2>Quick Intro</h2>
+<p>I graduated with a Bachelor of Science in Biology in 2012 from the <em>Universidad Autónoma Metropolitana</em> in Mexico City. During my time as an undergrad I did research aiming to improve food security in coastal communities in Mexico. After my undergrad, I worked at the Global Institute for Sustainability and managed my own diving center in Mexico City. In 2014 I was honored with a <a href="http://www.laff.bren.ucsb.edu/" target="_blank">Latin American Fisheries Fellowship</a> by the Walton Foundation to study a Masters in Environmental Science &amp; Management from the Bren School of Environmental Science and Management at the University of California, Santa Barbara. My <a href="http://www.esm.ucsb.edu/research/2016Group_Projects/documents/CopyofFinal_INTERTIDALFINALREPORT_Bren2016.pdf" target="_blank">group dissertation</a> worked along with the Bureau of Energy and Management of the United States and focused on the development of a citizen science monitoring protocol for the rocky intertidal of the West Coast of the US. Currently, I’m doing a Ph.D. at the University of British Columbia in Vancouver, Canada. Under the guidance of Dr. William Cheung, my work looks at the socio-ecological implications of climate change on fish that move freely between the national waters (transboundary) of Canada, the United States and Mexico.</p>
+<p>If you are interested, you can download my CV at the bottom of this page. Feel free to contact me to discuss any of my past or current projects and please keep in mind that the most recent ones might not be there. On my <a href="https://github.com/jepa?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=source&amp;language=" target="_blank">GitHub</a> profile you will find some of my scripts revealing my computer programming skills.</p>
+<center>
+<a button type="button" class="btn btn-primary" href= "../Data/CV.PalaciosAbrantes.pdf" >Download Full CV</a></button>
+</center>
+<hr />
+</div>
+<div id="current-research-projects" class="section level2">
+<h2>Current Research Projects</h2>
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 350px;    /* firefox */
+  }
+</style>
+<div class="col2">
+<!-- Metadatos  -->
+<a href="../Projects/Metamares.html"> <img src="../Images/Research/MetaMares.png" alt="Metamares" class="img-thumbnail" width="300px">
+<div class="caption">
+<p>
+Marine Metadata Mexico
+</p>
+</div>
+<p></a></p>
+<!-- Transboundary  -->
+<a href="../Projects/Transboundary.html"> <img src="../Images/Research/Transboundary_Image.jpg" alt="Transboundary" class="img-thumbnail" width="300px">
+<div class="caption">
+<p>
+Management of Shifting Stocks
+</p>
+</div>
+<p></a></p>
+</div>
+<div class="col1">
+<!-- MPA's  SESYNC s-->
+<a href="../Projects/SESYNC.html"> <img src="http://d2khr93zjdy3w9.cloudfront.net/Website/Official_MPA_map_April2016.png" class="img-thumbnail" alt="SESYNC" width="300px">
+<div class="caption">
+<p>
+MPA’s under Climate Change
+</p>
+</div>
+<p></a></p>
+</div>
+<hr />
+</div>
+<div id="publications-in-scientific-journals" class="section level2">
+<h2>Publications in Scientific Journals</h2>
+<!-- NOTE: Use Harvard Bou. style -->
+<center>
+<p><a button type="button" class="btn btn-primary" href= "https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en" >Google Schoolar Profile</a></button></p>
+</center>
+<div id="section" class="section level3">
+<h3>2020</h3>
+<!-- - **Palacios-Abrantes J.,** U. Sumaila R., and William W. L. Cheung. 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology & Society* -->
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+<!-- </center> -->
+<!-- - U. Sumaila R., **Palacios-Abrantes J.,** and William W. L. Cheung. 2020. Climate change, shifting threat points and the management of transboundary fish stocks. *Ecology & Society* -->
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+<!-- </center> -->
+<ul>
+<li>Andrews, E. J., Harper, S., Cashion, T., <strong>Palacios-Abrantes, J.</strong>, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. <em>ICES Journal of Marine Science</em>, 77 (2), 476–485. DOI: <a href="doi:10.1093/icesjms/fsz247" class="uri">doi:10.1093/icesjms/fsz247</a></li>
+</ul>
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<p><a span class="label label-primary" href= "https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsz247/5704875" target="_blank">Full Paper</span></a></p>
+</center>
+</div>
+<div id="section-1" class="section level3">
+<h3>2019</h3>
+<ul>
+<li><strong>Palacios-Abrantes, J.</strong>, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. <em>PLoS ONE</em>, 14 (6), DOI e0216723.</li>
+</ul>
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<p><a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a> <!-- Press --> <a span class="label label-info" href= "http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/" target="_blank">UBC Stories</span></a> <!-- Spanish version --> <a span class="label label-success" href= "../Translations/Metadata/Metadata_Esp.html" target="_blank">Artículo en Español</span></a> <!-- Github --> <a span class="label label-warning" href= "https://github.com/jepa/metadatamexico" target="_blank"> Code </span></a></p>
+</center>
+</div>
+<div id="section-2" class="section level3">
+<h3>2018</h3>
+<ul>
+<li><strong>Palacios-Abrantes J.</strong>, Herrera-Correal J., Rodríguez S., Brunkow J. and Molina R. 2018. Evaluating the bio-economic performance of a Callo de hacha (<em>Atrina maura, Atrina tuberculosa &amp; Pinna rugosa</em>) fishery restoration plan in La Paz, Mexico. <em>PLoS ONE</em> 13(12): e0209431. DOI: 10.1371/journal.pone.0209431</li>
+</ul>
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<p><a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209431" target="_blank">Full Paper</span></a> <!-- Press --> <!-- <a span class="label label-info" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> --> <!-- Spanish version --> <a span class="label label-success" href= "../Translations/Callo_hacha/Callo_de_Hacha_Esp.html" target="_blank">Artículo en Español</span></a></p>
+</center>
+<ul>
+<li>Pinsky M.L., Reygondeau G., Caddell R., <strong>Palacios-Abrantes J.</strong>, Spijkers J. and Cheung W.L. 2018. Preparing ocean governance for species on the move. <em>Science</em>, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360</li>
+</ul>
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<p><a span class="label label-primary" href= "../Original_Articles/Pinsky_etal_2018.pdf" target="_blank">Full Paper</span></a> <!-- Press --> <a span class="label label-info" href= "https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment" target="_blank">National Geographic</span></a> <!-- Spanish version --> <a span class="label label-success" href= "Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a></p>
+</center>
+</div>
+<div id="section-3" class="section level3">
+<h3>2017</h3>
+<ul>
+<li><strong>Palacios-Abrantes J.</strong>, Melo-Ruiz V., Urbano B., Falcón-Gerónimo J. and Gazga-Urioste C. 2017. Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. Journal of Applied Life Sciences International, 10(3), 1–6.</li>
+</ul>
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<p><a span class="label label-primary" href= "http://doi.org/10.9734/JALSI/2017/31031" target="_blank">Full Paper</span></a> <!-- Spanish version FALTA TERMINAR --> <!-- <a span class="label label-success disabled" href= "Translations/Nutritional_Hub_Esp.pdf" >Artículo en Español</span></a> --></p>
+</center>
+</div>
+<div id="section-4" class="section level3">
+<h3>2016</h3>
+<ul>
+<li><strong>Palacios-Abrantes J.,</strong> Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. and Urbano B. 2016. Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008</li>
+</ul>
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<p><a span class="label label-primary" href= "http://www.davidpublisher.org/index.php/Home/Article/index?id=28446.html" target="_blank">Full Paper</span></a> <!-- Spanish version --> <a span class="label label-success" href= "../Translations/UAM_Pulpos/Iron_Profile_Esp.pdf" target="_blank">Artículo en Español</span></a></p>
+</center>
+</div>
+<div id="section-5" class="section level3">
+<h3>2013</h3>
+<ul>
+<li><p>Ruiz V. M., Aguirre H. D., Martínez B., <strong>Palacios-Abrantes J.</strong> and Vargas, N. 2013. Plaga de ortópteros, recurso de nuetrientes para la población. Entomologia Mexicana (2) 1077–1079.</p></li>
+<li><p>Melo V., Jiménez H., <strong>Palacios-Abrantes J.</strong> and Barreda T. Q. 2013. Fruto de Capulín Prunus Serotina y larvas de Synopsia Mexicanaria W, representan una buena fuente de nutrientes en la dieta cotidiana. Entomologia Mexicana, 12 (2), 1084–1086.</p></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="affiliations" class="section level2">
+<h2>Affiliations</h2>
+<p><br></p>
+<p><a 
+href="http://www.xoc.uam.mx/"> <img src="../Images/Research/Uam_Logo.png" alt="Drawing" style="width: 110px;"/> </a> <a 
+href="http://www.bren.ucsb.edu/"> <img src="../Images/Research/Bren_logo.png" alt="Drawing" style="width: 100px;"/> </a> <a 
+href="http://www.laff.bren.ucsb.edu/"> <img src="../Images/Research/laff_logo.jpeg" alt="Drawing" style="width: 100px;"/> </a> <a 
+href="http://www.coru.oceans.ubc.ca/"> <img src="../Images/Research/CORU_logo.png" alt="Drawing" style="width: 100px;"/> </a> <a 
+href="http://www.oceancanada.org/"> <img src="../Images/Research/OC_logo.png" alt="Drawing" style="width: 200px;"/> </a> <a 
+href="https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to"> <img src="../Images/Research/sesync_logo.jpg" alt="Drawing" style="width: 100px;"/> </a></p>
+<br>
+<hr>
+<center>
+<p><strong>Contact</strong></p>
+Juliano Palacios Abrantes | <a href="mailto:j.palacios@oceans.ubc.ca" class="email">j.palacios@oceans.ubc.ca</a> • <a href="https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&amp;hl=en" target="_blank">Google Scholar</a>
+<div id="google_translate_element">
+
+</div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

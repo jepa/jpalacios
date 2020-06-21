@@ -1,0 +1,23 @@
+name: "Hola mundo"
+navbar:
+  title: "Juliano Palacios Abrantes"
+  left:
+    - text: "Bienvenidos"
+      href: Home.html
+    - text: "Investigación"
+      href: Research.html
+    - text: "No tan serio"
+      menu:
+        - text: "Buceo"
+          href: Diving.html
+        - text: "Viajando-ando"
+          href: Travel.html
+    - text: "Contacto"
+      href: Contact.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html

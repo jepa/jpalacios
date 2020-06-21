@@ -1,0 +1,33 @@
+---
+title: "Contacto"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+<center>
+<img src="../Images/Contacto.jpg" alt="Drawing" style="width: 700px;"/>
+
+<center> 
+<br>
+**Correo electrónico:** j.palacios@oceans.ubc.ca
+<br>
+**Usuario de Skype**: jepa_88
+<br>
+**Dirección física:** Changing Oceans Research Unit, The Institute for Oceans and Fisheries, University of British Columbia. 2202 Main Mall, Vancouver, BC V6T 1Z4
+
+<center>
+**Ligas externas:**
+
+<a 
+href="https://github.com/jepa">
+<img src="../Images/Contact/Github_Logo.png" alt="Drawing" style="width: 50px;"/>
+</a> 
+<a 
+href="https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en">Google Scholar
+</a>
+<a 
+href="https://twitter.com/julianop_a">
+<img src="../Images/Contact/Twitter_Logo.png" alt="Drawing" style="width: 50px;"/>
+</a> 
