@@ -3,22 +3,12 @@ title: "Análisis nutricional de *Octopus hubbsorum B* (Cephalopoda: Octopodidae
 author: "Palacios-Abrantes*, V. Melo-Ruiz, B. Urbano, N. Vargas-Martínez, J. J. Falcón-Gerónimo y C. Gazga-Urioste"
 date: "2017"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
     toc: true
     toc_float: true
-  pdf_document: default
 ---
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-105699898-4');
-</script>
 
 - **NOTA: esta es una traducción al español del artículo** *Nutritional Analysis of Octopus hubbsorum B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México* escrito por Juliano Palacios-Abrantes, Virginia Melo-Ruiz, Brian Urbano, Jimena Falcón-Gerónimo J. y César Gazga-Urioste y que se puede encontrar en el siguiente [^link](http://doi.org/10.9734/JALSI/2017/31031).
 
@@ -28,37 +18,37 @@ output:
 
 # INTRODUCCIÓN
 
-México es un país con serios problemas relacionados con nutrición, principalmente en relación con el déficit de proteínas y energía y el bajo consumo de minerales y vitaminas. Esto ha contribuido a que México ocupe el segundo lugar en obesidad adulta (30% de la población) dentro de los países de la Organización para la Cooperación y el Desarollo (OCDE) y el primero en obesidad infantil entre 5 y 11 años [^1]. La mayoría de las veces, dicho déficit es tratado mediante un alto consumo de carbohidratos que resultan en calorías de baja calidad y que generan, como consequente, mala nutrición y otros problemas de salud [^2]. Así mismo, la mala nutrición genera dificultades durante las primeras etapas de crecimiento y tiene un impacto importante en la sociedad [3,4].
+México es un país con serios problemas relacionados con nutrición, principalmente en relación con el déficit de proteínas y energía y el bajo consumo de minerales y vitaminas. Esto ha contribuido a que México ocupe el segundo lugar en obesidad adulta (30% de la población) dentro de los países de la Organización para la Cooperación y el Desarollo (OCDE) y el primero en obesidad infantil entre 5 y 11 años [^1]. La mayoría de las veces, dicho déficit es tratado mediante un alto consumo de carbohidratos que resultan en calorías de baja calidad y que generan, como consequente, mala nutrición y otros problemas de salud [^2]. Así mismo, la mala nutrición genera dificultades durante las primeras etapas de crecimiento y tiene un impacto importante en la sociedad [^3],[^4].
 
-Los pulpos son moluscos cefalópodos que se distribuyen en la mayor parte del litoral mexicano y representan una buena fuente de nutrientes [^5]. México tiene una línea costera de 11,200 km [^6] y ha explotado este recurso desde mediados del siglo XX [^7]. Desde entonces, ésta pesquería ha tenido una expansión progresiva, convirtiéndose hoy en el cuarto recurso pesquero más rentable del país. En el litoral mexicano se han registrado al rededor de 15 especies diferentes de pulpos, sin embargo, de acuerdo a las autoridades mexicanas, sólo cuatro de ellas son pescadas [^8-11] siendo *Octopus maya* y *O. vulgaris* las dos especies principales [^12]. La diversidad de pulpos del Pacífico mexicano está comprendida entre seis y nueve especies de las cuales se pescan principalmente *O. bimaculatus* y *O. hubbsorum* [^11], aunque también es común que se capture *O. macropus* [^13]. *O. hubbsorum* representa la principal pesquería de pulpo en la costa del Pacífico [^14], muchas veces como forma de subsistencia para comunidades costeras de bajos recursos. La pesquería se realiza por inmersión entre 0-10 metros de profundidad y los especímenes se capturan manualmente [^13]. La temporada de pesca es de marzo a octubre, pero varía a nivel local, presentando una mayor actividad pesquera de abril a mayo [^12]. 
+Los pulpos son moluscos cefalópodos que se distribuyen en la mayor parte del litoral mexicano y representan una buena fuente de nutrientes [^5]. México tiene una línea costera de 11,200 km [^6] y ha explotado este recurso desde mediados del siglo XX [^7]. Desde entonces, ésta pesquería ha tenido una expansión progresiva, convirtiéndose hoy en el cuarto recurso pesquero más rentable del país. En el litoral mexicano se han registrado al rededor de 15 especies diferentes de pulpos, sin embargo, de acuerdo a las autoridades mexicanas, sólo cuatro de ellas son pescadas [^8],[^9],[^10],[^11] siendo *Octopus maya* y *O. vulgaris* las dos especies principales [^12]. La diversidad de pulpos del Pacífico mexicano está comprendida entre seis y nueve especies de las cuales se pescan principalmente *O. bimaculatus* y *O. hubbsorum*$^{11}$, aunque también es común que se capture *O. macropus* [^13]. *O. hubbsorum* representa la principal pesquería de pulpo en la costa del Pacífico [^14], muchas veces como forma de subsistencia para comunidades costeras de bajos recursos. La pesquería se realiza por inmersión entre 0-10 metros de profundidad y los especímenes se capturan manualmente$^{13}$. La temporada de pesca es de marzo a octubre, pero varía a nivel local, presentando una mayor actividad pesquera de abril a mayo$^{12}$. 
 
-La especie de pulpo *Octopus hubbsorum* se describió primero en el área sur del Golfo de California y su distribución general es desde Los Cabos (Baja California Sur) hasta el estado de Guerrero [^9], aun que han habido registros más al sur (Salina Cruz, Oaxaca) [^15] y existen razones para creer que también podría estar presente en la costa de Chiapas [^16]. Es una especie que se reproduce una sola vez en su ciclo de vida (semelparidad), con un tamaño promedio de 9 cm de longitud del manto; su cuerpo está redondeado con brazos fuertes que pueden ser de tres a cuatro veces más grandes que la cabeza [^9]. La temporada reproductiva varía localmente, generalmente asociada a aguas cálidas donde los individuos se acercan a la costa para desovar [16]. La mayoría de los estudios sobre pulpo en México están dirigidos a comprender la biología de las distintas espécies o bien, estudios relacionados a su aprovechamiento pesquero [^12][^13]. Sin embargo, no hay estudios que se enfoquen en *O. hubbsorum* como fuente de proteína y como una alternativa para la dieta de la población mexicana. Por lo tanto, el objetivo de este estudio fue establecer los valores de micro y macro nutrientes de *O. hubbsorum* y evaluar su contribución potencial a la dieta mexicana.
+La especie de pulpo *Octopus hubbsorum* se describió primero en el área sur del Golfo de California y su distribución general es desde Los Cabos (Baja California Sur) hasta el estado de Guerrero$^{9}$, aun que han habido registros más al sur (Salina Cruz, Oaxaca) [^15] y existen razones para creer que también podría estar presente en la costa de Chiapas [^16]. Es una especie que se reproduce una sola vez en su ciclo de vida (semelparidad), con un tamaño promedio de 9 cm de longitud del manto; su cuerpo está redondeado con brazos fuertes que pueden ser de tres a cuatro veces más grandes que la cabeza$^{9}$. La temporada reproductiva varía localmente, generalmente asociada a aguas cálidas donde los individuos se acercan a la costa para desovar$^{16}$. La mayoría de los estudios sobre pulpo en México están dirigidos a comprender la biología de las distintas espécies o bien, estudios relacionados a su aprovechamiento pesquero$^{12,13}$. Sin embargo, no hay estudios que se enfoquen en *O. hubbsorum* como fuente de proteína y como una alternativa para la dieta de la población mexicana. Por lo tanto, el objetivo de este estudio fue establecer los valores de micro y macro nutrientes de *O. hubbsorum* y evaluar su contribución potencial a la dieta mexicana.
 
 # MATERIALES Y MÉTODOS
 
 ## Colección de muestras
 
-Cinco especímenes de *O. hubbsorum* se obtuvieron en noviembre de 2008 inmediatamente después de la captura por pescadores locales de Acapulco, Guerrero, México. Los organismos fueron identificados utilizando literatura estándar [^8] y transportados por tierra en hielo a temperaturas < 0 ºC al laboratorio de bromatología de la Universidad Autónoma Metropolitana (Xochimilco), Ciudad de México, donde se mantuvieron congelados hasta la preparación de la muestra. Posteriormente, los ocho tentáculos de cada espécimen fueron cortados del manto y cortados en cuadrados de aproximadamente 4 cm (400 g) para realizar el análisis proximal para la cuantiicación química de micro y macro nutrientes. Para dicho análisis sólo se utilizaron los tentáculos de los individuos.
+Cinco especímenes de *O. hubbsorum* se obtuvieron en noviembre de 2008 inmediatamente después de la captura por pescadores locales de Acapulco, Guerrero, México. Los organismos fueron identificados utilizando literatura estándar$^{8}$ y transportados por tierra en hielo a temperaturas < 0 ºC al laboratorio de bromatología de la Universidad Autónoma Metropolitana (Xochimilco), Ciudad de México, donde se mantuvieron congelados hasta la preparación de la muestra. Posteriormente, los ocho tentáculos de cada espécimen fueron cortados del manto y cortados en cuadrados de aproximadamente 4 cm (400 g) para realizar el análisis proximal para la cuantiicación química de micro y macro nutrientes. Para dicho análisis sólo se utilizaron los tentáculos de los individuos.
 
 ## Contenido de humedad
 
-El contenido de humedad de la muestra se determinó usando el método de secado directo. Una muestra homogeneizada (400 g) se secó en un horno a 60 ºC durante 36 horas. La muestra se trituró en un *Willey Mill* y luego se pasó a través de una malla 60'. El polvo fino obtenido se colectó y fue utilizado para los análisis posterióres [^17].
+El contenido de humedad de la muestra se determinó usando el método de secado directo. Una muestra homogeneizada (400 g) se secó en un horno a 60 ºC durante 36 horas. La muestra se trituró en un *Willey Mill* y luego se pasó a través de una malla 60'. El polvo fino obtenido se colectó y fue utilizado para los análisis posterióres[^17].
 
 ## Contenido de proteína
 
-El contenido de proteína de la muestra se determinó siguiendo el método de *Kjeldahl* [^18]. La muestra (1 g) se digirió con 15 ml de $H_2SO_4$ concentrado, usando un digestor de bloques de aluminio calentado eléctricamente. El digesto resultante se diluyó y luego se alcalinizó con 50 ml de NaOH al 40%. Esto fue seguido por una destilación rápida de vapor de amoniaco en una concentración de 25 ml de ácido bórico al 4% para la titulación manual con 0.2 N HCl. Se usó un factor de conversión de 6.25 para relacionar el contenido de nitrógeno medido en contenido de proteína. Todas las muestras se analizaron por triplicado y los resultados se expresaron como g / 100 g de base seca de la muestra [^19][^20].
+El contenido de proteína de la muestra se determinó siguiendo el método de *Kjeldahl*[^18]. La muestra (1 g) se digirió con 15 ml de $H_2SO_4$ concentrado, usando un digestor de bloques de aluminio calentado eléctricamente. El digesto resultante se diluyó y luego se alcalinizó con 50 ml de NaOH al 40%. Esto fue seguido por una destilación rápida de vapor de amoniaco en una concentración de 25 ml de ácido bórico al 4% para la titulación manual con 0.2 N HCl. Se usó un factor de conversión de 6.25 para relacionar el contenido de nitrógeno medido en contenido de proteína. Todas las muestras se analizaron por triplicado y los resultados se expresaron como g / 100 g de base seca de la muestra[^19][^20].
 
 ## Contenido de lípidos
 
-La determinación del contenido de lípidos se llevó a cabo mediante el método de extracción semicontinua con disolventes. La muestra (10 g) fue extraída con 180 ml de éter de petróleo en un aparato *Soxhlet* (Sigma-Aldrich, México, México) durante 10 h. El éter de petróleo se eliminó por evaporación y el residuo de lípido se pesó. Todas las muestras se analizaron por triplicado y los resultados se expresaron como g / 100 g de base seca de la muestra [^17] .
+La determinación del contenido de lípidos se llevó a cabo mediante el método de extracción semicontinua con disolventes. La muestra (10 g) fue extraída con 180 ml de éter de petróleo en un aparato *Soxhlet* (Sigma-Aldrich, México, México) durante 10 h. El éter de petróleo se eliminó por evaporación y el residuo de lípido se pesó. Todas las muestras se analizaron por triplicado y los resultados se expresaron como g / 100 g de base seca de la muestra$^{17}$.
 
 ## Contenido de fibra 
 
-La determinación del contenido de fibra de la muestra (10 g) se realizó mediante la digestión de hidrólisis ácida con $H_2SO_4$ 0.255 N seguido por una digestión de hidrólisis alcalina con NaOH 0.313 N en un aparato Labconco (corporación Labconco, ciudad de Kansas, Mo. USA). El residuo insoluble se recogió por filtración, se secó y se pesó. La muestra se analizó por triplicado y los resultados se expresaron como g / 100 g de base seca [^17].
+La determinación del contenido de fibra de la muestra (10 g) se realizó mediante la digestión de hidrólisis ácida con $H_2SO_4$ 0.255 N seguido por una digestión de hidrólisis alcalina con NaOH 0.313 N en un aparato Labconco (corporación Labconco, ciudad de Kansas, Mo. USA). El residuo insoluble se recogió por filtración, se secó y se pesó. La muestra se analizó por triplicado y los resultados se expresaron como g / 100 g de base seca$^{17}$.
 
 ## Contenido de Minerales
 
-El contenido de cenizas en la muestra (10 g) se determinó usando el método de cenizas en seco. La muestra se incineró en un horno de mufla ajustado a 600 °C durante 8 horas hasta que se obtuvo una ceniza blanquecina / grisácea. La materia orgánica se quemó y el material inorgánico remanente se enfrió y se pesó. La solución de ceniza para la determinación de la composición mineral se preparó disolviendo la ceniza resultante en 100 ml de HCl1N [^21]. Se tomaron 50 ml para la determinación del contenido de calcio y hierro por espectroscopía de absorción atómica [^22] mientras que el fósforo se determinó por colorimetría [^23]. Todas las muestras se analizaron por triplicado y los resultados se expresaron en mg / 100 g de muestra para contenido de ceniza y mg / 100 g de muestra para cada elemento mineral. 
+El contenido de cenizas en la muestra (10 g) se determinó usando el método de cenizas en seco. La muestra se incineró en un horno de mufla ajustado a 600 °C durante 8 horas hasta que se obtuvo una ceniza blanquecina / grisácea. La materia orgánica se quemó y el material inorgánico remanente se enfrió y se pesó. La solución de ceniza para la determinación de la composición mineral se preparó disolviendo la ceniza resultante en 100 ml de HCl1N[^21]. Se tomaron 50 ml para la determinación del contenido de calcio y hierro por espectroscopía de absorción atómica[^22] mientras que el fósforo se determinó por colorimetría[^23]. Todas las muestras se analizaron por triplicado y los resultados se expresaron en mg / 100 g de muestra para contenido de ceniza y mg / 100 g de muestra para cada elemento mineral. 
 
 ## Contenido total de carbohidratos disponible
 
@@ -70,24 +60,90 @@ donde $Per_p$, $Per_l$, $Per_m$ y $Per_f$ son los porcentajes de proteína, líp
 
 # RESULTADOS Y DISCUSIÓN
 
-## Contenido de humedad 
+## Humedad 
 
-El análisis de humedad mostró que *O. hubbsorum* tiene 64.15% de agua y 35.85% de materia seca (Tabla 1). En comparación con los estudios realizados por Cabello et al. [5] y Valenzuela et al. [24] donde fueron analizados diversas especies de moluscos, *O. hubbsorum* contiene menos humedad que cualquier molusco analizado por dichos autores, incluyendo otros pulpos como *O. vulgaris* que contiene 79.65% de agua. Esto significa que la cantidad de nutrientes contenidos en *O. hubbsorum* es mayor por unidad de peso que la que podría encontrarse en otras especies, lo que representa una ventaja ya que sería posible obtener niveles más altos de nutrientes con porciones de alimentos más pequeñas.
+Los resultados del análisis de humedad muestran que *O. hubbsorum* tiene 64.15% de agua y 35.85% de materia seca (Tabla 1). En comparación con los estudios realizados por Cabello *et al*.$^{15}$ y Valenzuela *et al*.[^24] donde fueron analizados diversas especies de moluscos, *O. hubbsorum* contiene menos humedad que cualquier molusco analizado por dichos autores, incluyendo otros pulpos como *O. vulgaris* que contiene 79.65% de agua. Esto significa que la cantidad de nutrientes contenidos en *O. hubbsorum* es mayor por unidad de peso que la que podría encontrarse en otras especies, lo que representa una ventaja ya que sería posible obtener niveles más altos de nutrientes con porciones de alimentos más pequeñas.
 
-#### AQUI ####
+## Proteína 
 
-## Contenido de proteína 
+El contenido de proteína fue 69.38% (Tabla 1), por lo que *O.hubbsorum* puede considerarse una buena fuente de proteínas en comparación con otras especies como *O. vulgaris* del Pacífico colombiano o diferentes moluscos estudiados previamente por otros autores$^{5,24}$. Esto no solo demuestra el alto valor nutricional de esta especie, sino también una gran diferencia dentro de las especies de pulpo$^{5}$. Así mismo, los resultados coinciden con otros estudios donde se determinó que los valores nutricionales de distintos animales son influenciados por distintas variables como hábitat, la estación del año, el género del animal y su dieta$^{5}$,[^25],[^26],[^27]. Además de lo anterior, de acuerdo a nuestros resultados *O. hubbsorum* presenta un alimento más rico en proteína que otrascarnes de consumo común como la carne de vaca o de pollo[^28],[^29]. Por lo tanto, en términos de dieta humana, *O. hubbsorum* representa un alimento altamente nutritivo que podría ayudar a disminuir la incidencia y la prevalencia de desnutrición proteicocalórica.
 
-El contenido de proteína fue 69.38% (Tabla 1), por lo que O.hubbsorum B puede considerarse una buena fuente de proteínas en comparación con otras especies como O. vulgaris del Pacífico colombiano o diferentes moluscos estudiados previamente para otros autores [5,24]. Esto sugiere, no solo el alto valor nutricional de esta especie, sino también una gran diferencia dentro de las especies de pulpo [5]. Esto ha sido estudiado previamente, donde los hallazgos tienen...
+## Lípidos 
 
-...mostró que los valores nutricionales de los animales tienden a cambiar según variables como el hábitat, la estación, el sexo y la dieta [5,25-27]. Además de lo anterior, O. hubbsorum B tiene más proteína que la carne de vaca o pollo [28,29]. Por lo tanto, como parte de la dieta, O. hubbsorum B representa un alimento altamente nutritivo que podría ayudar a disminuir la incidencia y la prevalencia de desnutrición proteicocalórica.
+A pesar de presentar un contenido relativamente bajo de lípidos (2.77% contra 5% en la carne de vaca y 7.75% en el pollo) *O. hubbsorum* tiene el doble de lípidos que *O. vulgaris*$^{5}$. Es importante recordar que ningún alimento tiene todos los nutrientes necesarios para una dieta sana y equilibrada, sin embargo, los resultados obtenidos demuestran que *O. hubbsorum* podría considerarse una alternativa para proporcionar una dieta adecuada y variada con el fin de mejorar y mantener la salud.
 
-## Contenido de lípidos 
+## Fibra
 
-Como se puede ver en la Tabla 1, el contenido de lípidos es bajo (2.77%) . Sin embargo, O. hubbsorum B tiene el doble de lípidos en comparación con los datos obtenidos por Cabello et al. [5] para O. vulgaris. Por otro lado, según otros autores, la carne de vaca y el pollo contienen 5 y 7,75% de lípidos, respectivamente. Es importante recordar que ningún alimento tiene todos los nutrientes necesarios para una dieta sana y equilibrada. Sin embargo, los resultados obtenidos demuestran que O. hubbsorum B podría considerarse una alternativa para proporcionar una dieta adecuada y variada con el fin de mejorar y mantener la salud.3.4 Contenido de fibrahubbsorum B es bajo (1,4 mg / 100 g), este animal podría ser una buena fuente para este mineral.
+De acuerdo con nuestros resultados *O.hubbsorum* no tiene fibra, por lo que sería necesario suministrar fibra de otra fuente. Esto es importante debido a los valiosos beneficios que este componente puede proporcionar. Por ejemplo, estudios epidemiológicos sugieren que el riesgo de contraer cáncer de colon disminuye por el consumo de fibra y, por lo tanto, el consumo recomendado es entre 20 y 30 g de fibra por día. Además, algunas fuentes de fibra absorben los ácidos biliares, el principal metabolito del colesterol, por lo que el consumo de fibra puede ser útil para disminuir los niveles de colesterol en la sangre. Así mismo, otros estudios demuestran que el consumo de fibra puede ser un medio eficaz para reducir la presión arterial y disminuir los riesgos de enfermedad coronaria [^30][^31].
 
-De acuerdo con elO.hubbsorum B no tiene fibra, por lo que sería necesario suministrar fibra de otra fuente. Esto es importante debido a los valiosos beneficios que este componente puede proporcionar. En este contexto, los estudios epidemiológicos sugieren que el riesgo de contraer cáncer de colon disminuye por el consumo de fibra y, por lo tanto, entre 20 y 30 g por persona.
+## Minerales 
+
+Los resultados de contenido de minerales de la muestra señalaron un contenido de 23.33 $\pm$ 3.06 mg/100 g de calcio (Ca), 1.40 $\pm$ 0.26 de hierro (Fe) y 120.67 $\pm$ 1.15 de potasio (P). Mientras que los valores de Ca son satisfactorios para la dieta humana, las concentraciones de Fe y P mostraron niveles de minerales bajos para la necesidades diarias de un adulto, sin emabrgo éstos niveles fueron adecuados en comparación con otros grupos de moluscos$^{5,24}$.
+
+La cantidad de calcio es suficiente para satisfacer las necesidades de la dieta humana (1,2 mg / día), que es de gran importancia debido a las valiosas funciones de este mineral. Por ejemplo, el Ca funciona como primer y segundo mensajero, que está relacionado con muchos procesos importantes como la regulación del calcio intracelular y la activación de muchas respuestas fisiológicas que implican la contracción muscular, la liberación de hormonas y neurotransmisores, el metabolismo del glucógeno y la diferenciación celular. También activa diferentes enzimas como proteasas y deshidrogenasas [^35]. Si bien el hierro es un mineral importante para el desarrollo del cuerpo humano y la prevención de la anemia [^32], no es necesario consumirlo en grandes cantidades [^33],[^34] ya que éste se encuentra almacenado en el cuerpo humano. La dosis diaria recomendada para adultos de dicho mineral es de 6 a 8 mg/día por lo que *O. hubbsorum* podría ser una buena fuente de hierro una vez combinando con otros alimentos ricos en hierro. Asímismo,la cantidad de fósforo en *O. hubbsorum* resultó no ser suficiente para satisfacer los requerimientos humanos (580 mg / día)[^36]. Sin embargo, como se mencionó anteriormente, no hay alimentos capaces de proporcionar todos los nutrientes e incluso menos en las proporciones adecuadas. Por lo tanto, es necesario agregar algunas otras fuentes para obtener el fósforo necesario. En este contexto, la dieta mexicana incluye frijoles, un alimento con alto contenido de fósforo$^{4}$ que podría ayudar a superar la falta de éste en *O. hubbsorum* 
+
+## Carbohidratos 
+El total de carbohidrátos solubles fue de 20.53 g7100 g, sin embargo debido a la alta cantidad de proteínas en la muestra es posible que el organismo transforme elexceso de proteínas en carbohidratos a travez de la gluconeogénesis actuando así como fuente de energía. De esta manera, fuentes inmediatas de energía, como los carbohidratos, podrían obtenerse a través de procesos metabólicos.
+
+# CONCLUSIÓN
+El pulpo *Octopus hubbsorum* puede considerarse una fuente bastante buena de proteínas. Esto podría ser útil para disminuir la desnutrición proteico-calórica de las personas que viven en las zonas costeras. Sin embargo, a pesar de su riqueza nutricional, el pulpo debe consumirse junto con otras fuentes nutricionales para obtener una dieta balanceada. 
 
 
-día de fibra se recomiendan. Además; algunas fuentes de fibra absorben los ácidos biliares, el principal metabolito del colesterol, por lo que el consumo de fibra puede ser útil para disminuir los niveles de colesterol en la sangre. Además, otros estudios demostraron que el consumo de fibra puede ser un medio eficaz para reducir la presión arterial y disminuir los riesgos de enfermedad coronaria [30,31] .3.5 Contenido de minerales En la Tabla 2, se puede observar que el contenido de minerales como ya que el hierro es más bajo que el requerido para humanos (6-8 mg / día). Sin embargo, aunque el hierro es un mineral importante para el desarrollo del cuerpo humano y la prevención de la anemia [32], no es necesario consumirlo en grandes cantidades [33,34] porque está muy almacenado en el cuerpo humano. Por lo tanto, incluso el valor de hierro reportado para O. * Los valores son la media de la determinación por triplicado expresada en base seca.Proteína = Nitrógeno (tot) x 6.25E aunque la cantidad de hierro encontrada es baja, los resultados mostraron niveles adecuados de minerales para los humanos en comparación con otros grupos de moluscos [5,24]. Por otro lado, la cantidad de calcio en O. hubbsorum B es suficiente para satisfacer las necesidades de la dieta humana (1,2 mg / día), que es de gran importancia debido a las valiosas funciones de este mineral, como su participación como primer y segundo mensajero, que está relacionado con muchos procesos importantes como la regulación del calcio intracelular y la activación de muchas respuestas fisiológicas que implican la contracción muscular, la liberación de hormonas y neurotransmisores, el metabolismo del glucógeno y la diferenciación celular. También activa diferentes enzimas como proteasas y deshidrogenasas [35]. Finalmente, la cantidad de fósforo en O. hubbsorum B no será suficiente para satisfacer los requerimientos humanos (580 mg / día) [36]. Sin embargo, como se mencionó anteriormente, no hay alimentos capaces de proporcionar todos los nutrientes e incluso menos en las proporciones adecuadas. Por lo tanto, es necesario agregar algunas otras fuentes para obtener el fósforo necesario. En este contexto, la dieta mexicana incluye frijoles, un alimento con alto contenido de fósforo [4] que podría ayudar a superar la falta de éste en O. hubbsorum B. Tabla 2. Contenido de minerales de O. pubsorum B. Contenido mineral (mg / 100 g) Ca 24.33 ± 3.06 Fe 1.40 ± 0.26P 120.67 ± 1.153.6 Contenido total disponible de carbohidratos. La cantidad total de carbohidratos solubles encontrados es de 20. 53 g / 100 g, sin embargo, debido al alto análisis realizado, Palacios-Abrantes et al.; JALSI, 10 (3): 1-6, 2017; Artículo n. JALSI.31031 NutrientMoistureDry materia Protein * Materia inorgánica * Fibra * Lípidos * Hidratos de carbono solubles * Contenido (g / 100g) 64.1535.8569.38 ± 0.97 7.32 ± 0.68 0 ± 0.02.77 ± 0.24 20.53 ± 1.39 4 cantidad de proteína encontrada (69.38 g / 100 g); El exceso de proteínas podría transformarse por gluconeogénesis en carbohidratos que actuarán como fuente de energía. Por lo tanto, las fuentes de energía inmediatas como los carbohidratos podrían obtenerse a través de procesos metabólicos. CONCLUSIÓN El pulpo hubbsorum B puede considerarse una fuente bastante buena de proteínas. Esto podría ser útil para disminuir la desnutrición proteicocalórica de las personas que viven en las zonas costeras. Sin embargo, a pesar de su riqueza nutricional, el pulpo debe consumirse junto con otras fuentes nutricionales para obtener una dieta balanceada. DECLARACIÓN ÉTNICA Los autores han obtenido la aprobación ética necesaria de un comité institucional o estatal o nacional o internacional adecuado. INTERPRETACIÓN DE INTERESES Los autores han declarado que no hay intereses en conflicto existe.
+[^1]: OECD. Obesity update. International association for the study of obesity. Organization for Economic Co-operation and Development; 2012.
+[^2]: Tilman, D, Clark M. Global diets link environmental sustainability and human health. Nature. 2014;1–15. Available:http://doi.org/10.1038/nature1395 9
+[^3]: FAO (Food And Agriculture Organization of the United Nations). The State of World Fisheries and Aquaculture. Rome. 2012; 57.
+[^4]: Martínez-Jasso I, Villezca P. La alimentación en México: Un estudio a partir de la encuesta nacional de ingresos y gastos de los hogares. Revista de Información y Análisis. 2003;21:26-37. (Spanish).
+[^5]: Cabello AM, Lezama RV, Garcia BE, Marcano MC, Figueroa YD, Gonzalez MV. Freshness parameters of mollusks. Rev. Centif. 2004;14:457-466.
+[^6]: INEGI (Instituto nacional de Estadística y Geografía). México en cifras; 2008. Available:http://www.inegi.gob.mx/inegi/co ntenidos/espanol/acerca/inegi324.asp?c=3 24
 
+[^7]: SAGARPA. Anuario estadístico de pesca, secretaría de agricultura, ganadería, desarrollo rural, Pesca y Administración, México; 1993.
+[^8]: Roper CL, Sweeney MJ, Nauen CE. Species catalog. Cephalopods of the world. An anottated and ilustrated catalogue of species of interest to fiheries. FAO Fisheries Synopsis. 1984;3.
+
+[^9]:Fisher W, Krupp F, Sommer C, Carpenter KE, Niem VH. Guía FAO para la identificación de especies para los fines de pesca pacifico centro-oriental. Plantas E Invertebrados. Rome. 1995;1.
+
+[^10]: Jereb, Roper CF, editors. Cephalopods of the world. An annotated and illustrated catalogue of species known to date. Chambered nautiluses and sepioids (Nautilidae, Sepiadariidae, Spirulidae).
+Organization of the United Nations (FAO) Rome. Species Catalogue for Fishery Purposes. 2005;4(1).
+Sepiidae, Sepiolidae, Idiosepiidae and Food and Agriculture
+
+[^11]: DOF (Diario Oficial de la Federación). 24 de Agosto de. Segunda sección. secretaría de agricultura, ganadería y desarrollo rural, pesca y alimentación. Acuerdo por el cual se da a conocer la actualización de la Carta Nacional de Pesca. 2012;236. 
+
+[^12]: Alejo-Plata CR, Gómez-Márquez JL, Ramos S, Herrera-Galindo JE. Reproducción, dieta y pesquería del pulpo Octopus (Octopus) hubssorum (Mollusca: Cephalopoda) en la costa de Oaxaca, México. Rev. Biol. Trop. 2009;57(1-2):63- 78. (Spanish).
+
+[^13]: Alejo-Plata CR, García-Guillen R, Herrera- Galindo J. Paralarvas y juveniles de Octopus bimaculatus (Cephalopoda: Octopodidae) en el Pacífico sur de México. Rev. Mex. Biol. Mar. y Oceano. 2012;27(2):359-365. (Spanish).
+
+[^14]: SAGARPA. Anuario estadístico de pesca, secretaría de agricultura, ganadería, desarrollo rural, pesca y administración. Mexico; 2004.
+
+[^15]: López-Uriarte E, Ríos-Jara E, Pérez-Peña M. Range extension for Octopus hubbsorum B (Mollusca:Octopodidae) in Mexican Pacific. Bulletin of Marine Science. 2005;77(2):177-175.
+
+[^16]: Pliego Cardenáz, R. Biología reproductiva del pulpo Octopus hubbsorum B Berry, 1953 (Cephalopoda: Octopodidea) en la Isla de Espíritu santo, golfo de california, México. centro interdiciplinario de las ciencias marinas, Instituto Politécnico Nacional (IPN); 2009.
+
+[^17]: Nielsen SS, editor. Introduction to the chemical analysis of food. Jones and Bartlett Publishers. USA; 1994.
+
+[^18]: Association of Official Analytical Chemists (AOAC). Official Methods of Analysis, $16^th$ ed. AOAC International, Washington, DC; 1995.
+
+[^19]: Osborne, DR. Análisis de nutrientes de los alimentos. Acribia. España; 1985.
+[^20]: Pearson D. Técnicas de laboratorio para el análisis de los alimentos. Acribia. España; 1989.
+[^21]: Curry ASR, Kontt AR. Analist flame atomic absortion spectomerty. In Analytical Methodos Varian; 1969.
+[^22]: Tee ES, Rajam K, Young SI, Khor SC, Zakiya HO. Laboratory procedures in nutrient analysis of foods. In Division of Human Nutrition; Kuala Lumpur: Malasya; 1996.
+[^23]: Association of Official Analytical Chemists (AOAC). In official methods of analysis of the association of official analytical chemists; Horwitz, W, Ed.; Arlington; 2002.
+[^24]: Valenzuela A, Yanes CG, Golusda C. El ostión del Norte Chileno (Argopecten pupuratus) un alimento de alto valor nutricional. Rev. Chil. Nutri. 2011;38(2) 148-155.66. (Spanish).
+[^25]: Larence J, Guillet A. Organic composition of tropical, polar and temperate-water echinoderms. Comp. Biochem. Pysiol. 1982;72B(2):28-287.
+[^26]: McClintock J, Pearse J. Biochemical composition of antartic echinoderms. Comp. Btochem. Physiol. 1987; 86B(5):683-687.
+[^27]: Kodaira M. Composición química y cambios post- morten en pescado, crustáceos y moluscos. Curso-Taller. Avances en biotecnología de organismos marinos de importancia comercial. Porlamar, del 4 al 15 de marzo. Venezuela; 1991.
+
+[^28]: Carvajal GS. Valor nutricional de la carne de: Res, cerdo y pollo. Corporación Fomento Ganadero, San José, Costa Rica; 2001.
+[^29]: Arenas ML, Vidal A, Huerta-Sánchez D, Navas Y, Uzátegui-Bracho S, Huerta- Leidenz N. Análisis comparativo proximal de minerales entre carnes de iguana, pollo y res. Arch. Lat. de Nut. 2000;50(4):409- 415. (Spanish).
+
+[^30]: Roskoski R. Bioquímica. 1 edition. McGrawHill, Mexico; 1997. 
+
+[^31]: Vahouny GV, Kritchevsky D, editors. Dietary Fiber: Basic and clinical aspects. Plenum Press, New York, NY. USA; 198
+
+[^32]: Beard J. Iron. In Bowman B, Russell R, th
+
+[^33]: Hunt JR, Zito CA. Johnson L. Body iron excretion by healthy men and women. Am. J. Clin. Nutr. 2009;89(6):1792-1798.
+
+[^34]: Ray Yip, editor. Bowman B, Russell R. Conocimientos actuales sobre nutrición. Organización Panamericana de la Salud (OPS). Washington, DC. 2003;340-359.
+
+[^35]: Weaver CM. Calcio. In: Bowman BA, Russel RM, editors. Conocimientos actuales sobre nutrición. Organización Panamericana de la Salud, Washington, DC. EUA; 2003.
+
+[^36]: Anderson JB, Sell ML, Garner SC, Calvo MS. Fósforo. In: Bowman BA, Russel RM, editors. Conocimientos actuales sobre nutrición. Organización Panamericana de la Salud, Washington, DC. EUA; 2003
