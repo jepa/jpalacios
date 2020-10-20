@@ -78,7 +78,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 ----
       
 
-## Publications in Scientific Journals
+## Scientific Publications
 
 <!-- NOTE: Use Harvard Bou. style -->
 
@@ -88,6 +88,32 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 </center>
 
 ### 2020
+
+
+- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. and Cheung, W.W.L. 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reviews*
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "www.nature.com/articles/s41598-020-74644-2" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "" target="_blank">UBC Stories</span></a>
+<!-- Spanish version -->
+<a span class="label label-success" href= "Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a>
+
+</center>
+
+
+- **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. M., 2020. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. In: Mariño, U. U. and Alcalá, G., eds. Pescadores en México y Cuba Retos y oportunidades ante el cambio climático. Ciudad de México, México, 225.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://drive.google.com/file/d/1-dJytrPLkqamDn51bZuZUs2d53zVt8gQ/view" target="_blank">Capítulo de Libro</span></a>
+
+</center>
+
+
 
 <!-- - **Palacios-Abrantes J.,** U. Sumaila R., and William W. L. Cheung. 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology & Society* -->
 
