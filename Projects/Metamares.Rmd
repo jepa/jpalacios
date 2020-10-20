@@ -34,7 +34,7 @@ The Meta-database of Marine Research in Mexico project aims to improve access to
 </a>
 </center>
 
-## Publications
+## Related Publications
 
 - **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI e0216723.
 
@@ -51,9 +51,15 @@ The Meta-database of Marine Research in Mexico project aims to improve access to
 
 </center>
 
-## Working Papers
+- **Palacios-Abrantes, J.** y Cisneros-Montemayor A. 2020. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. En: Pescadores en México y Cuba: Retos y oportunidades ante el cambio climático (Urrea Mariño U. and Alcalá G., eds). Instituto Politécnico Nacional, Ciudad de México, México. 225pp.
 
-- **Palacios-Abrantes J.**, & Cisneros-Montemayor A. (2018). Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. In *Pescadores en México retos y oportunidades ante el cambio climático. Ciudad de México*. *In press*
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://drive.google.com/file/d/1-dJytrPLkqamDn51bZuZUs2d53zVt8gQ/view" target="_blank">Capítulo de Libro</span></a>
+
+</center>
+
 
 
 ## Related Work
