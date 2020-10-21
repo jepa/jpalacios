@@ -90,15 +90,15 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 ### 2020
 
 
-- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. and Cheung, W.W.L. 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reviews*
+- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
 
 <center>
 <!-- Original article -->
-<a span class="label label-primary" href= "www.nature.com/articles/s41598-020-74644-2" target="_blank">Full Paper</span></a>
+<a span class="label label-primary" href= "https://www.nature.com/articles/s41598-020-74644-2" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<a span class="label label-info" href= "" target="_blank">UBC Stories</span></a>
-<!-- Spanish version -->
-<a span class="label label-success" href= "Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-info" href= "https://oceans.ubc.ca/2020/10/21/transboundary/" target="_blank">UBC Stories</span></a>
+<!-- Español -->
+<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
 <!-- Github -->
 <a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a>
 

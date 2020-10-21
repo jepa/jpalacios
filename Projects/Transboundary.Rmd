@@ -21,13 +21,13 @@ output:
 
 <img src="Projects_Images/Transboundary.png" width="1000px">
 
-DOI: 10.1126/science.aat2360
+Number of transboundary species per Exclusive Economic Zone and catch per fishing nation. Figure from 10.1038/s41598-020-74644-2
 
 </center>
 
 <br>
 
-Climate change is driving shifts in distribution of fish stocks towards areas with cooler environment, generally in higher latitude or deeper water. Particularly, distribution shifts in fish stocks that straddle between national jurisdictions or Exclusive Economic Zones (EEZ) are challenging transboundary fisheries management. Using both global and regional examples, my research aims to answer the following questions: 
+Regulatory boundaries and species distributions often do not align. This is especially the case for at least 633 marine species crossing multiple Exclusive Economic Zones (EEZs). This  missalignment represents a challenge for fisheries management, as policies tend to focus at the national level, yet international collaborations are needed to maximize long-term ecological, social and economic benefits of shared marine species. Climate change is driving shifts in distribution of fish stocks towards areas with cooler environment, generally in higher latitude or deeper water. Particularly, distribution shifts in fish stocks that straddle between national jurisdictions or EEZs are challenging transboundary fisheries management. Using both global and regional examples, my research aims to answer the following questions: 
 
 - Are transboundary fisheries management programs prepared for shifting stocks?
 - How can we adapt to shifting stocks?
@@ -42,6 +42,19 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 <!-- - **Palacios-Abrantes J.**, Reygondeau G., Wabnitz C., and Cheung W.W.L. Marine species do not need visas: the transboundary nature of the world’s exploited marine species. -->
 
 ## Publications
+
+- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://www.nature.com/articles/s41598-020-74644-2" target="_blank">Full Paper</span></a>
+<!-- Español -->
+<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a>
+
+</center>
+
 
 <!-- - **Palacios-Abrantes J.,** U. Sumaila R., and Cheung W.W.L. 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology & Society* -->
 
@@ -79,6 +92,7 @@ Climate change is driving shifts in distribution of fish stocks towards areas wi
 <!-- ## Related Work  -->
 
 ## News 
+- [University of British Columbia](https://oceans.ubc.ca/2020/10/21/transboundary/)
 - [CONACyT Prensa, Spanish](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
 - [National Geographic](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment/){target="_blank"}
 - [University of British Columbia](https://science.ubc.ca/news/climate-change-has-fish-migrating-faster-regulations-can-keep){target="_blank"}
