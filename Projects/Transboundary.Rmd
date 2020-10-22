@@ -91,7 +91,9 @@ Regulatory boundaries and species distributions often do not align. This is espe
 
 <!-- ## Related Work  -->
 
-## News 
+## Media
+
+- [Centre for Ocean Solutions](https://oceansolutions.stanford.edu/stories-events/no-visas-fish-new-study-emphasizes-importance-cooperative-fisheries-management)
 - [University of British Columbia](https://oceans.ubc.ca/2020/10/21/transboundary/)
 - [CONACyT Prensa, Spanish](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
 - [National Geographic](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment/){target="_blank"}
