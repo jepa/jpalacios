@@ -50,7 +50,7 @@ Regulatory boundaries and species distributions often do not align. This is espe
 <!-- Original article -->
 <a span class="label label-primary" href= "https://www.nature.com/articles/s41598-020-74644-2" target="_blank">Full Paper</span></a>
 <!-- Español -->
-<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
 <!-- Github -->
 <a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a>
 
