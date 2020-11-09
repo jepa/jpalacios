@@ -36,9 +36,21 @@ This project is part of the [National Socio-Environmental Synthesis Center (SESY
 **Members** 
 - Anneloes Mook, Juliano Palacios Abrantes, Sarah Roberts, Talya Tenbrink, Timothy Cashion, Tu Ngoc Nguyen.
 
-<!-- ## Working Papers -->
+## Publications
 
-<!-- ## Publications -->
+- Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting Seas, Shifting Boundaries: Dynamic Marine Protected Area Designs for a Changing Climate. *PLoS ONE*
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "" target="_blank">Full Paper</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/timcashion/shifting_mpas" target="_blank"> Code </span></a>
+
+</center>
+
+## Working Papers
+
+- **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. Marine Protected Areas Can Reduce Localized Losses to Fisheries Under Climate Change [*R&R*]
 
 ## Related Work
 

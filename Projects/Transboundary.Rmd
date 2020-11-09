@@ -34,14 +34,6 @@ Regulatory boundaries and species distributions often do not align. This is espe
 - How can we adapt to shifting stocks?
 - What management schemes will be better fitted to shifting stocks?
 
-<!-- ## Working Papers -->
-
-<!-- - U. Sumaila R., **Palacios-Abrantes J.,** and Cheung W.W. L. Climate change, shifting threat points and the management of transboundary fish stocks. -->
-
-<!-- - **Palacios-Abrantes J.,** U. Sumaila R., and Cheung W.W.L. Challenges to transboundary fisheries management in North America under climate change. -->
-
-<!-- - **Palacios-Abrantes J.**, Reygondeau G., Wabnitz C., and Cheung W.W.L. Marine species do not need visas: the transboundary nature of the world’s exploited marine species. -->
-
 ## Publications
 
 - **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
@@ -56,31 +48,6 @@ Regulatory boundaries and species distributions often do not align. This is espe
 
 </center>
 
-
-<!-- - **Palacios-Abrantes J.,** U. Sumaila R., and Cheung W.W.L. 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology & Society* -->
-
-<!-- <center> -->
-<!-- Original article -->
-<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
-<!-- Press -->
-<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
-<!-- Github -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
-
-<!-- </center> -->
-
-<!-- - U. Sumaila R., **Palacios-Abrantes J.,** and Cheung W.W. L. 2020. Climate change, shifting threat points and the management of transboundary fish stocks. *Ecology & Society* -->
-
-<!-- <center> -->
-<!-- Original article -->
-<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
-<!-- Press -->
-<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
-<!-- Github -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
-
-<!-- </center> -->
-
 - Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
 <center>
@@ -89,6 +56,32 @@ Regulatory boundaries and species distributions often do not align. This is espe
 <a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a>
 
 </center>
+
+## Working Papers
+
+- **Palacios-Abrantes J.,** U. Sumaila R., and Cheung W.W.L. n.d. Challenges to transboundary fisheries management in North America under climate change. *[In press; Ecology & Society]*
+
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+
+<!-- </center> -->
+
+- U. Sumaila R., **Palacios-Abrantes J.,** and Cheung W.W. L. n.d. Climate change, shifting threat points and the management of transboundary fish stocks. *[In press; Ecology & Society]*
+
+<!-- <center> -->
+<!-- Original article -->
+<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
+
+<!-- </center> -->
 
 <!-- ## Related Work  -->
 
