@@ -38,7 +38,7 @@ This project is part of the [National Socio-Environmental Synthesis Center (SESY
 
 ## Publications
 
-- Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting Seas, Shifting Boundaries: Dynamic Marine Protected Area Designs for a Changing Climate. *PLoS ONE*
+Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
 
 <center>
 <!-- Original article -->
