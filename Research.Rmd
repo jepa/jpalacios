@@ -125,11 +125,35 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
+- **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17. DOI: 10.5751/ES-11743-250441
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://www.ecologyandsociety.org/vol25/iss4/art41/" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a>
+
+</center>
+
 - **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. M., 2020. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. In: Mariño, U. U. and Alcalá, G., eds. Pescadores en México y Cuba Retos y oportunidades ante el cambio climático. Ciudad de México, México, 225.
 
 <center>
 <!-- Original article -->
 <a span class="label label-primary" href= "https://drive.google.com/file/d/1-dJytrPLkqamDn51bZuZUs2d53zVt8gQ/view" target="_blank">Capítulo de Libro</span></a>
+
+</center>
+
+- Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://www.ecologyandsociety.org/vol25/iss4/art40/" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a>
 
 </center>
 
@@ -149,30 +173,6 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <!-- <center> -->
 <!-- Spanish version -->
 <!-- <a span class="label label-success" href= "www.link" target="_blank">Artículo en Español</span></a> -->
-
-<!-- </center> -->
-
-<!-- - **Palacios-Abrantes J.,** U. Sumaila R., and William W. L. Cheung. 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology & Society* -->
-
-<!-- <center> -->
-<!-- Original article -->
-<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
-<!-- Press -->
-<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
-<!-- Github -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
-
-<!-- </center> -->
-
-<!-- - U. Sumaila R., **Palacios-Abrantes J.,** and William W. L. Cheung. 2020. Climate change, shifting threat points and the management of transboundary fish stocks. *Ecology & Society* -->
-
-<!-- <center> -->
-<!-- Original article -->
-<!-- <a span class="label label-primary" href= "" target="_blank">Full Paper</span></a> -->
-<!-- Press -->
-<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
-<!-- Github -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
 
 <!-- </center> -->
 
