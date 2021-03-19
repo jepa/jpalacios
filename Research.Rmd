@@ -109,6 +109,20 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
+### 2021
+
+- Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://www.nature.com/articles/s41586-021-03371-z#citeas" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "https://blog.nationalgeographic.org/2021/03/17/study-in-nature-protecting-the-ocean-delivers-a-comprehensive-solution-for-climate-fishing-and-biodiversity/" target="_blank">National Geographic</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= " https://github.com/emlab-ucsb/ocean-conservation-priorities" target="_blank"> Code </span></a>
+
+</center>
+
 ### 2020
 
 - **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
