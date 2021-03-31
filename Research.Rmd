@@ -115,7 +115,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <center>
 <!-- Original article -->
-<a span class="label label-primary" href= "https://www.nature.com/articles/s41586-021-03371-z#citeas" target="_blank">Full Paper</span></a>
+<a span class="label label-primary" title ="Email me for PDF" href= "https://www.nature.com/articles/s41586-021-03371-z" target="_blank">Full Paper</span></a>
 <!-- Press -->
 <a span class="label label-info" href= "https://blog.nationalgeographic.org/2021/03/17/study-in-nature-protecting-the-ocean-delivers-a-comprehensive-solution-for-climate-fishing-and-biodiversity/" target="_blank">National Geographic</span></a>
 <!-- Github -->
