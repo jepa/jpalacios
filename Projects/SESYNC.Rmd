@@ -31,9 +31,7 @@ Marine protected areas (MPAs) are an important tool in the context of marine spa
 
 2) Investigate the socio-economic implications of these species shifts to local communities that depend on MPAs for eco-tourism, generated income, and food security
 
-This project is part of the [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals) program.
-
-[SESYNC link to project](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to)
+This project is part of the [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals) program. See the [SESYNC link to project](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to).
 
 **Members** 
 - Anneloes Mook, Juliano Palacios Abrantes, Sarah Roberts, Talya Tenbrink, Timothy Cashion, Tu Ngoc Nguyen.
@@ -59,7 +57,6 @@ Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, an
 ## Related Work
 
 - Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
-
 
 <!-- ## News  -->
 
