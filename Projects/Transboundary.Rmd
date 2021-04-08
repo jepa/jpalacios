@@ -19,7 +19,7 @@ output:
 
 <center>
 
-<img src="Projects_Images/Transboundary.png" width="1000px">
+<img src="../Images/Projects/Transboundary.png" width="1000px">
 
 *Number of transboundary species per Exclusive Economic Zone and catch per fishing nation.*  
 *Figure from 10.1038/s41598-020-74644-2*
