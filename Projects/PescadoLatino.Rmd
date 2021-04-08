@@ -19,7 +19,7 @@ output:
 
 <center>
 
-<img src="Projects_Images/lat_am_pesca.jpeg" width="1000px">
+<img src="../Images/Projects/lat_am_pesca.jpeg" width="1000px">
 
 *Fishers arriving to port in Peru.*
 
@@ -34,7 +34,7 @@ As a Brazilian-Mexican citizen, I am committed to support policy-making and reso
 
 ## Related Publications
 
-- Cisneros-Montemayor, A., **Palacios-Abrantes, J.**, Abas, M., Gonzalez, P. 2020. Análisis espacial de efectos anticipados del cambio climático sobre la pesca en México: Un panorama para la adaptación *Ciencia Pesquera*, 28 (1)
+- Cisneros-Montemayor, A., **Palacios-Abrantes, J.**, Abas, M., Gonzalez, P. 2020. Análisis espacial de efectos anticipados del cambio climático sobre la pesca en México: Un panorama para la adaptación *Ciencia Pesquera*, 28:31-44
 
 <center>
 <!-- Spanish version -->
