@@ -1,0 +1,96 @@
+---
+title: "Mares cambiantes, fronteras cambiantes: diseñando áreas marinas protegidas dinámicas para adaptarse al cambio climático"
+author: "Tim Cashion, Tu Nguyen, Talya ten Brink, Anne Mook, Juliano Palacios- Abrantes, Sarah M. Roberts"
+date: "`r date()`"
+output:
+  # pdf_document:
+    # toc: no
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+  # pdf_document': default
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script> -->
+<!-- <script> -->
+<!--   window.dataLayer = window.dataLayer || []; -->
+<!--   function gtag(){dataLayer.push(arguments);} -->
+<!--   gtag('js', new Date()); -->
+
+<!--   gtag('config', 'UA-105699898-4'); -->
+<!-- </script> -->
+
+<!-- </center> -->
+
+
+- **NOTA: esta es una traducción al español del artículo:** *Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate*, escrito por Tim Cashion, Tu Nguyen, Talya ten Brink, Anne Mook, Juliano Palacios- Abrantes, Sarah M. Roberts  y que se puede encontrar en la siguiente [liga](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241771).
+
+- **Forma de Citar**: Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., Palacios-Abrantes, J., and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. PLoS ONE, 15 (11), e0241771.
+
+<center>
+
+<a span class="label label-success" href= "shifting_mpa_Esp.pdf" >Descargar Artículo en Español</span></a>
+
+</center>
+
+<br>
+
+<!-- Abstract rectangle -->
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding:20px;}
+</style>
+<div class = "blue">
+
+```{r setup, eval = T, echo=F, warning=F,message=F, results='hide'}
+
+#### Library ####
+packages <- c(
+  "knitr",
+  "kableExtra",
+  "png",
+  "grid"
+)
+
+MyFunctions::my_lib(packages)
+
+```
+
+# Resumen (Done!)
+
+Las áreas marinas protegidas (AMP) son herramientas valiosas para la conservación que tienen como objetivo principal limitar los impactos humanos a los sistemas marinos a través de la protecicón de especies y hábitats. Sin embargo, áreas originalmente designadas como AMP pueden tener poca semejanza con su estado original a causa del cambio en la distribución de las especies marinas en respuesta al cambio climático. Se han sugerido diferentes enfoques para hacer frente al cambio en la conservación marina, por lo que en este trabajo probamos la efectividad de diferentes diseños de AMP para proteger especies marinas cuya distribución está cambiando. Hacemos esto mediante la elaboración de un modelo ecosistémico, utilizando un ecosistema teórico e implementando distintos diseños de AMPs como AMPs dinámicas o corredores de AMPs. Nuestros hallazgos sugieren que las AMPs dinámicas pueden beneficiar a algunas especies (por ejemplo anchoveta) y flotas pesqueras, y estos beneficios pueden informar el diseño o la adaptación de las AMPs en todo el mundo. Además, encontramos que es importante diseñar AMPs con objetivos específicos y tener en cuenta los efectos de la presión de pesca y las interacciones de especies en el diseño de AMPs bajo el cambio climático.
+
+
+<!-- Image for Abstract -->
+
+<center>
+
+<img src="https://widgets.figshare.com/articles/13216534/embed?show_title=1" width="568" height="351">
+
+
+**Distintos diseños de áreas marinas protegidas dinámicas**  
+**DOI: 10.1371/journal.pone.0241771**
+
+</center>
+
+<br>
+
+</div>
+
+<iframe src="https://widgets.figshare.com/articles/13216534/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+# Introducción
+
+Las áreas marinas protegidas (AMPs) se encuentran entre las herramientas más populares en la gestión costera para proteger especies y ecosistemas de posibles impactos de actividades humanas [1]. 
+
+
+Los diseños de AMP varían en forma y tamaño, y algunos incorporan redes conectadas de AMP. Los impactos socio-ecológicos positivos de las AMP dentro de sus límites incluyen el aumento de la biomasa, la densidad y el tamaño de los peces, el mantenimiento de la diversidad de especies, el apoyo a la producción de alimentos y el suministro de valores estéticos, recreativos y espirituales [2, 3]. Se ha demostrado que algunos de estos beneficios también ocurren fuera de los límites de las AMP, con el desbordamiento (es decir, la migración neta positiva de peces desde las áreas de no captura a las áreas circundantes fuera del AMP) de la biomasa de peces adultos ocurriendo en las aguas hasta dos kilómetros de distancia, aumentando posteriormente el rendimiento pesquero en las zonas circundantes [4]. Estos beneficios potenciales para la pesca pueden conducir a una mayor eficiencia de la pesca en los bordes de las AMP debido a concentraciones más altas de biomasa de peces, compensando parcialmente la pérdida de ingresos por pesca del área vedada. Sin embargo, no todos estos beneficios se comparten de manera equitativa y, a menudo, conducen a resultados positivos para algunos usuarios y resultados negativos para otros [5-7], lo que requiere un equilibrio de compensaciones entre diferentes usuarios.
+
+Existe una gran evidencia de que las especies marinas están cambiando su distribución debido al cambio climático en todo el mundo [8-12]. Además, los ejercicios de modelización sugieren que tales cambios continuarán [13-17], incluso con una fuerte mitigación de los gases de efecto invernadero, como en el marco del Acuerdo de París [18]. Dado que la mayoría de las AMP tienen ubicaciones y límites estáticos, las AMP pueden perder su función de proteger hábitats específicos o especies en movimiento debido al cambio climático [19, 20], lo que socava los beneficios futuros de las AMP y su capacidad para cumplir los objetivos de conservación [21]. . Por lo tanto, la gestión debe considerar explícitamente el cambio climático para proteger las especies con distribuciones cambiantes [6, 21].
+
+Este artículo responde a las lagunas en la literatura sobre AMP examinando los efectos biológicos y económicos de varios diseños de AMP en la protección de grupos funcionales a medida que cambian sus distribuciones bajo el cambio climático [21-23]. Si bien esto ha sido identificado como un área de investigación necesaria, los autores no conocen ningún estudio de modelado sobre los efectos del cambio climático en múltiples diseños de AMP. Nuestro objetivo era explorar los beneficios teóricos de las AMP dinámicas para responder a los efectos del cambio climático a través de un enfoque de modelado de ecosistemas. Evaluamos estos beneficios en términos de tres resultados diferentes: biomasa, captura e ingresos pesqueros. Estos resultados son medidas relevantes del éxito del AMP [24] y para un grupo principal de usuarios de recursos adyacentes a muchas AMP [25]. Por lo tanto, este estudio tenía dos objetivos centrales: i) determinar cómo los resultados de las AMP varían bajo el cambio climático, y ii) evaluar cómo los diferentes diseños de AMP (estáticos vs. dinámicos, de red vs. individuales) se desempeñan bajo el cambio climático.
+
