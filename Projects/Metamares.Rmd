@@ -4,90 +4,12 @@ output:
   html_document:
     theme: "yeti"
 ---
+<!-- Although several disciplines are generating large amounts of data on marine socio-ecological systems, such information is often underutilized due to fragmentation across institutions or stakeholders, limited standardization across scale, time or disciplines, and the fact that information is often not searchable within existing databases. Compiling metadata, the information which describes existing sets of data, is an effective tool that can address these challenges, particularly when metadata corresponding to multiple datasets can be combined to integrate, organize and classify multidisciplinary data. A meta-database is a documentation of the sources of information instead of a database of the actual data. These are critical tools to make efficient use of existing data, highlight and address strengths and deficiencies, and develop scenarios to inform policies for managing complex marine social-ecological systems. -->
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-105699898-4');
-</script>
-
-
-<center>
-<!-- <img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0216723.g005" width="500px"> -->
-
-Geographic location of metadata according to sub-regions and research category.
-DOI: 10.1371/journal.pone.0216723.g005
-
-</center>
-
-Although several disciplines are generating large amounts of data on marine socio-ecological systems, such information is often underutilized due to fragmentation across institutions or stakeholders, limited standardization across scale, time or disciplines, and the fact that information is often not searchable within existing databases. Compiling metadata, the information which describes existing sets of data, is an effective tool that can address these challenges, particularly when metadata corresponding to multiple datasets can be combined to integrate, organize and classify multidisciplinary data. A meta-database is a documentation of the sources of information instead of a database of the actual data. These are critical tools to make efficient use of existing data, highlight and address strengths and deficiencies, and develop scenarios to inform policies for managing complex marine social-ecological systems.
-
-The Meta-database of Marine Research in Mexico project aims to improve access to information, facilitate multidisciplinary data sharing and integration, and foster collaboration among stakeholders. Since October of 2016 different stakeholders have shared over 100 k records containing information from more than 300 k data points. As of May of 2019, the project has been overseen by the *Comisión Nacional para el Conocimiento y Uso de la Biodiversidad* ( [CONABIO](https://www.gob.mx/conabio) ) through the program, [Infocéanos](http://infoceanos.conabio.gob.mx). In there you can learn more about the project, explore the metadatabase, and collaborate with this initiative.
+The Meta-database of Marine Research in Mexico project aimed to improve access to information, facilitate multidisciplinary data sharing and integration, and foster collaboration among stakeholders. Since October of 2016 different stakeholders have shared over 100 k records containing information from more than 300 k data points. As of May of 2019, the project has been overseen by the *Comisión Nacional para el Conocimiento y Uso de la Biodiversidad* ( [CONABIO](https://www.gob.mx/conabio) ) through the program, [Infocéanos](http://infoceanos.conabio.gob.mx). In there you can learn more about the project, explore the metadatabase, and collaborate with this initiative. CONABIO is currently working towards an expansion of this database.
 
 <!-- Infocéanos -->
 <center>
 <a button type="button" class="btn btn-primary" href="http://infoceanos.conabio.gob.mx" target="_blank"> Go to *Infoceanos* (Spanish) </button>
 </a>
 </center>
-
-## Related Publications
-
-- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI e0216723.
-
-<!-- Paper Links -->
-<center>
-<!-- Original article -->
-<a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
-<!-- Spanish version -->
-<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Metadata/Metadata_Esp.html" target="_blank">Artículo en Español</span></a>
-<!-- Github -->
-<a span class="label label-warning" href= "https://github.com/jepa/metadatamexico" target="_blank">Code</span></a> 
-<!-- Data -->
- <a span class="label label-warning" href= "https://datadryad.org/stash/dataset/doi:10.5061/dryad.pt80482" target="_blank">Data</span></a>
-
-</center>
-
-- **Palacios-Abrantes, J.** y Cisneros-Montemayor A. 2020. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. En: Pescadores en México y Cuba: Retos y oportunidades ante el cambio climático (Urrea Mariño U. and Alcalá G., eds). Instituto Politécnico Nacional, Ciudad de México, México. 225pp.
-
-
-<center>
-<!-- Original article -->
-<a span class="label label-primary" href= "https://drive.google.com/file/d/1-dJytrPLkqamDn51bZuZUs2d53zVt8gQ/view" target="_blank">Capítulo de Libro</span></a>
-
-</center>
-
-
-
-## Related Work
-- [MarXiv Ambassadors](https://www.marxivinfo.org/ambassadors){target="_blank"}. MarXiv Ambassadors serve as preprint-sharing experts for the local institutions, helping their fellow researchers determine which documents can (and cannot) be legally shared in MarXiv.
-
-## Media and communication
-- [UBC Stories](http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/)
-- [adn40 (Spanish)](https://www.adn40.mx/noticia/mexico/nota/2019-06-08-20-21/plataforma-permitira-conocer-riqueza-de-los-oceanos-de-mexico/?utm_source=adn40mxNota&utm_medium=tw&utm_campaign=M)
-- [Blog de EDF de México; Infocéanos (Spanish)](https://mexico.edf.org/blog/2019/06/07/la-ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de-mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter)
-- [Oceans Deeply; MarXiv](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all){target="_blank"}
-- [CONACYT Prensa; MetaMares (Infocéanos) (Spanish)](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
-- [Blog de EDF de México; MetaMares (Infocéanos) (Spanish)](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico){target="_blank"}
-
-<center>
-
-<a class="btn btn-default" href="https://www.julianopalacios.com/Research.html">Back to Research</a>
-<a class="btn btn-default" href="https://www.julianopalacios.com/Projects/Transboundary.html">Next Project</a>
-
-<br>
-<hr>
-
-**Contact**
-
-Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"}
-
-<!-- Google Translate -->
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

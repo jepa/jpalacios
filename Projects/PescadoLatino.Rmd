@@ -1,0 +1,114 @@
+---
+title: "Improving Fisheries management and Marine Conservation in Latin America"
+output:
+  html_document:
+    theme: "yeti"
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
+
+</center>
+
+<center>
+
+<img src="Projects_Images/lat_am_pesca.jpeg" width="1000px">
+
+*Fishers arriving to port in Peru.*
+
+</center>
+
+<br>
+
+Latin America is a highly diverse and dynamic region and there are many contexts to fisheries management and conservation. Nevertheless, there are several cross-cutting themes in Latin American countries, and very likely throughout the region. Actions to address current issues in fisheries management and conservation include improved clarity in marine resource policies, transparency in data sharing and collection strategies, institutional accountability, recognition and meaningful inclusion of all stakeholders, and incorporating climate change in management plans. These actions, aside from necessary support for operational aspects of resource management, are vital for establishing ecologically sustainable and socially equitable seafood production systems that meet food security needs and provide economic and social benefits at local and national scales.   
+
+As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries with a strong interdisciplinary science.
+
+
+## Related Publications
+
+- Cisneros-Montemayor, A., **Palacios-Abrantes, J.**, Abas, M., Gonzalez, P. 2020. Análisis espacial de efectos anticipados del cambio climático sobre la pesca en México: Un panorama para la adaptación *Ciencia Pesquera*, 28 (1)
+
+<center>
+<!-- Spanish version -->
+<a span class="label label-success" href= "www.link" target="_blank">Artículo en Español</span></a>
+
+</center>
+
+- **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. M., 2020. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. In: Mariño, U. U. and Alcalá, G., eds. Pescadores en México y Cuba Retos y oportunidades ante el cambio climático. Ciudad de México, México, 225.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://drive.google.com/file/d/1-dJytrPLkqamDn51bZuZUs2d53zVt8gQ/view" target="_blank">Capítulo de Libro</span></a>
+
+</center>
+
+- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI 10.1371/journal.pone.0216723.
+
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216723" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/" target="_blank">UBC Stories</span></a>
+<!-- Spanish version -->
+<a span class="label label-success" href= "Translations/Metadata/Metadata_Esp.html" target="_blank">Artículo en Español</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/metadatamexico" target="_blank"> Code </span></a>
+
+</center>
+
+- **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. and Molina R. 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
+
+<!-- Paper Links -->
+<center>
+<!-- Original article -->
+<a span class="label label-primary" href= "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209431" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<!-- <a span class="label label-info" href= "https://academystories.org/nos/" >Academy of Systems Change</span></a> -->
+<!-- Spanish version -->
+<a span class="label label-success" href= "Translations/Callo_hacha/Callo_de_Hacha_Esp.html" target="_blank">Artículo en Español</span></a>
+
+
+</center>
+
+
+<br>
+
+## A Meta-database of Marine Research in Mexico
+
+```{r metamares, child = 'Metamares.Rmd', eval = T}
+```
+
+
+
+## Media and communication
+- [UBC Stories](http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/)
+- [adn40 (Spanish)](https://www.adn40.mx/noticia/mexico/nota/2019-06-08-20-21/plataforma-permitira-conocer-riqueza-de-los-oceanos-de-mexico/?utm_source=adn40mxNota&utm_medium=tw&utm_campaign=M)
+- [Blog de EDF de México; Infocéanos (Spanish)](https://mexico.edf.org/blog/2019/06/07/la-ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de-mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter)
+- [Oceans Deeply; MarXiv](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all){target="_blank"}
+- [CONACYT Prensa; MetaMares (Infocéanos) (Spanish)](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
+- [Blog de EDF de México; MetaMares (Infocéanos) (Spanish)](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico){target="_blank"}
+
+<center>
+
+<a class="btn btn-default" href="https://www.julianopalacios.com/Research.html">Back to Research</a>
+<a class="btn btn-default" href="https://www.julianopalacios.com/Projects/Metamares.html">Previous Project</a>
+
+**Contact**
+
+Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"}
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
