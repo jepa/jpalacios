@@ -7,7 +7,7 @@ output:
 ---
 
 <center>
-<img src="Images/Contacto.jpg" alt="Drawing" style="width: 700px;"/>
+<img src="Images/Contact/Contacto.jpg" alt="Drawing" style="width: 700px;"/>
 
 <center> 
 <br>

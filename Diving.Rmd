@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-![](Images/YoMero.png)
+![](Images/Diving/YoMero.png)
 
 <br>
 
@@ -50,7 +50,7 @@ You should really try it; for me diving is the closest feeling to floating in ou
 
 <br>
 
-[<img src="Images/CMAS_Logo.jpg" width="250px">](http://www.cmas.org/federation-list/federation-federacion-mexicana-de-actividades-subacuaticas-ac) [<img src="Images/Medusa_Logo.png" width="250px">](https://www.facebook.com/medusabuceo/)[<img src="Images/SDITDI_Logo.png" width="250px">](https://www.tdisdi.com/)
+[<img src="Images/Diving/CMAS_Logo.jpg" width="250px">](http://www.cmas.org/federation-list/federation-federacion-mexicana-de-actividades-subacuaticas-ac) [<img src="Images/Diving/Medusa_Logo.png" width="250px">](https://www.facebook.com/medusabuceo/)[<img src="Images/Diving/SDITDI_Logo.png" width="250px">](https://www.tdisdi.com/)
 
 <br>
 

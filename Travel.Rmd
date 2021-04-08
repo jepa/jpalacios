@@ -8,7 +8,7 @@ output:
     toc_depth: 2
 ---
 
-<img src="Images/Viajes2.jpg" alt="Drawing" style="width: 1000px;"/>
+<img src="Images/O Lar/Viajes2.jpg" alt="Drawing" style="width: 1000px;"/>
 
 # [Visita el blog!](http://olardopassarinhoeoar.blogspot.com/)
 
