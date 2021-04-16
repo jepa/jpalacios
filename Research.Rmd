@@ -89,14 +89,15 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2021
 
-<!-- - Otero J., Otero L., ... *Palacios-Abrantes, J.* Quantifying abundance trends and environmental effects on a population of queen scallop,  Aequipecten opercularis ,   targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model -->
+- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Fisheries Research*, 240, 105963.
 
-<!-- <center> -->
+<center>
 <!-- Original article -->
-<!-- <a span class="label label-primary" title ="Email me for PDF" href= "INSERT LINK HERE" target="_blank">Full Paper</span></a> -->
+<a span class="label label-primary" title ="Oppen access until 6/5" href= "https://authors.elsevier.com/c/1cw3jbiU1rjxK" target="_blank">Full Paper</span></a>
+
+</center>
 
 
-<!-- </center> -->
 
 - Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
 
