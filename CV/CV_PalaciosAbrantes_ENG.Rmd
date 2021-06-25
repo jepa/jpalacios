@@ -1,0 +1,294 @@
+---
+title: "Juliano E. Palacios Abrantes"
+author: "Email: jpalacios2@wisc.edu | Web Page: www.julianopalacios.com"
+date: "`r format(Sys.time(), '%B, %Y')`"
+output: pdf_document
+# csl: ./References/harvard.csl
+# bibliography: ./References/cv_refs.bib
+---
+
+
+<!-- Academic CV examples  -->
+<!-- Elsevier... https://www.elsevier.com/connect/writing-an-effective-academic-cv -->
+
+<!-- # Cover Letter -->
+
+<!-- # Abstract -->
+
+<!-- Juliano Palacios Abrantes is a postdoctoral researcher at the Jensen’s Lab of the University of Wisconsin. His work looks at how shifts in marine species are having uncertain feedbacks on marine ecosystems and dependent fishing communities. Specifically, he looks at how such shifts affect transboundary stocks (e.g., stocks that cross international borders) accentuating sources of conflict, and highlighting the need for adaptive, collaborative, ecosystem- based management strategies. -->
+
+<!-- \clearpage -->
+
+# Education
+
+- **Postdoctoral Researcher** (2021 - Present)
+Jensen’s Lab, Center for Limnology, University of Wisconsin-Madison; Advisor: Dr. Olaf Jensen
+    - *Adaptive Allocation for Transboundary Fish Stocks*  
+
+- **Doctor in Philosophy; Zoology** (September 2016 – March, 2021)  
+The Institute for the Oceans and Fisheries, University of British Columbia, Canada; Advisor, Dr. William Cheung
+    -	*Transboundary Fish Stocks and their Management Under Climate Change*
+    - Semester abroad at the University of Vigo working with Dr. Elena Ojea (August - December, 2019)  
+
+- **Master of Environmental Science and Management** (September 2014 - June 2016)  
+  Bren School of Environmental Science and Management, University of California at Santa Barbara, USA; Advisor, Dr. John Melack
+    -	*A Citizen Science Monitoring Protocol for the Rocky Intertidal Habitat*
+    - Internship at Environmental Defense Fund, Mexico (June - September, 2015)  
+- **Bachelor of Science in Biology** (September 2007 - December 2012)  
+  Universidad Autónoma Metropolitana campus Xochimilco, México City; Advisor, Dr. Virginia Melo
+    -	*Sea Cucumber as a Source of Macronutrients for Low-Income Coastal Communities in Mexico.*
+    - Year abroad at the University of São Paulo
+    
+**Keywords:** *Climate change; Fisheries management; Transboundary fisheries; Data science; Multidisciplinary; Marine science; Sustainability*
+
+# Publications
+<!-- OJO Harvard Bou style -->
+
+- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
+
+- Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
+
+- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
+
+- **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17.
+
+- **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. 2020. In (eds. Tapia, P. and Urrea, U.) Pescadores en México y Cuba retos y oportunidades ante el cambio climático. Ciudad de México, 225
+
+- Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
+
+- Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
+
+- Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485.
+
+- Cisneros-Montemayor, A. M., Abas, M., **Palacios-Abrantes, J.**, and González-Espinosa, P. C., 2020. Spatial analysis of anticipated climate change effects on fisheries in Mexico: An overview for adaptation. *Ciencia Pesquera*, 28 (1-2), 31–44.
+
+- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723.
+
+- **Palacios-Abrantes, J**., Herrera-Correal, J., Rodriguez, S., Brunkow, J., and Molina, R., 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa and Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, 13 (12), e0209431.
+
+- Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
+
+- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
+
+- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
+
+<!-- - Melo, V., Aguirre, H. D., Martínez, B., **Palacios-Abrantes, J.**, and Vargas, N., 2013. Plaga de ortópteros, recurso de nuetrientes para la población. *Entomologia Mexicana.* -->
+
+<!-- - Melo, V., Jiménez, H., **Palacios-Abrantes, J.**, and Barreda, T. Q., 2013. Fruto de Capulín *Prunus serotina* y larvas de *Synopsia mexicanaria* W, representan una buena fuente de nutrientes en la dieta cotidiana. *Entomologia Mexicana.*, 12 (2), 1084–1086. -->
+
+<!-- \clearpage -->
+
+# Work in Press, Under Review (R&R) or in Progress
+
+- **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[In press]*
+
+- Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[In press]*
+
+- **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Foden, W., Frazão-Santos, C., Grey, K.A, Kühn N., Maciejewski, K., McGhie, H., Midgley, G.F., Smith, I.P.J., and Pereira, L.M. Managing biodiversity in the Anthropocene: Utilizing the Nature Futures Framework for adaptive decision-making for nature under climate change [*R&R*]
+
+- **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. Marine Protected Areas Can Reduce Regional Losses to Fisheries Under Climate Change [*R&R*]
+
+- **Palacios-Abrantes, J.**, Cheung, W.W.L., and Frölicher, T. Estimating the time of emergence of transboundary fish stocks to inform ocean governance under climate change *[R&R]*
+
+- Tittensor D., *et. al.* Next-generation ensemble projections reveal higher climate risks for marine ecosystems *[Under review]*
+
+- Heneghan R., *et. al.* Understanding diverse responses to climate change among global marine ecosystem models *[Under review]*
+
+- Tidd, A., Ojea, E., **Palacios-Abrantes, J.** Miss-matches between climate change-driven shifts in fish distribution and the European Union fish stock quota allocation *[In preparation]*
+
+- Wabnitz, C., *et. al*. The future of high seas fisheries governance *[In preparation]*
+
+- Cheung W.W.L. *et. al*. Projecting climate adaptation in fisheries production and its limits through eliminating overfishing *[In preparation]*
+
+# Professional Research
+
+- Waldron, A., et al. 2020. Contribution towards the report, Protecting 30% of the planet for nature: costs, benefits and economic implications. Working paper analyzing the economic implications of the proposed 30% target for area protection in the draft post-2020 Global Biodiversity Framework. Report commissioned by *Campaign for Nature*. Available at https://www.conservation.cam.ac.uk/files/waldron_report_30_by_30_publish.pdf *Role: Data analyst*
+
+-  Wabnitz, C. and  **Palacios-Abrantes, J.** 2019. Contribution towards the transboundary resource management section of the International Dimensions Chapter for NRCan’s National Knowledge Assessment of Climate Change Impacts and Adaptation
+
+- Cisneros-Montemayor, A., Alfredo, G., and **Palacios-Abrantes, J.** 2019. Illuminating Hidden harvest: Mexico, Report commissioned by The Food and Agricultural Organization of the United Nations (FAO). *Role: Data analyst*
+
+- **Palacios-Abrantes, J.**, Vargas, C., Viana, D., Rivera, M.I., Gozzer, R., López, R., de la Puente, S., and Cisneros-Montemayor, A. 2018. Contributions of marine capture fisheries to the domestic livelihoods and seafood consumption of Brazil, Chile, and Peru. Report commissioned by Oceana. Pp 100. *Role: Principal Investigator*
+
+- Cisneros-Montemayor, A.M., **Palacios-Abrantes, J.**, and Abas, M. 2017. Impactos potenciales del cambio climático en las pesquerías mexicanas: Consideraciones para su manejo. A report commissioned by Environmental Defense Fund de México, A.C. 60 pp. *Role: Team member*
+
+- Herrera, J., **Palacios-Abrantes, J.**, Rodríguez, S., Brunkow, J., and Molina, R. 2016. Callo de hacha: restoration program and sustainable fishery in La Paz, BCS, Mexico. A report commissioned by Noroeste Sustentable, A.C. 33 pp. *Role: Team member*
+
+- **Palacios-Abrantes, J.** 2016. Status and management scenario for the mollusk fisheries of Altata Bay, Sinaloa, Mexico. Report was commissioned by Environmental Defense Fund-Mexico. Pp 37. *Role: Team member*
+
+- Peruvian Anchovy Stock Assessment Tool. 2016. Member of a team tasked to develop a tool for better manage the Anchovy fishery in Peru. A project in collaboration with The Nature Conservancy and the government of Peru. *Role: Team member*
+
+<!-- - TURF Legal Framework Analysis. 2015. Reviewed and analyzed the legal framework of Territorial Rights Use for Fisheries (TURFs) of Brazil, Chile and Spain. A report commissioned by Environmental Defense Fund, Mexico. 9 pp. *Role: Principal Investigator* -->
+
+<!-- - Biological Assessment for Target Bivalves in Sinaloa, Mexico. 2015. A compilation of biological information of the target species of the Sinaloa project. A report commissioned by Environmental Defense Fund, Fisheries Solution Center. 6 pp. *Role: Principal Investigator* -->
+
+# Workshops Attended or Organized
+
+- IPBES Future Nature Scenarios Workshop (July, 2019). Part of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) scenario task force. Organized at the Species on the Move conference, Skukuza, South Africa *Co-organized*
+
+- IPBES Future Nature Scenarios Workshop (March, 2019). Organized by the University of British Columbia (UBC) and the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES); Vancouver, British Columbia, Canada *Co-organized*
+
+- Future High Seas Governance Workshop (November, 2018). Organized by the University of British Columbia (UBC) and the International Institute for Environment and Development (IIED). Vancouver, British Columbia, Canada. *Fully funded by organizers*
+
+- IMBeR ClimEco6 Summer School - Interdisciplinary approaches for sustainable oceans (August, 2018). Organized by the Integrated Marine Biosphere Research (IMBER). Yogyakarta, Indonesia. *Fully funded by PICES*
+
+- Graduate Student Workshop on Socio-Environmental Synthesis (January 2018). Organized by the National Socio-Environmental Synthesis Center (SESYNC). Annapolis, Maryland, United States. *Fully funded by organizers*
+
+- UK-Mexico Researcher Links Workshop, Present Status and Horizon Scanning of Sustainable Aquatic Resource Development in Mexico (September, 2017). Organized by the Instituto Tecnologico Superior de Felipe Carillo Puerto, British Council, CONACyT and Researcher links. Felipe Carrillo Puerto, Quintana Roo, Mexico. *Fully funded by organizers*
+
+# Awards and Honors
+
+- Globalink Research Award for research abroad (August - December 2019). Awarded by Mitacs for the project *Climate change and emerging transboundary fish stocks* developed in collaboration with Dr. Elena Ojea at the University of Vigo
+
+- The Institute for the Oceans and Fisheries Student Society (IOFSS) Travel Grant (July 2019). Awarded to participate in the conference Species on the Move in July of 2019 in Skukuza, South Africa
+
+- SESYNC Graduate Pursuit Award (September 2018 - May 2020). Awarded by the National Socio-Environmental Synthesis Center (SESYNC) to conduct the research *Ch-Ch-Ch-Changes: Using Marine Protected Areas to Investigate Potential Socio-Ecological Impacts of Climate Change in Marine Spatial Planning.* National Science Foundation and the University of Maryland. (Link to project: tiny.cc/lzxv5y) *Role: Principal Investigator*
+
+- Faculty of Science PhD. Tuition Award (September 2016 – September 2020). Awarded by the University of British Columbia to pursue a PhD. In Zoology
+
+- International Tuition Award (September 2016 – September 2020). Awarded by the University of British Columbia to pursue a PhD. In Zoology
+
+- Latin American Fisheries Fellow (LAFF) (August 2014- June 2016). Awarded by The Walton Foundation to pursue a Master of Environmental Science and Management.
+
+- Mobility Program Award (January - December 2010). Awarded by the Universidad Autónoma Metropolitana to go to the São Paulo University, Brazil.
+
+# Teaching Experience and Mentoring
+
+- Imparting multiple curses on data analysis for ecological studies (Ongoing). Some of the material can be found here: https://github.com/jepa/studyGroup/tree/gh-pages/lessons
+
+- Fundamentals of data analysis (October - December 2019) Created the curricula, material and imparted the course for the Future Oceans Lab of the University of Vigo as a visiting scholar.
+
+- Land Food and Community: Quantitative Data Analysis (January – May 2018). Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems. Faculty of Land and Food Systems, University of British Columbia
+
+- Diving Instructor (May 2011 – July 2015). Instructed over 50 divers in different levels of sport diving and assisted more than 50 courses.
+
+- Undergrad Teacher Assistant (January 2010 – December 2012). Instructed undergrad classes of 20-30 students when needed.
+
+- Thesis co-direction for a bachelor's degree in biology. González, L.M. 2013. Macronutrientes de cefalopodos de importancia comercial en México, Universidad Nacional Autónoma de México.
+
+# Administrative experience
+
+- Founder and member of the steering committee of the Mozilla Science Lab Study Group *Deep Sea Data Squad* of the Institute for the Oceans and Fisheries. This group meets every week for co-working session in *R* with the idea of helping each other better programming and create a supportive coding community
+
+- Member of the steering committee of *Equity, Diversity, and Inclusion Committee (EDI)* of the Student Society of the Institute for the Oceans and Fisheries Student Society. The committee as been working to create resources that provide information about EDI policies, initiatives, and support within IOF and across UBC.
+
+<!-- - Active member of the Student Society of the Institute for the Oceans and Fisheries  -->
+
+# Professional Experience
+
+- Data analysis for the [FishGlob](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishglob/) project (February 2021 – May 2021). Fish biodiversity under global change – a worldwide assessment from scientific trawl surveys, project.
+
+- Intern for Environmental Defense Fund, Mexico (June – September 2015). Analyzed data and worked in the field to see if it was feasible to design a Territorial User Rights for Fisheries (TURF) to manage a high complex system in a bay of Sinaloa, Mexico.
+
+- Dive Center Co-Owner (Jan 2011 - July 2015). Servicios Subacuáticos Medusa. Had different roles: Managed the financial aspects of the business. Coordinated over 30 diving trips both national and international. Instructed SCUBA classes. Managed the Store (sales and inventories).
+
+- Green Business Summit Coordinator (January 2013 - July 2013). Co-designed the agenda of the summit, managed invitations, coordinated a team of 4 people.  Global Institute of Sustainability (GIS), Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM) and Arizona State University (ASU), Mexico City Campus.
+
+<!-- - Contribution to Research as a Scientific Diver (August 2008). Estrada, D. Estudio de la biodiversidad de equinodermos y moluscos, Isla Socorro, Archipiélago de Revillagigedo. Thesis for a bachelor's degree in biology. Universidad Nacional Autónoma de México. Instituto de Ciencias del Mar y Limnología. -->
+
+<!-- - Intern for Espacios Naturales y Desarrollo Sustentable, A.C (September 2007- December 2007). The Worked as an intern for the NGO Espacios Naturales y Desarrollo Sustentable A.C. in México City. Organized, digitalized and analyzed a butterfly data base. -->
+
+# Associations and Fellowships
+
+- Voceros del Cambio climático (EDF-Mexico). 2020. 
+
+- Leaders for Sea Change Fellow (COMPASS). 2020. https://www.compassscicomm.org/wp-content/uploads/2020/07/Leaders-for-Sea-Change-Cohort-2020.pdf
+
+- Graduate Pursuits Fellow (SESYNC). 2018. https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to
+
+- Latin American Fisheries Fellow (LAFF). 2016. https://www.laff.bren.ucsb.edu/laff-network
+
+# Invited Seminars
+
+- New Research to Adaptive Allocation for Transboundary Fish Stocks (May, 2021). Lenfest Ocean Program. Presentation available at: https://www.lenfestocean.org/news-and-publications/multimedia/webinar-on-new-research-to-adaptive-allocation-for-transboundary-fish-stocks
+
+- Marine fish do not need visas: Transboundary fisheries management under climate change (March, 2021). Seminar Series, Marine Institute, School of Fisheries, Memorial University, Canada
+
+- Shifting MPAs for conservation and fisheries under a changing climate (March 2021). Open Channel Webinar Series, Octo group. Presentation available at: https://www.openchannels.org/webinars/2021/shifting-mpas-conservation-and-fisheries-under-changing-climate
+
+- Efectos del cambio climático en el manejo de especies transfronterisas (January, 2020). Centro Austral de Investigaciones Científicas (CADIC-CONICET), Ushuaia, Argentina.
+
+- Marine governance in the anthropocene: Lessons from South Africa and Latin America (July 2019). Center for Complex Systems Transition, Stellenbosch Institute for Advanced Study, Mosterdrif, Stellenbosch, South Africa.
+
+- Building capacity for fisheries management under climate change in Latin America (2017). Weekly seminars. The United Nations Environment World Conservation Monitoring Center (UN-WCMC), Cambridge, UK.
+
+- Hacia la creación de una base de metadatos de investigación marina en México. Multiple talks in 2017 and 2018 including Unidad Académica Sisal del Instituto de Ciencias del mar y Limnología de la Universidad Nacional Autónoma de México, Sisal, Yucatán; El Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, Mérida, Yucatán; Centro Interdisciplinario de Ciencias Marinas del Instituto Politécnico Nacional, La Paz, México and Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California Norte, México, among others.
+
+# Attendance at Conferences
+
+- **Palacios-Abrantes, J.**, 2019. Climate change and transboundary fisheries management, examples from North America. Species on the Move, Skukuza, South Africa
+
+- **Palacios-Abrantes, J.**, Cheung, W.L., Sumaila, R. 2019. Challenges to Transboundary Fisheries Management in North America Under Climate Change. IMBeR Future Oceans 2, Brest, France
+
+- **Palacios-Abrantes, J.**, Cheung, W.L., Sumaila, R. 2018. Current State and Future Scenarios for Transboundary Fisheries Management in Changing Oceans of Canada and the United States. The Effects of Climate Change of the World’s Oceans, Washington D.C., USA
+
+- **Palacios-Abrantes, J.**, Cheung, W.L., Sumaila, R. 2017. Current State and Future Scenarios for Transboundary Fisheries Management in Changing Oceans: Gauging the Biological Tides. MARE Conference 2017 People and the Sea IX: Dealing with Maritime Mobilities, Amsterdam, Netherlands
+
+- **Palacios-Abrantes, J.**, Arreguín-Sánchez, F., Cheung, W. W., Cisneros-Mata, M.A., Cisneros-Montemayor, A., Rodriguez, L. 2017. Towards the creation of a metadata of marine research in Mexico: a case study of the Gulf of Mexico. State of the Gulf of Mexico, 2017. Houston, Texas
+
+- Felins, E., Handelman, T., Howard, A., **Palacios-Abrantes, J.**, Liu, R. O., and Melack, J. 2016. A Citizen Science Monitoring Protocol for the Rocky Intertidal Habitat. Multi-Agency Rocky Intertidal Network Annual Meeting, Cabrillo National Monument, San Diego, California.
+
+- **Palacios-Abrantes, J.**, Melo, V., and Urbano, B. 2013. Iron analysis from *Octopus hubbsorum* (Cephalopoda: Octopodidae) for human health. $12^{th}$ International Symposium on Metal Ions, Punta del Este, Uruguay.
+
+- **Palacios-Abrantes, J.**, Melo, V., and Urbano, B. 2013. Star fish source of calcium to prevent this metal’s ion deficiency. $12^{th}$ International Symposium on Metal Ions, Punta del Este, Uruguay.
+
+- **Palacios-Abrantes, J.**, Melo V. y Urbano B. 2012. Análisis proximal de *Octopus hubbsorum* (Cephalopoda: Octopodidae) en Acapulco Guerrero (México). Congreso de la sociedad Mesoamericana para la Biología y la Conservación, Panama City, Panama.
+
+- **Palacios-Abrantes, J.**, Melo V., y Urbano B. 2012. Análisis nutricional de callo de hacha *Atrina sp*. (Mollusca: Pinnidae) en México”. Congreso de la Sociedad Mesoamericana para la Biología y la Conservación, Panama City, Panama.
+
+- **Palacios-Abrantes, J.**, Melo V., Jiménez H, Rivero J. 2011. Estrella de mar, un rico complemento alimenticio para comunidades costeras de bajos recursos. XV Congreso de la sociedad Mesoamericana para la Biología y la Conservación, Mérida, Mexico.
+
+- **Palacios-Abrantes, J.**, Melo V., Jiménez H., Rivero J. 2011. Ración de Malacosoma azteca para animales como estrategia de control de plaga en Xochimilco. XV Congreso de la sociedad Mesoamericana para la Biología y la Conservación, Mérida, México.
+
+- **Palacios-Abrantes, J.**, Luna B., Rivero J., Melo V. 2009. Influencia de factores abióticos en fase larval del Malacosoma azteca. 44º congreso Mexicano de Química. Puebla, México.
+
+- **Palacios-Abrantes, J.**, Luna B., Issac Y., Estrada D., Melo V. 2009 Sea cucumber, underutilized source of macronutrients. 8º Simpósio Latino Americano de Ciência de Alimentos. Campinas, Brasil.
+
+- Melo V., **Palacios-Abrantes, J.**, Rivero J., Herrera M. C., León F. 2009 The aplication of betacyanin natural pigment in food processed. 8º Simpósio Latino Americano de Ciência de Alimentos. Campinas, Brasil.
+
+- Melo V., **Palacios-Abrantes, J.**, Rivero J., Herrera M. C., Schettino B. 2009 Retention of ß carotene and ascorbic acid in fresh and processed vegetables. 8º Simpósio Latino Americano de Ciência de Alimentos. Campinas, Brasil.
+
+
+<!-- \clearpage -->
+
+<!-- # Peer Review Journals -->
+
+<!-- - Fish and Fisheries -->
+<!-- - Marine Policy -->
+<!-- - Reviews in Fish Biology and Fisheries -->
+<!-- - Ecosystems and People -->
+
+<!-- # Other Skills and Qualifications -->
+
+<!-- - **Languages:** Portuguese, Spanish, and English (fluent in speaking, reading and writing) -->
+  <!-- TOEFL IBT: 105, November 15, 2013. -->
+<!-- - **Computer:** Microsoft Office, R-Studio (advanced), GitHub (intermediate), data synthesis and analysis, spatial geographic information system (GIS) analysis, data visualization. General understanding of computer languages. -->
+  <!-- Please refer to my *Github* webpage for verification of my coding skills; https://github.com/jepa -->
+
+
+<!-- -	Photography. Worked as a photographer for different projects on the graphic studio, C. Newton, México, City, México. (September 2007-December 2008). -->
+<!-- -	Non-Professional Advanced Diving Credentials -->
+<!--     -	Advanced Dive Instructor (SDI/TDI) (March 2012 – June 2014) -->
+<!--     -	Basic Dive Instructor (CMAS/FMAS) (March 2011 – March 2015) -->
+<!--     -	Basic and Advanced NITORX diver (SDI/TDI) -->
+<!--     -	Advanced Diver, (CMAS/FMAS) -->
+<!--     -	Basic Diver, (CMAS/FMAS) -->
+<!--     -	Scientific Diver, (SDI/TDI) -->
+<!-- -	Cave I Diver, (CMAS/FMAS) -->
+
+# Referees
+
+<!-- - Dr. María Isabel Studer Noguez, Executive Director for Mexico and Northern Central America of The Nature Conservancy. e-mail: isabel.studer@TNC.ORG -->
+
+- Dr. Steve D. Gaines, Dean, Bren School for Environmental Science and Management at the University of California Santa Barbara (UCSB). University of California, Santa Barbara 93106-5131 CA (USA). Tel: +1 (805) 893-4339, e-mail: gaines@bren.ucsb.edu
+
+<!-- - Dr. Laura F. Rodriguez, Associate Vice President, Latin America and Caribbean Oceans, Environmental Defense Fund. Tel. +1 (604) 822-0224. e-mail: lrodriguez@edf.org -->
+
+<!-- - Dr. U. Rashid Sumaila, Professor, Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver, Canada. Tel. +1 (604) 822-0224. e-mail: r.sumaila@oceans.ubc.ca -->
+
+- Dr. William W.L. Cheung, Director, The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver Canada. Tel. +1 (604) 827-3756 e-mail: w.cheung@oceans.ubc.ca
+
+- Dr. Olaf Jensen, Associate Professor, Center for Limnology, University of Wisconsin - Madison, Hasler Laboratory of Limnology, 680 N. Park Street, Madison, WI 53706. Tel +1 608-262-3014. email: olaf.p.jensen@gmail.com
+
+
+<!-- \clearpage -->

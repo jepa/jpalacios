@@ -1,0 +1,40 @@
+---
+title: "Juliano Palacios Abrantes"
+author: ''
+date: "Agosto, 2018"
+output:
+  word_document: default
+  pdf_document: default
+header-includes: \usepackage{wrapfig}
+---
+
+<!-- To wrap figure. Note that you need the header-includes: LaTexpackage, at the top of the document -->
+
+<!-- \begin{wrapfigure}{L}{.25\textwidth}   -->
+<!--  \begin{center} -->
+<!--     \includegraphics[width=.2\textwidth]{JPalacios_I.jpg}   -->
+<!-- \end{center} -->
+<!-- \end{wrapfigure} -->
+
+<!-- Nacido en Brasil y criado en la Ciudad de México, Juliano Palacios Abrantes se graduó en *Biología por la Universidad Autónoma Metropolitana (UAM-X)* en el año 2012. Durante su tiempo en la UAM-X, su trabajo se centró en temas de seguridad alimentaria de comunidades costeras de bajos recursos investigando el aporte nutricional de distintas especies marinas a la dieta y salud humana. Después de la UAM-X, Juliano se incorporó al *Instituto Global para la Sostenibilidad del Tecnológico de Monterrey* bajo la dirección de la Dra. Isabel Studer, donde trabajó junto con el sector privado en temas de sustentabilidad empresarial.  -->
+<!-- <!-- Durante ese tiempo se convirtió en instructor de buceo y abrió un centro de buceo especializado en buceo científico en donde apoyó diversos proyectos de investigación. --> -->
+<!-- En 2014 fue honrado con la "Latin American Fisheries Fellowship" de la Fundación Walton para estudiar una *Maestría en Ciencias Ambientales y Manejo de Recursos Costeros en la Universidad de California, Santa Bárbara.* Durante su maestría Juliano se involucró en temas de manejo pesquero en América Latina como la creación de herramientas para apoyar la toma de decisiones en temas de manejo pesquero en Perú, o evaluaciones bioeconómicas de pesquerías artesanales de México. -->
+
+<!-- Actualmente, Juliano hace parte del *"Changing Oceans Research Unit" del Instituto para los Océanos y Pesquerías de la Universidad de British Columbia* en donde está haciendo un doctorado bajo la dirección del Dr. William Cheung. Su investigación busca entender cómo el cambio climático afecta a los ecosistemas marinos y como, a su vez, éstos afectan las estructuras sociales, como la seguridad alimentaria y las economías locales. Actualmente, Juliano busca comprender cómo el cambio en la distribución de especies afectará el manejo pesquero de especies compartidas por países vecinos (ej. especies transfronterizas de México y EE.UU), así como especies que hoy en día son particulares de cada país pero que podrían ser compartidas bajo los efectos del cambio climático. Con su investigación Juliano busca crear capacidad de adaptación a tales cambios y apoyar políticas públicas en temas de manejo pesquero y conservación marina que mejor se adapten a un clima cambiante. -->
+
+<!-- **Datos de contacto**   -->
+<!-- Juliano Palacios Abrantes   -->
+<!-- Email: j.palacios@oceans.ubc.ca   -->
+<!-- Web: www.julianopalacios.com   -->
+<!-- Twitter: @julianop_a -->
+
+<!-- Su tesis de doctorado explora los impactos socio-ecológicos del cambio climático en las pesquerías transfronterizas de Canadá, México y Estados Unidos. -->
+
+<!-- Juliano está comprometido a apoyar la creación de políticas públicas y de gestión de recursos marinos en América Latina con una fuerte ciencia interdisciplinaria. Durante su creciente carrera profesional, ha colaborado en iniciativas de investigación secuencial centradas en la pesca del pulpo en México, particularmente examinando estas pesquerías en el contexto de la seguridad alimentaria costera. Ha apoyado en la creación de planes de manejo, evaluado proyectos de restauración pesquera en México y ha generado herramientas para apoyar la toma de decisión tanto en México como en Perú. -->
+
+# Ingles
+
+[Juliano Palacios Abrantes](www.julianopalacios.com) is a Ph.D. candidate based at the [Changing Ocean Research Unit (CORU)](http://coru.oceans.ubc.ca/) of the University of British Columbia in Vancouver, Canada. He is particularly interested in how climate change impacts fisheries management in Latin America and how to mitigate its socio-ecological implications. His thesis and current work explores how climate change is shifting the known distribution of marine fishes around the world. Specifically, how such shifts are having uncertain feedbacks on marine systems and dependent fishing communities, accentuating sources of conflict over shared marine resources, and highlighting the need for adaptive, collaborative, ecosystem- based management strategies. 
+
+For this reason, Juliano will spend the next semester working closely with Dr. Elena Ojea and the other members of the FOL learning from the European Union shared resources management regime. Juliano has strong computational skills that would be sharing with the rest of FOL and the broad community. 
+
