@@ -22,7 +22,7 @@ output: pdf_document
 # Education
 
 - **Postdoctoral Researcher** (2021 - Present)
-Jensen’s Lab, Center for Limnology, University of Wisconsin-Madison; Advisor: Dr. Olaf Jensen
+Jensen’s Lab, Center for Limnology, University of Wisconsin-Madison, United States; Advisor: Dr. Olaf Jensen
     - *Adaptive Allocation for Transboundary Fish Stocks*  
 
 - **Doctor in Philosophy; Zoology** (September 2016 – March, 2021)  
@@ -37,16 +37,18 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 - **Bachelor of Science in Biology** (September 2007 - December 2012)  
   Universidad Autónoma Metropolitana campus Xochimilco, México City; Advisor, Dr. Virginia Melo
     -	*Sea Cucumber as a Source of Macronutrients for Low-Income Coastal Communities in Mexico.*
-    - Year abroad at the University of São Paulo
+    - Year abroad at the University of São Paulo, Brazil
     
-**Keywords:** *Climate change; Fisheries management; Transboundary fisheries; Data science; Multidisciplinary; Marine science; Sustainability*
+**Keywords:** *Climate change; Fisheries management; Shared fisheries; Data science; Multidisciplinary; Marine science; Sustainability*
+
+\clearpage
 
 # Publications
 <!-- OJO Harvard Bou style -->
 
-- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
-
 - Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
+
+- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
 
 - **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
 
@@ -92,7 +94,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 - Tittensor D., *et. al.* Next-generation ensemble projections reveal higher climate risks for marine ecosystems *[Under review]*
 
-- Heneghan R., *et. al.* Understanding diverse responses to climate change among global marine ecosystem models *[Under review]*
+- Heneghan R., *et. al.* Understanding diverse responses to climate change among global marine ecosystem models *[R&R]*
 
 - Tidd, A., Ojea, E., **Palacios-Abrantes, J.** Miss-matches between climate change-driven shifts in fish distribution and the European Union fish stock quota allocation *[In preparation]*
 
@@ -100,11 +102,13 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 - Cheung W.W.L. *et. al*. Projecting climate adaptation in fisheries production and its limits through eliminating overfishing *[In preparation]*
 
+- Palacios-Abrantes J., Jensen O. *et. al*. Challenges on quantifying fish range shifts across management boundaries *[In preparation]*
+
 # Professional Research
 
 - Waldron, A., et al. 2020. Contribution towards the report, Protecting 30% of the planet for nature: costs, benefits and economic implications. Working paper analyzing the economic implications of the proposed 30% target for area protection in the draft post-2020 Global Biodiversity Framework. Report commissioned by *Campaign for Nature*. Available at https://www.conservation.cam.ac.uk/files/waldron_report_30_by_30_publish.pdf *Role: Data analyst*
 
--  Wabnitz, C. and  **Palacios-Abrantes, J.** 2019. Contribution towards the transboundary resource management section of the International Dimensions Chapter for NRCan’s National Knowledge Assessment of Climate Change Impacts and Adaptation
+-  Wabnitz, C. and  **Palacios-Abrantes, J.** 2019. Contributing author of the transboundary resource management section of the International Dimensions Chapter for NRCan’s National Knowledge Assessment of Climate Change Impacts and Adaptation. Available at https://changingclimate.ca/National-Issues/chapter/9-0/
 
 - Cisneros-Montemayor, A., Alfredo, G., and **Palacios-Abrantes, J.** 2019. Illuminating Hidden harvest: Mexico, Report commissioned by The Food and Agricultural Organization of the United Nations (FAO). *Role: Data analyst*
 
@@ -124,6 +128,8 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 # Workshops Attended or Organized
 
+- High Seas Nature Futures Framework (NFF) virtual workshop (July - December, 2021). Organized by the Stockholm Resilience Centre, Stockholm University.
+
 - IPBES Future Nature Scenarios Workshop (July, 2019). Part of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) scenario task force. Organized at the Species on the Move conference, Skukuza, South Africa *Co-organized*
 
 - IPBES Future Nature Scenarios Workshop (March, 2019). Organized by the University of British Columbia (UBC) and the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES); Vancouver, British Columbia, Canada *Co-organized*
@@ -134,7 +140,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 - Graduate Student Workshop on Socio-Environmental Synthesis (January 2018). Organized by the National Socio-Environmental Synthesis Center (SESYNC). Annapolis, Maryland, United States. *Fully funded by organizers*
 
-- UK-Mexico Researcher Links Workshop, Present Status and Horizon Scanning of Sustainable Aquatic Resource Development in Mexico (September, 2017). Organized by the Instituto Tecnologico Superior de Felipe Carillo Puerto, British Council, CONACyT and Researcher links. Felipe Carrillo Puerto, Quintana Roo, Mexico. *Fully funded by organizers*
+- UK-Mexico Researcher Links Workshop, Present Status and Horizon Scanning of Sustainable Aquatic Resource Development in Mexico (September, 2017). Organized by the Instituto Tecnologico Superior de Felipe Carillo Puerto, British Council, CONACyT and Researcher links. Felipe Carrillo Puerto, Quintana Roo, Mexico. *Fully funded by organizers*  
 
 # Awards and Honors
 
@@ -168,9 +174,11 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 # Administrative experience
 
-- Founder and member of the steering committee of the Mozilla Science Lab Study Group *Deep Sea Data Squad* of the Institute for the Oceans and Fisheries. This group meets every week for co-working session in *R* with the idea of helping each other better programming and create a supportive coding community
+- Founder and member of the steering committee of the Mozilla Science Lab Study Group *Deep Sea Data Squad* of the Institute for the Oceans and Fisheries (2017 - 2021). 
+This group meets every week for co-working session in *R* with the idea of helping each other better programming and create a supportive coding community
 
-- Member of the steering committee of *Equity, Diversity, and Inclusion Committee (EDI)* of the Student Society of the Institute for the Oceans and Fisheries Student Society. The committee as been working to create resources that provide information about EDI policies, initiatives, and support within IOF and across UBC.
+- Member of the steering committee of *Equity, Diversity, and Inclusion Committee (EDI)* of the Student Society of the Institute for the Oceans and Fisheries Student Society (2018-2020).
+The committee as been working to create resources that provide information about EDI policies, initiatives, and support within IOF and across UBC.
 
 <!-- - Active member of the Student Society of the Institute for the Oceans and Fisheries  -->
 
@@ -190,15 +198,20 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 # Associations and Fellowships
 
-- Voceros del Cambio climático (EDF-Mexico). 2020. 
+- Voceros del Cambio climático (EDF-Mexico).
 
-- Leaders for Sea Change Fellow (COMPASS). 2020. https://www.compassscicomm.org/wp-content/uploads/2020/07/Leaders-for-Sea-Change-Cohort-2020.pdf
+- Leaders for Sea Change Fellow (COMPASS). More information available at: https://www.compassscicomm.org/wp-content/uploads/2020/07/Leaders-for-Sea-Change-Cohort-2020.pdf
 
-- Graduate Pursuits Fellow (SESYNC). 2018. https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to
+- Graduate Pursuits Fellow (SESYNC). More information available at: https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to
 
-- Latin American Fisheries Fellow (LAFF). 2016. https://www.laff.bren.ucsb.edu/laff-network
+- Latin American Fisheries Fellow (LAFF). More information available at: https://www.laff.bren.ucsb.edu/laff-network
 
 # Invited Seminars
+
+- Challanges of managing transboundary stocks on the move (October, 2021). Seminar Series, Center for Limnology, University of Wisconsin, United States
+
+
+- Límites dinámicos como herramientas para la protección marina en océanos cambiantes (September 2021). Webinarios del Laboratorio Nacional de Resiliencia Costera, México
 
 - New Research to Adaptive Allocation for Transboundary Fish Stocks (May, 2021). Lenfest Ocean Program. Presentation available at: https://www.lenfestocean.org/news-and-publications/multimedia/webinar-on-new-research-to-adaptive-allocation-for-transboundary-fish-stocks
 
@@ -275,6 +288,23 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 <!--     -	Basic Diver, (CMAS/FMAS) -->
 <!--     -	Scientific Diver, (SDI/TDI) -->
 <!-- -	Cave I Diver, (CMAS/FMAS) -->
+
+# Public engagement
+
+- Management of exploited transboundary fish stocks requires international cooperation (2020). Press Release, The Institute for the Oceans and Fisheries, UBC, Available at: https://oceans.ubc.ca/2020/10/21/transboundary/
+
+- La ciencia es parte vital de nuestra visión de conservación ambiental (2019) Blog post for the Environmental Defense Fund - Mexico Blog. Available at: https://mexico.edf.org/blog/2019/06/07/la-ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de-mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter
+
+- Understanding the data about data: How metadatabases could improve Mexico’s ocean management (2019). Press Release, The Institute for the Oceans and Fisheries, UBC, Available at: https://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/
+
+- Tear Down That Paywall: The Movement to Make Ocean Research Free for All (2018). Interview for *NewsDeeply, Oceans deeply* Available at: https://deeply.thenewhumanitarian.org/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all
+
+- ¿Cómo afectará el cambio climático las pesquerías del mundo? (2018) News interview for *CONACyT Prensa*. Available at:  http://www.cienciamx.com/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo
+
+- Los peces no necesitan Visa (2018). Radio Interview in *Radio EL Colégio de Michoacán*
+
+- Crean base de metadatos de investigación marina en México (2017). Interview for *CONACyT Prensa*. Available at: http://www.cienciamx.com/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico
+
 
 # Referees
 
