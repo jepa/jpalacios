@@ -1,0 +1,55 @@
+---
+title: "Thesis fun"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+library(MyFunctions)
+
+pkgs <- c(
+  "pdftools",
+  "tidyverse",
+  "tm",
+  "tidytext"
+)
+
+MyFunctions::my_lib(pkgs)
+
+
+
+```
+
+# Load Thesis
+
+```{r}
+
+thesis <- pdf_text("thesis.pdf")
+
+
+thesis[3] #
+```
+
+
+# Wrangling
+
+```{r}
+rows<-scan(textConnection(thesis), 
+           what="character", sep = "\n")
+
+
+tibble(thesis) %>% 
+  unnest_tokens(word, thesis) %>% 
+  anti_join(stop_words) %>% 
+  count(word, sort = TRUE) %>%
+  filter(n > 100) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(n, word)) +
+  geom_col() +
+  labs(y = NULL)
+
+
+
+
+```
+

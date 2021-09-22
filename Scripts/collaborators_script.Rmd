@@ -1,0 +1,70 @@
+---
+title: "Untitled"
+output: pdf_document
+---
+
+# Main fx
+
+```{r}
+
+include_paper <- function(inst,key = NA){
+  
+   # Read old dataset
+  old_dataset <- read_csv("../Data/Collaborators.csv")
+  
+  if(key != "NA"){
+    filter_dataset <- filter(old_dataset, Key == key)
+  }
+  
+  # Create new data to upload
+  new_data <- data %>% 
+    janitor::clean_names() %>% 
+    mutate(
+    author = strsplit(as.character(author), ";"),
+    ) %>%
+    unnest(author) %>% 
+    select(key,title,publication_year,title,journal = publication_title,language, doi) %>% 
+    mutate_if(is.character,c(str_squish))
+  
+  
+  
+  
+  # %>% 
+  #   #bind it with old data
+  #   bind_rows(old_dataset) %>% 
+  #   distinct(.keep_all = T) %>% 
+  #   write_csv(.,"../Data/Collaborators.csv")
+  
+  message <- "Data uploaded"
+  return(message)
+  
+}
+
+
+
+
+
+
+```
+
+## Author's institutions
+
+```{r}
+
+key <- select(data, Key,paper_title = Title)
+
+Collaborators <- read.csv("~/gitHub/jpalacios/Data/Collaborators.csv") %>% 
+  left_join(key)
+  
+key <- "2IN9ZJ6P"
+
+inst <- c(
+  "Institute for the Oceans and Fisheries	University of British Columbia",
+"Department of Applied Economics	Oregon State University",
+"National Marine Fisheries Service	National Oceanic and Atmospheric Administration",
+"Department of Sociology & Anthropology	Nazarbayev University",
+"Nicholas School of the Environment and Earth Sciences	Duke University"
+)
+
+```
+
