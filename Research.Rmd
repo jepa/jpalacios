@@ -92,7 +92,20 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2021
 
-- Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., and Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models, *Progress in Oceanography*, DOI: https://doi.org/10.1016/j.pocean.2021.102659
+- Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J**., Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change* DOI: 10.1038/s41558-021-01173-9
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s41558-021-01173-9" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "https://oceans.ubc.ca/2021/11/15/massive-ensemble-climate-modelling-study-includes-work-of-multiple-iof-researchers/" target="_blank">IOF stories </span></a>
+<!-- Github -->
+<!-- <a span class="label label-warning" href= " https://github.com/emlab-ucsb/ocean-conservation-priorities" target="_blank"> Code </span></a> -->
+
+</center>
+
+
+- Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., and Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models, *Progress in Oceanography*, DOI: 10.1016/j.pocean.2021.102659
 
 <center>
 <!-- Original article -->
@@ -103,7 +116,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 </center>
 
 
-- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Fisheries Research*, 240, 105963. DOI: https://doi.org/10.1016/j.fishres.2021.105963
+- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Fisheries Research*, 240, 105963. DOI: 10.1016/j.fishres.2021.105963
 
 <center>
 <!-- Original article -->
