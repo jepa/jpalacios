@@ -1,0 +1,147 @@
+---
+title: 
+author: 
+date: date: "`r date()`"
+output:
+  # pdf_document:
+    # toc: no
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+  '# pdf_document': default
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script> -->
+<!-- <script> -->
+<!--   window.dataLayer = window.dataLayer || []; -->
+<!--   function gtag(){dataLayer.push(arguments);} -->
+<!--   gtag('js', new Date()); -->
+
+<!--   gtag('config', 'UA-105699898-4'); -->
+<!-- </script> -->
+
+</center>
+
+
+- **NOTA: esta es una traducción al español del artículo:** *Next-generation ensemble projections reveal higher climate risks for marine ecosystems*, escrito por Derek P. y que se puede encontrar en la siguiente [liga](https://www.nature.com/articles/s41598-020-74644-2). No cuenta con la sección de métodos traducida. , Camilla Novaglio, Cheryl S. Harrison, Ryan F. Heneghan, *et al.*, y que se puede encontrar en la siguiente [liga](). No cuenta con la sección de métodos traducida. 
+
+
+- **Forma de Citar**: 
+
+<center>
+
+<a span class="label label-success" href= "FishMip_cmip6_Esp.pdf" >Descargar Artículo en Español</span></a>
+
+</center>
+
+<br>
+
+<!-- Abstract rectangle -->
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding:20px;}
+</style>
+<div class = "blue">
+
+```{r setup, eval = T, echo=F, warning=F,message=F, results='hide'}
+
+#### Library ####
+packages <- c(
+  "knitr",
+  "kableExtra",
+  "png",
+  "grid"
+)
+
+MyFunctions::my_lib(packages)
+
+```
+
+# Resumen
+
+Las proyecciones de los impactos del cambio climático en los ecosistemas marinos han revelado una disminución a largo plazo en la biomasa global de animales marinos e impactos desiguales en las pesquerías mundiales. En el presente estudio se combina un conjunto mejorado de modelos de ecosistemas marinos globales del Proyecto de Intercomparación de Modelos de Ecosistemas Marinos y Pesqueros (Fish-MIP), con los modelos de nueva generación del sistema terrestre de la Fase 6 del Proyecto de Intercomparación de Modelos Acoplados (CMIP6), para realizar diversas proyecciones sobre cómo el cambio climático afectará los ecosistemas marinos futuros. En comparación con la combinación de la generación anterior de Fish-MIP-CMIP5, el nuevo conjunto de simulaciones de ecosistemas marinos muestra una mayor disminución en el promedio global de biomasa animal marina tanto en escenarios de fuerte mitigación como de altas emisiones debido al calentamiento elevado. En este último escenario, esto sucede a pesar de una mayor incertidumbre en la producción primaria neta. Los cambios regionales de dirección de los impactos a la biomasa destacan una necesidad continua y urgente de reducir la incertidumbre en las proyecciones de los ecosistemas marinos al cambio climático.
+
+<!-- Image for Abstract -->
+
+<center>
+
+<img src="../../Projects/Projects_Images/Transboundary.png">
+
+**Número de especies transfronterizas y su contribución a las capturas nacionales.**  
+**DOI: 10.1038/s41598-020-74644-2**
+
+</center>
+
+<br>
+
+</div>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+# Texto principal
+
+El cambio climático es una amenaza creciente para los ecosistemas marinos [1] cuyos impactos están proyectados a intensificar una serie de respuestas en los organismos marinos incluyendo aumento en la mortalidad, reducción en la calcificación y cambios en la distribución de especies, interacciones, abundancia y biomasa [23]. Además, el cambio climático puede interactuar con otros factores de estrés como la sobrepesca [45], que puede amenazar la conservación marina [6] y los beneficios sociales derivados del océano [78]. Es por esto que es fundamental comprender los riesgos que el cambio climático trae para los ecosistemas marinos y los beneficios de la mitigación a dichos riesgos.
+
+Proyectar la magnitud y los impactos del cambio climático a través de proyectos de intercomparación de modelos (MIP, por sus siglas en inglés) produce un conjunto de proyecciones que permiten la cuantificación de la varianza entre modelos (por ejemplo, el rango de proyecciones de menor a mayor) [9] y estimulan esfuerzos a largo plazo para desarrollar y mejorar dichos modelos. El MIP más destacado, el Proyecto de Intercomparación de Modelos Acoplados (CMIP, por sus siglas en inglés) [10], se encuentra actualmente en su sexta fase de experimentos de simulación del modelo del sistema terrestre (ESM, por sus siglas en inlgés), lo que constituye una contribución fundamental al sexto Informe de evaluación del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC AR6, por sus siglas en inglés). Los resultados de la simulación también se pueden utilizar para impulsar modelos de impacto para explorar cómo el cambio climático afectará a sectores humanos o procesos naturales específicos.
+
+Si bien los modelos de ecosistemas marinos (MEM,por sus siglas en inlgés) han explorado los impactos del cambio climático en ecosistemas marinos de forma independiente, el Proyecto de Intercomparación de Modelos de Ecosistemas Marinos y Pesqueros (Fish-MIP, por sus siglas en inlgés) compara los modelos producidos por diferentes grupos utilizando proyecciones estandarizadas [11]. Fish-MIP ha explorado una variedad de temas, incluidos los cambios globales [12] y regionales [131415] durante el próximo siglo y sus posibles consecuencias socioeconómicas [8].
+
+Todas las contribuciones de Fish-MIP hasta la fecha han sido impulsadas por los resultados de los ESMs del CMIP5. Sin embargo, la "próxima generación" de ESMs del CMIP6 proporcionan un conjunto actualizado de condiciones oceanográficas [16,17]. En este artículo, comparamos un conjunto de MEM forzados con las versiones del CMIP5 y CMIP6 de los ESMs del Laboratorio de Dinámica de Fluidos Geofísicos (GFDL) y del Institut Pierre-Simon Laplace (IPSL). La simulación GFDL tiene una resolución espacial más alta en el CMIP6 que en el CMIP5. Los ESM del CMIP6 tienen mejor representación de la biogeoquímica marina [18], el hielo marino y otras propiedades oceanográficas. Así mismo, el sesgo de los modelos CMIP6 se redujo en un 20-70% para el nitrato, fosfato y silicato de superficie en relación con CMIP5, y el error cuadrático medio de la raíz para la temperatura de la superficie y la clorofila fue mejorado [17,18]. Finalmente, los modelos CMIP6 exhiben una mayor sensibilidad climática (la respuesta de equilibrio de la temperatura media del aire en la superficie a una duplicación del CO2 atmosférico) que los del CMIP5 [19]. Esto resulta en forzamientos del ecosistema marino generalmente más fuertes (por ejemplo, calentamiento de los océanos) en el escenario de altas emisiones. Cabe resaltar que existe una mayor variación en términos de impactos sobre la productividad primaria neta (NPP, por su siglas en inglés) en dicho escenario [1720].
+
+Se han agregado tres nuevos MEM globales al conjunto Fish-MIP, con lo que el total asciende a nueve modelos ([Tabla 1](linktotableone)). En este artículo, presentamos los resultados de dicho conjunto bajo los escenarios de altas y bajas emisiones del CMIP6. Nos enfocamos en la temperatura y la productividad como impulsores clave del cambio en los ecosistemas marinos ya que estas variables son utilizadas por todos los MEMs (Tabla complementaria 1). También utilizamos el subconjunto de MEMs que utilizaron el CMIP5 y los comparamos con el CMIP6 para evaluar las consecuencias ecosistémicas y los beneficios de mitigación relacionadas con las mejoras en los modelos climáticos. El protocolo de simulación de Fish-MIP para el CMIP6 se mantuvo lo más similar posible al protocolo CMIP5 para permitir la comparación directa, incluido el uso de los mismos ESMs (aunque de diferentes generaciones) y centrándose en los impactos climáticos en la biomasa total de animales marinos no explotados.
+
+# Simulaciones de los Modelos del Sistema Terrestre (ESMs)
+
+Las simulaciones del CMPI6 para los dos ESMs muestran un mayor calentamiento global medio de la superficie del océano entre 1990 y 2090 bajo un escenario de altas emisiones, en comparación con las simulaciones del CMIP5 ([Fig. 1a, B](https://www.nature.com/articles/s41558-021-01173-9/figures/1)). Dicha diferencia es menor para el escenario de bajas emisiones. Por otro lado, existe una mayor variabilidad en los cambios proyectados en la NPP ([Fig. 1c, d](https://www.nature.com/articles/s41558-021-01173-9/figures/1)) y biomasa de plancton ([Fig. 1e-h](https://www.nature.com/articles/s41558-021-01173-9/figures/1)). En las simulaciones del CMIP5, solo el IPSL bajo altas emisiones muestra una disminución general en la NPP global, de ~ 10% para 2090-2099 ([Fig. 1c](https://www.nature.com/articles/s41558-021-01173-9/figures/1)). Todas las demás simulaciones (GFDL para ambos escenarios e IPSL para bajas emisiones) muestran pocos cambios globales en la NPP. Sin embargo, para ambos escenarios del CMIP6, el GFDL muestra una disminución de 5 a 10% en la NPP global mientras que el IPSL proyecta un aumento de la misma magnitud con respuestas más marcadas en el escenario de altas emisiones ([Fig. 1d](https://www.nature.com/articles/s41558-021-01173-9/figures/1)). El aumento en la NPP del IPSL-CMIP6 es especialmente prominente en los giros sub-tropicales ([Fig. 1](https://www.nature.com/articles/s41558-021-01173-9/figures/1)). El análisis preliminar sugiere que esto podría estar relacionado con un aumento inducido por el calentamiento global en la fijación de nitrógeno [17]. Es importante destacar que, a pesar del aumento de la NPP, tanto la biomasa de fitoplancton como la de zooplancton sufren disminuciones marcadas para el IPSL-CMIP6. Dichas disminuciónes coinciden con los resultados del CMIP5, aunque con mayores diferencias entre los dos ESMs ([Fig. 1e-h](https://www.nature.com/articles/s41558-021-01173-9/figures/1)). Tanto el IPSL-CMIP6 como el GFDL-CMIP6 proyectan aumentos de la temperatura de la superficie del mar (SST, por si siglas en inglés) en casi todo el océano bajo el escenario de altas emisiones ([Fig.2b](https://www.nature.com/articles/s41558-021-01173-9/figures/1)). Las regiones con los cambios más acentuados son el Ártico, las regiones templadas del norte (excepto el centro del Giro subpolar del Atlántico norte) y un cinturón alrededor del Ecuador.
+
+Los océanos polares muestran un mayor calentamiento en la SST en las simulaciones del CMIP6 que en las del CMIP5 ([Fig. 2c](https://www.nature.com/articles/s41558-021-01173-9/figures/2) y [Figs. 1](https://www.nature.com/articles/s41558-021-01173-9/figures/1) y [2](https://www.nature.com/articles/s41558-021-01173-9/figures/2)) así cono el aumento de la NPP en el siglo XXI bajo el escenario de altas emisiones (Fig. 2e y datos extendidos, figuras 1 y 2). Las proyecciónes muestran una disminución de NPP en grandes áreas del Pacífico y Atlántico norte ([Fig. 2e](https://www.nature.com/articles/s41558-021-01173-9/figures/2)), aunque dicha extensión continúa siendo menor que en los modelos de CMIP5 ([Fig. 2d, e](https://www.nature.com/articles/s41558-021-01173-9/figures/2)). El océano Ártico muestra un aumento general de NPP en los modelos del CMIP6 frente a los del CMIP5, aparentemente impulsado por diferencias entre el IPSL-CMIP5 y IPSL-CMIP6 ([Figs. 1 y 2](https://www.nature.com/articles/s41558-021-01173-9/figures/2)). Los cambios negativos en la biomasa de fitoplancton y zooplancton son más pronunciados, disminuyendo en todas partes excepto en los polos ([Fig. 2g-l](https://www.nature.com/articles/s41558-021-01173-9/figures/2)), y más variables regionalmente para el zooplancton (Fig. 2j-l). La congruencia espacial entre CMIP5 y CMIP6 en la dirección de los cambios para las biomasas de plancton, sin embargo, fue mayor que para NPP [Fig. 2e, h, k](https://www.nature.com/articles/s41558-021-01173-9/figures/2).
+
+# Simulaciones de los Modelos de Ecosistemas Marinos (MEM)
+
+Las proyecciones de biomasa animal marina promedio del conjunto completo de MEM no muestran una diferencia clara entre las simulaciones del CMIP5 y CMIP6 hasta ~ 2030 [Fig. 3](https://www.nature.com/articles/s41558-021-01173-9/figures/3). Después del 2030, los modelos del CMIP6 muestran una disminución más pronunciada en la biomasa animal. Dicha disminución sucede en casi todos los años bajo el escenario de fuerte mitigación y en la mayoría de los años a partir de 2060 en el de altas emisiones [Fig. 3](https://www.nature.com/articles/s41558-021-01173-9/figures/3). Ambos escenarios tienen una disminución significativamente más fuerte en 2090-2099 bajo CMIP6 que CMIP5 (prueba de suma de rangos de *Wilcoxon* de dos lados en valores anuales; *n* = 160 para CMIP6, 120 para CMIP5; *W* = 12,290 y *P* <0.01 para mitigación fuerte, *W* = 11,221 y *P* = 0,016 para emisiones altas). Para el conjunto de MEM comparable [Fig. Extendida 3B](https://www.nature.com/articles/s41558-021-01173-9/figures/8), solo el escenario de mitigación fuerte es significativamente diferente (*n* = 120 para ambos CMIPs; *W* = 6,623 y *P* <0.01). Estos resultados parecen no deberse simplemente a la variabilidad temporal del conjunto de ESMs ya que existen varias décadas consecutivas en las que las proyecciones de CMIP6 son más negativas que las de CMIP5 [Fig. 3b](https://www.nature.com/articles/s41558-021-01173-9/figures/3) y [Fig. Extendida 3B](https://www.nature.com/articles/s41558-021-01173-9/figures/8). Bajo el escenario de altas emisiones, la biomasa media de animales marinos proyectada con el conjunto completo del MEM-CMIP6 disminuye en ~ 19% para 2099 en relación con 1990-1999 (~ 2.5% más que MEM-CMIP5). Ya para el escenario de fuerte mitigación, la biomasa disminuye en ~ 7% (~ 2% más que MEM-CMIP5).
+
+Se observaron disminuciones similares para el conjunto de MEM comparable. En particular, las desviaciones estándar entre los modelos muestran una separación total entre escenarios de altas emisiones y escenarios de fuerte mitigación bajo CMIP6 después de la década de 2080. Esto aplica tanto para el conjunto completo de MEM como para el conjunto comparable[Fig. 3](https://www.nature.com/articles/s41558-021-01173-9/figures/3).POr otro lado, en el MEM-CMIP5 las desviaciones estándar entre los modelos se sobreponen, es decir, no muestran dicha separación. Esto se debe principalmente a una reducción de la desviación estándar entre modelos para el escenario de altas emisiones. POr ejemplo, todos los MEM forzados por GFDL de CMIP6 proyectan una mayor disminución en la biomasa animal para la segunda mitad del siglo XXI (Fig.4c, dy Datos extendidos Fig. 4c, d). Esto hace que las proyecciones de esos modelos (i.e, MEM-GFDL-CMIP6) sean similares a los modelos forzados con el IPSL.
+
+
+
+
+
+
+# Discusión y Conclusión
+
+# Métodos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
