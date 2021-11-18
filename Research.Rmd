@@ -96,11 +96,11 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <center>
 <!-- Original article -->
-<a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s41558-021-01173-9" target="_blank">Full Paper</span></a>
+<a span class="label label-primary" title ="Email me for PDF" href= "https://www.nature.com/articles/s41558-021-01173-9" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<a span class="label label-info" href= "https://oceans.ubc.ca/2021/11/15/massive-ensemble-climate-modelling-study-includes-work-of-multiple-iof-researchers/" target="_blank">IOF stories </span></a>
+<a span class="label label-info" href= "https://oceans.ubc.ca/2021/11/15/massive-ensemble-climate-modelling-study-includes-work-of-multiple-iof-researchers/" target="_blank">UBC Stories</span></a>
 <!-- Github -->
-<!-- <a span class="label label-warning" href= " https://github.com/emlab-ucsb/ocean-conservation-priorities" target="_blank"> Code </span></a> -->
+<a span class="label label-warning" href= " https://github.com/Fish-MIP/CMIP5vsCMIP6" target="_blank"> Code </span></a>
 
 </center>
 
