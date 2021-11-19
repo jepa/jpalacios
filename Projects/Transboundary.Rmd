@@ -19,10 +19,15 @@ output:
 
 <center>
 
-<img src="../Images/Projects/Transboundary.png" width="1000px">
+<!-- <img src="../Images/Projects/Transboundary.png" width="1000px"> -->
 
-*Number of transboundary species per Exclusive Economic Zone and catch per fishing nation.*  
-*Figure from 10.1038/s41598-020-74644-2*
+<!-- *Number of transboundary species per Exclusive Economic Zone and catch per fishing nation.*   -->
+<!-- *Figure from 10.1038/s41598-020-74644-2* -->
+
+<img src="../Infographics/FishForVisa.png" width="750px">
+
+*illustration created by Ana Pazas and Karly McMullen with information from Palacios-Abrantes et al. (2020)*
+
 
 </center>
 
