@@ -90,6 +90,23 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
+### 2022
+
+- Palacios-Abrantes, J., Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="Email me for PDF" href= "https://doi.org/10.1111/gcb.16058" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "https://oceans.ubc.ca/2022/01/18/nearly-half-of-countries-shared-fish-stocks-are-on-the-move-due-to-climate-change-prompting-dispute-concerns/" target="_blank">UBC Stories</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/EmergingFish" target="_blank">Code </span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://doi.org/10.5683/SP3/TMPEHR" target="_blank">Data</span></a>
+
+</center>
+
+
 ### 2021
 
 - Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J**., Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change* DOI: 10.1038/s41558-021-01173-9
@@ -101,6 +118,8 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <a span class="label label-info" href= "https://oceans.ubc.ca/2021/11/15/massive-ensemble-climate-modelling-study-includes-work-of-multiple-iof-researchers/" target="_blank">UBC Stories</span></a>
 <!-- Github -->
 <a span class="label label-warning" href= " https://github.com/Fish-MIP/CMIP5vsCMIP6" target="_blank"> Code </span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://www.isimip.org/gettingstarted/data-access/" target="_blank">Data</span></a>
 
 </center>
 
@@ -110,8 +129,8 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <center>
 <!-- Original article -->
 <a span class="label label-primary" title ="Email me for PDF" href= "https://doi.org/10.1016/j.pocean.2021.102659" target="_blank">Full Paper</span></a>
-<!-- Github -->
-<!-- <a span class="label label-warning" href= " https://github.com/emlab-ucsb/ocean-conservation-priorities" target="_blank"> Code </span></a> -->
+<!-- Data -->
+<a span class="label label-warning" href= "https://www.isimip.org/" target="_blank"> Data </span></a>
 
 </center>
 
@@ -133,6 +152,8 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <a span class="label label-info" href= "https://blog.nationalgeographic.org/2021/03/17/study-in-nature-protecting-the-ocean-delivers-a-comprehensive-solution-for-climate-fishing-and-biodiversity/" target="_blank">National Geographic</span></a>
 <!-- Github -->
 <a span class="label label-warning" href= " https://github.com/emlab-ucsb/ocean-conservation-priorities" target="_blank"> Code </span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://datadryad.org/stash/dataset/doi:10.25349/D9N89M" target="_blank">Data</span></a>
 
 </center>
 
@@ -148,7 +169,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <!-- Español -->
 <a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
 <!-- Github -->
-<a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a>
+<a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code & Data </span></a>
 
 </center>
 
@@ -192,7 +213,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <!-- Español -->
 <a span class="label label-success" href= "https://www.julianopalacios.com/Translations/SESYNC/shifting_mpa_Esp.html" target="_blank">Artículo en Español</span></a>
 <!-- Github -->
-<a span class="label label-warning" href= "https://github.com/timcashion/shifting_mpas" target="_blank"> Code </span></a>
+<a span class="label label-warning" href= "https://github.com/timcashion/shifting_mpas" target="_blank"> Code & Data </span></a>
 
 </center>
 
@@ -228,6 +249,10 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 <a span class="label label-success" href= "Translations/Metadata/Metadata_Esp.html" target="_blank">Artículo en Español</span></a>
 <!-- Github -->
 <a span class="label label-warning" href= "https://github.com/jepa/metadatamexico" target="_blank"> Code </span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://datadryad.org/stash/dataset/doi:10.5061/dryad.pt80482" target="_blank">Data</span></a>
+
+
 
 </center>
 
