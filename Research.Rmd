@@ -96,7 +96,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <center>
 <!-- Original article -->
-<a span class="label label-primary" title ="Email me for PDF" href= "https://doi.org/10.1111/gcb.16058" target="_blank">Full Paper</span></a>
+<a span class="label label-primary" title ="" href= "https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058" target="_blank">Full Paper</span></a>
 <!-- Press -->
 <a span class="label label-info" href= "https://oceans.ubc.ca/2022/01/18/nearly-half-of-countries-shared-fish-stocks-are-on-the-move-due-to-climate-change-prompting-dispute-concerns/" target="_blank">UBC Stories</span></a>
 <!-- Github -->

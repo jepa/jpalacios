@@ -41,6 +41,14 @@ Regulatory boundaries and species distributions often do not align. This is espe
 
 ## Publications
 
+- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058" target="_blank">Full Paper</span></a>
+
+</center>
+
 - **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
 
 <center>
@@ -49,7 +57,7 @@ Regulatory boundaries and species distributions often do not align. This is espe
 <!-- Español -->
 <a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
 <!-- Github -->
-<a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a>
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a> -->
 
 </center>
 
@@ -61,7 +69,7 @@ Regulatory boundaries and species distributions often do not align. This is espe
 <!-- Press -->
 <!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
 <!-- Github -->
-<a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a>
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
 
 </center>
 
@@ -82,17 +90,18 @@ Regulatory boundaries and species distributions often do not align. This is espe
 <!-- Press -->
 <!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
 <!-- Github -->
-<a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a>
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
 
 </center>
 
 
 ## Working Papers
 
-- **Palacios-Abrantes, J.**, Frölicher T.L., Reygondeau G., Sumaila U.R., Tagliabue A.,, Wabnitz C.C.C.,  and Cheung W.W.L. Timing and magnitude of climate driven range shifts in transboundary fish stocks challenge their management. [Preprint Available in BioRxiv ](https://www.biorxiv.org/content/10.1101/2021.08.26.456854v1){target="_blank"}
+- **Palacios-Abrantes J.,** Crosson S., Dumas C., Fujita R., Levine A., Longo C., and Jensen O. Quantifying fish range shifts across poorly defined management boundaries [*In prep.*]
 
 ## Media
 
+- [University of British Columbia]("https://oceans.ubc.ca/2022/01/18/nearly-half-of-countries-shared-fish-stocks-are-on-the-move-due-to-climate-change-prompting-dispute-concerns/)
 - [Centre for Ocean Solutions](https://oceansolutions.stanford.edu/stories-events/no-visas-fish-new-study-emphasizes-importance-cooperative-fisheries-management)
 - [University of British Columbia](https://oceans.ubc.ca/2020/10/21/transboundary/)
 - [CONACyT Prensa, Spanish](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
