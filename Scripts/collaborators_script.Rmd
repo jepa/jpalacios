@@ -3,68 +3,252 @@ title: "Untitled"
 output: pdf_document
 ---
 
-# Main fx
 
-```{r}
+```{r setup, eval = T}
 
-include_paper <- function(inst,key = NA){
-  
-   # Read old dataset
-  old_dataset <- read_csv("../Data/Collaborators.csv")
-  
-  if(key != "NA"){
-    filter_dataset <- filter(old_dataset, Key == key)
-  }
-  
-  # Create new data to upload
-  new_data <- data %>% 
-    janitor::clean_names() %>% 
-    mutate(
-    author = strsplit(as.character(author), ";"),
-    ) %>%
-    unnest(author) %>% 
-    select(key,title,publication_year,title,journal = publication_title,language, doi) %>% 
-    mutate_if(is.character,c(str_squish))
-  
-  
-  
-  
-  # %>% 
-  #   #bind it with old data
-  #   bind_rows(old_dataset) %>% 
-  #   distinct(.keep_all = T) %>% 
-  #   write_csv(.,"../Data/Collaborators.csv")
-  
-  message <- "Data uploaded"
-  return(message)
-  
-}
-
-
-
-
+MyFunctions::my_lib(c("bib2df","tidyverse","janitor"))
 
 
 ```
 
-## Author's institutions
+# Load bib file
+
+```{r load_data, eval = T, echo = T}
+
+df <- bib2df("/Users/jepa/gitHub/jpalacios/Data/test_df.bib",
+             separate_names = TRUE) %>% 
+  clean_names() %>% 
+  select(-address,-annote,-note)
+  
+  
+
+head(df)
+
+```
+# Journal analysis
+
+## General trends
+
+### Publications per year
+
+This bar-graph shows the number of publications per year 
 
 ```{r}
 
-key <- select(data, Key,paper_title = Title)
+df %>% 
+  group_by(year) %>% 
+  tally() %>% 
+  ggplot() +
+  geom_bar(
+    aes(
+      x = year,
+      y = n
+    ),
+    stat = "identity"
+  ) 
 
-Collaborators <- read.csv("~/gitHub/jpalacios/Data/Collaborators.csv") %>% 
-  left_join(key)
+```
+
+### Aggregated publications per year
+
+This line-graph shows the aggregated number of publications per year 
+
+```{r}
+
+years <- df %>% 
+  arrange(year) %>% 
+  pull(year) %>% 
+  unique()
   
-key <- "2IN9ZJ6P"
 
-inst <- c(
-  "Institute for the Oceans and Fisheries	University of British Columbia",
-"Department of Applied Economics	Oregon State University",
-"National Marine Fisheries Service	National Oceanic and Atmospheric Administration",
-"Department of Sociology & Anthropology	Nazarbayev University",
-"Nicholas School of the Environment and Earth Sciences	Duke University"
+df %>% 
+  group_by(year) %>% 
+  tally() %>% 
+  group_by() %>% 
+  summarise(n_agg = cumsum(n)) %>% 
+  mutate(year = years) %>% 
+  ggplot() +
+  geom_area(
+    aes(
+      x = year,
+      y = n_agg
+    )
+  ) 
+
+```
+
+## Specific trends
+
+### Publications per journal
+
+This graph shows the number of publications per year for each journal
+
+```{r journal, eval = T}
+
+df %>% 
+  group_by(journal, year) %>% 
+  tally() %>% 
+  filter(!is.na(journal)) %>% 
+  ggplot() +
+  geom_point(
+    aes(
+      x = year,
+      y = n
+    )
+  ) +
+  facet_wrap(~journal)
+
+```
+
+## First Author General trends
+
+```{r}
+
+df_fa <- df %>% 
+  unnest() %>% 
+  group_by(bibtexkey) %>% 
+  slice(1) %>% 
+  # View()
+  filter(str_detect(last_name, "Palacios"))
+```
+
+
+### Publications per year
+
+This bar-graph shows the number of publications per year as a first author
+
+```{r}
+
+df_fa %>% 
+  group_by(year) %>% 
+  tally() %>% 
+  ggplot() +
+  geom_bar(
+    aes(
+      x = year,
+      y = n
+    ),
+    stat = "identity"
+  ) 
+
+
+```
+
+### Aggregated publications per year
+
+This line-graph shows the aggregated number of publications per year 
+
+```{r}
+
+years <- df_fa %>% 
+  arrange(year) %>% 
+  pull(year) %>% 
+  unique()
+  
+
+df_fa %>% 
+  group_by(year) %>% 
+  tally() %>% 
+  group_by() %>% 
+  summarise(n_agg = cumsum(n)) %>% 
+  mutate(year = years) %>% 
+  ggplot() +
+  geom_area(
+    aes(
+      x = year,
+      y = n_agg
+    )
+  ) 
+
+```
+
+# Specific trends
+
+## Publications per journal
+
+This graph shows the number of publications per year for each journal
+
+```{r journal, eval = T}
+
+df_fa %>% 
+  group_by(journal, year) %>% 
+  tally() %>% 
+  filter(!is.na(journal)) %>% 
+  ggplot() +
+  geom_bar(
+    aes(
+      x = year,
+      y = n
+    ),
+    stat = "identity"
+  ) +
+  facet_wrap(~journal)
+
+```
+
+# Co-aturhos analysis
+
+In this part I analyze the number of different collaborators I have had over time. Below shows the number of different collaborators from all my papers and from all the papers as first author
+
+```{r}
+
+data.frame(
+"all_papers" = df %>% 
+  unnest(author) %>% 
+  filter(last_name != "Palacios-Abrantes") %>% 
+  group_by() %>% 
+  summarise(n = length(unique(last_name))) %>% 
+  pull(),
+
+"first_author" = df %>% 
+  filter(bibtexkey %in% df_fa$bibtexkey) %>% 
+  unnest(author) %>% 
+  filter(last_name != "Palacios-Abrantes") %>% 
+  group_by() %>% 
+  summarise(n = length(unique(last_name))) %>% 
+  pull()
 )
+```
+
+This bar-graph shows the number of publications per year and author over 1
+
+```{r}
+
+df %>% 
+  unnest() %>% 
+  group_by(year,last_name) %>% 
+  tally() %>% 
+  filter(last_name != "Palacios-Abrantes",
+        n > 1) %>% 
+  arrange(n) %>% 
+  ggplot() +
+  geom_bar(
+    aes(
+      y = reorder(last_name,n),
+      x = n
+    ),
+    stat = "identity"
+  )
+  
 
 ```
 
+This bar-graph shows the number of different authors per year
+
+```{r}
+
+df %>% 
+  unnest() %>% 
+  filter(last_name != "Palacios-Abrantes") %>% 
+  group_by(year) %>% 
+  summarise(n = length(unique(last_name))) %>% 
+  ggplot() +
+  geom_bar(
+    aes(
+      x = year,
+      y = n
+    ),
+    stat = "identity"
+  )
+  
+```
