@@ -39,60 +39,17 @@ Regulatory boundaries and species distributions often do not align. This is espe
 - How can we adapt to shifting stocks?
 - What management schemes will be better fitted to shifting stocks?
 
-## Publications
+## Main Publications
 
 - **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
 
-<center>
-<!-- Original article -->
-<a span class="label label-primary" title ="" href= "https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058" target="_blank">Full Paper</span></a>
-
-</center>
-
 - **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
-
-<center>
-<!-- Original article -->
-<a span class="label label-primary" href= "https://www.nature.com/articles/s41598-020-74644-2" target="_blank">Full Paper</span></a>
-<!-- Español -->
-<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Artículo en Español</span></a>
-<!-- Github -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/FishForVisa" target="_blank"> Code </span></a> -->
-
-</center>
 
 - **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17. DOI: 10.5751/ES-11743-250441
 
-<center>
-<!-- Original article -->
-<a span class="label label-primary" href= "https://www.ecologyandsociety.org/vol25/iss4/art41/" target="_blank">Full Paper</span></a>
-<!-- Press -->
-<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
-<!-- Github -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
-
-</center>
-
 - Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
-<center>
-
-<a span class="label label-primary" href= "https://www.julianopalacios.com/Original_Articles/Pinsky_etal_2018.pdf" target="_blank">Full Paper</span></a>
-<a span class="label label-success" href= "https://www.julianopalacios.com/Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Artículo en Español</span></a>
-
-</center>
-
 - Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
-
-<center>
-<!-- Original article -->
-<a span class="label label-primary" href= "https://www.ecologyandsociety.org/vol25/iss4/art40/" target="_blank">Full Paper</span></a>
-<!-- Press -->
-<!-- <a span class="label label-info" href= "" target="_blank">OceanCanada Stories</span></a> -->
-<!-- Github -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/OC_Transboundary" target="_blank"> Code </span></a> -->
-
-</center>
 
 
 ## Working Papers

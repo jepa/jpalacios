@@ -31,34 +31,21 @@ Marine protected areas (MPAs) are an important tool in the context of marine spa
 
 2) Investigate the socio-economic implications of these species shifts to local communities that depend on MPAs for eco-tourism, generated income, and food security
 
-This project is part of the [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals) program. See the [SESYNC link to project](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to).
+This research line is part of a [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals) project. See the [SESYNC link to project](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to).
 
 **Members** 
 - Anneloes Mook, Juliano Palacios Abrantes, Sarah Roberts, Talya Tenbrink, Timothy Cashion, Tu Ngoc Nguyen.
 
-## Publications
+## Main Publications
 
-Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
+- Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
 
-<center>
-<!-- Original article -->
-<a span class="label label-primary" href= "" target="_blank">Full Paper</span></a>
-<!-- Github -->
-<a span class="label label-warning" href= "https://github.com/timcashion/shifting_mpas" target="_blank"> Code </span></a>
-
-</center>
-
-
+- Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
 
 ## Working Papers
 
 - **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. Marine Protected Areas Can Reduce Localized Losses to Fisheries Under Climate Change [*R&R*]
 
-## Related Work
-
-- Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
-
-<!-- ## News  -->
 
 <center>
 
