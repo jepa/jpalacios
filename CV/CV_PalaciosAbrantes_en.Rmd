@@ -15,8 +15,7 @@ output:
 
 <!-- # Abstract -->
 
-<!-- Juliano Palacios Abrantes is a postdoctoral researcher at the Jensen’s Lab of the University of Wisconsin. His work looks at how shifts in marine species are having uncertain feedbacks on marine ecosystems and dependent fishing communities. Specifically, he looks at how such shifts affect transboundary stocks (e.g., stocks that cross international borders) accentuating sources of conflict, and highlighting the need for adaptive, collaborative, ecosystem- based management strategies. -->
-
+<!-- Juliano Palacios Abrantes' work looks at how climate change is shifting the distribution of marine species generating uncertain feedbacks on marine ecosystems and dependent fishing communities. Specifically, he looks at how such shifts affect shared stocks (e.g., stocks that are shared between neighboring states) threatening the sustainability of marine resources and accentuating sources of conflict. His work spans from global to local studies highlighting the need for adaptive, collaborative, equitable and ecosystem- based management strategies. Born in Brazil and raised in Mexico, he has a special interest in supporting ocean governance in the Latin American region. Juliano holds a bachelor's degree in Biology from the Metropolitan Autonomous University of Mexico City and a masters in environmental science and management from the Bren School at the University of California, Santa Barbara. He recently completed his PhD. here at the Institute for the Oceans and Fisheries with Dr. William Cheung and then worked as a postdoctoral researcher at the Center for Limnology of the University of Wisconsin, Madison. Currently, he works as a postdoctoral researcher at the Institute for the Oceans and Fisheries of the University of British Columbia, Canada. -->
 <!-- \clearpage -->
 
 # Education
@@ -91,9 +90,9 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 # Work in Press, Under Review (R&R) or in Progress
 
-- **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[Under review]*
+- **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[In press]*
 
-- Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[Under review]*
+- Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[In press]*
 
 - **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Foden, W., Frazão-Santos, C., Grey, K.A, Kühn N., Maciejewski, K., McGhie, H., Midgley, G.F., Smith, I.P.J., and Pereira, L.M. Managing biodiversity in the Anthropocene: Utilizing the Nature Futures Framework for adaptive decision-making for nature under climate change [*R&R*]
 
@@ -130,7 +129,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 # Workshops Attended or Organized
 
-- High Seas Nature Futures Framework (NFF) virtual workshop (July - December, 2021). Organized by the Stockholm Resilience Centre, Stockholm University.
+- High Seas Nature Futures Framework (NFF) workshop (July - December, 2021). Organized by the Stockholm Resilience Centre, Stockholm University. Cape Town, South Africa. *Fully funded by organizers*
 
 - IPBES Future Nature Scenarios Workshop (July, 2019). Part of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) scenario task force. Organized at the Species on the Move conference, Skukuza, South Africa *Co-organized*
 
@@ -214,6 +213,8 @@ The committee as been working to create resources that provide information about
 
 # Invited Seminars
 
+- Marine fish do not need visas: managing shared stocks in a changing world (April, 2022). Seminar Series, The Institute for the Oceans and Fisheries, University of British Columbia, Canada
+
 - Challanges of managing transboundary stocks on the move (October, 2021). Seminar Series, Center for Limnology, University of Wisconsin-Madison, United States
 
 - Límites dinámicos como herramientas para la protección marina en océanos cambiantes (September 2021). Webinarios del Laboratorio Nacional de Resiliencia Costera, México. Presentation available at: https://www.facebook.com/LANRESC/videos/4140220856092892
@@ -271,7 +272,7 @@ The committee as been working to create resources that provide information about
 
 # Peer Review Journals
 
-- Fronteers of Marine Science
+- Frontiers of Marine Science
 - Global Change Biology
 - Revista de Biología Marina y Oceanografía
 - Ecosystems and People
