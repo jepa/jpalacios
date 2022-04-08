@@ -1,0 +1,90 @@
+---
+title: "Tiempo y magnitud de los cambios de distribución de las poblaciones de peces transfronterizos provocados por el cambio climático desafían su gestión"
+author: Juliano Palacios-Abrantes, Thomas Frölitcher,  Gabriel Reygondeau, U. Rashid Sumaila, Alexander Tagliabue, Colette C.C. Wabnitz and William W.L. Cheung
+date: "03/2022"
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+---
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script> -->
+<!-- <script> -->
+<!--   window.dataLayer = window.dataLayer || []; -->
+<!--   function gtag(){dataLayer.push(arguments);} -->
+<!--   gtag('js', new Date()); -->
+
+<!--   gtag('config', 'UA-105699898-4'); -->
+<!-- </script> -->
+
+- **NOTA: esta es una traducción al español del artículo:** *Timing and magnitude of climate driven range shifts in transboundary fish stocks challenge their management*, escrito por Juliano Palacios-Abrantes, Thomas Frölitcher,  Gabriel Reygondeau, U. Rashid Sumaila, Alexander Tagliabue, Colette C.C. Wabnitz y William W.L. Cheung  y que se puede encontrar en la siguiente [liga](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058). No cuenta con la sección de métodos traducida. 
+
+- **Forma de Citar**: Palacios-Abrantes, J., Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
+
+<center>
+
+<a span class="label label-success" href= "shared_fish_toe_esp.pdf" >Descargar Artículo en Español</span></a>
+
+</center>
+
+<br>
+
+<!-- Abstract rectangle -->
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding:20px;}
+</style>
+<div class = "blue">
+
+```{r setup, eval = T, echo=F, warning=F,message=F, results='hide'}
+
+#### Library ####
+packages <- c(
+  "knitr",
+  "kableExtra",
+  "png",
+  "grid"
+)
+
+MyFunctions::my_lib(packages)
+
+```
+
+<!-- Image for Abstract -->
+
+<center>
+
+<img src="https://onlinelibrary.wiley.com/cms/asset/abd364e9-c2cd-4bd8-a684-f2da5f4eb9cd/gcb16058-toc-0001-m.jpg">
+
+**Número de especies transfronterizas y su contribución a las capturas nacionales.**  
+**DOI: 10.1038/s41598-020-74644-2**
+
+</center>
+
+<br>
+
+</div>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+# Introducción
+
+Durante el siglo pasado, las actividades humanas han alterado drásticamente las condiciones físicas y biogeoquímicas de los océanos, dando como resultado aguas más cálidas, más ácidas y menos oxigenadas (IPCC, 2019). Las distribuciones de especies marinas reflejan las preferencias de las especies por condiciones ambientales discretas (Hutchinson, 1957). Como resultado de las condiciones oceánicas cambiantes, muchas especies marinas están cambiando su distribución hacia los polos o hacia aguas más profundas para permanecer dentro de su nicho ambiental óptimo (Dulvy et al., 2008; Poloczanska et al., 2016). Se prevé que la biogeografía de las especies marinas continúe cambiando a medida que cambian las condiciones del océano (Cheung et al., 2010), lo que afectará la captura de peces, la producción pesquera y los medios de vida y las economías dependientes (Sumaila et al., 2019). Estos impactos están comprometiendo nuestra capacidad para alcanzar los objetivos internacionales de sostenibilidad bajo la Agenda 2030 para el Desarrollo Sostenible de las Naciones Unidas (ONU), como los Objetivos 14 ("vida bajo el agua") y 17 ("alianzas para los Objetivos") (Pecl et al. , 2017; Singh et al., 2017; Naciones Unidas, 2018). Los riesgos e impactos proyectados pueden reducirse mejorando la eficacia de los marcos actuales de gobernanza y gestión pesquera, incluso para especies que cruzan fronteras internacionales, también conocidas como “poblaciones compartidas” (Miller et al., 2013; Pinsky et al., 2018).
+
+El concepto de poblaciones compartidas se desarrolló tras la ratificación de la Convención de las Naciones Unidas sobre el Derecho del Mar (UNCLOS) y la reivindicación de Zonas Económicas Exclusivas (ZEE) por parte de los Estados costeros (Naciones Unidas, 1986). Tal como lo define la Organización de las Naciones Unidas para la Agricultura y la Alimentación, las poblaciones compartidas se pueden clasificar en cuatro categorías no exclusivas: (i) poblaciones transfronterizas, que cruzan las ZEE vecinas; (ii) poblaciones transzonales que, además de las ZEE vecinas, también visitan alta mar adyacente (es decir, áreas fuera de la jurisdicción nacional); (iii) poblaciones altamente migratorias, principalmente túnidos y peces picudos, que migran a través de vastas regiones oceánicas que incluyen tanto alta mar como ZEE; y (iv) stocks discretos que solo están presentes en alta mar (Munro et al., 2004). Este estudio se centra en las poblaciones transfronterizas explotadas por las pesquerías que operan dentro de las ZEE únicamente. Según UNCLOS, los países son responsables de la gestión de las poblaciones dentro de sus ZEE y se les anima a cooperar cuando se comparten las poblaciones (Naciones Unidas, 1986). Un estudio reciente estima que hay 633 especies marinas transfronterizas explotadas en todo el mundo, lo que representa el 67 % de los taxones explotados identificados (Palacios-Abrantes, Reygondeau et al., 2020). Entre 2005 y 2010, estas especies produjeron un promedio anual de 48 millones de toneladas de captura y USD 78 mil millones en ingresos por pesca (Palacios-Abrantes, Reygondeau et al., 2020). Un trabajo reciente también destaca que el estado de explotación de las especies marinas es en gran medida peor cuando se comparte una población que cuando está contenida dentro de una sola ZEE (Liu & Molina, 2021).
+
+La eficacia de la gestión pesquera de especies transfronterizas se ve desafiada por los cambios en la distribución de las poblaciones debido al cambio climático (Oremus et al., 2020; Pinsky & Mantua, 2014; Pinsky et al., 2018, 2020). En la mayoría de los casos, las cuotas de pesca basadas en la captura o el esfuerzo para las poblaciones transfronterizas se basan en registros históricos y no tienen en cuenta necesariamente el rango completo de distribución de la población (Baudron et al., 2020), ni los efectos de un clima cambiante en las poblaciones de peces. y pesquerías asociadas (Palacios-Abrantes, Sumaila et al., 2020; Sumby et al., 2021). Si bien muchas poblaciones transfronterizas experimentan variaciones estacionales naturales en su distribución (p. ej., migración, ciclo reproductivo), la desalineación entre la asignación de los recursos pesqueros y los cambios en la distribución más allá de dicha variación natural ha dado lugar previamente a niveles de pesca insostenibles y disputas internacionales (Miller et al., 2013). ; Ortuño-Crespo et al., 2020; Spijkers & Boonstra, 2017). Se espera que el cambio climático continuo exacerbe dichos patrones (Pinsky et al., 2018; Sumaila et al., 2011). Estudios recientes han analizado las ganancias globales futuras (Pinsky et al., 2018) y las pérdidas (Oremus et al., 2020) de las poblaciones transfronterizas dentro de las ZEE del mundo, así como la dinámica de intercambio regional entre países vecinos (Palacios-Abrantes, Sumaila et al. ., 2020; Sumaila et al., 2020) a causa del cambio climático. Sin embargo, estudios anteriores no lograron identificar cambios en la distribución de las poblaciones transfronterizas actuales a nivel mundial, incluida la cronología real de los cambios en las poblaciones compartidas o la intensidad de tales cambios. Comprender cuándo el cambio climático afectará la dinámica de intercambio de las poblaciones transfronterizas y la intensidad de los impactos resultantes es importante para desarrollar una gobernanza oceánica internacional resiliente al clima y lograr los objetivos establecidos en la Agenda 2030 (Link et al., 2010; Pinsky et al. , 2018; Sumaila et al., 2020; Naciones Unidas, 2018).
+
+Aquí, aplicamos un modelo dinámico de población mecanicista, impulsado por los resultados de un modelo integral del sistema terrestre con 10 miembros del conjunto, para proyectar la distribución de las poblaciones transfronterizas desde 1951 hasta 2100 en 280 ZEE de 198 países costeros/entidades políticas bajo un alto nivel de emisiones de gases de efecto invernadero. escenario (Métodos). Desarrollamos un índice de cambio transfronterizo (TSI) para evaluar los cambios de rango en la distribución compartida de las poblaciones transfronterizas. El índice se basa en los cambios estimados en la distancia del centroide de abundancia del stock y de las ZEE que comparten un stock determinado (Figura 1). Además, aplicamos el concepto de punto de amenaza de la Teoría de Juegos (Munro, 1979, para su aplicación a las pesquerías, véase Sumaila et al., 2013) para cuantificar la intensidad de los cambios en la distribución compartida de las poblaciones transfronterizas entre las ZEE vecinas (Métodos). Finalmente, discutimos las implicaciones de los resultados de nuestra proyección para la gestión resiliente de las pesquerías transfronterizas en todo el mundo.
+
+
+
+
+
+
+
+
