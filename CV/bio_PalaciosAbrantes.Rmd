@@ -33,29 +33,36 @@ header-includes: \usepackage{wrapfig}
 
 <!-- Juliano está comprometido a apoyar la creación de políticas públicas y de gestión de recursos marinos en América Latina con una fuerte ciencia interdisciplinaria. Durante su creciente carrera profesional, ha colaborado en iniciativas de investigación secuencial centradas en la pesca del pulpo en México, particularmente examinando estas pesquerías en el contexto de la seguridad alimentaria costera. Ha apoyado en la creación de planes de manejo, evaluado proyectos de restauración pesquera en México y ha generado herramientas para apoyar la toma de decisión tanto en México como en Perú. -->
 
-# English
+<!-- # English -->
 
 \setlength\intextsep{0pt}
 \begin{wrapfigure}{L}{.35\textwidth}
-    \includegraphics[width=.35\textwidth]{../Images/cv/profile_pic_squid.jpg}
+    \includegraphics[width=.35\textwidth]{../Images/cv/profile_pic.png}
 \end{wrapfigure}
   
   
 <!-- Juliano Palacios Abrantes is a postdoctoral researcher at the Center for Limnology of the University of Wisconsin, Madison. His work looks at how climate change is shifting the distribution of marine species generating uncertain feedbacks on marine ecosystems and dependent fishing communities. Specifically, he looks at how such shifts affect shared stocks (e.g., stocks that are shared between neighboring states) accentuating sources of conflict, and highlighting the need for adaptive, collaborative, ecosystem- based management strategies. Juliano's work spans from global to regional to local studies with a special interest in supporting ocean governance in the Latin American region. -->
   
+  
+<!-- Juliano Palacios Abrantes' work looks at how climate change is shifting the distribution of marine species generating uncertain feedbacks on marine ecosystems and dependent fishing communities. Specifically, he looks at how such shifts affect shared stocks (e.g., stocks that are shared between neighboring states) threatening the sustainability of marine resources and accentuating sources of conflict. His work spans from global to local studies highlighting the need for adaptive, collaborative, equitable and ecosystem- based management strategies. Born in Brazil and raised in Mexico, he has a special interest in supporting ocean governance in the Latin American region. Juliano holds a bachelor's degree in Biology from the Metropolitan Autonomous University of Mexico City and a masters in environmental science and management from the Bren School at the University of California, Santa Barbara. He recently completed his PhD. here at the Institute for the Oceans and Fisheries with Dr. William Cheung and then worked as a postdoctoral researcher at the Center for Limnology of the University of Wisconsin, Madison. Currently, he works as a postdoctoral researcher at the Institute for the Oceans and Fisheries of the University of British Columbia, Canada. -->
 
 
-Juliano Palacios Abrantes' work looks at how climate change is shifting the distribution of marine species generating uncertain feedbacks on marine ecosystems and dependent fishing communities. Specifically, he looks at how such shifts affect shared stocks (e.g., stocks that are shared between neighboring states) threatening the sustainability of marine resources and accentuating sources of conflict. His work spans from global to local studies highlighting the need for adaptive, collaborative, equitable and ecosystem- based management strategies. Born in Brazil and raised in Mexico, he has a special interest in supporting ocean governance in the Latin American region. Juliano holds a bachelor's degree in Biology from the Metropolitan Autonomous University of Mexico City and a masters in environmental science and management from the Bren School at the University of California, Santa Barbara. He recently completed his PhD. here at the Institute for the Oceans and Fisheries with Dr. William Cheung and then worked as a postdoctoral researcher at the Center for Limnology of the University of Wisconsin, Madison. Currently, he works as a postdoctoral researcher at the Institute for the Oceans and Fisheries of the University of British Columbia, Canada.
+<!-- # Hilighted research -->
 
+<!-- - **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17. -->
 
-# Hilighted research
+<!-- - **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. -->
 
-- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
+<!-- - Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771. -->
 
-- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
-
-- Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
-
-- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723.
+<!-- - **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723. -->
 
   
+<!-- ## Short -->
+
+Juliano Palacios Abrantes is a Postdoctoral Associate at the Institute for the Oceans and Fisheries of the University of British Columbia. His research focus on how climate change is shifting the distribution of marine species generating uncertain feedbacks on ecosystems and dependent human communities. He is particularly interested in how these shifts affect international shared fish stocks, threatening their sustainability and accentuating sources of conflict, ultimately highlighting the need for adaptive, collaborative, equitable and ecosystem-based management strategies.
+
+While Juliano’s research spans global to local studies, having been born in Brazil and raised in Mexico, he has a special interest in supporting marine research and governance in Latin America.
+
+
+
