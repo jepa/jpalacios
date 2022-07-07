@@ -15,7 +15,8 @@ MyFunctions::my_lib(c("bib2df","tidyverse","janitor"))
 
 ```{r load_data, eval = T, echo = T}
 
-df <- bib2df("/Users/jepa/gitHub/jpalacios/Data/test_df.bib",
+
+df <- bib2df("/Users/jepa/gitHub/jpalacios/Data/export.bib",
              separate_names = TRUE) %>% 
   clean_names() %>% 
   select(-address,-annote,-note)
