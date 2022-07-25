@@ -49,8 +49,7 @@ This research line is part of a [National Socio-Environmental Synthesis Center (
 
 <center>
 
-<a class="btn btn-default" href="https://www.julianopalacios.com/Research.html">Back to Research</a>
-<a class="btn btn-default" href="https://www.julianopalacios.com/Projects/Transboundary.html">Previous Project</a>
+<a class="btn btn-default" href="https://www.julianopalacios.com/Research.html#Main_Research_Projects">Back to Research Projects</a>
 
 **Contact**
 
