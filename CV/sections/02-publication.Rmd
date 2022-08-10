@@ -1,0 +1,43 @@
+# Publications
+
+
+1. **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 28, 2312-2326.
+
+1. Cinner, J. E., Caldwell, I. R., Thiault, L., Ben, J., Blanchard, J. L., Coll, M., Diedrich, A., Eddy, T. D., Everett, J. D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G. G., Heneghan, R. F., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Maury, O., Müller, C., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Rabearisoa, A., Tittensor, D. P., Wamukota, A. and Pollnac, R. 2022. Potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities. *Nature Communications*, 13(1), p. 3530.
+
+1. Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J.**, Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change*.
+
+1. Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
+
+1. Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
+
+1. Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models. *Progress in Oceanography* 198, 102659.
+
+1. **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
+
+1. **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17.
+
+1. **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. 2020. In (eds. Tapia, P. and Urrea, U.) Pescadores en México y Cuba retos y oportunidades ante el cambio climático. Ciudad de México, 225
+
+1. Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
+
+1. Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
+
+1. Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485.
+
+1. Cisneros-Montemayor, A. M., Abas, M., **Palacios-Abrantes, J.**, and González-Espinosa, P. C., 2020. Spatial analysis of anticipated climate change effects on fisheries in Mexico: An overview for adaptation. *Ciencia Pesquera*, 28 (1-2), 31–44.
+
+1. **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723.
+
+1. **Palacios-Abrantes, J**., Herrera-Correal, J., Rodriguez, S., Brunkow, J., and Molina, R., 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa and Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, 13 (12), e0209431.
+
+1. Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
+
+1. **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
+
+1. **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
+
+<!-- 1. Melo, V., Aguirre, H. D., Martínez, B., **Palacios-Abrantes, J.**, and Vargas, N., 2013. Plaga de ortópteros, recurso de nuetrientes para la población. *Entomologia Mexicana.* -->
+
+<!-- 1. Melo, V., Jiménez, H., **Palacios-Abrantes, J.**, and Barreda, T. Q., 2013. Fruto de Capulín *Prunus serotina* y larvas de *Synopsia mexicanaria* W, representan una buena fuente de nutrientes en la dieta cotidiana. *Entomologia Mexicana.*, 12 (2), 1084–1086. -->
+{: reversed="reversed"}
