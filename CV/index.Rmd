@@ -23,7 +23,7 @@ output:
 
 \clearpage
 
-```{r work_progress, child = 'sections/03-work_progress.Rmd', eval = T}
+```{r work_progress, child = 'sections/03-work_progress.Rmd', eval = F}
 ```
 
 \clearpage
@@ -85,15 +85,15 @@ output:
 
 \clearpage
 
-```{r peer_review, child = 'sections/14-peer_review.Rmd', eval = T}
+```{r peer_review, child = 'sections/14-peer_review.Rmd', eval = F}
 ```
 
 \clearpage
 
-```{r other, child = 'sections/15-other.Rmd', eval = T}
+```{r other, child = 'sections/15-other.Rmd', eval = F}
 ```
 
 \clearpage
 
-```{r referees, child = 'sections/17-referees.Rmd', eval = T}
+```{r referees, child = 'sections/17-referees.Rmd', eval = F}
 ```
