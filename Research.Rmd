@@ -138,7 +138,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2021
 
-- Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J**., Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change*, 11(11), pp. 973–981.
+- Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J**., Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change* DOI: 10.1038/s41558-021-01173-9
 
 <center>
 <!-- Original article -->
@@ -155,7 +155,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 </center>
 
 
-- Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., and Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models, *Progress in Oceanography*, 198, p. 102659. 
+- Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., and Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models, *Progress in Oceanography*, DOI: 10.1016/j.pocean.2021.102659
 
 <center>
 <!-- Original article -->
@@ -166,7 +166,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 </center>
 
 
-- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Fisheries Research*, 240, 105963.
+- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Fisheries Research*, 240, 105963. DOI: 10.1016/j.fishres.2021.105963
 
 <center>
 <!-- Original article -->
@@ -190,7 +190,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2020
 
-- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
+- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
 
 <center>
 <!-- Original article -->
@@ -204,7 +204,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
-- **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17.
+- **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17. DOI: 10.5751/ES-11743-250441
 
 <center>
 <!-- Original article -->
@@ -257,7 +257,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
-- Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485.
+- Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485. DOI: 10.1093/icesjms/fsz247
 
 <!-- Paper Links -->
 <center>
@@ -268,7 +268,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2019
 
-- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6).
+- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI 10.1371/journal.pone.0216723.
 
 <!-- Paper Links -->
 <center>
@@ -289,7 +289,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 ### 2018
 
-- **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. and Molina R. 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431.
+- **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. and Molina R. 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
 
 <!-- Paper Links -->
 <center>
@@ -303,7 +303,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 </center>
 
-- Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J. and Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191.
+- Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J. and Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
 <!-- Paper Links -->
 <center>
@@ -332,7 +332,7 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <!-- ### 2016 -->
 
-- **Palacios-Abrantes J.,** Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. and Urbano B. 2016. Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4.
+- **Palacios-Abrantes J.,** Melo-Ruiz V., Diaz-Garcia R., Gazga-Urioste C. and Urbano B. 2016. Iron Profile of Octopus hubbsorum (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet, 10, 1–4. doi.org/10.17265/1934-7375/2016.05.008 
 
 <!-- Paper Links -->
 <center>
