@@ -110,15 +110,27 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 
 <center>
 <!-- Original article -->
-<a span class="label label-primary" title ="" href= "https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058" target="_blank">Full Paper</span></a>
+<a span class="label label-primary" title ="" href= "https://onlinelibrary.wiley.com/share/author/IVUPS6BEJFMXTSVZECNB?target=10.1111/gcb.16368" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<a span class="label label-info" href= "https://oceans.ubc.ca/2022/01/18/nearly-half-of-countries-shared-fish-stocks-are-on-the-move-due-to-climate-change-prompting-dispute-concerns/" target="_blank">UBC Stories</span></a>
-<!-- Github -->
-<a span class="label label-warning" href= "https://github.com/jepa/EmergingFish" target="_blank">Code </span></a>
+<a span class="label label-info" href= "https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/#:~:text=Science%2C%20Health%20%26%20Technology&text=Their%20simulations%20suggest%20that%20climate,in%20the%2021st%20century." target="_blank">UBC Stories</span></a>
 <!-- Data -->
-<a span class="label label-warning" href= "https://doi.org/10.5683/SP3/TMPEHR" target="_blank">Data</span></a>
+<a span class="label label-warning" href= "https://doi.org/10.5061/dryad.79cnp5hzf" target="_blank">Data</span></a>
 
 </center>
+
+
+- Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world’s marine ecoregions under climate change, *Global Change Biology*
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="Get paper" href= "https://onlinelibrary.wiley.com/share/author/KTTPKSFIWS2CBY3CPKDX?target=10.1111/gcb.16368" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/" target ="_blank">UBC Stories</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "10.5061/dryad.79cnp5hzf" target="_blank">Data</span></a>
+
+</center>
+
 
 - Cinner, J. E., Caldwell, I. R., Thiault, L., Ben, J., Blanchard, J. L., Coll, M., Diedrich, A., Eddy, T. D., Everett, J. D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G. G., Heneghan, R. F., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Maury, O., Müller, C., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Rabearisoa, A., Tittensor, D. P., Wamukota, A., and Pollnac, R., 2022. Potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities. *Nature Communications*, 13 (1), 3530–11.
 
