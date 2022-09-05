@@ -1,7 +1,7 @@
 ---
-title: “Juliano E. Palacios Abrantes”
-author: “Email: j.palacios@oceans.ubc.ca | Web Page: www.julianopalacios.com”
-date: “`r format(Sys.time(), ‘%B, %Y’)`”
+title: "Juliano E. Palacios Abrantes"
+author: "Email: j.palacios@oceans.ubc.ca | Web Page: www.julianopalacios.com"
+date: "`r format(Sys.time(), ‘%B, %Y’)`"
 output:
   pdf_document:
     extra_dependencies: xcolor
@@ -49,6 +49,8 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 <!-- OJO Harvard Bou style -->
 
 - **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 28, 2312-2326.
+
+- Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world’s marine ecoregions under climate change, *Global Change Biology*
 
 - Cinner, J. E., Caldwell, I. R., Thiault, L., Ben, J., Blanchard, J. L., Coll, M., Diedrich, A., Eddy, T. D., Everett, J. D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G. G., Heneghan, R. F., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Maury, O., Müller, C., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Rabearisoa, A., Tittensor, D. P., Wamukota, A. and Pollnac, R. 2022. Potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities. *Nature Communications*, 13(1), p. 3530.
 
@@ -141,7 +143,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 - Future High Seas Governance Workshop (November, 2018). Organized by the University of British Columbia (UBC) and the International Institute for Environment and Development (IIED). Vancouver, British Columbia, Canada. *Fully funded by organizers*
 
-- IMBeR ClimEco6 Summer School - Interdisciplinary approaches for sustainable oceans (August, 2018). Organized by the Integrated Marine Biosphere Research (IMBER). Yogyakarta, Indonesia. *Fully funded by PICES*
+- IMBeR ClimEco6 Summer School - Interdisciplinary approaches for sustainable oceans (August, 2018). Organized by the Integrated Marine Biosphere Research (IMBER). Yogyakarta, Indonesia. *Fully funded by SCOR/PICES*
 
 - Graduate Student Workshop on Socio-Environmental Synthesis (January 2018). Organized by the National Socio-Environmental Synthesis Center (SESYNC). Annapolis, Maryland, United States. *Fully funded by organizers*
 
@@ -241,7 +243,7 @@ The committee as been working to create resources that provide information about
 
 # Attendance at Conferences
 
-- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. ICES/PICES Early Caeer Conference, St. John’s NL, Canada
+- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. ICES/PICES Early Career Conference, St. John’s NL, Canada
 
 - **Palacios-Abrantes, J.**, 2019. Climate change and transboundary fisheries management, examples from North America. Species on the Move, Skukuza, South Africa
 
