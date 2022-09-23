@@ -119,6 +119,17 @@ If you are interested, you can download my CV at the bottom of this page. Feel f
 </center>
 
 
+- **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Cheung, W.W.L., Foden, W., Santos, C.F., Grey, K.-A., Kühn, N., Maciejewski, K., McGhie, H., Midgley, G.F., Smit, I.P.J. and Pereira, L.M. 2022. Managing biodiversity in the Anthropocene: discussing the Nature Futures Framework as a tool for adaptive decision-making for nature under climate change, *Sustainability Science*, pp. 1–17.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://doi.org/10.1007/s11625-022-01200-4" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<!-- <a span class="label label-info" href= "https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/#:~:text=Science%2C%20Health%20%26%20Technology&text=Their%20simulations%20suggest%20that%20climate,in%20the%2021st%20century." target="_blank">UBC Stories</span></a> -->
+
+</center>
+
+
 - Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world’s marine ecoregions under climate change, *Global Change Biology*
 
 <center>
