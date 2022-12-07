@@ -20,10 +20,10 @@ output:
 
 # Education
 
-- **Postdoctoral Researcher** (2022 - Present)
+- **Postdoctoral Researcher** (March 2022 - Present)
 Changing Oceans Research Unit, The Institute for the Oceans and Fisheries, University of British Columbia; Canada; Supervisor, Dr. William Cheung
 
-- **Postdoctoral Researcher** (2021 - 2022)
+- **Postdoctoral Researcher** (March 2021 - February 2022)
 Jensen’s Lab, Center for Limnology, University of Wisconsin-Madison, USA; Supervisor: Dr. Olaf Jensen
     - *Adaptive Allocation for Transboundary Fish Stocks*
 
@@ -41,53 +41,52 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
     -	*Sea Cucumber as a Source of Macronutrients for Low-Income Coastal Communities in Mexico.*
     - Year abroad at the University of São Paulo, Brazil
 
-**Keywords:** *Climate change; Fisheries management; Shared fisheries; Data science; Multidisciplinary; Marine science; Sustainability*
+**Keywords:** *Climate change; Fisheries management; Shared fisheries; Marine conservation: Data science; Multidisciplinary; Social-ecological systems*
 
 \clearpage
 
 # Publications
 <!-- OJO Harvard Bou style -->
 
-- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 28, 2312-2326.
+20. **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 28, 2312-2326.
 
-- **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Cheung, W.W.L., Foden, W., Santos, C.F., Grey, K.-A., Kühn, N., Maciejewski, K., McGhie, H., Midgley, G.F., Smit, I.P.J. and Pereira, L.M. 2022. Managing biodiversity in the Anthropocene: discussing the Nature Futures Framework as a tool for adaptive decision-making for nature under climate change, *Sustainability Science*, pp. 1–17.
+19. **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Cheung, W.W.L., Foden, W., Santos, C.F., Grey, K.-A., Kühn, N., Maciejewski, K., McGhie, H., Midgley, G.F., Smit, I.P.J. and Pereira, L.M. 2022. Managing biodiversity in the Anthropocene: discussing the Nature Futures Framework as a tool for adaptive decision-making for nature under climate change, *Sustainability Science*, pp. 1–17.
 
+18. Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world’s marine ecoregions under climate change, *Global Change Biology*
 
-- Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world’s marine ecoregions under climate change, *Global Change Biology*
+17. Cinner, J. E., Caldwell, I. R., Thiault, L., Ben, J., Blanchard, J. L., Coll, M., Diedrich, A., Eddy, T. D., Everett, J. D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G. G., Heneghan, R. F., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Maury, O., Müller, C., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Rabearisoa, A., Tittensor, D. P., Wamukota, A. and Pollnac, R. 2022. Potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities. *Nature Communications*, 13(1), p. 3530.
 
-- Cinner, J. E., Caldwell, I. R., Thiault, L., Ben, J., Blanchard, J. L., Coll, M., Diedrich, A., Eddy, T. D., Everett, J. D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G. G., Heneghan, R. F., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Maury, O., Müller, C., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Rabearisoa, A., Tittensor, D. P., Wamukota, A. and Pollnac, R. 2022. Potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities. *Nature Communications*, 13(1), p. 3530.
+16. Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J.**, Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change*.
 
-- Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J.**, Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change*.
+15. Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
 
-- Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
+14. Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
 
-- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
+13. Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models. *Progress in Oceanography* 198, 102659.
 
-- Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models. *Progress in Oceanography* 198, 102659.
+12. **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
 
-- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12.
+11. **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17.
 
-- **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17.
+10. **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. 2020. In (eds. Tapia, P. and Urrea, U.) Pescadores en México y Cuba retos y oportunidades ante el cambio climático. Ciudad de México, 225
 
-- **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. 2020. In (eds. Tapia, P. and Urrea, U.) Pescadores en México y Cuba retos y oportunidades ante el cambio climático. Ciudad de México, 225
+9. Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
 
-- Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
+8. Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
 
-- Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
+7. Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485.
 
-- Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485.
+6. Cisneros-Montemayor, A. M., Abas, M., **Palacios-Abrantes, J.**, and González-Espinosa, P. C., 2020. Spatial analysis of anticipated climate change effects on fisheries in Mexico: An overview for adaptation. *Ciencia Pesquera*, 28 (1-2), 31–44.
 
-- Cisneros-Montemayor, A. M., Abas, M., **Palacios-Abrantes, J.**, and González-Espinosa, P. C., 2020. Spatial analysis of anticipated climate change effects on fisheries in Mexico: An overview for adaptation. *Ciencia Pesquera*, 28 (1-2), 31–44.
+5. **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723.
 
-- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723.
+4. **Palacios-Abrantes, J**., Herrera-Correal, J., Rodriguez, S., Brunkow, J., and Molina, R., 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa and Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, 13 (12), e0209431.
 
-- **Palacios-Abrantes, J**., Herrera-Correal, J., Rodriguez, S., Brunkow, J., and Molina, R., 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa and Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, 13 (12), e0209431.
+3. Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
 
-- Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
+2. **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
 
-- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
-
-- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
+1. **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
 
 <!-- - Melo, V., Aguirre, H. D., Martínez, B., **Palacios-Abrantes, J.**, and Vargas, N., 2013. Plaga de ortópteros, recurso de nuetrientes para la población. *Entomologia Mexicana.* -->
 
@@ -95,28 +94,33 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 <!-- \clearpage -->
 
-<!-- # Work in Press, Under Review (R&R) or in Progress -->
+# Work in Press or Under Review (R&R)
 
-<!-- - **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada’s oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[In press]* -->
+*Note that any work in progress is not listed here*
 
-<!-- - Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada’s oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[In press]* -->
+- **Palacios-Abrantes J.**, Crosson S., Dumas C., Fujita R., Levine A., Longo C., Jensen O.P., Quantifying fish range shifts across poorly defined management boundaries. [*PlosONE- In press*]
 
-<!-- - **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. Marine Protected Areas Can Reduce Regional Losses to Fisheries Under Climate Change [*R&R*] -->
+- **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. Marine Protected Areas Can Reduce Regional Losses to Fisheries Under Climate Change [*FACETS - In press*]
 
-<!-- - **Palacios-Abrantes J.**, Crosson S., Dumas C., Fujita R., Levine A., Longo C., Jensen O. Quantifying fish range shifts across poorly defined management boundaries *[In preparation]* -->
+- **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada’s oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
 
-<!-- - Tidd, A., Ojea, E., **Palacios-Abrantes, J.** Miss-matches between climate change-driven shifts in fish distribution and the European Union fish stock quota allocation *[In preparation]* -->
+- Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada’s oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
 
+- Fredston-Hermann *et al*. Marine heatwaves have not emerged as a dominant driver of ecological change [*R&R*]
 
 # Professional Research
 
-- Waldron, A., et al. 2020. Contribution towards the report, Protecting 30% of the planet for nature: costs, benefits and economic implications. Working paper analyzing the economic implications of the proposed 30% target for area protection in the draft post-2020 Global Biodiversity Framework. Report commissioned by *Campaign for Nature*. Available at https://www.conservation.cam.ac.uk/files/waldron_report_30_by_30_publish.pdf *Role: Data analyst*
+- Llomport F., **Palacios-Abrantes J.**, *et al.*, 2022-Ongoing. Sistema de Información satelital como soporte a la producción pesquera argentina. Project funded by the *International Development Bank (IDB)*. *Role: Co-principal investigator*
+
+- Cisneros-Montemayor A. and **Palacios-Abrantes J.** 2022-Ongoing. Identifying Adaptation Needs and Opportunities for Fisheries Management Operations in Response to Space-based Management for Non-Fishery specific Objectives. Project commissioned by *Fisheries and Oceans Canada (DFO)*. *Role: Co-principal investigator*
+
+- Waldron, A., *et al.* 2020. Contribution towards the report, Protecting 30% of the planet for nature: costs, benefits and economic implications. Working paper analyzing the economic implications of the proposed 30% target for area protection in the draft post-2020 Global Biodiversity Framework. Report commissioned by *Campaign for Nature*. Available at https://www.conservation.cam.ac.uk/files/waldron_report_30_by_30_publish.pdf *Role: Data analyst*
 
 -  Wabnitz, C. and  **Palacios-Abrantes, J.** 2019. Contributing author of the transboundary resource management section of the International Dimensions Chapter for NRCan’s National Knowledge Assessment of Climate Change Impacts and Adaptation. Available at https://changingclimate.ca/National-Issues/chapter/9-0/
 
 - Cisneros-Montemayor, A., Alfredo, G., and **Palacios-Abrantes, J.** 2019. Illuminating Hidden harvest: Mexico, Report commissioned by The Food and Agricultural Organization of the United Nations (FAO). *Role: Data analyst*
 
-- **Palacios-Abrantes, J.**, Vargas, C., Viana, D., Rivera, M.I., Gozzer, R., López, R., de la Puente, S., and Cisneros-Montemayor, A. 2018. Contributions of marine capture fisheries to the domestic livelihoods and seafood consumption of Brazil, Chile, and Peru. Report commissioned by Oceana. Pp 100. *Role: Principal Investigator*
+- **Palacios-Abrantes, J.**, Vargas, C., Viana, D., Rivera, M.I., Gozzer, R., López, R., de la Puente, S., and Cisneros-Montemayor, A. 2018. Contributions of marine capture fisheries to the domestic livelihoods and seafood consumption of Brazil, Chile, and Peru. Report commissioned by Oceana. Pp 100. *Role: Principal investigator*
 
 - Cisneros-Montemayor, A.M., **Palacios-Abrantes, J.**, and Abas, M. 2017. Impactos potenciales del cambio climático en las pesquerías mexicanas: Consideraciones para su manejo. A report commissioned by Environmental Defense Fund de México, A.C. 60 pp. *Role: Team member*
 
@@ -126,15 +130,21 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 - Peruvian Anchovy Stock Assessment Tool. 2016. Member of a team tasked to develop a tool for better manage the Anchovy fishery in Peru. A project in collaboration with The Nature Conservancy and the government of Peru. *Role: Team member*
 
-- TURF Legal Framework Analysis. 2015. Reviewed and analyzed the legal framework of Territorial Rights Use for Fisheries (TURFs) of Brazil, Chile and Spain. A report commissioned by Environmental Defense Fund, Mexico. 9 pp. *Role: Principal Investigator*
+- TURF Legal Framework Analysis. 2015. Reviewed and analyzed the legal framework of Territorial Rights Use for Fisheries (TURFs) of Brazil, Chile and Spain. A report commissioned by Environmental Defense Fund, Mexico. 9 pp. *Role: Principal investigator*
 
 <!-- - Biological Assessment for Target Bivalves in Sinaloa, Mexico. 2015. A compilation of biological information of the target species of the Sinaloa project. A report commissioned by Environmental Defense Fund, Fisheries Solution Center. 6 pp. *Role: Principal Investigator* -->
 
 # Workshops Attended or Organized
 
-- FishMIP 2022 Hybrid Workshop, St. John’s NL, Canada (October 2022).*Fully funded by organizers*
+- Fostering Diversity, Equity and Inclusion (DEI) into interdisciplinary marine research (October, 2022). Workshop aimed to gather inputs for a scientific manuscript on the challenges and opportunities for progressing DEI in interdisciplinary marine sciences. Organized by the Interdisciplinary Marine Early Career Network (IMECaN). *Co-organized*
 
-- Finding solutions in the tropics: Tropical ocean science for people, biodiversity, and climate resilience (September, 2022). Organized by Smithsonian Tropical Research institute and Oregon State University. 
+- Workshop on climate change impacts on sustainable seafood (December 2022). Workshop organized by Marine Stewardship Council (MSC) and the United Nations Food and Agricultural organization (FAO). Rome, Italy. *Workshop co-funded by FAO and MSC*
+
+- Global-scale scientific and technical workshop to review and assess EBSAs in ABN (November 2022). Workshop organized by the Global Ocean Initiative Programe (GOBI). Santa Cruz, California. *Fully funded by organizers*
+
+- FishMIP 2022 Hybrid Workshop (October 2022). Workshop to discuss FishMIP-related projects in St. John's Canada. *Fully funded by organizers*
+
+- Finding solutions in the tropics: Tropical ocean science for people, biodiversity, and climate resilience (September, 2022). Organized by Smithsonian Tropical Research institute and Oregon State University. Webinar.  
 
 - Canada’s Blue Economy Symposium (June, 2022). Organized by NEXUS program and Memorial University of Newfoundland. St. John’s, Canada. *Fully funded by organizers*
 
@@ -168,20 +178,6 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 - Mobility Program Award (January - December 2010). Awarded by the Universidad Autónoma Metropolitana to go to the São Paulo University, Brazil.
 
-# Teaching Experience and Mentoring
-
-- Imparting multiple curses on data analysis for ecological studies (Ongoing). Some of the material can be found here: https://github.com/jepa/studyGroup/tree/gh-pages/lessons
-
-- Fundamentals of data analysis (October - December 2019) Created the curricula, material and imparted the course for the Future Oceans Lab of the University of Vigo as a visiting scholar.
-
-- Land Food and Community: Quantitative Data Analysis (January – May 2018). Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems. Faculty of Land and Food Systems, University of British Columbia
-
-- Diving Instructor (May 2011 – July 2015). Instructed over 50 divers in different levels of sport diving and assisted more than 50 courses.
-
-- Undergrad Teacher Assistant (January 2010 – December 2012). Instructed undergrad classes of 20-30 students when needed.
-
-- Thesis co-direction for a bachelor’s degree in biology. González, L.M. 2013. Macronutrientes de cefalopodos de importancia comercial en México, Universidad Nacional Autónoma de México.
-
 # Administrative experience
 
 - Member of the *Equity, Diversity, and Inclusion Committee (EDI)* committee of the Center for Limnology at the University of Wisconsin (2021-2022).
@@ -196,7 +192,11 @@ The committee as been working to create resources that provide information about
 
 # Professional Experience
 
+- Data analysis for the McGovern Mexican project lead by Favoretto F. (2022-Present). Project supported by Patrick J. McGovern Foundation.
+
 - Data analysis for the [FishGlob](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishglob/) project (February 2021 – May 2021). Fish biodiversity under global change – a worldwide assessment from scientific trawl surveys, project.
+
+- Literature review in portuguese for the [MARICA](https://www.niva.no/en/projectweb/marica) (2020-2021) project (December, 2020). Project lead by Elizabeth Selig, Stanford.
 
 - Intern for Environmental Defense Fund, Mexico (June – September 2015). Analyzed data and worked in the field to see if it was feasible to design a Territorial User Rights for Fisheries (TURF) to manage a high complex system in a bay of Sinaloa, Mexico.
 
@@ -210,6 +210,8 @@ The committee as been working to create resources that provide information about
 
 # Associations, Comittees, and Fellowships
 
+- Species on the Move conference (SOTM), *Steering Committee* (2022-Present). Member of the conference steering committee. More info at: https://pwd.aa.ufl.edu/sotm/2023-conference/committee/
+
 - Interdisciplinary Marine Early Career Network (IMECaN), *Steering Committee.* (2022-2024) More information available at: https://imber.info/imecan-interdisciplinary-marine-early-career-network/
 
 - Voceros del Cambio climático (EDF-Mexico). *Member.*
@@ -221,6 +223,8 @@ The committee as been working to create resources that provide information about
 - Latin American Fisheries Fellowship (LAFF). *Fellow*. More information available at: https://www.laff.bren.ucsb.edu/laff-network
 
 # Invited Seminars
+
+- Using modelling to inform transboundary fisheries management under climate change. Invited speaker at Workshop 4 (A global ensemble of comparable marine ecosystem models to project climate risk to species and human communities) of the Effects of Climate Change on the World's Oceans meeting (ECCWO), to be held in Bergen Norway April 17-21. 
 
 <!-- - Marine fish do not need visas: managing shared stocks in a changing world (April, 2022). Seminar Series, The Institute for the Oceans and Fisheries, University of British Columbia, Canada -->
 
@@ -243,6 +247,10 @@ The committee as been working to create resources that provide information about
 - Hacia la creación de una base de metadatos de investigación marina en México. Multiple talks in 2017 and 2018 including Unidad Académica Sisal del Instituto de Ciencias del mar y Limnología de la Universidad Nacional Autónoma de México, Sisal, Yucatán; El Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, Mérida, Yucatán; Centro Interdisciplinario de Ciencias Marinas del Instituto Politécnico Nacional, La Paz, México and Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California Norte, México, among others.
 
 # Attendance at Conferences
+
+- **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. 2022. Marine Protected Areas Can Reduce Regional Losses to Fisheries Under Climate Change. To be presented at the Species on The Move Conference, Florida, US.
+
+-  **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. ICES/PICES Early Career Conference, St. John’s NL, Canada.
 
 -  **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. ICES/PICES Early Career Conference, St. John’s NL, Canada.
 
@@ -278,44 +286,43 @@ The committee as been working to create resources that provide information about
 
 - Melo V., **Palacios-Abrantes, J.**, Rivero J., Herrera M. C., Schettino B. 2009 Retention of ß carotene and ascorbic acid in fresh and processed vegetables. 8º Simpósio Latino Americano de Ciência de Alimentos. Campinas, Brasil.
 
-<!-- # Projects participating -->
+# Project participation
 
-<!-- - [Solving-FCB](https://solvingfcb.org/) (2022-Current). The goal of Solving the Sustainability Challenges at the Food-Climate-Biodiversity Nexus is to support and facilitate the development of viable FCB solutions that explicitly consider their complex social and ecological contexts. PIs: *William Cheung and Rashid Sumaila, University of British Columbia* -->
+- [Arctic-MPA](). Projecting the impacts of changing species biogeography on marine spatial planning in the Canadian Arctic. PI: *William Cheung, University of British Columbia*
 
-<!-- - [McGovern]() (2022-Current). This project aims to inform the Mexican fishing industry on how climate change can affect their catches within the current century. PI: *Fabio Favoretto, Centro para la Biodivesidad Marina y la Conservación A.C. (CBMC)* -->
+- [Solving-FCB](https://solvingfcb.org/) (2022-Current). The goal of Solving the Sustainability Challenges at the Food-Climate-Biodiversity Nexus is to support and facilitate the development of viable FCB solutions that explicitly consider their complex social and ecological contexts. PIs: *William Cheung* and *Rashid Sumaila, University of British Columbia*
 
-<!-- - [Lenfest](https://www.lenfestocean.org/home/research-projects/new-effort-to-inform-adaptive-allocation-strategies-for-transboundary-fish-stocks) (2021-2022). The Adaptive Allocation for Transboundary Fish Stocks project investigates options for a system of adaptive allocation, including ecological and socioeconomic tradeoffs, for two important fisheries in the U.S. Mid-Atlantic: summer flounder and black sea bass. PIs: *Rod Fujita, Environmental Defense Fund (EDF), and Arielle Levine, San Diego State University* -->
+- [McGovern]() (2022-Current). This project aims to inform the Mexican fishing industry on how climate change can affect their catches within the current century. PI: *Fabio Favoretto, Centro para la Biodivesidad Marina y la Conservación A.C. (CBMC)*
 
-<!-- - [FishGlob](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishglob/) (2021-Current). Fish biodiversity under global change – a worldwide assessment from scientific trawl surveys, project. PIs: *Deng Palomares, The University of British Columbia and Bastien Merigot, Montpellier University* -->
+- [Lenfest](https://www.lenfestocean.org/home/research-projects/new-effort-to-inform-adaptive-allocation-strategies-for-transboundary-fish-stocks) (2021-2022). The Adaptive Allocation for Transboundary Fish Stocks project investigates options for a system of adaptive allocation, including ecological and socioeconomic tradeoffs, for two important fisheries in the U.S. Mid-Atlantic: summer flounder and black sea bass. PIs: *Rod Fujita, Environmental Defense Fund (EDF)* and *Arielle Levine, San Diego State University*
 
-<!-- - [MARICA](https://www.niva.no/en/projectweb/marica) (2020-2021). Mapping Patterns and Drivers of Marine Resource Conflicts to Guide Solutions project carries out the first systematic, multi-scale assessment of spatial patterns and drivers of marine resource conflicts across sub-Saharan Africa and in 3 focal case studies in Ghana, Kenya and South Africa. PI: *Elizabeth Selig, Stanford* -->
+- [FishGlob](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishglob/) (2021-Current). Fish biodiversity under global change – a worldwide assessment from scientific trawl surveys, project. PIs: *Deng Palomares, The University of British Columbia* and *Bastien Merigot, Montpellier University*
 
-<!-- - [FishMip](https://www.isimip.org/about/marine-ecosystems-fisheries/) (2019-Current). The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP) aims to bring together disparate marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy. PI: *Julia Blanchard, University of Tasmania* -->
+- [FishMip](https://www.isimip.org/about/marine-ecosystems-fisheries/) (2019-Current). The Fisheries and Marine Ecosystem Model Intercomparison Project (Fish-MIP) aims to bring together disparate marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy. PI: *Julia Blanchard, University of Tasmania*
 
-<!-- - [SESYNC](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to) (2018-Current) This project aims to quantify the socio-economic implications that shifts in species distribution due to climate change will have on the benefits of marine protected areas worldwide. This research project is part of a [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals) project. *PIs: Juliano **Palacios-Abrantes**, Anneloes Mook and Talya Tenbrink* -->
+- [SESYNC](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to) (2018-Current) This project aims to quantify the socio-economic implications that shifts in species distribution due to climate change will have on the benefits of marine protected areas worldwide. This research project is part of a [National Socio-Environmental Synthesis Center (SESYNC) - Graduate Pursuit](https://www.sesync.org/opportunities/research-thematic-pursuits/graduate-pursuits-request-for-proposals) project. PIs: *Juliano **Palacios-Abrantes**, Anneloes Mook* and *Talya Tenbrink*
 
 
 <!-- \clearpage -->
 
-<!-- # Peer Review Journals -->
+# Peer Review Journals
 
-<!-- - Ecosystems and People, 2020 -->
-<!-- - Fish and Fisheries, 2020 -->
-<!-- - Frontiers of Marine Science, 2021 -->
-<!-- - Global Change Biology, 2022 -->
-<!-- - Marine Policy, 2018 -->
-<!-- - Regional Environmental Change, 2022 -->
-<!-- - Reviews in Fish Biology and Fisheries, 2020 -->
-<!-- - Revista de Biología Marina y Ocenaografia, 2021 -->
-<!-- - Science Advances, 2022 -->
-
+- Global Change Biology, 2022
+- Regional Environmental Change, 2022
+- Science Advances, 2022
+- Revista de Biología Marina y Ocenaografia, 2021
+- Frontiers of Marine Science, 2021
+- Ecosystems and People, 2020
+- Fish and Fisheries, 2020
+- Reviews in Fish Biology and Fisheries, 2020
+- Marine Policy, 2018
 
 <!-- # Other Skills and Qualifications -->
 
 <!-- - **Languages:** Portuguese, Spanish, and English (fluent in speaking, reading and writing) -->
-  <!-- TOEFL IBT: 105, November 15, 2013. -->
+<!-- TOEFL IBT: 105, November 15, 2013. -->
 <!-- - **Computer:** Microsoft Office, R-Studio (advanced), GitHub (intermediate), data synthesis and analysis, spatial geographic information system (GIS) analysis, data visualization. General understanding of computer languages. -->
-  <!-- Please refer to my *Github* webpage for verification of my coding skills; https://github.com/jepa -->
+<!-- Please refer to my *Github* webpage for verification of my coding skills; https://github.com/jepa -->
 
 
 <!-- -	Photography. Worked as a photographer for different projects on the graphic studio, C. Newton, México, City, México. (September 2007-December 2008). -->
@@ -330,17 +337,19 @@ The committee as been working to create resources that provide information about
 
 # Public engagement and media
 
-- Global fish stocks can’t rebuild if nothing done to halt climate change and overfishing, new study suggests. Interview for UBC press. Available at: https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/
+- Nature, society, and culture should be taken into consideration when dealing with climate change. Interview for UBC press (2022). Available at: https://oceans.ubc.ca/2022/10/20/nature-society-and-culture-should-be-taken-into-consideration-when-dealing-with-climate-change/
+
+- Global fish stocks can’t rebuild if nothing done to halt climate change and overfishing, new study suggests (2022). Interview for UBC press. Available at: https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/
 
 - Managing fish stocks shared by nations must focus on the impacts of climate change (2022). The Conversation Canada. Available at: https://theconversation.com/managing-fish-stocks-shared-by-nations-must-focus-on-the-impacts-of-climate-change-181828
 
-- Climate change could spark fish wars around the globe (2021). Radio interview for Quirks and Quarks with Bob McDonald (CBC). Available at: https://www.cbc.ca/listen/live-radio/1-51/clip/15893391
+- Climate change could spark fish wars around the globe (2022). Radio interview for Quirks and Quarks with Bob McDonald (CBC). Available at: https://www.cbc.ca/listen/live-radio/1-51/clip/15893391
 
-- Are fish on the move due to climate change? (2021). Radio interview for the Mike Smith Show. Available at https://omny.fm/shows/mike-smyth/are-fish-on-the-move-due-to-climate-change
+- Are fish on the move due to climate change? (2022). Radio interview for the Mike Smith Show. Available at https://omny.fm/shows/mike-smyth/are-fish-on-the-move-due-to-climate-change
 
-- Fish populations are shifting around the planet and ‘someone is going to lose out,’ says UBC researcher (2021). Interview for Glacier Media Group. Available at: https://www.timescolonist.com/highlights/fish-populations-are-shifting-around-the-planet-and-someone-is-going-to-lose-out-says-ubc-researcher-4973909
+- Fish populations are shifting around the planet and ‘someone is going to lose out,’ says UBC researcher (2022). Interview for Glacier Media Group. Available at: https://www.timescolonist.com/highlights/fish-populations-are-shifting-around-the-planet-and-someone-is-going-to-lose-out-says-ubc-researcher-4973909
 
-- Climate change could spark international fish fights (2021). Interview for Canada’s National Observer. Available at https://www.nationalobserver.com/2022/01/21/news/climate-change-could-spark-international-fish-fights
+- Climate change could spark international fish fights (2022). Interview for Canada’s National Observer. Available at https://www.nationalobserver.com/2022/01/21/news/climate-change-could-spark-international-fish-fights
 
 - The Importance of Giving Back (2021). Interview for COMPASS’ Celebrating Latino Conservation Week. Available at: https://www.compassscicomm.org/the-importance-of-giving-back/
 
@@ -359,19 +368,19 @@ The committee as been working to create resources that provide information about
 - Crean base de metadatos de investigación marina en México (2017). Interview for *CONACyT Prensa*. Available at: http://www.cienciamx.com/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico
 
 
-<!-- # Referees -->
+# Referees
 
 <!-- - Dr. María Isabel Studer Noguez, Executive Director for Mexico and Northern Central America of The Nature Conservancy. e-mail: isabel.studer@TNC.ORG -->
 
-<!-- - Dr. Steve D. Gaines, Dean, Bren School for Environmental Science and Management at the University of California Santa Barbara (UCSB). University of California, Santa Barbara 93106-5131 CA (USA). Tel: +1 (805) 893-4339, e-mail: gaines@bren.ucsb.edu -->
+- Dr. Steve D. Gaines, Dean, Bren School for Environmental Science and Management at the University of California Santa Barbara (UCSB). University of California, Santa Barbara 93106-5131 CA (USA). Tel: +1 (805) 893-4339, e-mail: gaines@bren.ucsb.edu
 
 <!-- - Dr. Laura F. Rodriguez, Associate Vice President, Latin America and Caribbean Oceans, Environmental Defense Fund. Tel. +1 (604) 822-0224. e-mail: lrodriguez@edf.org -->
 
 <!-- - Dr. U. Rashid Sumaila, Professor, Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver, Canada. Tel. +1 (604) 822-0224. e-mail: r.sumaila@oceans.ubc.ca -->
 
-<!-- - Dr. William W.L. Cheung, Director, The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver Canada. Tel. +1 (604) 827-3756 e-mail: w.cheung@oceans.ubc.ca -->
+- Dr. William W.L. Cheung, Director, The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver Canada. Tel. +1 (604) 827-3756 e-mail: w.cheung@oceans.ubc.ca
 
-<!-- - Dr. Olaf Jensen, Associate Professor, Center for Limnology, University of Wisconsin - Madison, Hasler Laboratory of Limnology, 680 N. Park Street, Madison, WI 53706. Tel +1 608-262-3014. email: olaf.p.jensen@gmail.com -->
+- Dr. Olaf Jensen, Associate Professor, Center for Limnology, University of Wisconsin - Madison, Hasler Laboratory of Limnology, 680 N. Park Street, Madison, WI 53706. Tel +1 608-262-3014. email: olaf.p.jensen@gmail.com
 
 
 <!-- \clearpage -->
