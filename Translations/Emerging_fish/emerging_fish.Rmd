@@ -3,29 +3,29 @@ title: "Temporalidad y magnitud de cambios en la distribución de poblaciones de
 subtitle: Juliano Palacios-Abrantes, Thomas Frölitcher, Gabriel Reygondeau, U. Rashid Sumaila, Alexander Tagliabue, Colette C.C. Wabnitz and William W.L. Cheung
 date: "01/2023"
 output:
-  pdf_document:
-  # html_document:
+  # pdf_document:
+  html_document:
     # word_document:
     df_print: paged
-    # toc: yes
-    # toc_float: yes
+    toc: yes
+    toc_float: yes
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script> -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
 
-<!-- <script> -->
+<script>
 
-<!--   window.dataLayer = window.dataLayer || []; -->
+  window.dataLayer = window.dataLayer || [];
 
-<!--   function gtag(){dataLayer.push(arguments);} -->
+  function gtag(){dataLayer.push(arguments);}
 
-<!--   gtag('js', new Date()); -->
+  gtag('js', new Date());
 
-<!--   gtag('config', 'UA-105699898-4'); -->
+  gtag('config', 'UA-105699898-4');
 
-<!-- </script> -->
+</script>
 
 -   **NOTA: esta es una traducción al español del artículo:** *Timing and magnitude of climate driven range shifts in transboundary fish stocks challenge their management*, escrito por Juliano Palacios-Abrantes, Thomas Frölitcher, Gabriel Reygondeau, U. Rashid Sumaila, Alexander Tagliabue, Colette C.C. Wabnitz y William W.L. Cheung y que se puede encontrar en la siguiente [liga](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058). No cuenta con la sección de métodos traducida.
 
@@ -33,13 +33,13 @@ output:
 
 -   **Forma de Citar**: Palacios-Abrantes, J., Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1--17.
 
-<!-- <center> -->
+<center>
 
-<!-- <a span class="label label-success" href= "emerging_fish.pdf" >Descargar Artículo en Español</span></a> -->
+<a span class="label label-success" href= "emerging_fish.pdf" >Descargar Artículo en Español</span></a>
 
-<!-- </center> -->
+</center>
 
-<!-- <br> -->
+<br>
 
 <!-- Abstract rectangle -->
 
@@ -70,18 +70,18 @@ El cambio climático está afectando la distribución de poblaciones transfronte
 encuentran en Zonas Económicas Exclusivas (ZEEs) de países vecinos y en el alta mar. Los efectos del cambio climático en el manejo pesquero internacional estarán determinados por la escala temporal de dichos desplazamientos. Para determinar esa escala temporal, el presente estudio combinó un modelo dinámico poblacional, con una serie de simulaciones de un modelo del sistema terrestre, bajo un escenario de cambio climático de altas emisiones. Los resultados siguieren que para 2030, el 23% de las poblaciones transfronterizas se habrán desplazado y en el 78% de las ZEEs del mundo habrán experimentado cambios en la distribución de al menos una población transfronteriza. Para fines de este siglo, las proyecciones muestran que el 45% de las poblaciones transfronterizas globales habrán cambiado su distribución y 81% de las ZEEs tendrán al menos una población en movimiento. La magnitud de tal desplazamiento se reflejará en un cambio promedio del 59% de la proporción de captura de poblaciones transfronterizas entre ZEEs vecinas para el 2030. Muchos países que dependen de la pesca para sustento económico y seguridad alimentaria emergen como zonas críticas de cambios transfronterizos. Estas zonas se caracterizan por cambios tempranos en la distribución de un número importante de poblaciones transfronterizas. Por lo tanto, los acuerdos pesqueros internacionales deben evaluarse por su capacidad para responder a los impactos socio-ecológicos del desplazamiento de poblaciones transfronterizas debido al cambio climático. Dichos acuerdos deberán fortalecerse, cuando sea necesario, para limitar los posibles conflictos entre las partes de interés y evitar amenazar la sustentabilidad del recurso. Así mismo, los nuevos acuerdos que vayan a establecerse deberán considerar los posibles cambios en la distribución de poblaciones compartidas (y la incertidumbre asociada) para anticiparse a dichos conflictos y aumentar la resiliencia frente al cambio climático.
 
 
-<!-- <center> -->
+<center>
 
-<!-- <img src="https://github.com/jepa/EmergingFish/blob/master/Figures/Fig00.png?raw=true"/> -->
+<img src="https://github.com/jepa/EmergingFish/blob/master/Figures/Fig00.png?raw=true"/>
 
-<!-- **Resumen gráfico de la publicación**\ -->
-<!-- **DOI:10.1111/gcb.16058** -->
+**Resumen gráfico de la publicación**\
+**DOI:10.1111/gcb.16058**
 
 
 
-<!-- </center> -->
+</center>
 
-<!-- <br> -->
+<br>
 :::
 
 ------------------------------------------------------------------------
