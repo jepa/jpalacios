@@ -23,12 +23,43 @@ output:
 - [University of British Columbia](https://oceans.ubc.ca/2020/10/21/transboundary/){target="_blank"}
 - [National Geographic - Climate change drives fish wars science environment](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment/){target="_blank"}
 - [Washington Post - Climate change is moving fish around faster than laws can handle study says](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603){target="_blank"}
+- [University of British Columbia - Understanding the data about data how metadatabases could improve Mexico's ocean management](http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/){target="_blank"}
+- [Oceans Deeply - Tear down that paywall, the movement to make ocean research free for all](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all){target="_blank"}
+
 
 ## Español
 
 - [CONACyT Prensa](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
+- [adn40 - Plataforma permitira conocer riqueza de los oceanos de México](https://www.adn40.mx/noticia/mexico/nota/2019-06-08-20-21/plataforma-permitira-conocer-riqueza-de-los-oceanos-de-mexico/?utm_source=adn40mxNota&utm_medium=tw&utm_campaign=M)
+- [Blog de EDF de México - La ciencia es parte vital de nuestra vision de conservacion ambiental ](https://mexico.edf.org/blog/2019/06/07/la-ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de-mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter)
+- [Blog de EDF de México - Colabora en la construccion de un catalogo sobre informacion marina en México](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico){target="_blank"}
+- [CONACYT Prensa - Crean base de metadatos de investigacion marina en México](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
+
 
 # On the Radio
+
+
+
+
+---- 
+
+<center>
+
+**Contact**
+
+j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Twitter](https://twitter.com/julianop_a)
+
+</center>
+
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
 
 
 
