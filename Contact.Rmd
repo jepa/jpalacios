@@ -9,26 +9,20 @@ output:
 <center>
 <img src="Images/Contact/Contacto.jpg" alt="Drawing" style="width: 700px;"/>
 
-<center> 
-<br>
-**Email:** j.palacios [at] oceans.ubc.ca
-<br>
-**Skype User**: jepa_88
-<br>
-**Address:** 2202 Main Mall, Vancouver, BC V6T 1Z4, Canadá
 
+---- 
 
 <center>
-**External Links:**
 
-<a 
-href="https://github.com/jepa">
-<img src="Images/Contact/Github_Logo.png" alt="Drawing" style="width: 50px;"/>
-</a> 
-<a 
-href="https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en">Google Scholar
-</a>
-<a 
-href="https://twitter.com/julianop_a">
-<img src="Images/Contact/Twitter_Logo.png" alt="Drawing" style="width: 50px;"/>
-</a> 
+**Contact**
+
+j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Twitter](https://twitter.com/julianop_a) | 2202 Main Mall, Vancouver, BC V6T 1Z4, Canadá
+
+</center>
+
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

@@ -36,24 +36,26 @@ This research line is part of a [National Socio-Environmental Synthesis Center (
 **Members** 
 - Anneloes Mook, Juliano Palacios Abrantes, Sarah Roberts, Talya Tenbrink, Timothy Cashion, Tu Ngoc Nguyen.
 
-## Main Publications
+## Related Publications
 
 - Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
 
 - Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
 
-## Working Papers
-
-- **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. Marine Protected Areas Can Reduce Localized Losses to Fisheries Under Climate Change [*R&R*]
 
 
 <center>
 
 <a class="btn btn-default" href="https://www.julianopalacios.com/Research.html#Main_Research_Projects">Back to Research Projects</a>
 
+---- 
+
 **Contact**
 
-Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en)
+j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Twitter](https://twitter.com/julianop_a)
+
+</center>
+
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {

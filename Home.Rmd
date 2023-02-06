@@ -22,11 +22,19 @@ output:
 <img src="Images/Home/Me.jpeg" alt="Drawing" style="width: 250px;"/>
 </div>
 
-I am a multidisciplinary scientist motivated to answer complex, real-life questions threatening the ocean and its social-ecological systems. I am particularly interested on how climate change is affecting the oceans and the management and conservation of marine resources. Currently, I hold a position as a Postdoctoral fellow at the Institute for the Oceans and Fisheries for the University of British Columbia.
+I am a Latin American marine scientist motivated to answer complex, real-life questions threatening the ocean and its social-ecological systems. I am particularly interested on how climate change is affecting the oceans and the management and conservation of marine resources. Currently, I hold a position as a Postdoctoral fellow at the [Changing Ocean Research Unit](https://coru.oceans.ubc.ca/) of the Institute for the Oceans and Fisheries for the University of British Columbia.
 
-Overall, my research focuses on three main areas that relate to ocean health and responsible usage of marine resources: i) the management of shared fisheries under a changing world, ii) exploring the social-ecological impacts of climate change to conservation and iii) improving fisheries management and marine conservation in Latin America. These are complex narratives which require a mix of quantitative and qualitative methods, interdisciplinary collaborations, and genuine partnerships with local not-academic institutions.
+Overall, my research focuses on three main areas that relate to ocean health and responsible usage of marine resources: 
 
-I support collaborative interdisciplinary work and I believe that all scientific work (and data) should be public and open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries with a strong interdisciplinary science. In parallel with my research, I work with different governmental and non-governmental organizations to tackle important problems facing fisheries and marine conservation in Latin America.
+  -- i) [The management of shared fisheries under a changing world](Projects/Transboundary.html)
+  
+  -- ii) [Exploring the social-ecological impacts of climate change to conservation](Projects/SESYNC.html)
+
+  -- iii) [Improving fisheries management and marine conservation in Latin America](Projects/PescadoLatino.html)
+
+These are complex narratives which require a mix of quantitative and qualitative methods, interdisciplinary collaborations, and genuine partnerships with local not-academic institutions.
+
+I support collaborative interdisciplinary work and I believe that all scientific work, data, and code ([GitHub](https://github.com/jepa?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=){target="_blank"}) should be public and open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries. In parallel with my research, I work with different governmental and non-governmental organizations to tackle important problems facing fisheries and marine conservation in the region.
 
 <br>
 <hr>
