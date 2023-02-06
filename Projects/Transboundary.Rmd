@@ -39,41 +39,35 @@ Regulatory boundaries and species distributions often do not align. This is espe
 - How can we adapt to shifting stocks?
 - What management schemes will be better fitted to shifting stocks?
 
-## Main Publications
+## Related Publications
 
-- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
+- **Palacios-Abrantes, J.**, *et al.* 2023. Quantifying fish range shifts across poorly defined management boundaries. *PLOS ONE*, 18(1), p. e0279025.
 
-- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
+- **Palacios-Abrantes, J.**, *et al.* 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
 
-- **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17. DOI: 10.5751/ES-11743-250441
+- **Palacios-Abrantes, J.**, *et al.* 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
 
-- Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+- **Palacios-Abrantes, J.**, *et al.* 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17. DOI: 10.5751/ES-11743-250441
 
 - Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
 
+- Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
-## Working Papers
 
-- **Palacios-Abrantes J.,** Crosson S., Dumas C., Fujita R., Levine A., Longo C., and Jensen O. Quantifying fish range shifts across poorly defined management boundaries [*In prep.*]
-
-## Media
-
-- [University of British Columbia]("https://oceans.ubc.ca/2022/01/18/nearly-half-of-countries-shared-fish-stocks-are-on-the-move-due-to-climate-change-prompting-dispute-concerns/)
-- [Centre for Ocean Solutions](https://oceansolutions.stanford.edu/stories-events/no-visas-fish-new-study-emphasizes-importance-cooperative-fisheries-management)
-- [University of British Columbia](https://oceans.ubc.ca/2020/10/21/transboundary/)
-- [CONACyT Prensa, Spanish](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
-- [National Geographic](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment/){target="_blank"}
-- [University of British Columbia](https://science.ubc.ca/news/climate-change-has-fish-migrating-faster-regulations-can-keep){target="_blank"}
-- [University of British Columbia, French](http://pinsky.marine.rutgers.edu/wp-content/uploads/2018/06/Science-Policy-Forum_FINAL_FRENCH.pdf){target="_blank"}
-- [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603){target="_blank"}
 
 <center>
 
 <a class="btn btn-default" href="https://www.julianopalacios.com/Research.html#Main_Research_Projects">Back to Research Projects</a>
 
+---- 
+
+
 **Contact**
 
-Juliano Palacios Abrantes | j.palacios@oceans.ubc.ca • [Google Schoolar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"}
+j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Twitter](https://twitter.com/julianop_a)
+
+</center>
+
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
