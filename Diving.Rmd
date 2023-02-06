@@ -1,5 +1,5 @@
 ---
-title: "I'd like to be under the sea, in an octopus's garden, with you"
+title: "Diving"
 output: html_document
 ---
 
@@ -69,8 +69,11 @@ Diving_Data <- read.csv("Data/Dive_Log.csv") %>%
 leaflet(Diving_Data) %>%
   addTiles(
     urlTemplate = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",
-    attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>'
+    attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>',
+    # urlTemplate = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",
+    # attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>'
   ) %>%
+  addProviderTiles(providers$Stamen.Toner) %>% 
   setView(lng = -90, lat = 1.3, zoom = 2) %>% 
   addMarkers(
     lng = ~Long*-1,
@@ -89,7 +92,15 @@ Jules Verne, Twenty Thousand Leagues Under the Sea
 
 <br>
 <hr>
+
 <center>
+
+**Contact**
+
+j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Twitter](https://twitter.com/julianop_a)
+
+</center>
+
 
 
 <div id="google_translate_element"></div><script type="text/javascript">
