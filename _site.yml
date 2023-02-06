@@ -6,8 +6,8 @@ navbar:
       href: Home.html
     - text: "Research"
       href: Research.html
-    - text: "Sci Comm"
-      href: Sci_comm.html
+    - text: "Outreach"
+      href: outreach.html
     - text: "Diving"
       href: Diving.html
     - text: "Contact"
