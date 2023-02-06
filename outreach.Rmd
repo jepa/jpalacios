@@ -95,7 +95,9 @@ output:
 
 # Illustrations
 
-[Ana Pozas and Karly McMullen - Marine species do not need visas: Regulatory boundaries and species distributions often do not align](./Images/Infographics/FishForVisa.png){target="_blank"}
+- [Marine species do not need visas: Regulatory boundaries and species distributions often do not align - Ana Pozas and Karly McMullen](./Images/Infographics/FishForVisa.png){target="_blank"}
+
+- [Graphic summary for Palacios-Abrantes et al., 2020 ](https://github.com/jepa/EmergingFish/blob/master/Figures/Fig00.png?raw=true){target="_blank"}
 
 ---- 
 
