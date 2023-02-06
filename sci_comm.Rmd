@@ -1,0 +1,35 @@
+---
+title: "Science Commnunication"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: "yeti"
+---
+
+
+<img src="Images/sci_comm_banner.jpg" width="800px">
+
+<br>
+
+
+
+# On Paper
+
+## English
+
+- [University of British Columbia - Nearly half of countries shared fish stocks are on the move due to climate change prompting dispute concerns]("https://oceans.ubc.ca/2022/01/18/nearly-half-of-countries-shared-fish-stocks-are-on-the-move-due-to-climate-change-prompting-dispute-concerns/){target="_blank"}
+- [Centre for Ocean Solutions - New study emphasizes importance cooperative fisheries management](https://oceansolutions.stanford.edu/stories-events/no-visas-fish-new-study-emphasizes-importance-cooperative-fisheries-management){target="_blank"}
+- [University of British Columbia](https://oceans.ubc.ca/2020/10/21/transboundary/){target="_blank"}
+- [National Geographic - Climate change drives fish wars science environment](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment/){target="_blank"}
+- [Washington Post - Climate change is moving fish around faster than laws can handle study says](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603){target="_blank"}
+
+## Español
+
+- [CONACyT Prensa](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
+
+# On the Radio
+
+
+
+
