@@ -402,37 +402,6 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 ---- 
 
-<!-- ## Affiliations -->
-
-<!-- <br> -->
-
-<!--  <a  -->
-<!-- href="http://www.xoc.uam.mx/"> -->
-<!-- <img src="Images/Research/Uam_Logo.png" alt="Drawing" style="width: 110px;"/> -->
-<!-- </a> -->
-<!-- <a  -->
-<!-- href="http://www.bren.ucsb.edu/"> -->
-<!-- <img src="Images/Research/Bren_logo.png" alt="Drawing" style="width: 100px;"/> -->
-<!-- </a> -->
-<!-- <a  -->
-<!-- href="http://www.laff.bren.ucsb.edu/"> -->
-<!-- <img src="Images/Research/laff_logo.jpeg" alt="Drawing" style="width: 100px;"/> -->
-<!-- </a> -->
-<!-- <a  -->
-<!-- href="http://www.coru.oceans.ubc.ca/"> -->
-<!-- <img src="Images/Research/CORU_logo.png" alt="Drawing" style="width: 100px;"/> -->
-<!-- </a> -->
-<!-- <a  -->
-<!-- href="http://www.oceancanada.org/"> -->
-<!-- <img src="Images/Research/OC_logo.png" alt="Drawing" style="width: 200px;"/> -->
-<!-- </a> -->
-<!-- <a  -->
-<!-- href="https://www.sesync.org/project/graduate-pursuits-request-for-proposals/ch-ch-ch-changes-using-marine-protected-areas-to"> -->
-<!-- <img src="Images/Research/sesync_logo.jpg" alt="Drawing" style="width: 100px;"/> -->
-<!-- </a> -->
-
-<!-- <br> -->
-<!-- <hr> -->
 <center>
 
 **Contact**
