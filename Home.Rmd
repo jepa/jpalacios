@@ -7,11 +7,7 @@ output:
 <br>
 
 <div style= "float:left;position: relative; right: 10px;">
-<img src="Images/Home/Me.jpeg" alt="Drawing" style="width: 300px;"/> 
-
-<SPAN STYLE="font-size: 10pt">PhD. University of British Columbia (2021)</SPAN>  
-<SPAN STYLE="font-size: 10pt">Ms.Sc. University of California, Santa Barbara (2016)</SPAN>  
-<SPAN STYLE="font-size: 10pt">Ba. Sc. Universidad Autónoma Metropolitana (2012)</SPAN>
+<img src="Images/Home/Me.jpeg" alt="Drawing" style="width: 250px;"/> 
 
 </div>
 
