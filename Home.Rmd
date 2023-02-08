@@ -4,23 +4,17 @@ output:
   html_document
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-105699898-4');
-</script>
-
-
-
 <br>
 
 <div style= "float:left;position: relative; right: 10px;">
-<img src="Images/Home/Me.jpeg" alt="Drawing" style="width: 250px;"/>
+<img src="Images/Home/Me.jpeg" alt="Drawing" style="width: 300px;"/> 
+
+<SPAN STYLE="font-size: 10pt">PhD. University of British Columbia (2021)</SPAN>  
+<SPAN STYLE="font-size: 10pt">Ms.Sc. University of California, Santa Barbara (2016)</SPAN>  
+<SPAN STYLE="font-size: 10pt">Ba. Sc. Universidad Autónoma Metropolitana (2012)</SPAN>
+
 </div>
+
 
 I am a Latin American marine scientist motivated to answer complex, real-life questions threatening the ocean and its social-ecological systems. I am particularly interested on how climate change is affecting the oceans and the management and conservation of marine resources. Currently, I hold a position as a Postdoctoral fellow at the [Changing Ocean Research Unit](https://coru.oceans.ubc.ca/) of the Institute for the Oceans and Fisheries for the University of British Columbia.
 
@@ -45,6 +39,7 @@ I support collaborative interdisciplinary work and I believe that all scientific
 j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Twitter](https://twitter.com/julianop_a)
 
 
+<!-- Google translator -->
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
@@ -53,3 +48,14 @@ function googleTranslateElementInit() {
 
 
 <meta name="google-site-verification" content="a-gNWkz77aNh8H8s6f67IV1-OBWnJuxHRQWSVhyV7D0" />
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
