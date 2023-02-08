@@ -57,7 +57,7 @@ Regulatory boundaries and species distributions often do not align. This is espe
 
 <center>
 
-<a class="btn btn-default" href="https://www.julianopalacios.com/Research.html#Main_Research_Projects">Back to Research Projects</a>
+<a class="btn btn-warning" href="https://www.julianopalacios.com/Research.html#Main_Research_Projects">Back to Research Projects</a>
 
 ---- 
 

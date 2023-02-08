@@ -5,18 +5,6 @@ output:
     theme: "yeti"
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-105699898-4');
-</script>
-
-</center>
-
 <center>
 
 <img src="../Images/Projects/lat_am_pesca.jpeg" width="1000px">
@@ -32,7 +20,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries with a strong interdisciplinary science.
 
 
-## Main Publications
+## Related Publications
 
 - Cisneros-Montemayor, A., **Palacios-Abrantes, J.**, Abas, M., Gonzalez, P. 2020. Análisis espacial de efectos anticipados del cambio climático sobre la pesca en México: Un panorama para la adaptación *Ciencia Pesquera*, 28:31-44
 
@@ -48,7 +36,6 @@ As a Brazilian-Mexican citizen, I am committed to support policy-making and reso
 ```
 
 
-
 ---- 
 
 <center>
@@ -60,9 +47,21 @@ j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citat
 </center>
 
 
+<!-- Google translator  -->
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105699898-4');
+</script>
