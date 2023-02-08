@@ -13,7 +13,9 @@ output:
 <br>
 
 
-# On paper
+# On Paper
+
+Here is a list of news articles and blogs featuring my work or where I have been quoted:
 
 ## English
 
@@ -44,6 +46,8 @@ output:
 
 # On the Radio
 
+Here is a list of radio interviews I have been invited to:
+
 ## English
 
 - Quirks and Quarks with Bob McDonald (CBC) - [Climate change could spark fish wars around the globe](https://www.cbc.ca/listen/live-radio/1-51/clip/15893391){target="_blank"}
@@ -57,6 +61,8 @@ output:
 ----
 
 # Invited speaker
+
+Here is a list of public talks and seminars I have been invited to:
 
 ## English
 
@@ -92,6 +98,8 @@ output:
 ----
 
 # Illustrations
+
+Here is a list of illustrations featuring my work, note that not all of them were created by me:
 
 - [Marine species do not need visas: Regulatory boundaries and species distributions often do not align (A. Pozas and K. McMullen)](./Images/Infographics/FishForVisa.png){target="_blank"}
 
