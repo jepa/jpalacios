@@ -1,0 +1,15 @@
+---
+title: "A Meta-database of Marine Research in Mexico"
+output:
+  html_document:
+    theme: "yeti"
+---
+<!-- Although several disciplines are generating large amounts of data on marine socio-ecological systems, such information is often underutilized due to fragmentation across institutions or stakeholders, limited standardization across scale, time or disciplines, and the fact that information is often not searchable within existing databases. Compiling metadata, the information which describes existing sets of data, is an effective tool that can address these challenges, particularly when metadata corresponding to multiple datasets can be combined to integrate, organize and classify multidisciplinary data. A meta-database is a documentation of the sources of information instead of a database of the actual data. These are critical tools to make efficient use of existing data, highlight and address strengths and deficiencies, and develop scenarios to inform policies for managing complex marine social-ecological systems. -->
+
+The Meta-database of Marine Research in Mexico project aimed to improve access to information, facilitate multidisciplinary data sharing and integration, and foster collaboration among stakeholders. Since October of 2016 different stakeholders have shared over 100 k records containing information from more than 300 k data points. As of May of 2019, the project has been overseen by the *Comisión Nacional para el Conocimiento y Uso de la Biodiversidad* ( [CONABIO](https://www.gob.mx/conabio) ) through the program, [Infocéanos](http://infoceanos.conabio.gob.mx). In there you can learn more about the project, explore the metadatabase, and collaborate with this initiative. CONABIO is currently working towards an expansion of this database.
+
+<!-- Infocéanos -->
+<center>
+<a button type="button" class="btn btn-primary" href="http://infoceanos.conabio.gob.mx" target="_blank"> Go to *Infoceanos* (Spanish) </button>
+</a>
+</center>
