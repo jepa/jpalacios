@@ -12,7 +12,8 @@ output:
 }
 
 h1.title {
-  font-size: 80px;
+  font-size: 60px;
   <!-- color: DarkBlue; -->
 }
 
+</style>
