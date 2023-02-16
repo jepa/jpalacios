@@ -24,7 +24,7 @@ output:
 <!-- *Number of transboundary species per Exclusive Economic Zone and catch per fishing nation.*   -->
 <!-- *Figure from 10.1038/s41598-020-74644-2* -->
 
-<img src="../Infographics/FishForVisa.png" width="750px">
+<img src="../Images/Infographics/FishForVisa.png" width="750px">
 
 *Illustration created by [Ana Pozas](linktr.ee/anapozas){target="_blank"} and [Karly McMullen](www.karlymcmullen.com){target="_blank"}  with information from Palacios-Abrantes et al. (2020)*
 

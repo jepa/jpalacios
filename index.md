@@ -1,54 +1,18 @@
 ---
-title: " "
+title: "Juliano Palacios Abrantes, PhD."
 output:
   html_document:
     css: cover.css
     keep_md: yes
 ---
 
+<style>
+* {
+   text-align: center;
+}
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<center>
+h1.title {
+  font-size: 80px;
+  <!-- color: DarkBlue; -->
+}
 
-<SPAN STYLE="color: white; font-size: 45pt">Juliano Palacios Abrantes, PhD.</SPAN>
-
-</center>
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
