@@ -1,5 +1,5 @@
 ---
-title: "Juliano Palacios Abrantes, PhD."
+title: "Juliano Palacios Abrantes, PhD"
 output:
   html_document:
     css: cover.css
