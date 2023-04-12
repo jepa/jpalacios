@@ -118,6 +118,16 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 ### 2023
 
+22. **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. 2023. Incorporating protected areas into global fish biomass projections under climate change. *FACETS* 8: 1–16.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0101" target="_blank">Full Paper</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://github.com/jepa/climatechangempa" target="_blank">Code & Data</span></a>
+
+</center>
+ 
 21. **Palacios-Abrantes, J.**, Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C. and Jensen, O.P. 2023. Quantifying fish range shifts across poorly defined management boundaries. *PLOS ONE*, 18(1), p. e0279025.
 
 <center>
