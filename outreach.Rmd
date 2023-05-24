@@ -19,6 +19,7 @@ Here is a list of news articles and blogs featuring my work or where I have been
 
 ## English
 
+- Vector: The British Royal Academy Sci-Fi magazine - [The living infinite](){target="_blank"}
 - University of British Columbia - [Nature, society, and culture should be taken into consideration when dealing with climate change](https://oceans.ubc.ca/2022/10/20/nature-society-and-culture-should-be-taken-into-consideration-when-dealing-with-climate-change/){target="_blank"}
 - The Conversation Canada - [Managing fish stocks shared by nations must focus on the impacts of climate change](https://theconversation.com/managing-fish-stocks-shared-by-nations-must-focus-on-the-impacts-of-climate-change-181828){target="_blank"}
 - Glacier Media Group - [Fish populations are shifting around the planet and ‘someone is going to lose out,’ says UBC researcher](https://www.timescolonist.com/highlights/fish-populations-are-shifting-around-the-planet-and-someone-is-going-to-lose-out-says-ubc-researcher-4973909){target="_blank"}
@@ -62,11 +63,13 @@ Here is a list of radio interviews I have been invited to:
 
 # Invited speaker
 
-Here is a list of public talks and seminars I have been invited to:
+Here is a list of public talks, seminars and webinars I have been invited to:
 
 ## English
 
 - Workshop 4 of the Effects of Climate Change on the World's Oceans (ECCWO) conference, Norway. *Using modelling to inform transboundary fisheries management under climate change*. 
+
+- NWFSC Monster Seminar Jam (webinar) - [Marine fishes do not need visas: managing shared fish stocks in a changing world.](https://www.fisheries.noaa.gov/west-coast/science-data/nwfsc-monster-seminar-jam#seminar-recordings){target="_blank"}
 
 - Workshop organized by the Marine Stewardship Council (MSC) and the United Nations Food and Agricultural organization (FAO), Italy - *Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management*
 
