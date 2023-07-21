@@ -1,0 +1,171 @@
+---
+title: Es necesario involucrar a la Mayoría  Tropical para generar una gestión y ciencia marina mas equitativa y efectiva
+subtitle: Ana K. Spalding, Kirsten Grorud-Colvert, Edward H. Allison, Diva J. Amon,
+  Rachel Collin, Asha de Vos, Alan M. Friedlander,  Steven Mana'oakamai Johnson, Juan
+  Mayorga, Claire B. Paris, Cinda Scott, Daniel O. Suman, Andrés M. Cisneros-Montemayor,
+  Estradivari, Alfredo Giron-Nava, Georgina G. Gurney, Jean Harris, Christina Hicks,
+  Sangeeta Mangubhai, Fiorenza Micheli, Josheena Naggea, David Obura, Juliano Palacios-Abrantes,
+  Angelique Pouponneau, Rebecca Vega Thurber
+date: "01/2023"
+output:
+  # word_document:
+    # toc: yes
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script> -->
+
+<!-- <script> -->
+
+<!--   window.dataLayer = window.dataLayer || []; -->
+
+<!--   function gtag(){dataLayer.push(arguments);} -->
+
+<!--   gtag('js', new Date()); -->
+
+<!--   gtag('config', 'UA-105699898-4'); -->
+
+<!-- </script> -->
+
+-   **NOTA: esta es una traducción al español del artículo:** *Engaging the Tropical Majority to Make Ocean Governance and Science more Equitable and Effective*, escrito por Ana K. Spalding, Kirsten Grorud-Colvert, *et al* y que se puede encontrar en la siguiente [liga](https://www.nature.com/articles/s44183-023-00015-9). 
+
+    -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.
+
+<br>
+
+-   **Forma de Citar**: Spalding, A. K., Grorud-Colvert, K., Allison, E. H., Amon, D. J., Collin, R., Vos, A. de, Friedlander, A. M., Johnson, S. M., Mayorga, J., Paris, C. B., Scott, C., Suman, D. O., Cisneros-Montemayor, A. M., Estradivari, Giron-Nava, A., Gurney, G. G., Harris, J. M., Hicks, C., Mangubhai, S., Micheli, F., Naggea, J., Obura, D., Palacios-Abrantes, J., Pouponneau, A. and Thurber, R. V., 2023. Engaging the tropical majority to make ocean governance and science more equitable and effective. *npj Ocean Sustainability*, 2 (1), 8.
+
+<center>
+
+<!-- <a span class="label label-success" href= "emerging_fish.pdf" >Descargar Artículo en Español</span></a> -->
+
+</center>
+
+<br>
+
+<!-- Abstract rectangle -->
+
+```{=html}
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding:20px;}
+</style>
+```
+::: blue
+
+```{r setup, eval = F, echo=F, warning=F,message=F, results='hide'}
+
+#### Library ####
+packages <- c(
+  "knitr",
+)
+
+MyFunctions::my_lib(packages)
+
+```
+
+
+# Resumen
+
+¿Cómo lograr que la gestión y la ciencia marina sean más equitativas y efectivas? La mayoría de las personas que dependen del océano viven en países localizados en zonas tropicales con bajos ingresos (es decir, la "Mayoría Tropical"). Sin embargo, la agenda para la gestión marina se establece en gran medida a partir de instituciones, conocimiento científico y financiamiento de países localizados en zonas templadas y con ingresos altos. La Mayoría Tropical se encuentra en una posición favorable para impulsar soluciones basadas en evidencias que consideran el contexto especifico de los desafíos de sustentabilidad marina. Sin emabrgo, el fomento externo de dichas acciones obstaculiza su liderazgo, al tiempo que socava la equidad y efectividad de las soluciones actuales. Aquí se reúnen diversas visiones de los trópicos y se proponen cuatro acciones de cambio basadas en perspectivas, experiencias y conocimientos de los trópicos: *i*) centrar la equidad en la gestión marina; *ii*) reconectar a las personas con el océano; *iii*) redefinir la alfabetización marina y *iv*) descolonizar la investigación marina. Estas acciones son fundamentales para garantizar que la Mayoría Tropical tenga un papel de liderazgo en el fomento de sociedades y ecosistemas oceánicos prósperos.
+
+<center>
+
+<img src="https://uceca6ebbc58e408a8834d906f0a.previews.dropboxusercontent.com/p/thumb/AB9LAZZmbIE6g05wBEw-cg2LgawDZtFkDPSdILy1OsJfxdpqcCn_yVPOc3jb_QRcHEfjU7VoNcevjGBaY-0FZetSPjjpyAdKhQ9O9GK0BgRw-oKtvSt_ic9cPIwEeuXpV7ZEr4enx936jnOq4Wt1G_rL_35MQpsDPqd6VFECw2SPHZ8h_WK8V2bHpWsk4nXlRlia9ygEpTkRlC9wgXM0ZBZcBpySx9rtFoBKTKmGz9NH7sKhT7KK_QIBlOIxPDrMFmug4SKPwLvddgyp23CXoURlP0td9nt-Nc-ohSmYCc6dozepjfqiAvVmtIaqiBAwNO6Zv7eyN-bAwnoAc7Etah6z3yMZDsKpXfkLbYN7xCdaMw/p.jpeg"/>
+
+*Los trópicos albergan la mayor parte de la biodiversidad mundial y la mayoría de las personas que dependen directamente de los océanos. Crédito: Jorge Alemán, STRI*
+
+
+</center>
+
+<br>
+:::
+
+------------------------------------------------------------------------
+
+
+# Grandes Desafíos para las Personas y el Océano en los Trópicos
+
+Los trópicos albergan la mayor parte de la biodiversidad mundial y la mayoría de las personas que dependen de forma directa del océano para su subsistencia (es decir, la "Mayoría Tropical") [Fig. 1](https://www.nature.com/articles/s44183-023-00015-9/figures/1) (*1*). Muchas de estas personas residen en lugares donde las culturas y los medios de vida están intrínsecamente vinculados al océano. Sus perspectivas y conocimiento son únicos y de gran valor para abordar e identificar las crecientes amenazas que sufren los ecosistemas marinos, así como comprender los efectos limitantes de las desigualdades sistemáticas en gestión (*2*). A pesar del conocimiento y relación de la Mayoría Tropical con el océano, gran parte de las instituciones y enfoques de gestión, las organizaciones educativas dominantes, los paradigmas de investigación marina, las tecnologías y el financiamiento, provienen de naciones de altos ingresos, fuera de las regiones tropicales (*3*). Además, dichas perspectivas externas suelen ser uniformes, tienen su origen en culturas que históricamente colonizaron las regiones tropicales y que tienden a ignorar o malinterpretar las complejas dinámicas locales relacionadas con la cultura, la raza, la etnia, la pobreza, la desigualdad y la capacidad institucional. Las intervenciones destinadsa a garantizar la conservación del océano, como las áreas marinas protegidas (AMP), también se encuentran, en su mayoría, ubicadas en los trópicos, lo que deja a las naciones tropicales con una mayor carga de gestión relacionada con las AMP regionales y su fuerte impacto en la pérdida de biodiversidad marina (*3*) [Fig. 1](https://www.nature.com/articles/s44183-023-00015-9/figures/1) (*1*).
+
+
+*Fig. 1. La Mayoría Tropical: Las poblaciones de los países tropicales se encuentran en su mayoría en áreas costeras, lo que los convierte en la Mayoría Tropical de personas dependientes del océano (A). Esta Mayoría Tropical también ha sido gravemente impactada por el colonialismo desde finales del siglo XV, lo que crea una discrepancia entre dónde, cómo y por quiénes se implementa la gestión marina (B). La mayor área total asignada a las áreas marinas protegidas del mundo se encuentra en los trópicos (C). (Las líneas discontinuas en (C) representan los trópicos de Capricornio y Cáncer (23,5° N y 23,5° S), respectivamente). Consultar el Material Suplementario para obtener los datos utilizados en las figuras y los métodos para designar los países tropicales y determinar el dominio colonial.*
+
+La importancia de abordar dichas desigualdades se ha manifestado en recientes e importantes foros internacionales, como las Conferencias Nuestro Océano (celebradas anualmente desde 2014), las Conferencias Marinas de las Naciones Unidas (2017 y 2022), la primera Conferencia sobre la Economía Azul (Nairobi, 2018) y el Panel de Alto Nivel para una Economía Marina Sostenible (2018-2022). De hecho, el renovado enfoque sobre los océanos, promovido por la Década de las Naciones Unidas para la Ciencia Marina, y las tendencias hacia la incorporación de objetivos de equidad, justicia, diversidad e inclusión, ofrecen una clara oportunidad para que los tomadores de decisión de todo el mundo apoyen el desarrollo de respuestas pertinentes, a nivel local, para enfrentar las crisis ambientales que afectan a las personas y al océano. En especial, aquellas respuestas que buscan combatir el calentamiento global y la pérdida de biodiversidad (*4*). Esto puede lograrse garantizando que las naciones y territorios tropicales diseñen y lideren esas respuestas, al tiempo que se exija rendición de cuentas a las naciones de altos ingresos tanto dentro como fuera de los trópicos.
+
+Los autores del presente estudio forman un grupo diverso (el 64% son latinos y latinas o de color y el 64% son mujeres), compuesto por científicos marinos, analistas de políticas y expertos en el océano, y está integrado principalmente por personas que provienen de los trópicos o que tienen una base institucional en ellos (el 80% de los 25 autores consideran a los trópicos como su hogar). En concreto, se hace un llamado a los tomadores de decisión para que se centren en cuatro acciones necesarias: *i*) focalizar la equidad en la gestión marina, *ii*) reconectar a las personas con el océano, *iii*) redefinir la alfabetización marina y *iv*) descolonizar la investigación marina. Estas acciones buscan superar las barreras subyacentes y son imprescindibles para resolver los problemas urgentes de las personas y del océano, así como para proponer esquemas que incluyan el liderazgo de la Mayoría Tropical en la ciencia y en la gestión marina.
+
+# Desafíos para una gestión y ciencia marina efectiva en los trópicos
+
+El acceso restringido a los recursos naturales a por medio de cambios en los derechos de propiedad (*5*), la distribución injusta de los costos y beneficios derivados de la gestión marina, así como el sexismo arraigado, la discriminación de genero o condiciones físicas, así como el racismo (*6*), son procesos sociales y resultados de gestión que perpetúan las inequidades en los sectores que gobiernan los océanos. Dichos procesos son frecuentes en las zonas tropicales, en parte debido a legados y nuevas formas de colonialismo (*6*). De manera similar, fenómenos como la "ciencia de paracaídas" (*parachute science*), es decir, - la ciencia practicada por investigadores externos que no interactúan con las personas y valores locales, en sí mismos herencias del colonialismo -, y el sesgo de referencias hacia autores negros y mestizos, subestiman y socavan el liderazgo, el conocimiento y las prioridades locales (*8,9*). Además, los esfuerzos de "alfabetización marina" son frecuentemente llevados a cabo por programas académicos que privilegian el conocimiento científico, excluyendo otros tipos de conocimiento. Esto a su vez, limita las vías mediante las cuales los poseedores de saberes locales pueden influenciar la toma de decisiones a nivel regional y local. El resultado de estos sistemas de gestión y ciencia no inclusivos es que las poblaciones locales, a pesar de mantener relaciones históricamente estrechas con el océano, son efectivamente excluidas de los modelos dominantes de gestión y conocimiento que moldearán su futuro (*10*).
+
+La equidad y efectividad de las acciones necesarias para combatir los impactos socio-ecológicos negativos del cambio ambiental, se ven limitadas por una discrepancia entre dónde, cómo, por qué y por quiénes se producen e implementan programas de ciencia y gestión marina. Por ejemplo, se extraen grandes cantidades de recursos pesqueros de naciones y territorios tropicales para satisfacer la demanda de naciones más ricas y mejor alimentadas. Por otro lado, naciones tropicales cuya capacidad tecnológica es limitada, se ven en riesgo de ser explotadas por parte de empresas privadas y gobiernos de naciones de altos ingresos fuera de los trópicos, dada la creciente demanda de energía, minerales y recursos genéticos (irónicamente, a veces de manera voluntaria y a expensas de las comunidades dependientes de los recursos naturales) (*11*). En última instancia, la ruptura de poder, conocimiento y relación de los pueblos locales con su entorno disminuye el acceso al océano y sus recursos, erosiona o impide por completo la gestión local y obstaculiza tanto la capacidad de los locales para satisfacer sus necesidades como la capacidad colectiva para perseguir metas compartidas para las personas y el océano.
+
+# Cuatro acciones como oportunidades para el cambio
+
+Una oportunidad para solucionar la creciente desigualdad en la ciencia y la gestión marina (*12*) es involucrar y transferir el poder a la Mayoría Tropical. Al hacerlo, los tomadores de decisión pueden respaldar el cambio urgente y fundamental en la narrativa marina, de una "crisis tropical" a una "oportunidad tropical". Es decir, la transición de una visión en la que los trópicos globales se perciben como víctimas, o como una región limitada en su capacidad para resolver problemas, hacia una en la que se reconozcan y valoren las oportunidades de liderazgo en transformación que ofrece la región. Este es un cambio que requiere que la comunidad global de gestión marina actúe en apoyo de la Mayoría Tropical; esto, con la intención de mantener sociedades y ecosistemas marinos prósperos que puedan adaptarse a los cambios repentinos de las futuras décadas. De manera específica, se hace un llamado a los tomadores de decisión para actuar en las siguientes oportunidades interrelacionadas:
+
+**1. Priorizar la equidad en la reforma de la gestión marina,** con enfoque particular en el poder, la inclusión,  el reconocimiento y la restitución de los derechos de los Pueblos Indígenas (*13*). Esto requiere desarrollar e implementar compromisos de equidad marina en diferentes escalas temporales, geográficas y sectoriales. También es necesario garantizar la rendición de cuentas por impactos históricos, así como los compromisos futuros de financiamiento y distribución de beneficios en foros de gestión global, con la identificación de beneficiarios, la supervisión del gasto de acuerdo con las promesas, la evaluación de la coherencia entre los objetivos políticos y los resultados, y la identificación de los efectos en los beneficiarios (*12*). La evidencia sugiere que los compromisos voluntarios pueden dar lugar a resultados tangibles (*14*), sin embargo, aún faltan metas específicas y medibles de equidad marina y de conservación que consideren a las poblaciones humanas. Dicha falta es un obstáculo para los tomadores de decisiones asuman compromisos que beneficien a las personas y al océano, y es probable que determine una efectividad limitada de los compromisos a largo plazo. Para lograr una gestión marina equitativa también es necesario que se formalicen los sistemas híbridos que incorporan distintos elementos de conocimiento y enfoques de gestión, tanto tradicionales como contemporáneos, teniendo en cuenta el contexto local y las dinámicas socioculturales. Estos sistemas híbridos priorizan los intereses locales y la creación de una gestión adaptativa relevante a nivel local, capaz de responder de manera más efectiva a las amenazas emergentes. Por ejemplo, a través de un acuerdo ministerial, el gobierno de Ecuador reconoció los derechos ancestrales y tradicionales de los habitantes de los manglares. Gracias a la elaboración de acuerdos generados por asociaciones comunitarias se fomenta el empoderamiento de los esfuerzos de conservación basados en la comunidad (*15*).
+
+**2. Reconectar a las personas con el océano** significa resistir y revertir la privatización y degradación a gran escala de las zonas costeras, facilitar el acceso a los recursos marinos y a las tierras costeras y detener prácticas de conservación excluyentes, como la "conservación fortaleza" (*16*). Para reconstruir y apoyar las relaciones benéficas existentes entre las personas y el océano, es necesario el reconocimiento e integración formal de estructuras convencionales (y alternativas) de derechos de propiedad para comunidades costeras. Esto, a su vez, fortalece la capacidad de acción y los valores de las comunidades locales. El reconocimiento a nivel global de la responsabilidad y cuidado de los recursos naturales en el ámbito local, que incluye prácticas y formas de gestión tradicionales, ha demostrado ser prometedor, siempre y cuando dichas acciones se basen en derechos de acceso legalmente reconocidos (*17*). Por ejemplo, el Acuerdo de las Partes de Nauru (PNA) es un acuerdo regional entre ocho naciones insulares del Pacífico, que ha logrado cambiar las dinámicas de poder político y fomentar la colaboración para el control conjunto del 25-30% del suministro mundial de atún. A través de ese acuerdo, las naciones involucradas han establecido reglas para regular la pesca de naciones extranjeras en sus aguas. El PNA ha representado un paso significativo hacia la autodeterminación y la reconexión de estas naciones, que ha resultado en un aumento considerable en las ganancias pesqueras. De hecho, los ingresos pesqueros de los miembros han aumentado un impresionante 900%, alcanzando los 500 millones de dólares en tan solo 11 años a partir de 2010 (*18*).
+
+**3. Volver a definir "alfabetización oceánica"**, con el fin de reconocer el conocimiento especifico y práctico, así como el conocimiento local e indígena, que, en algunos casos, se encuentra en armonía con el paradigma científico dominante. Por ejemplo, la Sociedad de Navegación Polinesia, fundada sobre un legado de exploración en el Océano Pacífico, ha revitalizado el arte y la ciencia de la navegación tradicional y el espíritu de exploración polinesio. A partir de programas educativos interactivos, la Sociedad promueve el respeto entre estudiantes y sus comunidades y los motiva a cuidarse a sí mismos, a las demás comunidades y al entorno natural y cultural (*19*). Un aspecto fundamental de este esfuerzo es reemplazar la noción transaccional de "desarrollo de capacidades" con la perspectiva integrada de "compartir capacidades", reconociendo la riqueza de la experiencia local existente (*8*). Así mismo, dicha perspectiva debe ampliar la noción de valor más allá de lo económico, para incluir la ética, la cultura, la espiritualidad y la empatía hacia los demás y hacia el mundo natural (*17*). A nivel local, es importante reconocer y centrar el conocimiento indígena y local sobre los procesos ecológicos, los cambios en las condiciones ambientales, el uso de recursos espaciales y las interacciones humano-ambiente. Por ejemplo, el patrimonio cultural del pueblo Austral conocido como "*rāhui*" es una práctica tradicional de restricción de acceso a áreas marinas para la conservación de recursos (*20*). Siguiendo esa práctica, los líderes globales podrían establecer requisitos de capacitación en competencia ambiental y cultural para los funcionarios públicos, en todos los niveles de gobierno.
+
+**4. Desarrollar protocolos para descolonizar la producción científica y ampliar el alcance de quienes lideran, participan y se benefician en la ciencia.** Los protocolos deben garantizar que los programas de investigación científica incorporen la capacidad y las prioridades locales, construyan asociaciones y oportunidades equitativas, y garanticen la inclusión de los derechos de autor (*8*). Esto requiere un aumento en la cantidad y mantenimiento de la inversión destinada a la ciencia por parte de organizaciones filantrópicas y multilaterales. Dicha inversión tiene que ser destinada a investigadores de los trópicos y enfocada en apoyar proyectos con impacto (real), local o regional, en lugar de métricas académicas como, por ejemplo, la cantidad de publicaciones (*21*). Es importante considerar otras condiciones para estas inversiones, tales como la democratización de los datos a través de la capacitación local en la recolección, análisis y uso de los mismos; la integración del conocimiento local e indígena; la cobertura de los costos asociados con el almacenamiento y distribución a largo plazo de los datos; y el establecimiento de acuerdos que permitan el acceso a literatura científica, al margen de las instituciones académicas privilegiadas de países desarrollados. Así mismo, la traducción de material científico del inglés a idiomas locales y la integración de personas que no hablan inglés a proyectos de investigación son fundamentales para aumentar el acceso y la diversidad en la ciencia. Es evidente que la ciencia marina tradicional o dominante, ha sido notablemente limitada tanto en términos de cómo se lleva a cabo como de quiénes se benefician de ella. Por lo que es crucial ampliar el marco científico marino para incorporar las ciencias sociales, las humanidades y distintos enfoques multidisciplinarios. Estas disciplinas son capaces de abordar las complejidades socio-ecológicas de los problemas que afectan a diversos contextos históricos, culturas, puntos de vista y objetivos de bienestar en los trópicos globales.
+
+# Siguientes pasos para avanzar las oportunidades de cambio
+Las oportunidades de cambio incluyen compromisos para adoptar tipos de gestión  centrados en el empoderamiento indígena y local, así como en prácticas y costumbres tradicionales. Dichas oportunidades se alinean a una narrativa del océano en la que la gestión, la ciencia y los marcos legales reconocen, valoran y respaldan el liderazgo y los valores locales así como la conexión entre las personas y el océano. Los tomadores de decisión pueden impulsar este cambio tan necesario mediante el reconocimiento de las oportunidades presentadas por la Mayoría Tropical, la identificación de desigualdades sistémicas y la persistente exclusión de los valores y conocimientos locales; así como el establecimiento de metas y acciones específicas y cuantificables, en apoyo de una gestión y una ciencia marina que reviertan la desigualdad y reduzcan la brecha de conocimiento. Ante los eminentes efectos del cambio climático y la pérdida de biodiversidad, ahora es el momento de aprovechar el interés global y el liderazgo tropical para encontrar soluciones equitativas y efectivas para las personas y el océano.
+
+
+# Referencias 
+
+1. Kurien, J. People and the sea: A ‘tropical-majority’ world perspective. MAST 1, 9–26 (2002). 
+
+2. Sale, P. F. et al. Transforming management of tropical coastal seas to cope with challenges of the 21st century. Mar. Poll. Bull. 85, 8–23 (2014). 
+
+3. Álvarez-Romero, J. G. et al. Research advances and gaps in marine planning: towards a global database in systematic conservation planning. Biol. Cons. 227, 369–382 (2018). 
+
+4. Barlow, J. et al. The future of hyperdiverse tropical ecosystems. Nature 559, 517–526 (2018). 
+
+5. Fabinyi, M. The role of land tenure in livelihood transitions from ﬁshing to tourism. Mar. Stud. 19, 29–39 (2020).
+
+6. Decker Sparks, J. L. & Sliva, S. M. An intersectionality-based analysis of high seas policy making stagnation and equity in United Nations negotiations. J. Comm. Prac. 27, 260–278 (2019). 
+
+7. Ross, C. Beyond colonialism: Tropical environments and the legacies of empire. in Ecology and Power in the Age of Empire: Europe and the Transformation of the Tropical World (ed. Ross, C.) 0 (Oxford University Press, 2017).
+
+8. de Vos, A. Stowing parachutes, strengthening science. Conserv. Sci. Pract. 4, e12709 (2022). 
+
+9. Liu, F., Rahwan, T. & AlShebli, B. Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations. Proc. Natl. Acad. Sci. U.S.A. 120, e2215324120 (2023). 
+
+10. Parsons, M., Taylor, L. & Crease, R. Indigenous environmental justice within marine ecosystems: A systematic review of the literature on Indigenous peoples' involvement in marine governance and management. Sustainability 13, 4217 (2021). 
+
+11. Jouffray, J.-B., Blasiak, R., Norström, A. V., Österblom, H. & Nyström, M. The Blue Acceleration: The trajectory of human expansion into the ocean. One Earth 2, 43–54 (2020). 
+
+12. Crosman, K. M. et al. Social equity is key to sustainable ocean governance. npj Ocean Sustain 1, 1–9 (2022). 
+
+13. Pascual, U. et al. Summary for policymakers of the methodological assessment of the diverse values and valuation of nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES). (2022) 
+
+14. Grorud-Colvert, K. et al. High-proﬁle international commitments for ocean protection: Empty promises or meaningful progress? Mar. Pol. 105, 52–66 (2019). 
+
+15. Lopez, F. Guía para el Monitoreo Participativo de Areas Comunitarias de Manglar. (Ministerio del Ambiente de Ecuador, Conservación Internacional Ecuador, Instituto Humanista para la Cooperación con los Países en Desarrollo, Organización de las Naciones Unidas para la Alimentación y la Agricultura y Fondo para el Medio Ambiente Mundial., 2021). 
+
+16. De Santo, E. M., Jones, P. J. S. & Miller, A. M. M. Fortress conservation at sea: A commentary on the Chagos marine protected area. Mar. Pol. 35, 258–260 (2011). 
+
+17. von der Porten, S., Ota, Y., Cisneros-Montemayor, A. & Pictou, S. The role of Indigenous resurgence in marine conservation. Coast. Manage. 47, 527–547 (2019). 
+
+18. Yeeting, A. D., Bush, S. R., Ram-Bidesi, V. & Bailey, M. Implications of new economic policy instruments for tuna management in the Western and Central Paciﬁc. Mar. Pol. 63, 45–52 (2016). 
+
+19. Kikiloi, K. et al. Papahānaumokuākea: Integrating culture in the design and management of one of the world’s largest marine protected areas. Coast. Manage. (2017). 
+
+20. Bambridge, T. The Rahui: Legal pluralism in Polynesian traditional management of resources and territories. (ANU Press, 2016). 21. Harden-Davies, H. et al. Capacity development in the Ocean Decade and beyond: Key questions about meanings, motivations, pathways, and measurements. Earth Syst. Gov. 12, 100138 (2022).
+
+<br>
+<hr>
+
+-   **Forma de Citar**: Spalding, A. K., Grorud-Colvert, K., Allison, E. H., Amon, D. J., Collin, R., Vos, A. de, Friedlander, A. M., Johnson, S. M., Mayorga, J., Paris, C. B., Scott, C., Suman, D. O., Cisneros-Montemayor, A. M., Estradivari, Giron-Nava, A., Gurney, G. G., Harris, J. M., Hicks, C., Mangubhai, S., Micheli, F., Naggea, J., Obura, D., Palacios-Abrantes, J., Pouponneau, A. and Thurber, R. V., 2023. Engaging the tropical majority to make ocean governance and science more equitable and effective. *npj Ocean Sustainability*, 2 (1), 8.
+
+    -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.
