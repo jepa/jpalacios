@@ -118,17 +118,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 ### 2023
 
-23. **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. 2023. Incorporating protected areas into global fish biomass projections under climate change. *FACETS* 8: 1–16.
-
-<center>
-<!-- Original article -->
-<a span class="label label-primary" title ="" href= "https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0101" target="_blank">Full Paper</span></a>
-<!-- Data -->
-<a span class="label label-warning" href= "https://github.com/jepa/climatechangempa" target="_blank">Code & Data</span></a>
-
-</center>
- 
-22. **Palacios-Abrantes, J.**, Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C. and Jensen, O.P. 2023. Quantifying fish range shifts across poorly defined management boundaries. *PLOS ONE*, 18(1), p. e0279025.
+26. **Palacios-Abrantes, J.**, Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C. and Jensen, O.P. 2023. Quantifying fish range shifts across poorly defined management boundaries. *PLOS ONE*, 18(1), p. e0279025.
 
 <center>
 <!-- Original article -->
@@ -137,6 +127,52 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <a span class="label label-info" href= "https://jepa.shinyapps.io/allocation_tool/" target="_blank">Dynamic tool</span></a>
 <!-- Data -->
 <a span class="label label-warning" href= "https://github.com/jepa/AcrossBoundaries" target="_blank">Code & Data</span></a>
+
+</center>
+
+25. Amon, D. J., **Palacios-Abrantes, J.**, Drazen, J. C., Lily, H., Nathan, N., Grient, J. M. A. van der and McCauley, D., 2023. Climate change to drive increasing overlap between Pacific tuna fisheries and emerging deep-sea mining industry. *npj Ocean Sustainability*, 2 (1), 9.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s44183-023-00016-8" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "https://www.reuters.com/science/deep-sea-mining-could-impact-tuna-fisheries-study-2023-07-11/?taid=64ad1da18148c70001f241db&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter" target="_blank">Reuters</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://github.com/jepa/ccz_tuna" target="_blank">Code</span></a>
+
+</center>
+
+24. Spalding, A. K., Grorud-Colvert, K., Allison, E. H., Amon, D. J., Collin, R., Vos, A. de, Friedlander, A. M., Johnson, S. M., Mayorga, J., Paris, C. B., Scott, C., Suman, D. O., Cisneros-Montemayor, A. M., Estradivari, Giron-Nava, A., Gurney, G. G., Harris, J. M., Hicks, C., Mangubhai, S., Micheli, F., Naggea, J., Obura, D., **Palacios-Abrantes, J.**, Pouponneau, A. and Thurber, R. V., 2023. Engaging the tropical majority to make ocean governance and science more equitable and effective. *npj Ocean Sustainability*, 2 (1), 8.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s44183-023-00015-9" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "https://stri.si.edu/story/ocean-protectors" target="_blank">Smithsonian TRI</span></a>
+<!-- Spanish version -->
+<a span class="label label-success" href= "./Translations/tropical_majority.html" target="_blank">Artículo en Español</span></a>
+
+</center>
+
+23. Vogel, J. M., Longo, C., Spijkers, J., **Palacios-Abrantes, J.**, Mason, J., Wabnitz, C. C. C., Cheung, W., Sumaila, U. R., Munro, G., Glaser, S., Bell, J., Tian, Y., Shackell, N. L., Selig, E. R., Billon, P. L., Watson, J. R., Hendrix, C., Pinsky, M. L., Putten, I. van, Karr, K., Papaioannou, E. A. and Fujita, R., 2023. Drivers of conflict and resilience in shifting transboundary fisheries. *Marine Policy*, 155, 105740.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://authors.elsevier.com/c/1hQtr,714MqzDn" target="_blank">Available until September 5th</span></a>
+<!-- Press -->
+<!-- <a span class="label label-info" href= "https://jepa.shinyapps.io/allocation_tool/" target="_blank">Dynamic tool</span></a> -->
+<!-- Data -->
+<!-- <a span class="label label-warning" href= "https://github.com/jepa/AcrossBoundaries" target="_blank">Code & Data</span></a> -->
+
+</center>
+
+22. **Palacios-Abrantes, J.**, Roberts, S. M., Cashion, T., ten Brink, T., Cheung, W.W.L, Mook A., and Nguyen, T. 2023. Incorporating protected areas into global fish biomass projections under climate change. *FACETS* 8: 1–16.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0101" target="_blank">Full Paper</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://github.com/jepa/climatechangempa" target="_blank">Code & Data</span></a>
 
 </center>
 

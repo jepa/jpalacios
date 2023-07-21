@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -281,42 +278,18 @@ $(document).ready(function () {
 <div style="float:left;position: relative; right: 10px;">
 <p><img src="Images/Home/Me.jpeg" alt="Drawing" style="width: 250px;"/></p>
 </div>
-<p>I am a Latin American marine scientist motivated to answer complex,
-real-life questions threatening the ocean and its social-ecological
-systems. I am particularly interested on how climate change is affecting
-the oceans and the management and conservation of marine resources.
-Currently, I hold a position as a Postdoctoral fellow at the <a
-href="https://coru.oceans.ubc.ca/">Changing Ocean Research Unit</a> of
-the Institute for the Oceans and Fisheries for the University of British
-Columbia.</p>
-<p>Overall, my research focuses on three main areas that relate to ocean
-health and responsible usage of marine resources:</p>
-<p>– i) <a href="Projects/Transboundary.html">The management of shared
-fisheries under a changing world</a></p>
-<p>– ii) <a href="Projects/SESYNC.html">Exploring the social-ecological
-impacts of climate change to conservation</a></p>
-<p>– iii) <a href="Projects/PescadoLatino.html">Improving fisheries
-management and marine conservation in Latin America</a></p>
-<p>These are complex narratives which require a mix of quantitative and
-qualitative methods, interdisciplinary collaborations, and genuine
-partnerships with local not-academic institutions.</p>
-<p>I support collaborative interdisciplinary work and I believe that all
-scientific work, data, and code (<a
-href="https://github.com/jepa?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=source&amp;language="
-target="_blank">GitHub</a>) should be public and open access. As a
-Brazilian-Mexican citizen, I am committed to support policy-making and
-resource management decisions in Latin American countries. In parallel
-with my research, I work with different governmental and
-non-governmental organizations to tackle important problems facing
-fisheries and marine conservation in the region.</p>
+<p>I am a Latin American marine scientist motivated to answer complex, real-life questions threatening the ocean and its social-ecological systems. I am particularly interested on how climate change is affecting the oceans and the management and conservation of marine resources. Currently, I hold a position as a Postdoctoral fellow at the <a href="https://coru.oceans.ubc.ca/">Changing Ocean Research Unit</a> of the Institute for the Oceans and Fisheries for the University of British Columbia.</p>
+<p>Overall, my research focuses on three main areas that relate to ocean health and responsible usage of marine resources:</p>
+<p>– i) <a href="Projects/Transboundary.html">The management of shared fisheries under a changing world</a></p>
+<p>– ii) <a href="Projects/SESYNC.html">Exploring the social-ecological impacts of climate change to conservation</a></p>
+<p>– iii) <a href="Projects/PescadoLatino.html">Improving fisheries management and marine conservation in Latin America</a></p>
+<p>These are complex narratives which require a mix of quantitative and qualitative methods, interdisciplinary collaborations, and genuine partnerships with local not-academic institutions.</p>
+<p>I support collaborative interdisciplinary work and I believe that all scientific work, data, and code (<a href="https://github.com/jepa?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=source&amp;language=" target="_blank">GitHub</a>) should be public and open access. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries. In parallel with my research, I work with different governmental and non-governmental organizations to tackle important problems facing fisheries and marine conservation in the region.</p>
 <br>
 <hr>
 <center>
 <p><strong>Contact</strong></p>
-<p>j.palacios [at] oceans.ubc.ca | <a
-href="https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&amp;hl=en"
-target="_blank">Google Scholar</a> | <a
-href="https://twitter.com/julianop_a">Twitter</a></p>
+<p>j.palacios [at] oceans.ubc.ca | <a href="https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&amp;hl=en" target="_blank">Google Scholar</a> | <a href="https://twitter.com/julianop_a">Twitter</a></p>
 <!-- Google translator -->
 <div id="google_translate_element">
 
