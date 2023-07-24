@@ -41,6 +41,8 @@ Regulatory boundaries and species distributions often do not align. This is espe
 
 ## Related Publications
 
+- Vogel, J. M.... **Palacios-Abrantes, J.**, *et al.* 2023. Drivers of conflict and resilience in shifting transboundary fisheries. *Marine Policy*, 155, 105740.
+
 - **Palacios-Abrantes, J.**, *et al.* 2023. Quantifying fish range shifts across poorly defined management boundaries. *PLOS ONE*, 18(1), p. e0279025.
 
 - **Palacios-Abrantes, J.**, *et al.* 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
@@ -51,7 +53,7 @@ Regulatory boundaries and species distributions often do not align. This is espe
 
 - Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
 
-- Pinsky M.L., Reygondeau G., Caddell R., **Palacios-Abrantes J.**, Spijkers J., Cheung W.L. 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
+- Pinsky M.L.... **Palacios-Abrantes J.**, *et al.* 2018. Preparing ocean governance for species on the move. *Science*, Vol. 360, Issue 6394, pp. 1189-1191, DOI: 10.1126/science.aat2360
 
 
 

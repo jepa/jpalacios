@@ -161,8 +161,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <a span class="label label-primary" title ="" href= "https://authors.elsevier.com/c/1hQtr,714MqzDn" target="_blank">Available until September 5th</span></a>
 <!-- Press -->
 <!-- <a span class="label label-info" href= "https://jepa.shinyapps.io/allocation_tool/" target="_blank">Dynamic tool</span></a> -->
-<!-- Data -->
-<!-- <a span class="label label-warning" href= "https://github.com/jepa/AcrossBoundaries" target="_blank">Code & Data</span></a> -->
+
 
 </center>
 
