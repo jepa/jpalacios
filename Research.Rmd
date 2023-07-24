@@ -150,7 +150,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <!-- Press -->
 <a span class="label label-info" href= "https://stri.si.edu/story/ocean-protectors" target="_blank">Smithsonian TRI</span></a>
 <!-- Spanish version -->
-<a span class="label label-success" href= "./Translations/tropical_majority.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-success" href= "./Translations/mayoria_tropical.html" target="_blank">Artículo en Español</span></a>
 
 </center>
 
@@ -213,7 +213,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <!-- Original article -->
 <a span class="label label-primary" title ="" href= "https://doi.org/10.1007/s11625-022-01200-4" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<!-- <a span class="label label-info" href= "https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/#:~:text=Science%2C%20Health%20%26%20Technology&text=Their%20simulations%20suggest%20that%20climate,in%20the%2021st%20century." target="_blank">UBC Stories</span></a> -->
+<a span class="label label-info" href= "https://oceans.ubc.ca/2022/10/28/nature-society-and-culture-should-be-taken-into-consideration-when-dealing-with-climate-change/" target="_blank">UBC Stories</span></a>
 
 </center>
 
