@@ -49,7 +49,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 #2 . Relevant Scientific Publications
 
-*Total of 24 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 12, i10-index: 15, 1,128 citations.* **See Annex 2 for full list of publications**
+*Total of 26 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 13, i10-index: 14, 1,227 citations.* **See Annex 2 for full list of publications**
 
 <!-- OJO Harvard Bou style -->
 
@@ -70,7 +70,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 # 3. Teaching Experience and Mentoring
 
-*Imparted several curses and guess lectures over the last 10 years in topics related to fisheries management, climate change, and data anaylisis and computed modelling.* **See Annex 3 for full list**
+*Imparted several curses and guess lectures over the last 10 years in topics related to fisheries management, climate change, and data analysis and computed modelling.* **See Annex 3 for full list**
 
 - Transboundary fisheries management under Climate Change (2023). Guest lecture on Sustainable Development class for Simon Fraser University 4th year class lead by Dr. Andres Cisneros-Montemayor
 
@@ -82,7 +82,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 # 4. Invited Seminars
 
-*Invited to give over 10 seminars at diferent institutions and international meetings.* **See Annex 4 for full list**
+*Invited to give over 10 seminars at different institutions and international meetings.* **See Annex 4 for full list**
 
 - Using modelling to inform transboundary fisheries management under climate change. Invited speaker at the ECCWO5 conference, Bergen Norway (2023).
 
@@ -204,49 +204,55 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 ### 2.1. Peer Review Articles
 
- 23. **Palacios-Abrantes, J.,** Roberts, S.M., Brink, T. ten, Cashion, T., Cheung, W.W.L., Mook, A., Nguyen, T., 2023. Incorporating protected areas into global fish biomass projections under climate change. Facets 8, 1–16.
+- **Palacios-Abrantes, J.,** Roberts, S.M., Brink, T. ten, Cashion, T., Cheung, W.W.L., Mook, A., Nguyen, T., 2023. Incorporating protected areas into global fish biomass projections under climate change. Facets 8, 1–16.
  
-22. **Palacios-Abrantes, J.,** Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C., Jensen, O.P., 2023. Quantifying fish range shifts across poorly defined management boundaries. Plos One 18, e0279025.
+- **Palacios-Abrantes, J.,** Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C., Jensen, O.P., 2023. Quantifying fish range shifts across poorly defined management boundaries. Plos One 18, e0279025.
 
-21. Pereira, L.M., Crespo, G.O., Amon, D.J., Badhe, R., Bandeira, S., Bengtsson, F., Boettcher, M., Carmine, G., Cheung, W.W.L., Chibwe, B., Dunn, D., Gasalla, M.A., Halouani, G., Johnson, D.E., Jouffray, J.-B., Juri, S., Keys, P.W., Lübker, H.M., Merrie, A.S., Obaidullah, F., **Palacios-Abrantes, J.**, Shannon, L.J., Sumaila, U.R., Superchi, E., Terry, N., Wabnitz, C.C.C., Yasuhara, M., Zhou, W., 2023. The living infinite: Envisioning futures for transformed human-nature relationships on the high seas. Mar Policy 153, 105644.
+- Amon, D. J., **Palacios-Abrantes, J.**, Drazen, J. C., Lily, H., Nathan, N., Grient, J. M. A. van der and McCauley, D., 2023. Climate change to drive increasing overlap between Pacific tuna fisheries and emerging deep-sea mining industry. npj Ocean Sustainability, 2 (1), 9.
 
-20. **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 28, 2312-2326.
+- Spalding, A. K., Grorud-Colvert, K., Allison, E. H., Amon, D. J., Collin, R., Vos, A. de, Friedlander, A. M., Johnson, S. M., Mayorga, J., Paris, C. B., Scott, C., Suman, D. O., Cisneros-Montemayor, A. M., Estradivari, Giron-Nava, A., Gurney, G. G., Harris, J. M., Hicks, C., Mangubhai, S., Micheli, F., Naggea, J., Obura, D., **Palacios-Abrantes, J.**, Pouponneau, A. and Thurber, R. V., 2023. Engaging the tropical majority to make ocean governance and science more equitable and effective. npj Ocean Sustainability, 2 (1), 8.
 
-19. **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Cheung, W.W.L., Foden, W., Santos, C.F., Grey, K.-A., Kühn, N., Maciejewski, K., McGhie, H., Midgley, G.F., Smit, I.P.J. and Pereira, L.M. 2022. Managing biodiversity in the Anthropocene: discussing the Nature Futures Framework as a tool for adaptive decision-making for nature under climate change, *Sustainability Science*, pp. 1–17.
+- Vogel, J. M., Longo, C., Spijkers, J., **Palacios-Abrantes, J.**, Mason, J., Wabnitz, C. C. C., Cheung, W., Sumaila, U. R., Munro, G., Glaser, S., Bell, J., Tian, Y., Shackell, N. L., Selig, E. R., Billon, P. L., Watson, J. R., Hendrix, C., Pinsky, M. L., Putten, I. van, Karr, K., Papaioannou, E. A. and Fujita, R., 2023. Drivers of conflict and resilience in shifting transboundary fisheries. Marine Policy, 155, 105740.
 
-18. Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world's marine ecoregions under climate change, *Global Change Biology*
+- Pereira, L.M., Crespo, G.O., Amon, D.J., Badhe, R., Bandeira, S., Bengtsson, F., Boettcher, M., Carmine, G., Cheung, W.W.L., Chibwe, B., Dunn, D., Gasalla, M.A., Halouani, G., Johnson, D.E., Jouffray, J.-B., Juri, S., Keys, P.W., Lübker, H.M., Merrie, A.S., Obaidullah, F., **Palacios-Abrantes, J.**, Shannon, L.J., Sumaila, U.R., Superchi, E., Terry, N., Wabnitz, C.C.C., Yasuhara, M., Zhou, W., 2023. The living infinite: Envisioning futures for transformed human-nature relationships on the high seas. Mar Policy 153, 105644.
 
-17. Cinner, J. E., Caldwell, I. R., Thiault, L., Ben, J., Blanchard, J. L., Coll, M., Diedrich, A., Eddy, T. D., Everett, J. D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G. G., Heneghan, R. F., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Maury, O., Müller, C., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Rabearisoa, A., Tittensor, D. P., Wamukota, A. and Pollnac, R. 2022. Potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities. *Nature Communications*, 13(1), p. 3530.
+- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 28, 2312-2326.
 
-16. Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J.**, Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change*.
+- **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Cheung, W.W.L., Foden, W., Santos, C.F., Grey, K.-A., Kühn, N., Maciejewski, K., McGhie, H., Midgley, G.F., Smit, I.P.J. and Pereira, L.M. 2022. Managing biodiversity in the Anthropocene: discussing the Nature Futures Framework as a tool for adaptive decision-making for nature under climate change, *Sustainability Science*, pp. 1–17.
 
-15. Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
+- Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world's marine ecoregions under climate change, *Global Change Biology*
 
-14. Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
+- Cinner, J. E., Caldwell, I. R., Thiault, L., Ben, J., Blanchard, J. L., Coll, M., Diedrich, A., Eddy, T. D., Everett, J. D., Folberth, C., Gascuel, D., Guiet, J., Gurney, G. G., Heneghan, R. F., Jägermeyr, J., Jiddawi, N., Lahari, R., Kuange, J., Liu, W., Maury, O., Müller, C., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Rabearisoa, A., Tittensor, D. P., Wamukota, A. and Pollnac, R. 2022. Potential impacts of climate change on agriculture and fisheries production in 72 tropical coastal communities. *Nature Communications*, 13(1), p. 3530.
 
-13. Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models. *Progress in Oceanography* 198, 102659.
+- Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J.**, Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change*.
 
-12. **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world's exploited marine species. *Scientific Reports*, 10 (1), 415–12.
+-. Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W. W. L., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S. D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L. E., Mouillot, D., **Palacios-Abrantes, J.**, Possingham, H. P., Rechberger, K. D., Worm, B., and Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. *Nature*, 1–6.
 
-11. **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17.
+- Outeiro, L., Otero, J., Alonso-Fernández, A., Bañón, R., and **Palacios-Abrantes, J.**, 2021. Quantifying abundance trends and environmental effects on a population of queen scallop Aequipecten opercularis targeted by artisanal fishers in a coastal upwelling area (Ría de Arousa, NW Spain) using a Bayesian spatial model. *Journal of Environmental Economics and Management*, 240, 105963.
 
-9. Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
+- Heneghan, R.F., Galbraith, E., Blanchard, J.L., Harrison, C., Barrier, N., Bulman, C., Cheung, W., Coll, M., Eddy, T.D., Erauskin-Extramiana, M., Everett, J.D., Fernandes-Salvador, J.A., Gascuel, D., Guiet, J., Maury, O., **Palacios-Abrantes, J.**, Petrik, C.M., du Pontavice, H., Richardson, A.J., Steenbeek, J., Tai, T.C., Volkholz, J., Woodworth-Jefcoats, P.A., Tittensor, D.P., 2021. Disentangling diverse responses to climate change among global marine ecosystem models. *Progress in Oceanography* 198, 102659.
 
-8. Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
+- **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world's exploited marine species. *Scientific Reports*, 10 (1), 415–12.
 
-7. Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485.
+- **Palacios-Abrantes, J.**, Sumaila, U. R., and Cheung, W. W. L., 2020. Challenges to transboundary fisheries management in North America under climate change. *Ecology and Society*, 25 (4), art41–17.
 
-6. Cisneros-Montemayor, A. M., Abas, M., **Palacios-Abrantes, J.**, and González-Espinosa, P. C., 2020. Spatial analysis of anticipated climate change effects on fisheries in Mexico: An overview for adaptation. *Ciencia Pesquera*, 28 (1-2), 31–44.
+- Sumaila, U. R., **Palacios-Abrantes, J.**, and Cheung, W. W. L., 2020. Climate change, shifting threat points, and the management of transboundary fish stocks. *Ecology and Society*, 25 (4), art40–9.
 
-5. **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723.
+- Cashion, T., Nguyen, T., Brink, ten, T., Mook, A., **Palacios-Abrantes, J.**, and Roberts, S. M., 2020. Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate. *PLoS ONE*, 15 (11), e0241771.
 
-4. **Palacios-Abrantes, J**., Herrera-Correal, J., Rodriguez, S., Brunkow, J., and Molina, R., 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa and Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, 13 (12), e0209431.
+- Andrews, E. J., Harper, S., Cashion, T., **Palacios-Abrantes, J.**, Blythe, J., Daly, J., Eger, S., Hoover, C., Talloni-Álvarez, N., Teh, L., Bennett, N., Epstein, G., Knott, C., Newell, S. L., and Whitney, C. K., 2020. Supporting early career researchers: insights from interdisciplinary marine scientists. *ICES Journal of Marine Science*, 77 (2), 476–485.
 
-3. Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
+- Cisneros-Montemayor, A. M., Abas, M., **Palacios-Abrantes, J.**, and González-Espinosa, P. C., 2020. Spatial analysis of anticipated climate change effects on fisheries in Mexico: An overview for adaptation. *Ciencia Pesquera*, 28 (1-2), 31–44.
 
-2. **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
+- **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), e0216723.
 
-1. **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
+- **Palacios-Abrantes, J**., Herrera-Correal, J., Rodriguez, S., Brunkow, J., and Molina, R., 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa and Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, 13 (12), e0209431.
+
+- Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
+
+- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
+
+- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
 
 ### 2.2. Book Chapters
 
@@ -299,11 +305,11 @@ bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/downlo
 
 ### 3.2. Guest lecturers
 
-- **Fishereis management for Gabs Class**
+- Introduction to fisheries management. Guest lecture on EOSC 478 Introduction to Fisheries Science of the University of British Columbia lead by Yevhenii Pakhomov (April, 2022)
 
 - Transboundary fisheries management under Climate Change. Guest lecture on Sustainable Development class for Simon Fraser University 4th year class lead by Dr. Andres Cisneros-Montemayor (March 20203)
 
-- Fisheries management under a changing climate. Guest lecture on climate change and fisheries for University of Victoria 4th year class lead by Dr. Julia K. Baum (March 20203)
+- Fisheries management under a changing climate. Guest lecture on climate change and fisheries for University of Victoria 4th year class lead by Dr. Julia K. Baum (March, 20203)
 
 ### 3.3. Mentoring
 
