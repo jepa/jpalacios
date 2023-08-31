@@ -118,7 +118,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 ### 2023
 
-26. **Palacios-Abrantes, J.**, Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C. and Jensen, O.P. 2023. Quantifying fish range shifts across poorly defined management boundaries. *PLOS ONE*, 18(1), p. e0279025.
+28. **Palacios-Abrantes, J.**, Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C. and Jensen, O.P. 2023. Quantifying fish range shifts across poorly defined management boundaries. *PLOS ONE*, 18(1), p. e0279025.
 
 <center>
 <!-- Original article -->
@@ -130,17 +130,46 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 </center>
 
-25. Amon, D. J., **Palacios-Abrantes, J.**, Drazen, J. C., Lily, H., Nathan, N., Grient, J. M. A. van der and McCauley, D., 2023. Climate change to drive increasing overlap between Pacific tuna fisheries and emerging deep-sea mining industry. *npj Ocean Sustainability*, 2 (1), 9.
+27. Amon, D. J., **Palacios-Abrantes, J.**, Drazen, J. C., Lily, H., Nathan, N., Grient, J. M. A. van der and McCauley, D., 2023. Climate change to drive increasing overlap between Pacific tuna fisheries and emerging deep-sea mining industry. *npj Ocean Sustainability*, 2 (1), 9.
 
 <center>
 <!-- Original article -->
 <a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s44183-023-00016-8" target="_blank">Full Paper</span></a>
 <!-- Press -->
 <a span class="label label-info" href= "https://www.reuters.com/science/deep-sea-mining-could-impact-tuna-fisheries-study-2023-07-11/?taid=64ad1da18148c70001f241db&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter" target="_blank">Reuters</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/ccz_tuna" target="_blank"> Code </span></a>
 <!-- Data -->
-<a span class="label label-warning" href= "https://github.com/jepa/ccz_tuna" target="_blank">Code</span></a>
+<a span class="label label-warning" href= "https://osf.io/qa8w4/" target="_blank">Data</span></a>
+
 
 </center>
+
+
+26. Fredston, A. L., Cheung, W. W. L., Frölicher, T. L., Kitchel, Z. J., Maureaud, A. A., Thorson, J. T., Auber, A., Mérigot, B., **Palacios-Abrantes, J**., Palomares, M. L. D., Pecuchet, L., Shackell, N. L. and Pinsky, M. L., 2023. Marine heatwaves are not a dominant driver of change in demersal fishes. *Nature*, 1–6.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s41586-023-06449-y" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<!-- <a span class="label label-info" href= "" target="_blank">Reuters</span></a> -->
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/afredston/marine_heatwaves_trawl" target="_blank"> Code </span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://doi.org/10.17605/OSF.IO/H6UKT" target="_blank">Data</span></a>
+
+</center>
+
+25. Bryndum-Buchholz, A., Blanchard, J. L., Coll, M., Pontavice, H. D., Everett, J. D., Guiet, J., Heneghan, R. F., Maury, O., Novaglio, C., **Palacios-Abrantes, J.**, Petrik, C. M., Tittensor, D. P. and Lotze, H. K., 2023. Applying ensemble ecosystem model projections to future-proof marine conservation planning in the Northwest Atlantic Ocean. *FACETS*, 8, 1–16.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.facetsjournal.com/doi/10.1139/facets-2023-0024" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "" target="_blank">Reuters</span></a>
+
+</center>
+
 
 24. Spalding, A. K., Grorud-Colvert, K., Allison, E. H., Amon, D. J., Collin, R., Vos, A. de, Friedlander, A. M., Johnson, S. M., Mayorga, J., Paris, C. B., Scott, C., Suman, D. O., Cisneros-Montemayor, A. M., Estradivari, Giron-Nava, A., Gurney, G. G., Harris, J. M., Hicks, C., Mangubhai, S., Micheli, F., Naggea, J., Obura, D., **Palacios-Abrantes, J.**, Pouponneau, A. and Thurber, R. V., 2023. Engaging the tropical majority to make ocean governance and science more equitable and effective. *npj Ocean Sustainability*, 2 (1), 8.
 
