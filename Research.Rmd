@@ -230,7 +230,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <!-- Data -->
 <a span class="label label-warning" href= "https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/TMPEHR" target="_blank">Data</span></a>
 <!-- Spanish version -->
-<a span class="label label-success" href= "./Translations/Emerging_fish/emerging_fish.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-success" href= "./Translations/emerging_fish.html" target="_blank">Artículo en Español</span></a>
 
 </center>
 
