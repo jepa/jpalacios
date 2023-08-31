@@ -58,7 +58,7 @@ You should really try it; for me diving is the closest feeling to floating in ou
 
 ## Underwater Worlds Explored
 
-```{r Diving_Places, eval =TRUE, echo =FALSE, warning=F,message=F}
+```{r Diving_Places, eval = F, echo =FALSE, warning=F,message=F}
 library(leaflet)
 library(dplyr)
 Diving_Data <- read.csv("Data/Dive_Log.csv") %>% 
@@ -78,7 +78,7 @@ leaflet(Diving_Data) %>%
   addMarkers(
     lng = ~Long*-1,
     lat= ~Lat,
-    popup = ~Pop
+    popup = ~City
   )
 
 

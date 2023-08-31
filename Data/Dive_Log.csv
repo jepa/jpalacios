@@ -1,220 +1,245 @@
-n_Dive,Time_min,Depth_m,Depth_ft,Date,Site,City,Country,Type,Lat,Long
-1,45,10,32.81,2008-02-08,Palmitas,Acapulco,Mexico,Certificacion,16.82313,99.91352
-2,40,10,32.81,2008-02-08,El Jardin,Acapulco,Mexico,Certificacion,16.82289,99.90396
-3,19,6,19.69,2008-02-08,La Virgen,Acapulco,Mexico,Certificacion,16.82477,99.9007
-4,30,12,39.37,2008-02-09,Palmitas,Acapulco,Mexico,Certificacion,16.82313,99.91352
-5,45,10,32.81,2008-02-09,El Jardin,Acapulco,Mexico,Certificacion,16.82289,99.90396
-6,40,10,32.81,2008-02-09,Palmitas,Acapulco,Mexico,Certificacion,16.82313,99.91352
-7,40,12,39.37,2008-08-01,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-8,60,20,65.62,2008-08-02,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-9,50,10,32.81,2008-08-03,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-10,55,16,52.49,2008-08-04,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-11,40,15,49.21,2008-08-05,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-12,60,15,49.21,2008-08-06,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765
-13,47,15,49.21,2008-08-07,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765
-14,40,12,39.37,2018-07-08,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-15,45,15,49.21,2008-07-08,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765
-16,30,14,45.93,2008-08-08,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-17,60,12,39.37,2008-08-08,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-18,40,12,39.37,2008-08-08,Playa La Braulia,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72742,110.93928
-19,50,15,49.21,2008-08-08,Playa La Braulia,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72742,110.93928
-20,60,15,49.21,2008-08-08,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765
-21,30,15,49.21,2008-08-08,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765
-22,25,21,68.9,2008-08-08,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765
-23,58,15,49.21,2008-09-08,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687
-24,30,13,42.65,2008-09-08,La Virgen,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,16.82477,99.9007
-25,7,30,98.43,2008-09-08,Piedra Solitaria,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.87136,110.96649
-26,44,30,98.43,2008-09-08,Cabo Pieer,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73118,110.91112
-27,30,15,49.21,2010-10-08,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352
-28,25,13,42.65,2010-10-08,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352
-29,40,12,39.37,2010-10-08,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352
-30,35,39,127.95,2011-10-08,Cuevones,Acapulco,Mexico,Deportivo,16.82199,99.90076
-31,20,25,82.02,2011-10-08,Cuevones,Acapulco,Mexico,Deportivo,16.82199,99.90076
-32,34,11,36.09,2011-04-09,Canastas,Acapulco,Mexico,Deportivo,16.82555,99.90994
-33,40,10,32.81,2017-07-09,El Jardin,Acapulco,Mexico,Deportivo,16.82289,99.90396
-34,30,22,72.18,2018-07-09,El Rio de la Plata,Acapulco,Mexico,Pecio,16.82692,99.90001
-35,31,31,100.72,2018-07-09,La Cagada,Acapulco,Mexico,Deportivo,16.8227,99.91885
-36,45,8,26.25,2018-07-09,El Jardin,Acapulco,Mexico,Deportivo,16.82289,99.90396
-37,35,9,30.18,2018-07-09,Canastas,Acapulco,Mexico,Deportivo,16.82555,99.90994
-38,40,16,52.49,2018-07-09,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352
-39,40,43,141.08,2019-07-09,El Bajo de la Quebrada,Acapulco,Mexico,Deportivo,16.84536,99.91701
-40,30,34,111.55,2013-09-09,Cordas,Fernando de Noronha,Brasil,Deportivo,3.81439,32.36102
-41,30,15,49.21,2013-09-09,Moro de Fora,Fernando de Noronha,Brasil,Deportivo,3.87771,32.48278
-42,30,16,52.49,2013-09-10,Ilha De Frede,Fernando de Noronha,Brasil,Deportivo,3.88124,32.44415
-43,23,0,0,2013-09-10,Luias,Fernando de Noronha,Brasil,Deportivo,3.87654,32.41802
-44,30,12,39.37,2013-09-10,Canal da Rata,Fernando de Noronha,Brasil,Deportivo,3.81515,32.39342
-45,5,58,190.29,2013-09-10,Corvera Ipiranga V-17,Fernando de Noronha,Brasil,Pecio,3.85467,32.49901
-46,37,14,45.93,2003-04-11,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352
-47,39,13,42.65,2003-04-11,La Cagada,Acapulco,Mexico,Deportivo,16.8227,99.91885
-48,51,10,32.81,2003-04-11,El Corsario,Veracruz Puerto,Mexico,Deportivo,19.203,96.0994
-49,53,9,29.53,2005-04-11,El Jardin,Acapulco,Mexico,Deportivo,16.82289,99.90396
-50,60,15,49.21,2029-04-11,Hotel Copacabana,Habana,Cuba,Deportivo,23.1203,82.4366
-51,54,10,32.81,2003-05-11,Riva Palacio,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991
-52,39,9,29.53,2003-05-11,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996
-53,41,9,29.53,2003-05-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-54,41,14,45.93,2003-05-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-55,40,13,42.65,2003-05-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938
-56,35,11,36.09,2003-05-11,Veracruz Puerto,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991
-57,39,11,36.09,2011-06-11,El Bajo de la Quebrada,Acapulco,Mexico,Certificacion,16.84536,99.91701
-58,31,13,42.65,2011-06-11,La Cagada,Acapulco,Mexico,Certificacion,16.8227,99.91885
-59,35,10,32.81,2011-06-11,El Corsario,Acapulco,Mexico,Certificacion,16.83062,99.89867
-60,38,10,32.81,2011-06-12,El Bajo de la Quebrada,Acapulco,Mexico,Certificacion,16.84536,99.91701
-61,33,14,45.93,2011-06-12,Canastas,Acapulco,Mexico,Certificacion,16.82555,99.90994
-62,30,14,45.93,2011-06-12,Canastas,Acapulco,Mexico,Certificacion,16.82555,99.90994
-63,47,10,32.81,2024-06-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-64,35,16,52.49,2024-06-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-65,40,17,55.77,2026-06-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-66,25,35,114.83,2004-07-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938
-67,25,30,98.43,2004-07-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-68,35,23,75.46,2004-07-11,Veracruz Puerto,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991
-69,34,35,114.83,2005-07-11,Riva Palacio,Veracruz Puerto,Mexico,Pecio,19.1786,96.0991
-70,38,20,65.62,2005-07-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938
-71,30,23,75.46,2005-07-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938
-72,40,10,32.81,2024-07-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-73,40,10,32.81,2013-09-11,Cagajas,Fernando de Noronha,Brasil,Deportivo,3.82249,32.41635
-74,20,16,52.49,2013-09-11,Praia Sapata,Fernando de Noronha,Brasil,Deportivo,3.86571,32.45885
-75,38,20,65.62,2013-09-11,Duas Ilhas,Fernando de Noronha,Brasil,Deportivo,3.86235,32.46809
-76,38,15,49.21,2025-10-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-77,43,9,29.53,2003-12-11,Casa del Arabe,Acapulco,Mexico,Deportivo,16.82799,99.90856
-78,40,19,62.34,2003-12-11,La Cagada,Acapulco,Mexico,Deportivo,16.8227,99.91885
-79,40,12,39.37,2003-12-11,El Corsario,Acapulco,Mexico,Deportivo,16.83062,99.89867
-80,50,10,32.81,2003-12-11,Hawai,Acapulco,Mexico,Deportivo,16.81887,99.90438
-81,40,19,62.34,2003-12-11,La Cagada,Acapulco,Mexico,Deportivo,16.8227,99.91885
-82,40,12,39.37,2003-12-11,El Corsario,Acapulco,Mexico,Deportivo,16.83062,99.89867
-83,50,10,32.81,2003-12-11,Hawai,Acapulco,Mexico,Deportivo,16.81887,99.90438
-84,30,12,40.03,2004-12-11,La Virgen,Acapulco,Mexico,Deportivo,16.82477,99.9007
-85,30,12,40.03,2004-12-11,La Virgen,Acapulco,Mexico,Deportivo,16.82477,99.9007
-86,35,12,40.03,2004-12-11,Casa del Arabe,Acapulco,Mexico,Deportivo,16.82799,99.90856
-87,43,20,65.62,2012-12-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-88,40,20,65.62,2012-12-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-89,30,35,114.83,2013-12-11,Riva Palacio,Veracruz Puerto,Mexico,Pecio,19.1786,96.0991
-90,50,18,59.06,2013-12-11,Riva Palacio,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991
-91,50,16,52.49,2013-12-11,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996
-92,20,37,121.39,2014-12-11,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996
-93,36,28,91.86,2014-12-11,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996
-94,58,18,60.04,2014-12-11,Escalones,Mahahual,Mexico,Deportivo,18.71105,87.70121
-95,57,15,49.21,2014-12-11,Escalones,Mahahual,Mexico,Deportivo,18.71105,87.70121
-96,35,18,60.04,2029-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716
-97,38,19,62.34,2029-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716
-98,38,19,62.34,1930-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716
-99,38,19,62.34,1930-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716
-100,58,15,49.21,2012-04-12,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505
-101,55,20,65.62,2012-04-12,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505
-102,58,35,114.83,2012-04-13,Tuneles,Playa Larga,Cuba,Deportivo,22.27743,81.21238
-103,56,23,76.12,2012-04-13,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505
-104,57,36,118.11,2012-04-14,Tuneles,Playa Larga,Cuba,Deportivo,22.27743,81.21238
-105,35,25,82.02,2012-04-14,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505
-106,40,16,52.49,2026-06-12,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-107,40,16,52.49,2027-06-12,Riva Palacio,Veracruz Puerto,Mexico,Pecio,,
-108,40,15,49.21,2027-06-12,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996
-109,30,12,39.37,2027-06-12,Isla Verde,Veracruz Puerto,Mexico,Deportivo,19.2114,96.0995
-110,40,15,49.21,2028-06-12,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-111,35,18,59.06,2028-06-12,Colals de Gato,Veracruz Puerto,Mexico,Deportivo,19.221,96.0991
-112,35,16,50.85,2028-06-12,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938
-113,40,12,40.03,2013-08-12,Museo Subacuatico,Cancun,Mexico,Deportivo,21.13418,86.725361
-114,40,12,40.03,2013-08-12,Museo Subacuatico,Cancun,Mexico,Deportivo,21.13418,86.725361
-115,35,7,22.97,2013-09-12,Cenote dos Ojos,Tulum,Mexico,Caverna,20.3247416,87.4088215
-116,35,7,22.97,2013-09-12,Cenote dos Ojos,Tulum,Mexico,Caverna,20.3247416,87.4088215
-117,35,12,39.37,2013-09-12,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593
-118,40,12,39.37,2013-09-12,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593
-119,41,13,41.01,2027-10-12,El Jardin,Acapulco,Mexico,Deportivo,16.8228915,99.903961
-120,40,11,36.09,2027-10-12,El Jardin,Acapulco,Mexico,Deportivo,16.8228915,99.903961
-121,40,18,59.06,2028-10-12,La Cagada,Acapulco,Mexico,Deportivo,16.822704,99.918852
-122,40,15,49.21,2028-10-12,Siete Pulpos,Acapulco,Mexico,Deportivo,16.827808,99.909438
-123,45,10,32.81,2028-10-12,Casa del Arabe,Acapulco,Mexico,Deportivo,16.827989,-99.908558
-124,40,18,59.06,2001-11-12,Kabahna,Mahahual,Mexico,Deportivo,18.65331,87.724821
-125,38,16,53.15,2001-11-12,Kabahna,Mahahual,Mexico,Deportivo,18.651643,87.724897
-126,35,18,59.06,2002-11-12,Kabahna,Mahahual,Mexico,Deportivo,18.654053,87.724328
-127,35,18,59.06,2002-11-12,Kabahna,Mahahual,Mexico,Deportivo,18.652436,87.724221
-128,30,18,59.06,2002-11-12,Kabahna,Mahahual,Mexico,Deportivo,18.653077,87.723019
-129,35,18,59.06,2003-11-12,Gonzalez,Banco Chinchorro,Mexico,Deportivo,18.578551,87.342822
-130,36,19,62.34,2003-11-12,Acuario,Banco Chinchorro,Mexico,Deportivo,18.5877844,87.3405908
-131,134,6,19.69,2012-12-12,Cenote Escondido,Tulum,Mexico,Caverna,20.278091,87.565479
-132,121,0,0,2012-12-12,Cenote Escondido,Tulum,Mexico,Caverna,20.278091,87.565479
-133,0,0,0,2012-12-13,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593
-134,61,12,39.37,2012-12-13,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593
-135,55,10,32.81,2012-12-14,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593
-136,61,10,32.81,2012-12-14,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593
-137,50,13,43.96,2012-12-15,Cenote Calavera,Tulum,Mexico,Caverna,20.2292046,87.4594603
-138,36,14,45.93,2012-12-15,Cenote Calavera,Tulum,Mexico,Caverna,20.2292046,87.4594603
-139,34,40,131.23,2012-12-16,Angelita,Tulum,Mexico,Caverna,20.1375465,87.5799936
-140,45,17,55.77,2012-12-16,Cenote Calavera,Tulum,Mexico,Caverna,20.2292046,87.4594603
-141,35,15,49.21,2012-12-18,Cenote Chac-Mol,Tulum,Mexico,Caverna,20.5129338,87.2492256
-141,30,15,49.21,2012-12-17,Cenote Chac-Mol,Tulum,Mexico,Caverna,20.5129338,87.2492256
-142,50,10,32.81,2012-12-17,Mahahual,Tulum,Mexico,Deportivo,,
-143,40,25,82.02,2012-12-18,Mahahual,Tulum,Mexico,Deportivo,,
-144,50,1,2.95,2002-02-13,El Jardin,Acapulco,Mexico,Deportivo,16.8228915,99.903961
-145,50,10,32.81,2002-02-13,Palmitas,Acapulco,Mexico,Deportivo,16.8231253,99.9135194
-146,40,18,59.06,2003-02-13,Siete Pulpos,Acapulco,Mexico,Deportivo,16.827808,99.909438
-147,45,15,49.21,2003-02-13,El Corsario,Acapulco,Mexico,Deportivo,16.830621,99.898666
-148,45,15,49.21,2004-02-13,Casa del Arabe,Acapulco,Mexico,Deportivo,16.827989,-99.908558
-149,50,10,32.81,2004-02-13,Palmitas,Acapulco,Mexico,Deportivo,16.8231253,99.9135194
-150,50,25,82.02,2025-03-13,Arrecife,Playa Larga,Cuba,Deportivo,,
-151,35,28,90.88,2025-03-13,Arrecife,Playa Larga,Cuba,Deportivo,,
-152,43,35,113.19,2026-03-13,Tuneles,Playa Larga,Cuba,Deportivo,22.277431,81.212384
-153,53,25,83.01,2026-03-13,Tuneles,Playa Larga,Cuba,Deportivo,22.277431,81.212384
-154,43,22,72.18,2026-03-13,Arrecife,Playa Larga,Cuba,Nocturno,,
-155,60,6,20.01,2027-03-13,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.280488,81.215049
-156,30,18,59.06,2027-03-13,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.280488,81.215049
-157,40,33,106.96,2027-03-13,Tuneles,Playa Larga,Cuba,Deportivo,22.277431,81.212384
-158,35,12,39.37,2008-07-13,Isla Verde,Veracruz Puerto,Mexico,Deportivo,19.2114,96.0995
-159,30,12,39.37,2008-07-13,Isla Verde,Veracruz Puerto,Mexico,Deportivo,19.2114,96.0995
-160,30,15,49.21,2008-07-13,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995
-161,35,21,68.9,2009-07-13,Riva Palacio,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991
-162,40,12,39.37,2009-07-13,Colals de Gato,Veracruz Puerto,Mexico,Deportivo,19.221,96.0991
-163,35,16,50.85,2017-07-13,Isla Verde,Veracruz Puerto,Mexico,Deportivo,19.2114,96.0995
-164,35,18,59.06,2027-07-13,Colas de Gato,Veracruz Puerto,Mexico,Deportivo,19.221,96.0991
-165,40,15,49.21,2027-07-13,Cabo Mex,Veracruz Puerto,Mexico,Deportivo,19.18798,96.09961
-166,35,18,59.06,2028-07-13,Ca–on de Juarez,Veracruz Puerto,Mexico,Deportivo,19.1754,96.0991
-167,35,21,68.9,2028-07-13,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938
-168,40,15,49.21,2018-10-13,Los Islotes,Veracruz Puerto,Mexico,Deportivo,19.1983,96.0993
-169,35,16,50.85,2014-03-14,Caleta de Chon,Veracruz Puerto,Mexico,Deportivo,19.2286,96.0992
-170,45,20,,2019-09-15,,,Indonesia,Deportivo,,
-171,40,12,,2019-09-15,,,Indonesia,Deportivo,,
-171,40,10,,2019-09-16,,,Indonesia,Deportivo,,
-,,,,,,Media Luna,Mexico,Altura,,
-,,,,,,Media Luna,Mexico,Altura,,
-,,,,,,Media Luna,Mexico,Altura,,
-,,,,,,Media Luna,Mexico,Altura,,
-,,,,,,Media Luna,Mexico,Altura,,
-,,,,,,Media Luna,Mexico,Altura,,
-,,,,2013-05-07,,Acapulco,Mexico,Cientifico,,
-,,,,2013-05-07,,Acapulco,Mexico,Cientifico,,
-,,,,2013-05-07,,Acapulco,Mexico,Cientifico,,
-,,,,2013-06-07,,Acapulco,Mexico,Cientifico,,
-,,,,2013-06-07,,Acapulco,Mexico,Cientifico,,
-,,,,2013-06-07,,Acapulco,Mexico,Cientifico,,
-,,,,2013-08-14,,Veracruz Puerto,Mexico,Cientifico,,
-,,,,2013-08-14,,Veracruz Puerto,Mexico,Cientifico,,
-,,,,2013-08-14,,Veracruz Puerto,Mexico,Cientifico,,
-,,,,2013-08-15,,Veracruz Puerto,Mexico,Cientifico,,
-,,,,2013-08-15,,Veracruz Puerto,Mexico,Cientifico,,
-,,,,2013-08-15,,Veracruz Puerto,Mexico,Cientifico,,
-,,,,2015-04-05,,Catarina Island,Estados Unidos,Deportivo,,
-,,,,2015-04-05,,Catarina Island,Estados Unidos,Deportivo,,
-,,,,2015-04-05,,Catarina Island,Estados Unidos,Deportivo,,
-,,,,,,Los Cabos,Mexico,Deportivo,,
-,,,,,,Los Cabos,Mexico,Deportivo,,
-,,,,,,Los Cabos,Mexico,Nocturno,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,,La Paz,Mexico,Mariano,,
-,,,,,Lago de Valle,Valle de Bravo,Mexico,Seguridad,,
-,,,,,Lago de Valle,Valle de Bravo,Mexico,Seguridad,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Nocturno,,
-,,,,,Live aboard,Baja California,Mexico,Nocturno,,
-,,,,,Live aboard,Baja California,Mexico,Nocturno,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
-,,,,,Live aboard,Baja California,Mexico,Deportivo,,
+n_Dive,Time_min,Depth_m,Depth_ft,Date,Site,City,Country,Type,Lat,Long,
+1,45,10,32.8084,2008-02-08,Palmitas,Acapulco,Mexico,Certificacion,16.82313,99.91352,
+2,40,10,32.8084,2008-02-08,El Jardin,Acapulco,Mexico,Certificacion,16.82289,99.90396,
+3,19,6,19.68504,2008-02-08,La Virgen,Acapulco,Mexico,Certificacion,16.82477,99.9007,
+4,30,12,39.37008,2008-02-09,Palmitas,Acapulco,Mexico,Certificacion,16.82313,99.91352,
+5,45,10,32.8084,2008-02-09,El Jardin,Acapulco,Mexico,Certificacion,16.82289,99.90396,
+6,40,10,32.8084,2008-02-09,Palmitas,Acapulco,Mexico,Certificacion,16.82313,99.91352,
+7,40,16,52.49344,2008-06-12,Riva Palacio,Veracruz Puerto,Mexico,Pecio,19.2371,96.0996,
+8,40,15,49.2126,2008-06-12,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996,
+9,30,12,39.37008,2008-06-12,Isla Verde,Veracruz Puerto,Mexico,Deportivo,19.2114,96.0995,
+10,40,15,49.2126,2008-06-13,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+11,35,18,59.05512,2008-06-13,Colas de Gato,Veracruz Puerto,Mexico,Deportivo,19.221,96.0991,
+12,35,16,52.49344,2008-06-13,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938,
+13,40,12,39.37008,2008-07-08,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+14,30,22,72.17848,2008-07-09,El Rio de la Plata,Acapulco,Mexico,Pecio,16.82692,99.90001,
+15,31,31,101.70604,2008-07-09,La Cagada,Acapulco,Mexico,Deportivo,16.8227,99.91885,
+16,45,8,26.24672,2008-07-09,El Jardin,Acapulco,Mexico,Deportivo,16.82289,99.90396,
+17,35,9,29.52756,2008-07-09,Canastas,Acapulco,Mexico,Deportivo,16.82555,99.90994,
+18,40,16,52.49344,2008-07-09,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352,
+19,35,12,39.37008,2008-07-13,Isla Verde,Veracruz Puerto,Mexico,Deportivo,19.2114,96.0995,
+20,30,12,39.37008,2008-07-13,Isla Verde,Veracruz Puerto,Mexico,Deportivo,19.2114,96.0995,
+21,30,15,49.2126,2008-07-13,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+22,35,18,59.05512,2008-07-14,Canon de Juarez,Veracruz Puerto,Mexico,Deportivo,19.1754,96.0991,
+23,35,21,68.89764,2008-07-14,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938,
+24,40,12,39.37008,2008-08-01,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+25,60,20,65.6168,2008-08-01,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+26,50,10,32.8084,2008-08-01,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+27,55,16,52.49344,2008-08-03,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+28,40,15,49.2126,2008-08-03,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+29,60,15,49.2126,2008-08-03,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+30,47,15,49.2126,2008-08-03,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+31,45,15,49.2126,2008-08-04,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+32,30,14,45.93176,2008-08-04,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+33,60,12,39.37008,2008-08-04,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+34,40,12,39.37008,2008-08-04,Playa La Braulia,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72742,110.93928,
+35,50,15,49.2126,2008-08-05,Playa La Braulia,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72742,110.93928,
+36,60,15,49.2126,2008-08-05,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+37,30,15,49.2126,2008-08-05,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+38,25,21,68.89764,2008-08-05,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+39,58,15,49.2126,2008-08-05,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+40,52,34,111.54856,2008-08-07,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+41,42,42,137.79528,2008-08-07,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+42,51,47,154.19948,2008-08-07,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+43,55,51,167.32284,2008-08-07,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+44,54,56,183.72704,2008-08-08,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+45,51,46,150.91864,2008-08-08,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+46,59,49,160.76116,2008-08-08,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+47,47,40,131.2336,2008-08-09,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+48,50,59,193.56956,2008-08-09,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+49,41,32,104.98688,2008-08-09,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+50,55,49,160.76116,2008-08-09,Playa La Braulia,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72742,110.93928,
+51,56,31,101.70604,2008-08-11,Playa La Braulia,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72742,110.93928,
+52,44,47,154.19948,2008-08-11,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+53,51,49,160.76116,2008-08-11,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+54,53,53,173.88452,2008-08-12,El Barquito,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73024,110.95765,
+55,53,47,154.19948,2008-08-12,Muelle,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.72265,110.94687,
+56,54,54,177.16536,2008-08-12,La Virgen,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,16.82477,99.9007,
+57,30,13,42.65092,2008-09-06,La Virgen,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,16.82477,99.9007,
+58,15,30,98.4252,2008-09-06,Piedra Solitaria,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.87136,110.96649,
+59,44,30,98.4252,2008-09-06,Cabo Pieer,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73118,110.91112,
+60,59,37,121.39108,2008-09-13,Piedra Solitaria,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.87136,110.96649,
+61,42,31,101.70604,2008-09-13,Cabo Pieer,"Isla Socorro, Archipielago Revillagigedo",Mexico,Cientifico,18.73118,110.91112,
+62,41,13,42.65092,2008-10-12,El Jardin,Acapulco,Mexico,Deportivo,16.8228915,99.903961,
+63,40,11,36.08924,2008-10-12,El Jardin,Acapulco,Mexico,Deportivo,16.8228915,99.903961,
+64,40,18,59.05512,2008-10-12,La Cagada,Acapulco,Mexico,Deportivo,16.822704,99.918852,
+65,40,15,49.2126,2008-10-13,Siete Pulpos,Acapulco,Mexico,Deportivo,16.827808,99.909438,
+66,45,10,32.8084,2008-10-13,Casa del Arabe,Acapulco,Mexico,Deportivo,16.827989,-99.908558,
+67,60,15,49.2126,2009-04-11,Hotel Copacabana,Habana,Cuba,Deportivo,23.1203,82.4366,
+68,60,15,49.2126,2009-04-11,Hotel Copacabana,Habana,Cuba,Deportivo,23.1203,82.4366,
+69,43,20,65.6168,2009-07-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+70,40,20,65.6168,2009-07-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+71,35,21,68.89764,2009-07-12,Riva Palacio,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991,
+72,40,12,39.37008,2009-07-12,Colas de Gato,Veracruz Puerto,Mexico,Deportivo,19.221,96.0991,
+73,30,15,49.2126,2010-10-08,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352,
+74,25,13,42.65092,2010-10-08,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352,
+75,40,12,39.37008,2010-10-08,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352,
+76,34,11,36.08924,2011-04-09,Canastas,Acapulco,Mexico,Deportivo,16.82555,99.90994,
+77,35,39,127.95276,2011-06-10,Cuevones,Acapulco,Mexico,Deportivo,16.82199,99.90076,
+78,20,25,82.021,2011-06-10,Cuevones,Acapulco,Mexico,Deportivo,16.82199,99.90076,
+79,39,11,36.08924,2011-06-11,El Bajo de la Quebrada,Acapulco,Mexico,Certificacion,16.84536,99.91701,
+80,31,13,42.65092,2011-06-11,La Cagada,Acapulco,Mexico,Certificacion,16.8227,99.91885,
+81,35,10,32.8084,2011-06-11,El Corsario,Acapulco,Mexico,Certificacion,16.83062,99.89867,
+82,38,10,32.8084,2011-06-12,El Bajo de la Quebrada,Acapulco,Mexico,Certificacion,16.84536,99.91701,
+83,33,14,45.93176,2011-06-12,Canastas,Acapulco,Mexico,Certificacion,16.82555,99.90994,
+84,30,14,45.93176,2011-06-12,Canastas,Acapulco,Mexico,Certificacion,16.82555,99.90994,
+85,40,18,59.05512,2011-11-12,Kabahna,Mahahual,Mexico,Deportivo,18.65331,87.724821,
+86,38,16,52.49344,2011-11-12,Kabahna,Mahahual,Mexico,Deportivo,18.651643,87.724897,
+87,35,18,59.05512,2011-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716,
+88,38,19,62.33596,2011-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716,
+89,38,19,62.33596,2011-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716,
+90,38,19,62.33596,2011-12-11,Arrecife Maha,Mahahual,Mexico,Deportivo,18.71368,87.70716,
+91,50,1,3.28084,2012-02-13,El Jardin,Acapulco,Mexico,Deportivo,16.8228915,99.903961,
+92,50,10,32.8084,2012-02-13,Palmitas,Acapulco,Mexico,Deportivo,16.8231253,99.9135194,
+93,40,18,59.05512,2012-02-13,Siete Pulpos,Acapulco,Mexico,Deportivo,16.827808,99.909438,
+94,45,15,49.2126,2012-02-13,El Corsario,Acapulco,Mexico,Deportivo,16.830621,99.898666,
+95,58,15,49.2126,2012-04-12,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505,
+96,55,20,65.6168,2012-04-12,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505,
+97,58,35,114.8294,2012-04-13,Tuneles,Playa Larga,Cuba,Deportivo,22.27743,81.21238,
+98,56,23,75.45932,2012-04-13,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505,
+99,57,36,118.11024,2012-04-14,Tuneles,Playa Larga,Cuba,Deportivo,22.27743,81.21238,
+100,35,25,82.021,2012-04-14,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.28049,81.21505,
+101,48,41,134.51444,2012-06-16,Live aboard,Baja California,Mexico,Deportivo,24.383133,110.052604,
+102,35,34,111.54856,2012-06-16,Live aboard,Baja California,Mexico,Deportivo,24.304163,110.00445,
+103,31,35,114.8294,2012-06-16,Live aboard,Baja California,Mexico,Deportivo,23.683875,109.137689,
+104,37,36,118.11024,2012-06-17,Live aboard,Baja California,Mexico,Deportivo,24.383133,110.052604,
+105,42,43,141.07612,2012-06-17,Live aboard,Baja California,Mexico,Deportivo,24.304163,110.00445,
+106,48,35,114.8294,2012-06-17,Live aboard,Baja California,Mexico,Deportivo,23.683875,109.137689,
+107,43,31,101.70604,2012-06-18,Live aboard,Baja California,Mexico,Deportivo,24.383133,110.052604,
+108,41,39,127.95276,2012-06-18,Live aboard,Baja California,Mexico,Nocturno,24.304163,110.00445,
+109,37,32,104.98688,2012-06-18,Live aboard,Baja California,Mexico,Nocturno,23.683875,109.137689,
+110,40,30,98.4252,2012-06-19,Live aboard,Baja California,Mexico,Nocturno,24.383133,110.052604,
+111,43,32,104.98688,2012-06-19,Live aboard,Baja California,Mexico,Deportivo,24.304163,110.00445,
+112,41,43,141.07612,2012-06-19,Live aboard,Baja California,Mexico,Deportivo,23.683875,109.137689,
+113,134,6,19.68504,2012-12-12,Cenote Escondido,Tulum,Mexico,Caverna,20.278091,87.565479,
+114,121,0,0,2012-12-12,Cenote Escondido,Tulum,Mexico,Caverna,20.278091,87.565479,
+115,0,0,0,2012-12-13,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593,
+116,61,12,39.37008,2012-12-13,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593,
+117,55,10,32.8084,2012-12-14,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593,
+118,61,10,32.8084,2012-12-14,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593,
+119,50,13,42.65092,2012-12-15,Cenote Calavera,Tulum,Mexico,Caverna,20.2292046,87.4594603,
+120,36,14,45.93176,2012-12-15,Cenote Calavera,Tulum,Mexico,Caverna,20.2292046,87.4594603,
+121,34,40,131.2336,2012-12-16,Angelita,Tulum,Mexico,Caverna,20.1375465,87.5799936,
+122,45,17,55.77428,2012-12-16,Cenote Calavera,Tulum,Mexico,Caverna,20.2292046,87.4594603,
+123,30,15,49.2126,2012-12-17,Cenote Chac-Mol,Tulum,Mexico,Caverna,20.5129338,87.2492256,
+124,35,15,49.2126,2012-12-18,Cenote Chac-Mol,Tulum,Mexico,Caverna,20.5129338,87.2492256,
+125,35,18,59.05512,2012-12-19,Kabahna,Mahahual,Mexico,Deportivo,18.654053,87.724328,
+126,50,10,32.8084,2012-12-19,Mahahual,Tulum,Mexico,Deportivo,18.654053,87.724328,
+127,40,25,82.021,2012-12-19,Mahahual,Tulum,Mexico,Deportivo,18.654053,87.724328,
+128,35,18,59.05512,2012-12-20,Kabahna,Mahahual,Mexico,Deportivo,18.652436,87.724221,
+129,30,18,59.05512,2012-12-20,Kabahna,Mahahual,Mexico,Deportivo,18.653077,87.723019,
+130,20,10,32.8084,2013-03-02,Lago de Valle,Valle de Bravo,Mexico,Seguridad,19.192944,100.140234,
+131,30,15,49.2126,2013-03-02,Lago de Valle,Valle de Bravo,Mexico,Seguridad,19.192944,100.140234,
+132,50,25,82.021,2013-04-13,Arrecife,Playa Larga,Cuba,Deportivo,22.031284,81.02135,
+133,60,6,19.68504,2013-04-13,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.280488,81.215049,
+134,35,28,91.86352,2013-04-14,Arrecife,Playa Larga,Cuba,Deportivo,22.031284,81.02135,
+135,30,18,59.05512,2013-04-14,Cueva de los Peces,Playa Larga,Cuba,Caverna,22.280488,81.215049,
+136,40,33,108.26772,2013-04-14,Tuneles,Playa Larga,Cuba,Deportivo,22.277431,81.212384,
+137,40,33,108.26772,2013-04-15,Tuneles,Playa Larga,Cuba,Deportivo,22.277431,81.212384,
+138,38,20,65.6168,2013-05-03,Media Luna,Media Luna,Mexico,Altura,21.861205,100.029274,
+139,33,25,82.021,2013-05-03,Media Luna,Media Luna,Mexico,Altura,21.861205,100.029274,
+140,40,24,78.74016,2013-05-03,Media Luna,Media Luna,Mexico,Altura,21.861205,100.029274,
+141,37,19,62.33596,2013-05-04,Media Luna,Media Luna,Mexico,Altura,21.861205,100.029274,
+142,50,16,52.49344,2013-05-04,Media Luna,Media Luna,Mexico,Altura,21.861205,100.029274,
+143,38,20,65.6168,2013-05-04,Media Luna,Media Luna,Mexico,Altura,21.861205,100.029274,
+144,59,28,91.86352,2013-05-07,Acapulco,Acapulco,Mexico,Cientifico,16.823918,99.905762,
+145,48,21,68.89764,2013-05-07,Acapulco,Acapulco,Mexico,Cientifico,16.82235,99.900919,
+146,54,12,39.37008,2013-05-07,Acapulco,Acapulco,Mexico,Cientifico,16.823349,99.913809,
+147,42,12,39.37008,2013-05-08,Acapulco,Acapulco,Mexico,Cientifico,16.823918,99.905762,
+148,52,12,39.37008,2013-05-08,Acapulco,Acapulco,Mexico,Cientifico,16.82235,99.900919,
+149,46,28,91.86352,2013-05-08,Acapulco,Acapulco,Mexico,Cientifico,16.823349,99.913809,
+150,37,14,45.93176,2013-05-11,Palmitas,Acapulco,Mexico,Deportivo,16.82313,99.91352,
+151,39,13,42.65092,2013-05-11,La Cagada,Acapulco,Mexico,Deportivo,16.8227,99.91885,
+152,51,10,32.8084,2013-05-11,El Corsario,Veracruz Puerto,Mexico,Deportivo,19.203,96.0994,
+153,53,9,29.52756,2013-05-11,El Jardin,Acapulco,Mexico,Deportivo,16.82289,99.90396,
+154,54,10,32.8084,2013-06-11,Riva Palacio,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991,
+155,41,9,29.52756,2013-06-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+156,40,13,42.65092,2013-06-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938,
+157,39,9,29.52756,2013-06-12,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996,
+158,41,14,45.93176,2013-06-12,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+159,35,11,36.08924,2013-06-12,Veracruz Puerto,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991,
+160,34,35,114.8294,2013-07-11,Riva Palacio,Veracruz Puerto,Mexico,Pecio,19.1786,96.0991,
+161,38,20,65.6168,2013-07-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938,
+162,30,23,75.45932,2013-07-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938,
+163,30,35,114.8294,2013-07-11,Riva Palacio,Veracruz Puerto,Mexico,Pecio,19.1786,96.0991,
+164,50,18,59.05512,2013-07-11,Riva Palacio,Veracruz Puerto,Mexico,Instruccion,19.1786,96.0991,
+165,50,16,52.49344,2013-07-11,Pajaros,Veracruz Puerto,Mexico,Instruccion,19.2371,96.0996,
+166,35,18,59.05512,2013-07-13,Colas de Gato,Veracruz Puerto,Mexico,Instruccion,19.221,96.0991,
+167,40,15,49.2126,2013-07-13,Cabo Mex,Veracruz Puerto,Mexico,Instruccion,19.18798,96.09961,
+168,35,16,52.49344,2013-07-13,Isla Verde,Veracruz Puerto,Mexico,Instruccion,19.2114,96.0995,
+169,38,13,42.65092,2013-08-05,Los Cabos,Los Cabos,Mexico,Deportivo,24.383133,110.052604,
+170,32,20,65.6168,2013-08-05,Los Cabos,Los Cabos,Mexico,Deportivo,24.304163,110.00445,
+171,39,16,52.49344,2013-08-05,Los Cabos,Los Cabos,Mexico,Nocturno,23.683875,109.137689,
+172,42,27,88.58268,2013-08-06,La Paz,La Paz,Mexico,Instruccion,24.383133,110.052604,
+173,42,19,62.33596,2013-08-06,La Paz,La Paz,Mexico,Instruccion,24.304163,110.00445,
+174,39,22,72.17848,2013-08-07,La Paz,La Paz,Mexico,Instruccion,23.683875,109.137689,
+175,39,22,72.17848,2013-08-07,La Paz,La Paz,Mexico,Instruccion,24.383133,110.052604,
+176,46,25,82.021,2013-08-08,La Paz,La Paz,Mexico,Instruccion,24.383133,110.052604,
+177,31,19,62.33596,2013-08-08,La Paz,La Paz,Mexico,Instruccion,24.383133,110.052604,
+178,42,20,65.6168,2013-08-09,La Paz,La Paz,Mexico,Instruccion,24.304163,110.00445,
+179,46,17,55.77428,2013-08-09,La Paz,La Paz,Mexico,Instruccion,23.683875,109.137689,
+180,40,12,39.37008,2013-08-12,Museo Subacuatico,Cancun,Mexico,Deportivo,21.13418,86.725361,
+181,40,12,39.37008,2013-08-12,Museo Subacuatico,Cancun,Mexico,Deportivo,21.13418,86.725361,
+182,34,17,55.77428,2013-08-14,Arrecife,Veracruz Puerto,Mexico,Cientifico,19.239,96.06735,
+183,53,13,42.65092,2013-08-14,Arrecife,Veracruz Puerto,Mexico,Cientifico,19.239,96.06735,
+184,34,13,42.65092,2013-08-14,Arrecife,Veracruz Puerto,Mexico,Cientifico,19.239,96.06735,
+185,30,40,131.2336,2013-08-15,Arrecife,Veracruz Puerto,Mexico,Cientifico,19.239,96.06735,
+186,30,28,91.86352,2013-08-15,Arrecife,Veracruz Puerto,Mexico,Cientifico,19.239,96.06735,
+187,50,31,101.70604,2013-08-15,Arrecife,Veracruz Puerto,Mexico,Cientifico,19.239,96.06735,
+188,30,34,111.54856,2013-09-09,Cordas,Fernando de Noronha,Brasil,Deportivo,3.81439,32.36102,
+189,30,15,49.2126,2013-09-09,Moro de Fora,Fernando de Noronha,Brasil,Deportivo,3.87771,32.48278,
+190,30,16,52.49344,2013-09-10,Ilha De Frede,Fernando de Noronha,Brasil,Deportivo,3.88124,32.44415,
+191,23,0,0,2013-09-10,Luias,Fernando de Noronha,Brasil,Deportivo,3.87654,32.41802,
+192,30,12,39.37008,2013-09-10,Canal da Rata,Fernando de Noronha,Brasil,Deportivo,3.81515,32.39342,
+193,5,58,190.28872,2013-09-10,Corvera Ipiranga V-17,Fernando de Noronha,Brasil,Pecio,3.85467,32.49901,
+194,40,10,32.8084,2013-09-11,Cagajas,Fernando de Noronha,Brasil,Deportivo,3.82249,32.41635,
+195,20,16,52.49344,2013-09-11,Praia Sapata,Fernando de Noronha,Brasil,Deportivo,3.86571,32.45885,
+196,38,20,65.6168,2013-09-11,Duas Ilhas,Fernando de Noronha,Brasil,Deportivo,3.86235,32.46809,
+197,50,10,32.8084,2013-11-11,Hawai,Acapulco,Mexico,Instruccion,16.81887,99.90438,
+198,40,19,62.33596,2013-11-11,La Cagada,Acapulco,Mexico,Instruccion,16.8227,99.91885,
+199,40,12,39.37008,2013-11-11,El Corsario,Acapulco,Mexico,Instruccion,16.83062,99.89867,
+200,50,10,32.8084,2013-11-11,Hawai,Acapulco,Mexico,Instruccion,16.81887,99.90438,
+201,43,9,29.52756,2013-11-12,Casa del Arabe,Acapulco,Mexico,Instruccion,16.82799,99.90856,
+202,40,19,62.33596,2013-11-12,La Cagada,Acapulco,Mexico,Instruccion,16.8227,99.91885,
+203,40,12,39.37008,2013-11-12,El Corsario,Acapulco,Mexico,Instruccion,16.83062,99.89867,
+204,35,18,59.05512,2013-12-11,Gonzalez,Banco Chinchorro,Mexico,Deportivo,18.578551,87.342822,
+205,36,19,62.33596,2013-12-11,Acuario,Banco Chinchorro,Mexico,Deportivo,18.5877844,87.3405908,
+206,35,7,22.96588,2013-12-12,Cenote dos Ojos,Tulum,Mexico,Caverna,20.3247416,87.4088215,
+207,35,7,22.96588,2013-12-12,Cenote dos Ojos,Tulum,Mexico,Caverna,20.3247416,87.4088215,
+208,35,12,39.37008,2013-12-13,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593,
+209,40,12,39.37008,2013-12-13,Cenote Carwash,Tulum,Mexico,Caverna,20.2741663,87.4883593,
+210,40,43,141.07612,2014-02-09,El Bajo de la Quebrada,Acapulco,Mexico,Instruccion,16.84536,99.91701,
+211,30,12,39.37008,2014-02-11,La Virgen,Acapulco,Mexico,Instruccion,16.82477,99.9007,
+212,30,12,39.37008,2014-02-11,La Virgen,Acapulco,Mexico,Instruccion,16.82477,99.9007,
+213,35,12,39.37008,2014-02-11,Casa del Arabe,Acapulco,Mexico,Instruccion,16.82799,99.90856,
+214,45,15,49.2126,2014-02-13,Casa del Arabe,Acapulco,Mexico,Instruccion,16.827989,-99.908558,
+215,50,10,32.8084,2014-02-13,Palmitas,Acapulco,Mexico,Instruccion,16.8231253,99.9135194,
+216,47,10,32.8084,2014-06-11,El Ahogado,Veracruz Puerto,Mexico,Instruccion,19.1989,96.0995,
+217,35,16,52.49344,2014-06-11,El Ahogado,Veracruz Puerto,Mexico,Instruccion,19.1989,96.0995,
+218,40,17,55.77428,2014-06-11,El Ahogado,Veracruz Puerto,Mexico,Instruccion,19.1989,96.0995,
+219,40,16,52.49344,2014-06-12,El Ahogado,Veracruz Puerto,Mexico,Instruccion,19.1989,96.0995,
+220,35,16,52.49344,2014-06-14,Caleta de Chon,Veracruz Puerto,Mexico,Instruccion,19.2286,96.0992,
+221,25,35,114.8294,2014-07-11,Catedrales,Veracruz Puerto,Mexico,Deportivo,19.17642,96.09938,
+222,25,30,98.4252,2014-07-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+223,35,23,75.45932,2014-07-11,Veracruz Puerto,Veracruz Puerto,Mexico,Deportivo,19.1786,96.0991,
+224,40,10,32.8084,2014-07-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+225,38,15,49.2126,2014-07-11,El Ahogado,Veracruz Puerto,Mexico,Deportivo,19.1989,96.0995,
+226,40,15,49.2126,2014-07-13,Los Islotes,Veracruz Puerto,Mexico,Deportivo,19.1983,96.0993,
+227,20,37,121.39108,2014-12-11,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996,
+228,36,28,91.86352,2014-12-11,Pajaros,Veracruz Puerto,Mexico,Deportivo,19.2371,96.0996,
+229,58,18,59.05512,2014-12-11,Escalones,Mahahual,Mexico,Deportivo,18.71105,87.70121,
+230,57,15,49.2126,2014-12-11,Escalones,Mahahual,Mexico,Deportivo,18.71105,87.70121,
+231,,,,2015-04-05,Catarina Island,Catarina Island,Estados Unidos,Deportivo,33.395474,118.358711,
+232,,,,2015-04-05,Catarina Island,Catarina Island,Estados Unidos,Deportivo,33.390548,118.359569,
+233,,,,2015-04-05,Catarina Island,Catarina Island,Estados Unidos,Deportivo,33.390548,118.359569,
+234,40,10,32.8084,2017-07-09,El Jardin,Acapulco,Mexico,Deportivo,16.82289,99.90396,
+235,45,20,65.6168,2019-09-15,,Nusa Penida,Indonesia,Deportivo,-8.745687,-115.428837,
+236,40,12,39.37008,2019-09-15,,Nusa Penida,Indonesia,Deportivo,-8.745687,-115.428837,
+237,40,10,32.8084,2019-09-16,,Nusa Penida,Indonesia,Deportivo,-8.745687,-115.428837,
+238,50,15,49.2126,2023-06-23,Papgayo,Guanacaste,Costa Rica,Deportivo,10.682895,85.688806,
+239,55,12,39.37008,2023-06-23,Papgayo,Guanacaste,Costa Rica,Deportivo,10.682895,85.688806,
+240,32,32,104.98688,2023-06-24,The Big Scare,Bat Isalnds,Costa Rica,Deportivo,10.852354,85.931141,
+241,30,31,101.70604,2023-06-24,The Big Scare,Bat Isalnds,Costa Rica,Deportivo,10.852354,85.931141,
+242,43,35,114.8294,2026-03-13,Tuneles,Playa Larga,Cuba,Deportivo,22.277431,81.212384,
+243,53,25,82.021,2026-03-13,Tuneles,Playa Larga,Cuba,Deportivo,22.277431,81.212384,
+244,43,22,72.17848,2026-03-13,Arrecife,Playa Larga,Cuba,Nocturno,22.277431,81.212384,
