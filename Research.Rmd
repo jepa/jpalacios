@@ -152,7 +152,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <!-- Original article -->
 <a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s41586-023-06449-y" target="_blank">Full Paper</span></a>
 <!-- Press -->
-<!-- <a span class="label label-info" href= "" target="_blank">Reuters</span></a> -->
+<a span class="label label-info" href= "https://www.timescolonist.com/local-news/light-of-hope-bc-researchers-say-some-fish-surviving-heat-waves-better-than-once-thought-7493628" target="_blank">Times Colonist</span></a>
 <!-- Github -->
 <a span class="label label-warning" href= "https://github.com/afredston/marine_heatwaves_trawl" target="_blank"> Code </span></a>
 <!-- Data -->

@@ -49,7 +49,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 # 2. Relevant Scientific Publications
 
-*Total of 28 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 13, i10-index: 14, 1,227 citations.* **See Annex 2 for full list of publications**
+*Total of 28 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 13, i10-index: 15, 1,270 citations.* **See Annex 2 for full list of publications**
 
 <!-- OJO Harvard Bou style -->
 
@@ -106,7 +106,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 - Canada's Blue Economy Symposium (2022). Organized by NEXUS program and Memorial University of Newfoundland. St. John's, Canada. [*Invited*]
 
-# 6. Funding adquisition
+# 6. Funding acquisition
 
 *Contribute to 7 successful applications adding up to CAD $961,650 in funding.* **See Annex 6 for full list**
 
@@ -153,7 +153,7 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 - Crean base de metadatos de investigación marina en México (2017). Interview for CONACyT Prensa. Available at: http://www.cienciamx.com/index.php/ciencia/mundo-vivo/13008-crean-base-de- metadatos-de-investigacion-marina-en-mexico
 
-# 9. Referees
+<!-- # 9. Referees -->
 
 <!-- - Dr. María Isabel Studer Noguez, Executive Director for Mexico and Northern Central America of The Nature Conservancy. e-mail: isabel.studer@TNC.ORG -->
 
@@ -161,9 +161,9 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 <!-- - Dr. Laura F. Rodriguez, Associate Vice President, Latin America and Caribbean Oceans, Environmental Defense Fund. Tel. +1 (604) 822-0224. e-mail: lrodriguez@edf.org -->
 
-- Dr. U. Rashid Sumaila, Professor, Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver, Canada. Tel. +1 (604) 822-0224. e-mail: r.sumaila@oceans.ubc.ca
+<!-- - Dr. U. Rashid Sumaila, Professor, Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver, Canada. Tel. +1 (604) 822-0224. e-mail: r.sumaila@oceans.ubc.ca -->
 
-- Dr. William W.L. Cheung, Director, The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver Canada. Tel. +1 (604) 827-3756 e-mail: w.cheung@oceans.ubc.ca
+<!-- - Dr. William W.L. Cheung, Director, The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Vancouver Canada. Tel. +1 (604) 827-3756 e-mail: w.cheung@oceans.ubc.ca -->
 
 <!-- - Dr. Olaf Jensen, Associate Professor, Center for Limnology, University of Wisconsin - Madison, Hasler Laboratory of Limnology, 680 N. Park Street, Madison, WI 53706. Tel +1 608-262-3014. email: olaf.p.jensen@gmail.com -->
 
@@ -194,7 +194,7 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 - Internship (2015) Environmental Defense Fund, Mexico. Analyzed data and worked in the field to see if it was feasible to design a Territorial User Rights for Fisheries (TURF) to manage a high complex system in a bay of Sinaloa, Mexico.
 
-- Dive Center Co-Owner and instructor (2011-2015) Servicios Subacuáticos Medusa. Had diferent roles: Managed the financial aspects of the business. Coordinated over 30 diving trips both national and international. Instructed SCUBA classes. Managed the Store (sales and inventories).
+- Dive Center Co-Owner and instructor (2011-2015) Servicios Subacuáticos Medusa. Had different roles: Managed the financial aspects of the business. Coordinated over 30 diving trips both national and international. Instructed SCUBA classes. Managed the Store (sales and inventories).
 
 - Green Business Summit Coordinator (2013) Co-designed the agenda of the summit, managed invitations, coordinated a team of 4 people. Global Institute of Sustainability (GIS), Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM) and Arizona State University (ASU), Mexico City Campus.
 
@@ -269,24 +269,24 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 - Wabnitz, C. and **Palacios-Abrantes, J**. 2019. Contributing author of the transboundary resource management section of the International Dimensions Chapter for *NRCan's National Knowledge Assess- ment of Climate Change Impacts and Adaptation*. Available at https://changingclimate.ca/National- Issues/chapter/9-0/
 
 
-### 2.4. Work in Press or Under Review (R&R)
+<!-- ### 2.4. Work in Press or Under Review (R&R) -->
 
-*Note that any work in progress is not listed here*
+<!-- *Note that any work in progress is not listed here* -->
 
-- **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
+<!-- - **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]* -->
 
-- Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
+<!-- - Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]* -->
 
-- Fredston-Hermann *et al*. Marine heatwaves have not emerged as a dominant driver of ecological change [*In press*]
+<!-- - Fredston-Hermann *et al*. Marine heatwaves have not emerged as a dominant driver of ecological change [*In press*] -->
 
-- Cheung W., Palacios-Abrantes J., Roberts S. Projecting contributions of marine protected areas to
-rebuild fish stocks under climate change [*R&R*]
+<!-- - Cheung W., Palacios-Abrantes J., Roberts S. Projecting contributions of marine protected areas to -->
+<!-- rebuild fish stocks under climate change [*R&R*] -->
 
-- Maureaud A., et al. FishGlob_data: an integrated database of fish biodiversity sampled with scientific
-bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/download
+<!-- - Maureaud A., et al. FishGlob_data: an integrated database of fish biodiversity sampled with scientific -->
+<!-- bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/download -->
 
-- Maureaud A., et al. FISHGLOB: a collaborative infrastructure for marine science and management
-[*R&R*] Preprint available at: https://osf.io/mh46b/
+<!-- - Maureaud A., et al. FISHGLOB: a collaborative infrastructure for marine science and management -->
+<!-- [*R&R*] Preprint available at: https://osf.io/mh46b/ -->
 
 ## Annex 3. Teaching Experience and Mentoring
 
@@ -383,7 +383,7 @@ bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/downlo
 
 - Deep-sea blue-economy workshop (2023). Workshop Organized by the National Geographic Society and in partnership with SpeSeas, the Nippon Foundation-University of Edinburgh Ocean Voices Programme, the Benioff Ocean Science Laboratory, and the Deep-Ocean Stewardship Initiative. Saint Vincent and the Grenadines [*Partially-fully funded by organizers*]
 
-- New Species Distributions Under Climate Change (2023). Workshop Organized by Environmental Defense Fund and Lenfest Ocean Programm. Seattle, WA, USA [*Partially-fully funded by organizers*]
+- New Species Distributions Under Climate Change (2023). Workshop Organized by Environmental Defense Fund and Lenfest Ocean Program. Seattle, WA, USA [*Partially-fully funded by organizers*]
 
 - FishMIP workshop on climate change modelling groups (2023). Organized by NOAA's National Ecosystem Modeling Workshop (NEMoW) and FishMIP. Honolulu, HI, USA [*Partially-fully funded by organizers*]
 
@@ -419,7 +419,7 @@ Columbia, Canada. [*Fully funded by organizers*]
 
 - IPBES Future Nature Scenarios Workshop (2019). Organized by the University of British Columbia (UBC) and the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES); Vancouver, British Columbia, Canada. [*Co-organized*]
 
-## Annex 6. Funding Adquisition
+## Annex 6. Funding Acquisition
 
 ### 6.1. Projects funded
 
@@ -459,7 +459,7 @@ $15,000]
 
 ## Annex 7. Community Service
 
-### 7.1. Scientific Comittees
+### 7.1. Scientific Committees
 
 - Fresh Eyes on CMIP, Data Access subgroup (2023-2024). Role *Member of Committee*. More information available at: https://wcrp-cmip.org/fresh-eyes-on-cmip/
 
@@ -531,6 +531,7 @@ ocean-management/
 
 - Ecography, 2023
 - Ecosystems and People, 2020
+- FACETS, 2023
 - Fish and Fisheries, 2020
 - Global Change Biology, 2022
 - Helion, 2023
@@ -595,19 +596,19 @@ Here is a list of illustrations featuring my work, note that not all of them wer
 - [Graphic summary for Palacios-Abrantes et al., 2020 ](https://github.com/jepa/EmergingFish/blob/master/Figures/Fig00.png?raw=true){target="_blank"}
 
 
-## Annex 9. Other Experience
+<!-- ## Annex 9. Other Experience -->
 
-- Languages: Portuguese, Spanish, and English (fluent in speaking, reading and writing)
+<!-- - Languages: Portuguese, Spanish, and English (fluent in speaking, reading and writing) -->
 
-- Computer: Microsoft Offce, R-Studio (advanced), GitHub (intermediate), data synthesis and analysis, spatial geographic information system (GIS) analysis, data visualization. General understanding of computer languages. Please refer to my Github webpage for verification of my coding skills; https://github.com/jepa
+<!-- - Computer: Microsoft Offce, R-Studio (advanced), GitHub (intermediate), data synthesis and analysis, spatial geographic information system (GIS) analysis, data visualization. General understanding of computer languages. Please refer to my Github webpage for verification of my coding skills; https://github.com/jepa -->
 
-- Photography. Worked as a photographer for different projects on the graphic studio, C. Newton, México, City, México. (September 2007-December 2008).
+<!-- - Photography. Worked as a photographer for different projects on the graphic studio, C. Newton, México, City, México. (September 2007-December 2008). -->
 
-- Non-Professional Advanced Diving Credentials
+<!-- - Non-Professional Advanced Diving Credentials -->
 
-  - Advanced Dive Instructor (SDI/TDI) (March 2012 – June 2014)
-  - Basic Dive Instructor (CMAS/FMAS) (March 2011 – March 2015) – Basic and Advanced NITORX diver (SDI/TDI)
-  - Advanced Diver, (CMAS/FMAS)
-  - Basic Diver, (CMAS/FMAS)
-  - Scientific Diver, (SDI/TDI)
+<!--   - Advanced Dive Instructor (SDI/TDI) (March 2012 – June 2014) -->
+<!--   - Basic Dive Instructor (CMAS/FMAS) (March 2011 – March 2015) – Basic and Advanced NITORX diver (SDI/TDI) -->
+<!--   - Advanced Diver, (CMAS/FMAS) -->
+<!--   - Basic Diver, (CMAS/FMAS) -->
+<!--   - Scientific Diver, (SDI/TDI) -->
   - Cave I Diver, (CMAS/FMAS)
