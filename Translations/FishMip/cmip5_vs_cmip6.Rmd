@@ -13,18 +13,15 @@ output:
     toc: no
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105699898-4');
+  gtag('config', 'G-HG1RRBT88J');
 </script>
-
-</center>
 
 
 - **NOTA: esta es una traducción al español del artículo:** *Next-generation ensemble projections reveal higher climate risks for marine ecosystems*, escrito por Derek P. Tittensor, Camilla Novaglio, Cheryl S. Harrison, Ryan F. Heneghan, *et al.*, y que se puede encontrar en la siguiente [liga](https://www.nature.com/articles/s41558-021-01173-9).

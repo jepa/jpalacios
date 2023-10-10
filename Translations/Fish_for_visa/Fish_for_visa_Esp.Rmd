@@ -12,22 +12,19 @@ output:
     toc: yes
     toc_float: yes
   '# pdf_document': default
-csl: ../../../FishForVisa/References/nature_cc.csl
-bibliography: ../../../FishForVisa/References/FishForVisa_Ref.bib
+csl: ../../References/Styles/nature_cc.csl
+bibliography: ../../References/FishForVisa/FishForVisa_Ref.bib
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105699898-4');
+  gtag('config', 'G-HG1RRBT88J');
 </script>
-
-</center>
 
 
 - **NOTA: esta es una traducción al español del artículo:** *The transboundary nature of the world’s exploited marine species*, escrito por Juliano Palacios-Abrantes, Gabriel Reygondeau, Colette C.C. Wabnitz y William W.L. Cheung  y que se puede encontrar en la siguiente [liga](https://www.nature.com/articles/s41598-020-74644-2). No cuenta con la sección de métodos traducida. 
@@ -71,7 +68,7 @@ Es frecuente que los límites espaciales de las herramientas de manejo ambiental
 
 <center>
 
-<img src="../../Projects/Projects_Images/Transboundary.png">
+<img src="../../Images/Infographics/FishForVisa.png">
 
 **Número de especies transfronterizas y su contribución a las capturas nacionales.**  
 **DOI: 10.1038/s41598-020-74644-2**

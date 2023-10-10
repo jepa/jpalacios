@@ -12,18 +12,15 @@ output:
     # pdf_document: default
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105699898-4');
+  gtag('config', 'G-HG1RRBT88J');
 </script>
-
-<!-- </center> -->
 
 
 - **NOTA: esta es una traducción al español del artículo:** *Shifting seas, shifting boundaries: Dynamic marine protected area designs for a changing climate*, escrito por Tim Cashion, Tu Nguyen, Talya ten Brink, Anne Mook, Juliano Palacios-Abrantes, Sarah M. Roberts y que se puede encontrar en la siguiente [liga](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241771).
@@ -67,10 +64,7 @@ Las áreas marinas protegidas (AMP) son herramientas valiosas para la conservaci
 
 <center>
 
-<img src="../../Infographics/ShiftingMpa.png">
-
-
-<!-- **Mapa conceptual de los métodos utilizados para este estudio (Ver [Figura 1](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0241771.g001) para la descripción completa de la figura).**   -->
+<img src="../../Images/Translations/shifting_mpa.png">
 
 
 </center>

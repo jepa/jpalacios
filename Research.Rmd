@@ -7,14 +7,14 @@ output:
     theme: "yeti"
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105699898-4"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105699898-4');
+  gtag('config', 'G-HG1RRBT88J');
 </script>
 
 <img src="Images/Projects/lat_am_pesca.jpeg" width="800px">
@@ -40,7 +40,7 @@ output:
 
 ----
 
-## Main Projects 
+## Main Research Lines 
 
 <!-- PescadoLatino  -->
 <!-- <a href="Projects/PescadoLatino.html"> -->
