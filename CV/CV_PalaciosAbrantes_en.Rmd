@@ -49,13 +49,9 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 # 2. Relevant Scientific Publications
 
-*Total of 28 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 13, i10-index: 16, 1,336 citations.* **See Annex 2 for full list of publications**
+*Total of 28 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 14, i10-index: 16, 1,402 citations.* **See Annex 2 for full list of publications**
 
 <!-- OJO Harvard Bou style -->
-
-- **Palacios-Abrantes, J.**, Badhe, R., Bamford, A., Cheung, W.W.L., Foden, W., Santos, C.F., Grey, K.-A., Kühn, N., Maciejewski, K., McGhie, H., Midgley, G.F., Smit, I.P.J. and Pereira, L.M. 2022. Managing biodiversity in the Anthropocene: discussing the Nature Futures Framework as a tool for adaptive decision-making for nature under climate change, *Sustainability Science*, pp. 1–17.
-
-- Pereira, L.M., Crespo, G.O., Amon, D.J., Badhe, R., Bandeira, S., Bengtsson, F., Boettcher, M., Carmine, G., Cheung, W.W.L., Chibwe, B., Dunn, D., Gasalla, M.A., Halouani, G., Johnson, D.E., Jouffray, J.-B., Juri, S., Keys, P.W., Lübker, H.M., Merrie, A.S., Obaidullah, F., **Palacios-Abrantes, J.**, Shannon, L.J., Sumaila, U.R., Superchi, E., Terry, N., Wabnitz, C.C.C., Yasuhara, M., Zhou, W., 2023. The living infinite: Envisioning futures for transformed human-nature relationships on the high seas. *Marine Policy* 153, 105644.
 
 - **Palacios-Abrantes, J.,** Roberts, S.M., Brink, T. ten, Cashion, T., Cheung, W.W.L., Mook, A., Nguyen, T., 2023. Incorporating protected areas into global fish biomass projections under climate change. *FACETS* 8, 1–16.
 
@@ -63,17 +59,19 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 - **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world's exploited marine species. *Scientific Reports*, 10 (1), 415–12.
 
+- Spalding, A. K., Grorud-Colvert, K., Allison, E. H., Amon, D. J., Collin, R., Vos, A. de, Friedlander, A. M., Johnson, S. M., Mayorga, J., Paris, C. B., Scott, C., Suman, D. O., Cisneros-Montemayor, A. M., Estradivari, Giron-Nava, A., Gurney, G. G., Harris, J. M., Hicks, C., Mangubhai, S., Micheli, F., Naggea, J., Obura, D., **Palacios-Abrantes, J.**, Pouponneau, A. and Thurber, R. V., 2023. Engaging the tropical majority to make ocean governance and science more equitable and effective. *npj Ocean Sustainability*, 2 (1), 8.
+
+- Fredston, A. L., Cheung, W. W. L., Frölicher, T. L., Kitchel, Z. J., Maureaud, A. A., Thorson, J. T., Auber, A., Mérigot, B., **Palacios-Abrantes, J**., Palomares, M. L. D., Pecuchet, L., Shackell, N. L. and Pinsky, M. L., 2023. Marine heatwaves are not a dominant driver of change in demersal fishes. *Nature*, 1–6.
+
 # 3. Teaching Experience and Mentoring
 
 *Imparted several curses and guess lectures over the last 10 years in topics related to fisheries management, climate change, and data analysis and computed modelling.* **See Annex 3 for full list**
 
-- Transboundary fisheries management under Climate Change (2023). Guest lecture on Sustainable Development class for Simon Fraser University 4th year class lead by Dr. Andres Cisneros-Montemayor
+- Fisheries management under a changing climate. Guest lecture on climate change and fisheries for University of Victoria 4th year class lead by Dr. Julia K. Baum (2024, 2023)
 
-- Fundamentals of data analysis for social-ecological research (2019). Created the curricula, material and imparted the course for graduate students of the University of Vigo.
+- Introduction to fisheries management. Guest lecture on EOSC 478 Introduction to Fisheries Science of the University of British Columbia lead by Yevhenii Pakhomov (2023, 2022)
 
-- Land Food and Community: Quantitative Data Analysis (2018). Faculty of Land and Food Systems, University of British Columbia
-
-<!-- - Thesis co-direction for a bachelor's degree in biology. González, L.M. (2013). Macronutrientes de cefalopodos de importancia comercial en México, Universidad Nacional Autónoma de México. -->
+- Mentoring of 7 undergrad students from The University of British Columbia (2021-2022) through the Biology Undergraduate Diversity in Research Program (BUDR), a program designed to support students from historically marginalized and disenfranchised backgrounds.
 
 # 4. Invited Seminars
 
@@ -89,16 +87,13 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 *Participated in 28 international academic events including 15 conferences and 13 workshops from which I co-organized 3.* **See Annex 5 for full list**
 
-- IPBES Future Nature Scenarios Workshop (2019). Part of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) scenario task force. Organized at the Species on the Move conference, Skukuza, South Africa. [*Co-organized*]
-
-- IPBES Future Nature Scenarios Workshop (2019). Organized by the University of British Columbia (UBC) and the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES); Vancouver, British Columbia, Canada. [*Co-organized*]
-
-- High Seas Nature Futures Framework (NFF) workshop (2021). Organized by the Stockholm Resilience Centre, Stockholm University. Cape Town, South Africa. [*Fully funded by organizers*]
-
 - Managing Fisheries in a World of Shifting Stocks: Integrating Biological, Policy, Behavioural, Social and Economic Aspects. Session on the World Fisheries Congress 3-9 of March of 2024 [*Co-Organizer*]
 
-- Future High Seas Governance Workshop (2018). Organized by the University of British Columbia (UBC) and the International Institute for Environment and Development (IIED). Vancouver, British
-Columbia, Canada. [*Fully funded by organizers*]
+- Transboundary fish stocks challenges under climate change. Species on The Move Conference, Florida, US (2023)
+
+- C2-BioME: Climate change & Biodiversity in Marine Ecosystems (2023). Workshop organized by Conservation International. Boston, US. [*Fully funded by organizers*]
+
+- Deep-sea blue-economy workshop (2023). Workshop Organized by the National Geographic Society and in partnership with SpeSeas, the Nippon Foundation-University of Edinburgh Ocean Voices Programme, the Benioff Ocean Science Laboratory, and the Deep-Ocean Stewardship Initiative. Saint Vincent and the Grenadines [*Fully funded by organizers*]
 
 # 6. Funding acquisition
 
@@ -140,6 +135,8 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 *Engaged in over 20 events including interviews for news outlets and radio, co-elaboration of press releases and non-scientific documents as well as talks in both Spanish and English.* **See Annex 8 for full list of engagement activities***
 
+- 'Light of hope': B.C. researchers say some fish surviving heat waves better than once thought (2023). Interview for The Times Colonist. Available at: https://www.timescolonist.com/local-news/light-of-hope-bc-researchers-say-some-fish-surviving-heat-waves-better-than-once-thought-7493628){target="_blank"}
+
 - Global fish stocks can't rebuild if nothing done to halt climate change and overfishing, new study suggests (2022). Interview for UBC press. Available at: https://news.ubc.ca/2022/09/01/global-fish- stocks-cant-rebuild-climate-change-overfishing/
 
 - Managing fish stocks shared by nations must focus on the impacts of climate change (2022). The Conversation Canada. Available at: https://theconversation.com/managing-fish-stocks-shared-by- nations-must-focus-on-the-impacts-of-climate-change-181828
@@ -164,11 +161,20 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 <!-- - Dr. Olaf Jensen, Associate Professor, Center for Limnology, University of Wisconsin - Madison, Hasler Laboratory of Limnology, 680 N. Park Street, Madison, WI 53706. Tel +1 608-262-3014. email: olaf.p.jensen@gmail.com -->
 
+
+\center
+
+--- 
+
 # Annex
+
+\flushleft
 
 ## Annex 1. Professional Experience
 
 ### 1.1. Professional Research
+
+- Northern Shelf Bioregion MPAs and climate change (2023-2024). Project commissioned by The Canadian Parks and Wilderness Society (CPAWS) in partnership with the University of British Columbia (UBC) lead by Dr. Colette Wabnitz. Role: *Data analysis*
 
 - The McGovern Mexican project lead by Flavio Favoretto (2022-2023). Project supported by Patrick J. McGovern Foundation. Role: *Data analysis*
 
@@ -266,24 +272,28 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 - Wabnitz, C. and **Palacios-Abrantes, J**. 2019. Contributing author of the transboundary resource management section of the International Dimensions Chapter for *NRCan's National Knowledge Assess- ment of Climate Change Impacts and Adaptation*. Available at https://changingclimate.ca/National- Issues/chapter/9-0/
 
 
-<!-- ### 2.4. Work in Press or Under Review (R&R) -->
+### 2.4. Work in Press or Under Review (R&R)
 
-<!-- *Note that any work in progress is not listed here* -->
+*Note that any work in progress is not listed here*
 
-<!-- - **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]* -->
+- **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
 
-<!-- - Steiner, N. *et. al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]* -->
+- Steiner, N. *et al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
 
-<!-- - Fredston-Hermann *et al*. Marine heatwaves have not emerged as a dominant driver of ecological change [*In press*] -->
+- Cheung W., **Palacios-Abrantes J.**, Roberts S. Projecting contributions of marine protected areas to
+rebuild fish stocks under climate change [*R&R*]
 
-<!-- - Cheung W., Palacios-Abrantes J., Roberts S. Projecting contributions of marine protected areas to -->
-<!-- rebuild fish stocks under climate change [*R&R*] -->
+- Maureaud A., *et al*. FishGlob_data: an integrated database of fish biodiversity sampled with scientific
+bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/download
 
-<!-- - Maureaud A., et al. FishGlob_data: an integrated database of fish biodiversity sampled with scientific -->
-<!-- bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/download -->
+- Maureaud A., et al. FISHGLOB: a collaborative infrastructure for marine science and management
+[*R&R*]. Preprint available at: https://osf.io/mh46b/
 
-<!-- - Maureaud A., et al. FISHGLOB: a collaborative infrastructure for marine science and management -->
-<!-- [*R&R*] Preprint available at: https://osf.io/mh46b/ -->
+- Amon D., *et al.* Assessing the Ecological Significance of the Clarion-Clipperton Zone, Pacific Ocean [*R&R*]
+
+- Mason J., Bryndum-Buchholz A., **Palacios-Abrantes J.** *et al.* Key uncertainties and modeling needs for managing living marine resources in the future Arctic [*R&R*]
+
+- Blanchard J., *et al.* Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0 [*R&R*]
 
 ## Annex 3. Teaching Experience and Mentoring
 
@@ -301,41 +311,43 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 ### 3.2. Guest lecturers
 
+- Fisheries management under a changing climate. Guest lecture on climate change and fisheries for University of Victoria 4th year class lead by Dr. Julia K. Baum (2024, 2023)
+
 - Introduction to fisheries management. Guest lecture on EOSC 478 Introduction to Fisheries Science of the University of British Columbia lead by Yevhenii Pakhomov (2023, 2022)
 
 - Transboundary fisheries management under Climate Change. Guest lecture on Sustainable Development class for Simon Fraser University 4th year class lead by Dr. Andres Cisneros-Montemayor (2023)
 
-- Fisheries management under a changing climate. Guest lecture on climate change and fisheries for University of Victoria 4th year class lead by Dr. Julia K. Baum (2023)
-
 ### 3.3. Mentoring
 
-- Mentoring of 6 undergrad students from The University of British Columbia (2021-2022) through the Biology Undergraduate Diversity in Research Program (BUDR), a program designed to support students from historically marginalized and disenfranchised backgrounds.
+- Mentoring of 7 undergrad students from The University of British Columbia (2021-2022) through the Biology Undergraduate Diversity in Research Program (BUDR), a program designed to support students from historically marginalized and disenfranchised backgrounds.
 
 - Thesis co-direction for a bachelor's degree in biology. González, L.M. (2013). Macronutrientes de cefalopodos de importancia comercial en México, Universidad Nacional Autónoma de México.
 
 ## Annex 4. Invited Seminars
 
-- Using modelling to inform transboundary fisheries management under climate change. Invited speaker at Workshop 4 (A global ensemble of comparable marine ecosystem models to project climate risk to species and human communities) of the Effects of Climate Change on the World's Oceans meeting (ECCWO), to be held in Bergen Norway (April 2023). 
+- Climate change effects on deep-sea blue-economy. Invited speaker at Deep-Sea Blue Economy Workshop in Saint Vincent and the Grenadines (2023)
 
-- Marine fishes do not need visas: managing shared fish stocks in a changing world. Invited speaker at the NWFSC Monster Jam Seminar Series (March 2023)
+- Using modelling to inform transboundary fisheries management under climate change. Invited speaker at Workshop 4 (A global ensemble of comparable marine ecosystem models to project climate risk to species and human communities) of the Effects of Climate Change on the World's Oceans meeting (ECCWO), to be held in Bergen Norway (2023)
 
-- An overview of Canada's changing oceans. Blue Economy Symposium, St. John's, Newfoundland, Canada (June 2023)
+- Marine fishes do not need visas: managing shared fish stocks in a changing world. Invited speaker at the NWFSC Monster Jam Seminar Series (2023)
 
-- Challenges of managing transboundary stocks on the move. Seminar Series, Center for Limnology, University of Wisconsin-Madison, United States (October, 2021)
+- An overview of Canada's changing oceans. Blue Economy Symposium, St. John's, Newfoundland, Canada (2023)
 
-- Límites dinámicos como herramientas para la protección marina en océanos cambiantes. Webinarios del Laboratorio Nacional de Resiliencia Costera, México (September 2021). Available at: https://www.facebook.com/LANRESC/videos/4140220856092892
+- Challenges of managing transboundary stocks on the move. Seminar Series, Center for Limnology, University of Wisconsin-Madison, United States (2021)
 
-- New Research to Adaptive Allocation for Transboundary Fish Stocks. Lenfest Ocean Program (May, 2021). Available at: https://www.lenfestocean.org/news-and-publications/multimedia/webinar-on-new-research-to-adaptive-allocation-for-transboundary-fish-stocks
+- Límites dinámicos como herramientas para la protección marina en océanos cambiantes. Webinarios del Laboratorio Nacional de Resiliencia Costera, México (2021). Available at: https://www.facebook.com/LANRESC/videos/4140220856092892
 
-- Marine fish do not need visas: Transboundary fisheries management under climate change. Seminar Series, Marine Institute, School of Fisheries, Memorial University, Canada (March, 2021).
+- New Research to Adaptive Allocation for Transboundary Fish Stocks. Lenfest Ocean Program (2021). Available at: https://www.lenfestocean.org/news-and-publications/multimedia/webinar-on-new-research-to-adaptive-allocation-for-transboundary-fish-stocks
 
-- Shifting MPAs for conservation and fisheries under a changing climate. Open Channel Webinar Series, Octo group (March, 2021). Available at: https://www.openchannels.org/webinars/2021/shifting-mpas-conservation-and-fisheries-under-changing-climate
+- Marine fish do not need visas: Transboundary fisheries management under climate change. Seminar Series, Marine Institute, School of Fisheries, Memorial University, Canada (2021)
 
-- Efectos del cambio climático en el manejo de especies transfronterisas. Centro Austral de Investigaciones Científicas (CADIC-CONICET), Ushuaia, Argentina (January, 2020).
+- Shifting MPAs for conservation and fisheries under a changing climate. Open Channel Webinar Series, Octo group (2021). Available at: https://www.openchannels.org/webinars/2021/shifting-mpas-conservation-and-fisheries-under-changing-climate
 
-- Marine governance in the anthropocene: Lessons from South Africa and Latin America. Center for Complex Systems Transition, Stellenbosch Institute for Advanced Study, Mosterdrif, Stellenbosch, South Africa (July, 2019).
+- Efectos del cambio climático en el manejo de especies transfronterisas. Centro Austral de Investigaciones Científicas (CADIC-CONICET), Ushuaia, Argentina (2020)
 
-- Building capacity for fisheries management under climate change in Latin America. Weekly seminars. The United Nations Environment World Conservation Monitoring Center (UN-WCMC), Cambridge, UK. (August, 2017)
+- Marine governance in the anthropocene: Lessons from South Africa and Latin America. Center for Complex Systems Transition, Stellenbosch Institute for Advanced Study, Mosterdrif, Stellenbosch, South Africa (2019)
+
+- Building capacity for fisheries management under climate change in Latin America. Weekly seminars. The United Nations Environment World Conservation Monitoring Center (UN-WCMC), Cambridge, UK. (2017)
 
 - Hacia la creación de una base de metadatos de investigación marina en México. Multiple talks in 2017 and 2018 including Unidad Académica Sisal del Instituto de Ciencias del mar y Limnología de la Universidad Nacional Autónoma de México, Sisal, Yucatán; El Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, Mérida, Yucatán; Centro Interdisciplinario de Ciencias Marinas del Instituto Politécnico Nacional, La Paz, México and Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California Norte, México, among others.
 
@@ -345,7 +357,7 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 - Transboundary fish stocks challenges under climate change. Species on The Move Conference, Florida, US (2023)
 
-- Marine Protected Areas Can Reduce Regional Losses to Fisheries Under Climate Change. ECCWO5 conference, Bergen Norway (2023).
+- Marine Protected Areas Can Reduce Regional Losses to Fisheries Under Climate Change. ECCWO5 conference, Bergen Norway (2023)
 
 - Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. ICES/PICES Early Career Conference, St. John's NL, Canada (2022)
 
@@ -378,11 +390,11 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 - C2-BioME: Climate change & Biodiversity in Marine Ecosystems (2023). Workshop organized by Conservation International. Boston, US. [*Fully funded by organizers*]
 
-- Deep-sea blue-economy workshop (2023). Workshop Organized by the National Geographic Society and in partnership with SpeSeas, the Nippon Foundation-University of Edinburgh Ocean Voices Programme, the Benioff Ocean Science Laboratory, and the Deep-Ocean Stewardship Initiative. Saint Vincent and the Grenadines [*Partially-fully funded by organizers*]
+- Deep-sea blue-economy workshop (2023). Workshop Organized by the National Geographic Society and in partnership with SpeSeas, the Nippon Foundation-University of Edinburgh Ocean Voices Programme, the Benioff Ocean Science Laboratory, and the Deep-Ocean Stewardship Initiative. Saint Vincent and the Grenadines [*Fully funded by organizers*]
 
-- New Species Distributions Under Climate Change (2023). Workshop Organized by Environmental Defense Fund and Lenfest Ocean Program. Seattle, WA, USA [*Partially-fully funded by organizers*]
+- New Species Distributions Under Climate Change (2023). Workshop Organized by Environmental Defense Fund and Lenfest Ocean Program. Seattle, WA, USA [*Fully funded by organizers*]
 
-- FishMIP workshop on climate change modelling groups (2023). Organized by NOAA's National Ecosystem Modeling Workshop (NEMoW) and FishMIP. Honolulu, HI, USA [*Partially-fully funded by organizers*]
+- FishMIP workshop on climate change modelling groups (2023). Organized by NOAA's National Ecosystem Modeling Workshop (NEMoW) and FishMIP. Honolulu, HI, USA [*Fully funded by organizers*]
 
 - Workshop on climate change impacts on sustainable seafood (2022). Workshop organized by Marine Stewardship Council (MSC) and the United Nations Food and Agricultural organization (FAO). Rome, Italy. [*Co-funded by FAO and MSC*]
 
@@ -528,7 +540,7 @@ ocean-management/
 
 - Ecography, 2023
 - Ecosystems and People, 2020
-- FACETS, 2023
+- FACETS, 2022, 2023
 - Fish and Fisheries, 2020
 - Frontiers of Marine Science, 2021
 - Global Change Biology, 2022
@@ -543,6 +555,8 @@ ocean-management/
 
 ### 8.1 Written interviews
 
+- The Times Colonist - ['Light of hope': B.C. researchers say some fish surviving heat waves better than once thought](https://www.timescolonist.com/local-news/light-of-hope-bc-researchers-say-some-fish-surviving-heat-waves-better-than-once-thought-7493628){target="_blank"}
+- University of British Columbia - [Fish buffered from recent marine heatwaves, showing there’s still time to act on climate change](https://news.ubc.ca/2023/08/30/fish-buffered-from-recent-marine-heatwaves/){target="_blank"}
 - University of British Columbia - [In climate change talks and development goals, the tropical majority must be recognized and respected](https://oceans.ubc.ca/2023/07/28/in-climate-change-talks-and-development-goals-the-tropical-majority-must-be-recognized-and-respected/){target="_blank"}
 - University of British Columbia - [Climate change to drive increasing overlap between Pacific tuna fisheries image001.jpgand emerging deep-sea mining industry](https://oceans.ubc.ca/2023/07/27/climate-change-to-drive-increasing-overlap-between-pacific-tuna-fisheries-and-emerging-deep-sea-mining-industry/){target="_blank"}
 - Inside Climate News - [As an Obscure United Nations Gathering Deliberates the Fate of Deep-Sea Mining, the Tuna Industry Calls for a Halt](https://insideclimatenews.org/news/11072023/tuna-deep-sea-mining/){target="_blank"}
@@ -560,7 +574,6 @@ ocean-management/
 - Washington Post - [Climate change is moving fish around faster than laws can handle study says](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603){target="_blank"}
 - University of British Columbia - [Understanding the data about data how metadatabases could improve Mexico's ocean management](http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/){target="_blank"}
 - Oceans Deeply - [Tear down that paywall, the movement to make ocean research free for all](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all){target="_blank"}
-
 - El Espectador Colombia - [¿Se avecina el primer proyecto de minería en el mar?](https://www.elespectador.com/ambiente/se-avecina-el-primer-proyecto-de-mineria-en-el-mar/)
 
 - CONACyT Prensa  México- [¿Cómo afectará el cambio climático las pesquerías del mundo?](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
@@ -570,6 +583,8 @@ ocean-management/
 - CONACYT Prensa México - [Crean base de metadatos de investigacion marina en México](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
 
 ### 8.2 On the Radio
+
+-  Jill Bennett Show (CKNW) - [Marine heatwaves affecting demersal fish](https://globalnews.ca/bc/program/the-jill-bennett-show)
 
 - Quirks and Quarks with Bob McDonald (CBC) - [Climate change could spark fish wars around the globe](https://www.cbc.ca/listen/live-radio/1-51/clip/15893391){target="_blank"}
 
