@@ -49,7 +49,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 # 2. Relevant Scientific Publications
 
-*Total of 28 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 14, i10-index: 16, 1,402 citations.* **See Annex 2 for full list of publications**
+*Total of 29 scientific publications including 1 book chapter and 1 contributing author section. GoogleScholar h-index: 14, i10-index: 16, 1,467 citations.* **See Annex 2 for full list of publications**
 
 <!-- OJO Harvard Bou style -->
 
@@ -193,7 +193,7 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 - TURF Legal Framework Analysis. (2015) Reviewed and analyzed the legal framework of Territorial Rights Use for Fisheries (TURFs) of Brazil, Chile and Spain. A report commissioned by Environmental Defense Fund, Mexico. 9 pp. Role: *Principal investigator*
 
-### 1.2 Other Relevant Work
+### 1.2. Other Relevant Work
 
 - Internship (2015) Environmental Defense Fund, Mexico. Analyzed data and worked in the field to see if it was feasible to design a Territorial User Rights for Fisheries (TURF) to manage a high complex system in a bay of Sinaloa, Mexico.
 
@@ -212,6 +212,8 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 - **Palacios-Abrantes, J.,** Roberts, S.M., Brink, T. ten, Cashion, T., Cheung, W.W.L., Mook, A., Nguyen, T., 2023. Incorporating protected areas into global fish biomass projections under climate change. *FACETS* 8, 1–16.
 
 - Amon, D. J., **Palacios-Abrantes, J.**, Drazen, J. C., Lily, H., Nathan, N., Grient, J. M. A. van der and McCauley, D., 2023. Climate change to drive increasing overlap between Pacific tuna fisheries and emerging deep-sea mining industry. *npj Ocean Sustainability*, 2 (1), 9.
+
+- Maureaud, A. A., **Palacios-Abrantes, J.**, Kitchel, Z., Mannocci, L., Pinsky, M. L., Fredston, A., Beukhof, E., Forrest, D. L., Frelat, R., Palomares, M. L. D., Pecuchet, L., Thorson, J. T., Denderen, P. D. van and Mérigot, B., 2024. FISHGLOB_data: an integrated dataset of fish biodiversity sampled with scientific bottom-trawl surveys. *Scientific Data*, 11 (1), 24.
 
 - Spalding, A. K., Grorud-Colvert, K., Allison, E. H., Amon, D. J., Collin, R., Vos, A. de, Friedlander, A. M., Johnson, S. M., Mayorga, J., Paris, C. B., Scott, C., Suman, D. O., Cisneros-Montemayor, A. M., Estradivari, Giron-Nava, A., Gurney, G. G., Harris, J. M., Hicks, C., Mangubhai, S., Micheli, F., Naggea, J., Obura, D., **Palacios-Abrantes, J.**, Pouponneau, A. and Thurber, R. V., 2023. Engaging the tropical majority to make ocean governance and science more equitable and effective. *npj Ocean Sustainability*, 2 (1), 8.
 
@@ -283,9 +285,6 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 - Cheung W., **Palacios-Abrantes J.**, Roberts S. Projecting contributions of marine protected areas to
 rebuild fish stocks under climate change [*R&R*]
 
-- Maureaud A., *et al*. FishGlob_data: an integrated database of fish biodiversity sampled with scientific
-bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/download
-
 - Maureaud A., et al. FISHGLOB: a collaborative infrastructure for marine science and management
 [*R&R*]. Preprint available at: https://osf.io/mh46b/
 
@@ -294,6 +293,8 @@ bottom trawl surveys [*R&R*]. Preprint available at: https://osf.io/2bcjw/downlo
 - Mason J., Bryndum-Buchholz A., **Palacios-Abrantes J.** *et al.* Key uncertainties and modeling needs for managing living marine resources in the future Arctic [*R&R*]
 
 - Blanchard J., *et al.* Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0 [*R&R*]
+
+- Cappa V., *et al.*  Climate change undermines seafood micronutrient supply in Southeast Asia and Pacific Island countries [*R&R*]
 
 ## Annex 3. Teaching Experience and Mentoring
 
@@ -432,6 +433,8 @@ Columbia, Canada. [*Fully funded by organizers*]
 
 ### 6.1. Projects funded
 
+- Funding to work on marine extremes impacts to blue food security (2024). Project funded by the *Walton Family Foundation* in parthership with the *World Wildlife Fund* [CAD $94,000].
+
 - The potential for transboundary marine protected areas to build climate-resilience for biodiversity conservation and fisheries sustainability in the Eastern Tropical Pacific Ocean (2023-2025). Project funded by *Lenfest Ocean Program*. Role: *Co-applicant* [CAD $528,500]
 
 - Projecting the impacts of changing species biogeography on Marine Protected Areas in the Canadian Arctic (2022-2025). Project funded by DFO. Role: *Co-applicant* [CAD $273,000]
@@ -447,10 +450,7 @@ Columbia, Canada. [*Fully funded by organizers*]
 - Impactos potenciales del cambio climático en las pesquerías mexicanas: Consideraciones para su manejo (2017-2018). Project funded by *Environmental Defense Fund de México*. Role: *Co-applicant*. [CAD
 $15,000]
 
-<!-- ### 6.2. Projects Under Evaluation -->
-
-
-### 6.3. Awards
+### 6.2. Awards
 
 - PDF Travel Awards competition (2023). Awarded by the University of British Columbia Faculty of Science of attending the Effects of Climate Change on the World's Oceans in Bergen, Norway.
 
@@ -617,11 +617,11 @@ Here is a list of illustrations featuring my work, note that not all of them wer
 
 <!-- - Photography. Worked as a photographer for different projects on the graphic studio, C. Newton, México, City, México. (September 2007-December 2008). -->
 
-<!-- - Non-Professional Advanced Diving Credentials -->
+- Non-Professional Advanced Diving Credentials
 
-<!--   - Advanced Dive Instructor (SDI/TDI) (March 2012 – June 2014) -->
-<!--   - Basic Dive Instructor (CMAS/FMAS) (March 2011 – March 2015) – Basic and Advanced NITORX diver (SDI/TDI) -->
-<!--   - Advanced Diver, (CMAS/FMAS) -->
-<!--   - Basic Diver, (CMAS/FMAS) -->
-<!--   - Scientific Diver, (SDI/TDI) -->
-  <!-- - Cave I Diver, (CMAS/FMAS) -->
+  - Advanced Dive Instructor (SDI/TDI) (March 2012 – June 2014)
+  - Basic Dive Instructor (CMAS/FMAS) (March 2011 – March 2015) – Basic and Advanced NITORX diver (SDI/TDI)
+  - Advanced Diver, (CMAS/FMAS)
+  - Basic Diver, (CMAS/FMAS)
+  - Scientific Diver, (SDI/TDI)
+- Cave I Diver, (CMAS/FMAS)
