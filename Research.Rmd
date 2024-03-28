@@ -449,6 +449,8 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <!-- Data -->
 <a span class="label label-warning" href= "https://datadryad.org/stash/dataset/doi:10.5061/dryad.pt80482" target="_blank">Data</span></a>
 
+</center>
+
 4. **Palacios-Abrantes J.**, Herrera-Correal J., Rodríguez S., Brunkow J. and Molina R. 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE* 13(12): e0209431. DOI: 10.1371/journal.pone.0209431
 
 <!-- Paper Links -->
