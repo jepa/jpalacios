@@ -86,7 +86,7 @@ Regulatory boundaries and species distributions often do not align. This misalig
 <img src="http://d2khr93zjdy3w9.cloudfront.net/Website/Official_MPA_map_April2016.png" class="img-thumbnail" width="200px">
 </div>
 
-### [Conservation under climate change](Projects/SESYNC.html)
+### [Conservation under climate change](Projects/conservation_cc.html)
 
 <!-- **[Conservation under climate change.](Projects/SESYNC.html)**  -->
 Marine protected areas (MPAs) are an important tool in the context of marine spatial planning to support both conservation and sustainable harvesting. Marine species are shifting their distribution because of climate change, potentially compromising the benefits and management objectives of currently established MPAs. My research focuses on better understanding the consequences of climate change to marine conservation.
