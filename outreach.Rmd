@@ -30,7 +30,7 @@ Here is a list of news articles and blogs featuring my work or where I have been
 ## English
 
 - University of British Columbia - [In climate change talks and development goals, the tropical majority must be recognized and respected](https://oceans.ubc.ca/2023/07/28/in-climate-change-talks-and-development-goals-the-tropical-majority-must-be-recognized-and-respected/){target="_blank"}
-- University of British Columbia - [Climate change to drive increasing overlap between Pacific tuna fisheries image001.jpgand emerging deep-sea mining industry](https://oceans.ubc.ca/2023/07/27/climate-change-to-drive-increasing-overlap-between-pacific-tuna-fisheries-and-emerging-deep-sea-mining-industry/){target="_blank"}
+- University of British Columbia - [Climate change to drive increasing overlap between Pacific tuna fisheries and emerging deep-sea mining industry](https://oceans.ubc.ca/2023/07/27/climate-change-to-drive-increasing-overlap-between-pacific-tuna-fisheries-and-emerging-deep-sea-mining-industry/){target="_blank"}
 - Inside Climate News - [As an Obscure United Nations Gathering Deliberates the Fate of Deep-Sea Mining, the Tuna Industry Calls for a Halt](https://insideclimatenews.org/news/11072023/tuna-deep-sea-mining/){target="_blank"}
 - Vector: The British Royal Academy Sci-Fi magazine - [The living infinite](https://vector-bsfa.com/2022/09/30/the-living-infinite/){target="_blank"}
 - University of British Columbia - [Nature, society, and culture should be taken into consideration when dealing with climate change](https://oceans.ubc.ca/2022/10/20/nature-society-and-culture-should-be-taken-into-consideration-when-dealing-with-climate-change/){target="_blank"}
@@ -50,8 +50,8 @@ Here is a list of news articles and blogs featuring my work or where I have been
 
 ## Español
 
-- El Espectador Colombia - [¿Se avecina el primer proyecto de minería en el mar?](https://www.elespectador.com/ambiente/se-avecina-el-primer-proyecto-de-mineria-en-el-mar/)
-
+- OpenMind BBVA - [Perfil, Ventana al conocimiento)](https://www.bbvaopenmind.com/ciencia/investigacion/juliano-palacios-abrantes-doctor-zoologia-mar-sustento/){target="_blank"}
+- El Espectador Colombia - [¿Se avecina el primer proyecto de minería en el mar?](https://www.elespectador.com/ambiente/se-avecina-el-primer-proyecto-de-mineria-en-el-mar/){target="_blank"}
 - CONACyT Prensa  México- [¿Cómo afectará el cambio climático las pesquerías del mundo?](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
 - adn40 - [Plataforma permitira conocer riqueza de los oceanos de México](https://www.adn40.mx/noticia/mexico/nota/2019-06-08-20-21/plataforma-permitira-conocer-riqueza-de-los-oceanos-de-mexico/?utm_source=adn40mxNota&utm_medium=tw&utm_campaign=M)
 - Blog de EDF de México - [La ciencia es parte vital de nuestra vision de conservacion ambiental ](https://mexico.edf.org/blog/2019/06/07/la-ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de-mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter)
@@ -71,6 +71,7 @@ Here is a list of radio interviews I have been invited to:
 - The Mike Smith Show - [Are fish on the move due to climate change?](https://omny.fm/shows/mike-smyth/are-fish-on-the-move-due-to-climate-change){target="_blank"}
 
 ## Spanish
+- Radio Nacional de España - [La minería busca conquistar los fondos marinos: la fiebre del oro de este siglo](https://www.rtve.es/noticias/20240321/mineria-busca-conquistar-fondos-marinos-fiebre-del-oro-este-siglo/16025045.shtml){target="_blank"}
 
 - Radio El Colégio de Michoacán - [Los peces no necesitan Visa](www.radiomichoacanb.com){target="_blank"}
 
