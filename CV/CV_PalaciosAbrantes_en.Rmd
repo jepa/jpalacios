@@ -26,12 +26,12 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
     -	*Transboundary Fish Stocks and their Management Under Climate Change*
     - Semester abroad at the University of Vigo working with Dr. Elena Ojea (August - December, 2019)
 
-- **Master of Environmental Science and Management** (2016)
+- **Master in Environmental Science and Management** (2016)
   Bren School of Environmental Science and Management, University of California at Santa Barbara, USA; Advisor, Dr. John Melack
     -	*A Citizen Science Monitoring Protocol for the Rocky Intertidal Habitat*
     - Internship at Environmental Defense Fund, Mexico (2015)
 - **Bachelor of Science in Biology** (2012)
-  Universidad Autónoma Metropolitana campus Xochimilco, México City; Advisor, Dr. Virginia Melo
+  Universidad Autónoma Metropolitana unidad Xochimilco, México City; Advisor, Dr. Virginia Melo
     -	*Sea Cucumber as a Source of Macronutrients for Low-Income Coastal Communities in Mexico.*
     - Year abroad at the University of São Paulo, Brazil
 
@@ -49,7 +49,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 # 2. Relevant Scientific Publications
 
-*Total of 32 scientific publications including 1 book chapter and 2 contributing author section. GoogleScholar h-index: 15, i10-index: 16, 1,542 citations.* **See Annex 2 for full list of publications**
+*Total of 34 scientific publications including 3 book chapters and 2 contributing author section. GoogleScholar h-index: 15, i10-index: 16, 1,614 citations.* **See Annex 2 for full list of publications**
 
 <!-- OJO Harvard Bou style -->
 
@@ -97,7 +97,7 @@ Jensen's Lab, Center for Limnology, University of Wisconsin-Madison, USA; Superv
 
 # 6. Funding acquisition
 
-*Contribute to 7 successful applications adding up to CAD $961,650 in funding.* **See Annex 6 for full list**
+*Contribute to 7 successful applications adding up to over CAD $1,000,000 in funding.* **See Annex 6 for full list**
 
 - The potential for transboundary marine protected areas to build climate-resilience for biodiversity conservation and fisheries sustainability in the Eastern Tropical Pacific Ocean (2023). Project funded by Lenfest Ocean Program. Role: *Co-applicant* [CAD $528,500]
 
@@ -260,13 +260,17 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 - **Palacios-Abrantes, J**., Herrera-Correal, J., Rodriguez, S., Brunkow, J., and Molina, R., 2018. Evaluating the bio-economic performance of a Callo de hacha (*Atrina maura, Atrina tuberculosa and Pinna rugosa*) fishery restoration plan in La Paz, Mexico. *PLoS ONE*, 13 (12), e0209431.
 
-3 - Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
+- Pinsky, M. L., Reygondeau, G., Caddell, R., **Palacios-Abrantes, J**., Spijkers, J., and Cheung, W. W. L., 2018. Preparing ocean governance for species on the move. *Science*, 360 (6394), 1189–1191.
 
-2 - **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
+- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Urbano, B., Vargas, N., Falcón-Gerónimo, J., and Gazga-Urioste, C., 2017. Nutritional Analysis of *Octopus hubbsorum* B (Cephalopoda: Octopodidae) from the Pacific Ocean, Acapulco, Guerrero, México. *Journal of Applied Life Sciences International*, 10 (3), 1–6.
 
-1 - **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
+- **Palacios-Abrantes, J.**, Melo-Ruiz, V., Diaz-Garcia, R., Gazga-Urioste César, and Urbano, B., 2016. Iron Profile of *Octopus Hubbsorum* (Cephalopoda: Octopodidae) for Enrichment of the Mexican Diet. *Journal of Chemistry and Chemical Engineering*, 10 (5), 1–4.
 
 ### 2.2. Book Chapters
+
+- Steiner, N. S., Bryndum-Buchholz, A., Cheung, W. W. L., Holdsworth, A. M., Lotze, H. K., Nagabhatla, N., Newell, S. L., Okey, T. A., **Palacios-Abrantes, J.**, Sumaila, U. R., Tai, T. C., Wilson, K. L. and Inlet, C. of C., 2024. Large Changes in Canada’s Oceans and Their Impacts on Ecosystems and Fisheries. In: Sumaila, U. R., Armitage, D., Bailey, M., and Cheung W. W. L., eds. Sea Change: Charting a Sustainable Future for Oceans in Canada. UBC Press, 276.
+
+- Tai, T. C., **Palacios-Abrantes, J.,** [Chap. Eds.] & Saltos, J. J. A., Ban, N. C., Bryndum-Buchholz, A., Cheung, W. W. L., Courtenay, S., Harper, S., Hoover, C., Lotze, H. K., Steiner, N., Sumaila, U. R., Talloni-Álvarez, N., Whitney, C. K. and Wilson, K., 2024. Rapid Changes across Canada’s Oceans and Their Impact on Coastal Communities. In: Sumaila, U. R., Armitage, D., Bailey, M., and Cheung, and W. W. L., eds. Sea Change: Charting a Sustainable Future for Oceans in Canada. UBC Press, 276.
 
 - **Palacios-Abrantes, J.** and Cisneros-Montemayor, A. Tendencias de la investigación pesquera en México: necesidades y oportunidades para la adaptación al cambio climático. 2020. In (eds. Tapia, P. and Urrea, U.) Pescadores en México y Cuba retos y oportunidades ante el cambio climático. Ciudad de México, 225
 
@@ -280,20 +284,23 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 *Note that any work in progress is not listed here*
 
-- **Palacios-Abrantes, J.**, Tai, T., *et al.* (eds. **Palacios-Abrantes, J.** and Tai, T.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
-
-- Steiner, N. *et al.* (e.d. Steiner, N.) Rapid changes across Canada's oceans in (ed. Sumaila, U.R.) Ocean Canada Partnership Book *[UBC Prints - In press]*
-
-- Maureaud A., et al. FISHGLOB: a collaborative infrastructure for marine science and management
-[*R&R*]. Preprint available at: https://osf.io/mh46b/
+- Beaty F., *et al.* Centering relationships to place for more meaningful research and engagement [*In press*]
 
 - Amon D., *et al.* Assessing the Ecological Significance of the Clarion-Clipperton Zone, Pacific Ocean [*R&R*]
-
-- Mason J., Bryndum-Buchholz A., **Palacios-Abrantes J.** *et al.* Key uncertainties and modeling needs for managing living marine resources in the future Arctic [*R&R*]
 
 - Blanchard J., *et al.* Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0 [*R&R*]. Preprint available at: 10.22541/essoar.170594183.33534487/v1
 
 - Cappa V., *et al.*  Climate change undermines seafood micronutrient supply in Southeast Asia and Pacific Island countries [*R&R*]
+
+- Kaikkonen L., *et al.* Fostering diversity, equity and inclusion in interdisciplinary marine science
+Authors [*R&R*]
+
+- Kitchel Z., *et al.* Marine fish communities cycle between homogenized and differentiated states through time [*R&R*]
+
+- Mason J., Bryndum-Buchholz A., **Palacios-Abrantes J.** *et al.* Key uncertainties and modeling needs for managing living marine resources in the future Arctic [*R&R*]
+
+- Maureaud A., *et al.* FISHGLOB: a collaborative infrastructure for marine science and management
+[*R&R*]. Preprint available at: https://osf.io/mh46b/
 
 ## Annex 3. Teaching Experience and Mentoring
 
@@ -375,8 +382,7 @@ at the University of Wisconsin (2021-2022). Role: *Member of the committee*
 
 - A Citizen Science Monitoring Protocol for the Rocky Intertidal Habitat. Multi-Agency Rocky Intertidal Network Annual Meeting, Cabrillo National Monument, San Diego, California (2016)
 
-- Análisis proximal de *Octopus hubbsorum* (Cephalopoda: Octopodidae) en Acapulco Guerrero (México). Congreso de la sociedad Mesoamericana para la Biología y la Conservación, Panama City, Panama
-(2012)
+- Análisis proximal de *Octopus hubbsorum* (Cephalopoda: Octopodidae) en Acapulco Guerrero (México). Congreso de la sociedad Mesoamericana para la Biología y la Conservación, Panama City, Panama (2012)
 
 - Análisis nutricional de callo de hacha *Atrina sp*. (Mollusca: Pinnidae) en México". Congreso de la Sociedad Mesoamericana para la Biología y la Conservación, Panama City, Panama (2012)
 
@@ -434,7 +440,7 @@ Columbia, Canada. [*Fully funded by organizers*]
 
 ### 6.1. Projects funded
 
-- Funding to work on marine extremes impacts to blue food security (2024). Project funded by the *Walton Family Foundation* in partnership with the *World Wildlife Fund* [CAD $94,000].
+- Funding to work on marine extremes impacts to blue food security (2024). Project funded by the *Walton Family Foundation* in partnership with the *World Wildlife Fund*. Role: *Co-applicant* [CAD $94,000]
 
 - The potential for transboundary marine protected areas to build climate-resilience for biodiversity conservation and fisheries sustainability in the Eastern Tropical Pacific Ocean (2023-2025). Project funded by *Lenfest Ocean Program*. Role: *Co-applicant* [CAD $528,500]
 
@@ -448,8 +454,7 @@ Columbia, Canada. [*Fully funded by organizers*]
 
 - SESYNC Graduate Pursuit Award (September 2018 - May 2020). Awarded by the National Socio- Environmental Synthesis Center (SESYNC) to conduct the research Ch-Ch-Ch-Changes: Using Marine Protected Areas to Investigate Potential Socio-Ecological Impacts of Climate Change in Marine Spatial Planning. National Science Foundation and the University of Maryland. (Link to project: tiny.cc/lzxv5y) Role: *Co-applicant* [CAD $2,718]
 
-- Impactos potenciales del cambio climático en las pesquerías mexicanas: Consideraciones para su manejo (2017-2018). Project funded by *Environmental Defense Fund de México*. Role: *Co-applicant*. [CAD
-$15,000]
+- Impactos potenciales del cambio climático en las pesquerías mexicanas: Consideraciones para su manejo (2017-2018). Project funded by *Environmental Defense Fund de México*. Role: *Co-applicant*. [CAD $15,000]
 
 ### 6.2. Awards
 
@@ -493,49 +498,7 @@ $15,000]
 
 - Voceros del Cambio climático (EDF-Mexico). Role: *Member*.
 
-### 7.4 Public engagement and media
-
-- As an Obscure United Nations Gathering Deliberates the Fate of Deep-Sea Mining, the Tuna Industry Calls for a Halt (2023). Interview for Inside Climate News. Available at: https://insideclimatenews.org/news/11072023/tuna-deep-sea-mining/
-
-- In climate change talks and development goals, the tropical majority must be recognized and respected (2023). Interview for UBC press. Available at: https://oceans.ubc.ca/2023/07/28/in-climate-change-talks-and-development-goals-the-tropical-majority-must-be-recognized-and-respected/
-
-- Climate change to drive increasing overlap between Pacific tuna fisheries image001.jpgand emerging deep-sea mining industry (2023). Interview for UBC press. Available at: https://oceans.ubc.ca/2023/07/27/climate-change-to-drive-increasing-overlap-between-pacific-tuna-fisheries-and-emerging-deep-sea-mining-industry/
-
--¿Se avecina el primer proyecto de minería en el mar? (2023). Interview for El Espectador Colombia. Available at: https://www.elespectador.com/ambiente/se-avecina-el-primer-proyecto-de-mineria-en-el-mar/
-
-- Nature, society, and culture should be taken into consideration when dealing with climate change (2022). Interview for UBC press. Available at: https://oceans.ubc.ca/2022/10/20/nature-society-and- culture-should-be-taken-into-consideration-when-dealing-with-climate-change/
-
-- Global fish stocks can't rebuild if nothing done to halt climate change and overfishing, new study suggests (2022). Interview for UBC press. Available at: https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/#:~:text=Global%20fish%20stocks%20can't,and%20overfishing%2C%20new%20study%20suggests
-
-- Managing fish stocks shared by nations must focus on the impacts of climate change (2022). The Conversation Canada. Available at: https://theconversation.com/managing-fish-stocks-shared-by- nations-must-focus-on-the-impacts-of-climate-change-181828
-
-- Climate change could spark fish wars around the globe (2022). Radio interview for Quirks and Quarks with Bob McDonald (CBC). Available at: https://www.cbc.ca/listen/live-radio/1-51/clip/15893391
-
-- Are fish on the move due to climate change? (2022). Radio interview for the Mike Smith Show. Available at https://omny.fm/shows/mike-smyth/are-fish-on-the-move-due-to-climate-change
-
-- Fish populations are shifting around the planet and 'someone is going to lose out,' says UBC researcher (2022). Interview for Glacier Media Group. Available at: https://www.timescolonist.com/highlights/fis h-populations-are-shifting-around-the-planet-and-someone-is-going-to-lose-out-says-ubc-researcher-
-4973909
-
-- Climate change could spark international fish fights (2022). Interview for Canada's National Observer. Available at https://www.nationalobserver.com/2022/01/21/news/climate-change-could-spark- international-fish-fights
-
-- The Importance of Giving Back (2021). Interview for COMPASS' Celebrating Latino Conservation Week. Available at: https://www.compassscicomm.org/the-importance-of-giving-back/
-
-- Management of exploited transboundary fish stocks requires international cooperation (2020). Press Release, The Institute for the Oceans and Fisheries, UBC, Available at: https://oceans.ubc.ca/2020/1 0/21/transboundary/
-
-- La ciencia es parte vital de nuestra visión de conservación ambiental (2019) Blog post for the Envi- ronmental Defense Fund - Mexico Blog. Available at: https://mexico.edf.org/blog/2019/06/07/la- ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de- mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter
-
-- Understanding the data about data: How metadatabases could improve Mexico's ocean management (2019). Press Release, The Institute for the Oceans and Fisheries, UBC, Available at: https://oceans.u bc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-
-ocean-management/
-
-- Tear Down That Paywall: The Movement to Make Ocean Research Free for All (2018). Interview for NewsDeeply, Oceans deeply Available at: https://deeply.thenewhumanitarian.org/oceans/articles/2018 /01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all
-
-- ¿Cómo afectará el cambio climático las pesquerías del mundo? (2018) News interview for CONACyT Prensa. Available at: http://www.cienciamx.com/index.php/ciencia/ambiente/24771-cambio-climatico- pesquerias-mundo
-
-- Los peces no necesitan Visa (2018). Radio Interview in Radio El Colégio de Michoacán
-
-- Crean base de metadatos de investigación marina en México (2017). Interview for CONACyT Prensa. Available at: http://www.cienciamx.com/index.php/ciencia/mundo-vivo/13008-crean-base-de- metadatos-de-investigacion-marina-en-mexico
-
-### 7.5. Peer Review Journals
+### 7.4. Peer Review Journals
 
 - Ecography, 2023
 - Ecosystems and People, 2020
@@ -555,34 +518,61 @@ ocean-management/
 
 ### 8.1 Written interviews
 
+- OpenMind BBVA - [Perfil, Ventana al conocimiento](https://www.bbvaopenmind.com/ciencia/investigacion/juliano-palacios-abrantes-doctor-zoologia-mar-sustento/){target="_blank"}
+
 - The Times Colonist - ['Light of hope': B.C. researchers say some fish surviving heat waves better than once thought](https://www.timescolonist.com/local-news/light-of-hope-bc-researchers-say-some-fish-surviving-heat-waves-better-than-once-thought-7493628){target="_blank"}
+
 - University of British Columbia - [Fish buffered from recent marine heatwaves, showing there’s still time to act on climate change](https://news.ubc.ca/2023/08/30/fish-buffered-from-recent-marine-heatwaves/){target="_blank"}
+
 - University of British Columbia - [In climate change talks and development goals, the tropical majority must be recognized and respected](https://oceans.ubc.ca/2023/07/28/in-climate-change-talks-and-development-goals-the-tropical-majority-must-be-recognized-and-respected/){target="_blank"}
+
 - University of British Columbia - [Climate change to drive increasing overlap between Pacific tuna fisheries image001.jpgand emerging deep-sea mining industry](https://oceans.ubc.ca/2023/07/27/climate-change-to-drive-increasing-overlap-between-pacific-tuna-fisheries-and-emerging-deep-sea-mining-industry/){target="_blank"}
+
 - Inside Climate News - [As an Obscure United Nations Gathering Deliberates the Fate of Deep-Sea Mining, the Tuna Industry Calls for a Halt](https://insideclimatenews.org/news/11072023/tuna-deep-sea-mining/){target="_blank"}
+
 - Vector: The British Royal Academy Sci-Fi magazine - [The living infinite](https://vector-bsfa.com/2022/09/30/the-living-infinite/){target="_blank"}
+
 - University of British Columbia - [Nature, society, and culture should be taken into consideration when dealing with climate change](https://oceans.ubc.ca/2022/10/20/nature-society-and-culture-should-be-taken-into-consideration-when-dealing-with-climate-change/){target="_blank"}
+
 - The Conversation Canada - [Managing fish stocks shared by nations must focus on the impacts of climate change](https://theconversation.com/managing-fish-stocks-shared-by-nations-must-focus-on-the-impacts-of-climate-change-181828){target="_blank"}
+
 - Glacier Media Group - [Fish populations are shifting around the planet and ‘someone is going to lose out,’ says UBC researcher](https://www.timescolonist.com/highlights/fish-populations-are-shifting-around-the-planet-and-someone-is-going-to-lose-out-says-ubc-researcher-4973909){target="_blank"}
+
 - University of British Columbia - [Global fish stocks can’t rebuild if nothing done to halt climate change and overfishing](https://news.ubc.ca/2022/09/01/global-fish-stocks-cant-rebuild-climate-change-overfishing/){target="_blank"}
+
 - Canada’s National Observer - [Climate change could spark international fish fights](https://www.nationalobserver.com/2022/01/21/news/climate-change-could-spark-international-fish-fights){target="_blank"}
+
 - COMPASS, Celebrating Latino Conservation Week - [The Importance of Giving Back](https://www.compassscicomm.org/the-importance-of-giving-back/){target="_blank"}
+
 - University of British Columbia - [Nearly half of countries shared fish stocks are on the move due to climate change prompting dispute concerns]("https://oceans.ubc.ca/2022/01/18/nearly-half-of-countries-shared-fish-stocks-are-on-the-move-due-to-climate-change-prompting-dispute-concerns/){target="_blank"}
+
 - Centre for Ocean Solutions - [New study emphasizes importance cooperative fisheries management](https://oceansolutions.stanford.edu/stories-events/no-visas-fish-new-study-emphasizes-importance-cooperative-fisheries-management){target="_blank"}
+
 - University of British Columbia - [Management of exploited transboundary fish stocks requires international cooperation](https://oceans.ubc.ca/2020/10/21/transboundary/){target="_blank"}
+
 - National Geographic - [Climate change drives fish wars science environment](https://news.nationalgeographic.com/2018/06/climate-change-drives-fish-wars-science-environment/){target="_blank"}
+
 - Washington Post - [Climate change is moving fish around faster than laws can handle study says](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/06/14/climate-change-is-moving-fish-around-faster-than-laws-can-handle-study-says/?noredirect=on&utm_term=.ef8d0372e603){target="_blank"}
+
 - University of British Columbia - [Understanding the data about data how metadatabases could improve Mexico's ocean management](http://oceans.ubc.ca/2019/06/12/understanding-the-data-about-data-how-metadatabases-could-improve-mexicos-ocean-management/){target="_blank"}
+
 - Oceans Deeply - [Tear down that paywall, the movement to make ocean research free for all](https://www.newsdeeply.com/oceans/articles/2018/01/18/tear-down-that-paywall-the-movement-to-make-ocean-research-free-for-all){target="_blank"}
+
 - El Espectador Colombia - [¿Se avecina el primer proyecto de minería en el mar?](https://www.elespectador.com/ambiente/se-avecina-el-primer-proyecto-de-mineria-en-el-mar/)
 
 - CONACyT Prensa  México- [¿Cómo afectará el cambio climático las pesquerías del mundo?](http://www.conacytprensa.mx/index.php/ciencia/ambiente/24771-cambio-climatico-pesquerias-mundo){target="_blank"}
+
 - adn40 - [Plataforma permitira conocer riqueza de los oceanos de México](https://www.adn40.mx/noticia/mexico/nota/2019-06-08-20-21/plataforma-permitira-conocer-riqueza-de-los-oceanos-de-mexico/?utm_source=adn40mxNota&utm_medium=tw&utm_campaign=M)
+
 - Blog de EDF de México - [La ciencia es parte vital de nuestra vision de conservacion ambiental ](https://mexico.edf.org/blog/2019/06/07/la-ciencia-es-parte-vital-de-nuestra-vision-de-conservacion-ambiental?utm_campaign=edf-de-mexico_none_upd_ocn&utm_id=1559913502&utm_medium=social-media&utm_source=twitter)
+
 - Blog de EDF de México - [Colabora en la construccion de un catalogo sobre informacion marina en México](http://mexico.edf.org/blog/2017/06/13/colabora-en-la-construccion-de-un-catalogo-sobre-informacion-marina-en-mexico){target="_blank"}
+
 - CONACYT Prensa México - [Crean base de metadatos de investigacion marina en México](http://conacytprensa.mx/index.php/ciencia/mundo-vivo/13008-crean-base-de-metadatos-de-investigacion-marina-en-mexico){target="_blank"}
 
 ### 8.2 On the Radio
+
+- Radio Nacional de España - [La minería busca conquistar los fondos marinos: la fiebre del oro de este siglo](https://www.rtve.es/noticias/20240321/mineria-busca-conquistar-fondos-marinos-fiebre-del-oro-este-siglo/16025045.shtml)
 
 -  Jill Bennett Show (CKNW) - [Marine heatwaves affecting demersal fish](https://globalnews.ca/bc/program/the-jill-bennett-show)
 
@@ -603,6 +593,7 @@ ocean-management/
 ### 8.3 Illustrations
 
 Here is a list of illustrations featuring my work, note that not all of them were created by me:
+
 
 - [Marine species do not need visas: Regulatory boundaries and species distributions often do not align (A. Pozas and K. McMullen)](./Images/Infographics/FishForVisa.png){target="_blank"}
 
