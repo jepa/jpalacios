@@ -1,0 +1,102 @@
+---
+title: "FISHGLOB_data: un conjunto integrado de datos relacionados a la biodiversidad de peces a partir de muestreos científicos de arrastre de fondo."
+subtitle: Aurore A. Maureaud, Juliano Palacios-Abrantes, Zoë Kitchel, Laura Mannocci, Malin L. Pinsky, Alexa Fredston, Esther Beukhof, Daniel L. Forrest, Romain Frelat, Maria L. D. Palomares, Laurene Pecuchet, James T. Thorson, P. Daniël van Denderen & Bastien Mérigot
+date: "06/2024"
+output:
+  # pdf_document:
+  html_document:
+    # word_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+---
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HG1RRBT88J');
+</script>
+
+-   **NOTA: esta es una traducción al español del artículo:** *FISHGLOB_data: an integrated dataset of fish biodiversity sampled with scientific bottom-trawl surveys*, escrito por Aurore A. Maureaud y colaboradores y que se puede encontrar en la siguiente [liga](https://doi.org/10.1038/s41597-023-02866-w). No cuenta con la sección de métodos traducida.
+
+    -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.
+
+-   **Forma de Citar**: Maureaud, A. A., Palacios-Abrantes, J., Kitchel, Z., Mannocci, L., Pinsky, M. L., Fredston, A., Beukhof, E., Forrest, D. L., Frelat, R., Palomares, M. L. D., Pecuchet, L., Thorson, J. T., Denderen, P. D. van and Mérigot, B., 2024. FISHGLOB_data: an integrated dataset of fish biodiversity sampled with scientific bottom-trawl surveys. *Scientific Data*, 11 (1), 24.
+
+<center>
+
+<a span class="label label-success" href= "emerging_fish.pdf" >Descargar Artículo en Español</span></a>
+
+</center>
+
+<br>
+
+<!-- Abstract rectangle -->
+
+```{=html}
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding:20px;}
+</style>
+```
+::: blue
+```{r setup, eval = T, echo=F, warning=F,message=F, results='hide'}
+
+#### Library ####
+packages <- c(
+  "knitr",
+  "kableExtra",
+  "png",
+  "grid"
+)
+
+MyFunctions::my_lib(packages)
+
+```
+
+
+# Resumen
+Los muestreos científicos a lo largo de las plataformas continentales y pendientes marinas que utilizan red de arrastre de fondo son programas de observación ecológica que buscan estudiar las comunidades marinas asociadas con el fondo marino. Estos muestreos informan sobre la ocurrencia de taxones, su abundancia y/o peso en el espacio y el tiempo, y contribuyen al manejo pesquera, así como a la investigación de poblaciones ecologicas y biodiversidad. Los muestreos de  red de arrastre de fondo se llevan a cabo en todo el mundo y representan una oportunidad única para comprender la biogeografía oceánica, la macroecología y el cambio global. Sin embargo, combinar estos datos para análisis entre ecosistemas sigue siendo un desafío. Aquí se presenta una base de datos integrados provenientes de 29 muestreos con red de arrastre de fondo en las aguas nacionales de 18 países, cubriendo un total de 2,170 taxones de peces y 216,548 lances entre 1963 y 2021. Los datos estan disponibles de manera publica, estandarizadas y preprocesadas. Se describen los pasos de procesamiento para crear la base de datos, las alertas y los métodos de estandarización que se desarollaron con el objetivo de apoyar a los usuarios a realizar análisis espacio-temporales con huellas de muestreos regionales estables. El objetivo principal de esta base de datos es apoyar la investigación, la gestion y la conservación marina en el contexto del cambio global.
+
+
+<center>
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02866-w/MediaObjects/41597_2023_2866_Fig1_HTML.png?as=webp"/>
+
+**Diagrama conceptual del preprocesamiento, integración, marcado y postprocesamiento de los datos de FISHGLOB**
+
+
+
+
+</center>
+
+<br>
+:::
+
+------------------------------------------------------------------------
+
+# Fondo y Resumen
+
+Los programas de observación de biodiversidad espaciotemporales, que informan sobre la ocurrencia de taxones, abundancia, biomasa y otras características, son importantes para monitorear la biodiversidad, capturar las distribuciones de especies en el espacio y el tiempo, y comprender las respuestas al cambio global. También se utilizan para estimar variables de biodiversidad esenciales y orientar la toma de decisiones sobre conservación y gestión. Estos programas varían ampliamente en sus estrategias de muestreo, extensiones temporales y espaciales, y alcance taxonómico. Las diferencias en prioridades taxonómicas, financiamiento, accesibilidad y posibilidades de muestreo han dado lugar a un paisaje heterogéneo de programas de observación de biodiversidad, con algunos grupos taxonómicos y ecosistemas muestreados de manera más sistemática que otros. Sin embargo, las series temporales largas desempeñan un papel desproporcionado en la información científica básica y la formulación de políticas públicas, y representan oportunidades únicas para comprender la biodiversidad y los ecosistemas bajo el cambio global. Mantener dichos programas a largo plazo requiere recursos sustanciales que generalmente son difíciles de mantener. Por lo tanto, pocos programas de monitoreo muestrean regularmente conjuntos completos de especies en grandes áreas y durante largos períodos de tiempo, y los datos existentes representan una importante oportunidad para la investigación y la gestión.
+
+Entre los programas de observación de biodiversidad espaciotemporales, las encuestas científicas de arrastre de fondo (SBTS, por sus siglas en inglés) representan una fuente de datos única en términos de longitud temporal y extensión espacial desde su inicio en la década de 1960. Estas encuestas fueron inicialmente diseñadas para informar sobre las evaluaciones de las poblaciones de peces, con estimaciones de abundancia y peso para determinar los niveles sostenibles de explotación pesquera. Las SBTS son independientes de los datos de captura pesquera comercial y recreativa (es decir, son datos independientes de la pesquería) y muestrean comunidades marinas cercanas al fondo marino con un equipo de arrastre de fondo. A diferencia de la pesca de arrastre, las SBTS siguen protocolos de diseño de muestreo para muestrear homogéneamente regiones y comunidades enteras, y operan bajo duraciones de muestreo estandarizadas y cortas. Una síntesis global identificó cerca de 100 SBTS en curso que se centran en comunidades marinas demersales que viven cerca del fondo marino en plataformas continentales y pendientes alrededor de los océanos del mundo. Las SBTS son notables por sus largas series temporales, muestreo regular (típicamente al menos una vez al año), su cobertura espacial y la diversidad de los taxones muestreados. Su fuerte vínculo con la gestión y la pesca ha asegurado un financiamiento relativamente estable para las SBTS, con algunas encuestas que se han realizado de manera continua durante más de 60 años (por ejemplo, el Mar del Norte y el noreste de Estados Unidos). Además de recolectar datos biológicos cruciales para informar las evaluaciones de las poblaciones de peces, estas encuestas han demostrado ser valiosas para comprender la co-ocurrencia de especies y las relaciones tróficas, los cambios a largo plazo en la comunidad, el cambio en la biodiversidad y las especies en movimiento, y los cambios en la biomasa comunitaria dentro de sus regiones de estudio. 
+
+Las encuestas regionales de SBTS se llevan a cabo en todo el mundo, por lo que pueden proporcionar una oportunidad única para estudios biogeográficos y macroecológicos, especialmente en lo que respecta a comprender la dinámica completa de las especies en el espacio y el tiempo, y para comparaciones y síntesis entre ecosistemas. Estos esfuerzos requieren integrar múltiples SBTS, lo que crea nuevas oportunidades de investigación. Es ampliamente reconocido que combinar conjuntos de datos de encuestas a gran escala es un desafío central de la síntesis ecológica. Se reconoce ampliamente que los conjuntos de datos ecológicos, cada uno una instantánea irremplazable de los ecosistemas en un lugar y tiempo únicos, rara vez se recopilan, comparten y mantienen en un formato ideal para uso y reutilización pública, incluso cuando se requiere que los datos se compartan públicamente y surge en parte debido a los desafíos prácticos de crear repositorios de datos estables y hacer que los flujos de trabajo de codificación sean completamente reproducibles. 
+
+Entre los conjuntos de datos ecológicos, las SBTS son difíciles de combinar debido a la experiencia dispar, diferencias en la capturabilidad de las especies, falta de metadatos, diferentes formatos de datos, diferentes unidades de variables, diferentes procesamientos de datos crudos disponibles para los usuarios y esfuerzo de muestreo desigual en tiempo y espacio. Algunos esfuerzos previos han hecho que los datos de la encuesta estén más disponibles, pero las SBTS aún no se han reconciliado formalmente en todos los continentes, documentado en un formato fácil de usar y puesto a disposición de la comunidad científica en general.
+
+Las soluciones para avanzar hacia conjuntos de datos ecológicos mejores y más accesibles incluyen prácticas de ciencia abierta que fomentan la reproducibilidad computacional, como el software FAIR, trabajar en equipos grandes y diversos donde los miembros aportan conocimientos y perspectivas únicas, y publicar conjuntos de datos diseñados para reutilización y vinculados desde principales repositorios en línea. Aplicar estas soluciones para sintetizar conjuntos de datos de SBTS, una colección dispar de encuestas independientes que, si se recopilaran, se convertirían en una de las fuentes más grandes en ecología marina, proporcionaría un servicio invaluable a la comunidad científica.
+
+
+
+# Referencias 
+
+Ver referencias en [texto original](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058). 
+
+-   **Forma de Citar**: Palacios-Abrantes, J., Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1--17.
+
+-   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.
