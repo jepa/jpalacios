@@ -94,51 +94,50 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 \setcounter{section}{0}
 
 
-# Professional Experience
+# Professional Experience {#an_pro_exp}
 
 ```{r an_prof_exp, child = 'an_pro_exp.Rmd', eval = T}
 ```
 
-# Scientific Publications
+# Scientific Publications {#an_sci_pub}
 
 ```{r an_sci_pub, child = 'an_sci_pub.Rmd', eval = T}
 ```
 
-# Teaching Experience and Mentoring
+# Teaching Experience and Mentoring {#an_teaching}
 
 ```{r an_teaching, child = 'an_teaching.Rmd', eval = T}
 ```
 
-# Invited Seminars
+# Invited Seminars {#an_seminar}
 
 ```{r an_seminars, child = 'an_seminar.Rmd', eval = T}
 ```
 
-# Conferences and Workshops 
+# Conferences and Workshops {#an_conference}
 
 ```{r an_conference, child = 'an_conference.Rmd', eval = T}
 
 ```
 
-
-# Funding Acquisition
+# Funding Acquisition {#an_funding}
 
 ```{r an_funding, child = 'an_funding.Rmd', eval = T}
 
 ```
 
-# Community Service
+# Community Service {#an_cmmunity_service}
 
 ```{r an_cmmunity_service, child = 'an_community_service.Rmd', eval = T}
 
 ```
 
-# Knowledge Mobilization
+# Knowledge Mobilization {#an_knowledge_mob}
 ```{r an_knowledge_mob, child = 'an_knowledge_mob.Rmd', eval = T}
 
 ```
 
-# Other Experience
+# Other Experience {#an_other}
 
 ```{r an_other, child = 'an_other.Rmd', eval = T}
 
