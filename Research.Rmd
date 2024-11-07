@@ -118,6 +118,27 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 ### 2024
 
+37. Kaikkonen, L., Shellock, R. J., Selim, S. A., Ojwala, R. A., Dias, B. S., Li, S., Addey, C. I., Gianelli, I., Maltby, K. M., Garcia-Morales, S., **Palacios-Abrantes, J.**, Jiang, S., Albo-Puigserver, M., Alonso, V. A. G., Baker, C. A., Bove, C. B., Brodie, S., Dahlet, L. I., Das, J., Dunne, A., Ferse, S. C. A., Johannesen, E., Jung, J., Garcia, E. M., Karcher, D. B., Mahadeo, S., Millan, L., Lawal, K. O., Oloko, A., Ortega-Cisneros, K., Otoabasi-Akpan, S., Roy, D., Rouf, S. S., Smoliński, S., Vaidianu, N., Whidden, C. and Strand, M., 2024. Fostering diversity, equity, and inclusion in interdisciplinary marine science. *npj Ocean Sustainability*, 3 (1), 49.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s44183-024-00087-1" target="_blank">Full Paper</span></a>
+</center>
+
+
+36. Cappa, P., Andreoli, V., La, C., **Palacios-Abrantes, J.**, Reygondeau, G., Cheung, W. W. L. and Zeller, D., 2024. Climate change undermines seafood micronutrient supply from wild-capture fisheries in Southeast Asia and Pacific Island countries. *Science of The Total Environment*, 177024.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.scitotenv.2024.177024/1/01020192ad52d053-2523cd2b-6070-41f0-9b37-d180db481f77-000000/uOAcKiMq11xfQTi_YKUtxBb9tLo=396" target="_blank">Full Paper</span></a>
+<!-- Press -->
+<!-- <a span class="label label-info" href= "https://theconversation.com/accepting-uncertainty-in-sustainable-fisheries-is-essential-in-a-rapidly-changing-arctic-229559" target="_blank">The Conversation</span></a> -->
+<!-- Data -->
+<a span class="label label-warning" href= "https://ars.els-cdn.com/content/image/1-s2.0-S004896972407181X-mmc1.pdf" target="_blank">Data</span></a>
+
+</center>
+
+
 35. Mason, J. G., Bryndum-Buchholz, A., **Palacios-Abrantes, J.**, Badhe, R., Morgante, I., Bianchi, D., Blanchard, J. L., Everett, J. D., Harrison, C. S., Heneghan, R. F., Novaglio, C. and Petrik, C. M., 2024. Key Uncertainties and Modeling Needs for Managing Living Marine Resources in the Future Arctic Ocean. *Earth’s Future*, 12 (8).
 
 <center>
