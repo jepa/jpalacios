@@ -80,7 +80,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 ```{r knowledge_mob, child = 'knowledge_mob.Rmd', eval = T}
 ```
 
-# Referees
+<!-- # Referees -->
 
 
 \center
