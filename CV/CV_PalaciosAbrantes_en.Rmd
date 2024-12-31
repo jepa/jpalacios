@@ -54,7 +54,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 <!-- # Teaching Experience and Mentoring -->
 
-```{r teaching, child = 'teaching.Rmd', eval = F}
+```{r teaching, child = 'teaching.Rmd', eval = T}
 ```
 
 # Invited Seminars
@@ -68,7 +68,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 ```
 
 <!-- # Funding acquisition -->
-```{r funding, child = 'funding.Rmd', eval = F}
+```{r funding, child = 'funding.Rmd', eval = T}
 ```
 
 # Community Service
@@ -91,7 +91,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 \flushleft
 
-\setcounter{section}{0}
+\setcounter{section}{1}
 
 
 # Professional Experience {#an_pro_exp}
@@ -106,7 +106,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 <!-- # Teaching Experience and Mentoring {#an_teaching} -->
 
-```{r an_teaching, child = 'an_teaching.Rmd', eval = F}
+```{r an_teaching, child = 'an_teaching.Rmd', eval = T}
 ```
 
 # Invited Seminars {#an_seminar}
@@ -122,7 +122,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 <!-- # Funding Acquisition {#an_funding} -->
 
-```{r an_funding, child = 'an_funding.Rmd', eval = F}
+```{r an_funding, child = 'an_funding.Rmd', eval = T}
 
 ```
 
@@ -139,6 +139,6 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 <!-- # Other Experience {#an_other} -->
 
-```{r an_other, child = 'an_other.Rmd', eval = F}
+```{r an_other, child = 'an_other.Rmd', eval = T}
 
 ```
