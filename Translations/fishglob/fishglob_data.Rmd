@@ -1,0 +1,177 @@
+---
+title: 'FISHGLOB_data: un conjunto integrado de datos relacionados a la biodiversidad
+  de peces a partir de muestreos científicos de arrastre de fondo.'
+subtitle: "Aurore A. Maureaud, Juliano Palacios-Abrantes, Zoë Kitchel, Laura Mannocci,
+  Malin L. Pinsky, Alexa Fredston, Esther Beukhof, Daniel L. Forrest, Romain Frelat,
+  Maria L. D. Palomares, Laurene Pecuchet, James T. Thorson, P. Daniël van Denderen
+  & Bastien Mérigot"
+date: "06/2024"
+output:
+  word_document:
+    toc: yes
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+---
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HG1RRBT88J');
+</script>
+
+-   **NOTA: esta es una traducción al español del artículo:** *FISHGLOB_data: an integrated dataset of fish biodiversity sampled with scientific bottom-trawl surveys*, escrito por Aurore A. Maureaud y colaboradores y que se puede encontrar en la siguiente [liga](https://doi.org/10.1038/s41597-023-02866-w). No cuenta con la sección de métodos traducida.
+
+    -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.
+
+-   **Forma de Citar**: Maureaud, A. A., Palacios-Abrantes, J., Kitchel, Z., Mannocci, L., Pinsky, M. L., Fredston, A., Beukhof, E., Forrest, D. L., Frelat, R., Palomares, M. L. D., Pecuchet, L., Thorson, J. T., Denderen, P. D. van and Mérigot, B., 2024. FISHGLOB_data: an integrated dataset of fish biodiversity sampled with scientific bottom-trawl surveys. *Scientific Data*, 11 (1), 24.
+
+<center>
+
+<a span class="label label-success" href= "emerging_fish.pdf" >Descargar Artículo en Español</span></a>
+
+</center>
+
+<br>
+
+<!-- Abstract rectangle -->
+
+```{=html}
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding:20px;}
+</style>
+```
+::: blue
+```{r setup, eval = T, echo=F, warning=F,message=F, results='hide'}
+
+#### Library ####
+packages <- c(
+  "knitr",
+  "kableExtra",
+  "png",
+  "grid"
+)
+
+MyFunctions::my_lib(packages)
+
+```
+
+
+# Resumen
+Los muestreos científicos a lo largo de las plataformas continentales y pendientes marinas que utilizan red de arrastre de fondo son programas de monitoramiento ecológica que buscan estudiar las comunidades marinas asociadas con el fondo marino. Estos muestreos informan sobre la ocurrencia de taxones, su abundancia y/o peso en el espacio y el tiempo, y contribuyen al manejo pesquera, así como a la investigación de poblaciones ecológicas y biodiversidad. Los muestreos de  red de arrastre de fondo se llevan a cabo en todo el mundo y representan una oportunidad única para comprender la biogeografía oceánica, la macroecología y el cambio global. Sin embargo, combinar estos datos para análisis entre ecosistemas sigue siendo un desafío. Aquí se presenta una base de datos integrados provenientes de 29 muestreos con red de arrastre de fondo en las aguas nacionales de 18 países, cubriendo un total de 2,170 taxones de peces y 216,548 lances entre 1963 y 2021. Los datos están disponibles de manera pública, estandarizadas y preprocesadas. Se describen los pasos de procesamiento para crear la base de datos, las alertas y los métodos de estandarización que se desarrollaron con el objetivo de apoyar a los usuarios a realizar análisis espacio-temporales con huellas de muestreos regionales estables. El objetivo principal de esta base de datos es apoyar la investigación, la gestión y la conservación marina en el contexto del cambio global.
+
+
+<center>
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02866-w/MediaObjects/41597_2023_2866_Fig1_HTML.png?as=webp"/>
+
+**Diagrama conceptual del preprocesamiento, integración, marcado y postprocesamiento de los datos de FISHGLOB**
+
+</center>
+
+<br>
+:::
+
+------------------------------------------------------------------------
+
+# Introducción y Resumen
+
+Los programas espacio-temporales de monitoreamiento de biodiversidad que informan sobre la ocurrencia de taxones, abundancia y biomasa entre otros, son importantes para el estudio de la biodiversidad, la distribución de las especies, sus respuestas al cambio global, así como orientar la toma de decisiones en materia de conservación y gestión de recursos. Dichos programas varían ampliamente en sus estrategias de muestreo, extensiones temporales y espaciales, y alcance taxonómico de acuerdo a las diferencias en prioridades taxonómicas, financiamiento, accesibilidad y posibilidades de muestreo de los poises. Esto ha dado lugar a un paisaje heterogéneo de programas de monitoreamiento de biodiversidad, con algunos grupos taxonómicos y ecosistemas muestreados de manera más sistemática que otros. Si bien programas de larga duración desempeñan un papel clave en la creación de información científica básica, la formulación de políticas públicas y el estudio de la biodiversidad y los ecosistemas bajo el cambio climático, mantener dichos programas a largo plazo requiere recursos sustanciales que generalmente son difíciles de mantener. Por lo tanto, pocos programas de monitoreo muestrean regularmente conjuntos completos de especies en grandes áreas y durante largos períodos de tiempo, y los datos existentes representan una importante oportunidad para la investigación y la gestión.
+
+Desde su inicio en la década de los 60s, los muestreos científicos con red de arrastre de fondo (SBTS - *scientific bottom-trawl surveys*, por sus siglas en inglés) han representado una fuente de datos única entre las estrategias de monitoreo de biodiversidad espacio-temporales, en términos de longitud temporal y extensión espacial. Estos muestreos fueron inicialmente diseñados para proporcionar estimaciones de abundancia y peso a las evaluaciones de las poblaciones de peces (*stock assesment*) y poder determinar niveles sostenibles de explotación pesquera. Los SBTS son independientes de los datos de captura pesquera comercial y recreativa (es decir, son datos independientes de la pesquería) y su objetivo es muestrear las comunidades marinas que habitan el fondo marino con un equipo (red) de arrastre de fondo. A diferencia de la pesca de arrastre, los SBTS siguen protocolos previamente establecidos que incluyen un diseño de muestreo especifico y una duración del arrastre baja y estandarizada, garantizando así un muestreo homogéneo de la región y las comunidades de animales marinos.[^12] Una síntesis global identificó cerca de 100 SBTS activos cuyo objetivo es muestrear comunidades marinas demersales (i.e., que viven cerca del fondo marino) que habitan plataformas y taludes continentales en distintas partes del océano.[^13] Los SBTS son notables por tener series temporales largas, un muestreo regular (normalmente una vez al año o más), una amplia cobertura espacial y alta diversidad de taxones identificados. El fuerte vínculo entre los SBTSs y la gestión y actividad pesquera ha asegurado un financiamiento relativamente estable con algunos programas muestreando regiones específicas de manera continua por más de 60 años (por ejemplo, el Mar del Norte y el noreste de los Estados Unidos de América). Además de recolectar datos biológicos cruciales para la evaluación de poblaciones de peces, los SBTS también han demostrado ser valiosos en el estudio de la coocurrencia de especies y las redes tróficas dentro del área muestreada,[^14-15] así como identificar cambios a largo plazo de comunidades marinas, en la biodiversidad y las especies debido al cambio climático[^17-19], y en la biomasa comunitaria.[^20] 
+
+Los SBTS regionales se llevan a cabo varias partes del mundo, por lo que pueden proporcionar una oportunidad única para estudiar la biogeografía y macro ecología marina. Particularmente en lo que respecta a comprender la dinámica completa de distribución de las especies en el espacio y el tiempo,[^13][^21] así como para hacer comparaciones y síntesis entre ecosistemas.[^22] Estos esfuerzos requieren integrar múltiples SBTS, lo que crea nuevas oportunidades de investigación. Esfuerzos pasados que combinaron distintos SBTS han ampliado nuestro conocimiento sobre los impactos de la pesca en la abundancia de especies sensibles[^23], cambios en estructuras tróficas[^24][^25], patrones fisiológicos macor ecológicos de larga escala de las especies, cambios en la distribución de especies[^29], dinámicas de biodiversidad y abundancia de comunidades naturales[^30] así como respuestas en la composición de comunidades naturales a cambios de temperatura [^32][^33].
+
+Sin embargo, combinar conjuntos de datos de muestreos de gran escala es un desafío central en la síntesis ecológica. Es ampliamente reconocido que las bases de datos ecológicos (siendo cada una de ellas una representación irreemplazable de un ecosistema en un lugar y tiempo únicos) rara vez se recopilan, comparten y mantienen en un formato ideal para uso y re-uso público.[^34] Eso sucede incluso cuando se requiere que los datos se compartan públicamente,[^36] en parte debido a los desafíos prácticos de crear repositorios estables de datos y hacer que los flujos de trabajo de codificación sean completamente reproducibles.[^37] Entre los conjuntos de datos ecológicos, las SBTS son difíciles de combinar debido a los diferentes niveles de experiencia de las agencias que colectan los datos, la cachabilidad de las especies, la falta de metadatos, los diferentes formatos en que se encuentran los datos, las diferentes unidades de las variables registradas, los diferentes procesamientos de datos crudos disponibles para los usuarios y un esfuerzo de muestreo desigual en tiempo y espacio. Existen esfuerzos previos que han disponibilizado datos de muestreo (https://datras.ices.dk/, https://oceanadapt.rutgers.edu/, https://apps-st.fisheries.noaa.gov/dismap/DisMAP.html), pero las SBTS aún no se han reconciliado formalmente en todos los continentes, documentado en un formato fácil de usar ni puesto a disposición para la comunidad científica en general.
+
+Las soluciones para avanzar hacia conjuntos de datos ecológicos mejores y más accesibles incluyen prácticas de ciencia abierta que fomentan la reproducibilidad computacional como FAIR (*Findable, Accessible, Interoperable, and Reproducible*), trabajar en equipos grandes y diversos donde los miembros aportan conocimientos y perspectivas únicas y publicar conjuntos de datos diseñados para su re-utilización y vinculados a repositorios en línea. Aplicar estas soluciones para sintetizar conjuntos de datos de SBTS, proporcionaría un servicio invaluable a la comunidad científica ya que esta colección dispar de muestreos independientes podría convertirse en una de las fuentes de datos más grandes en ecología marina.
+
+En este artículo se presenta FISHGLOB_data, un conjunto de datos pre-procesados de comunidades de peces que compila 29 SBTS regionales de plataformas continentales y taludes de América del Norte y Europa. Se detallan los pasos metodológicos diseñados para desarrollar este conjunto de datos espacio-temporales con el objetivo de lograr una mayor transparencia y reproducibilidad (Fig. 1). A partir de la experiencia previa de los autores con datos de SBTS, se produce un conjunto de datos que puede ser utilizado en diversas aplicaciones relacionadas con poblaciones y diversidad comunitaria, o la presencia-ausencia, abundancia y biomasa de taxones. También se presenta la extensión de la base de datos así como información relevante para usuarios que estén interesados en utilizar la base de datos para fines de investigación científica.
+
+En comparación con los recursos disponibles ya mencionados, FISHGLOB_data proporciona la primera compilación mundial de datos públicos de SBTS que cruza continentes en un formato fácil de usar. FISHGLOB_data facilita el uso de SBTS para la comunidad mediante la aplicación de métodos novedosos para estandarizar la huella espacio-temporal de cada región de estudio e identificar cambios en la identificación de especies, que han sido preocupaciones y desafíos persistentes en el análisis de SBTS y más allá.
+
+Al hacer uso de un flujo de trabajo y códigos abiertos, los usuarios pueden actualizar el conjunto de datos con SBTS más recientes, modificar, ajustar y/o reproducir los métodos de procesamiento, así como proporcionar retroalimentación según corresponda. Esta base de datos complementa el inventario previo de metadatos existentes de SBTS al proporcionar una versión amigable para el usuario de los SBTS disponibles públicamente. Muchos otros SBTS siguen siendo de índole particular. Mientras que el inventario de metadatos de SBTS publicado anteriormente mejoró la localización y accesibilidad de dichos muestreos, la base de datos presentada en este artículo mejora su uso general, la interoperabilidad y la reproducibilidad, avanzando así hacia los principios FAIR[^42]. De manera más general, este artículo contribuye a las prácticas de ciencia abierta, especialmente en torno a métodos y recursos[^34][^43] para la comunidad científica ecológica y pesquera que utilizan este tipo de datos en su investigación.
+
+Los métodos e infraestructura presentados aquí son lo suficientemente generales como para integrar otros SBTS que existen pero que pueden no estar disponibles públicamente [^13]. Por ejemplo, el programa de muestreo de arrastre de fondo MEDITS (que agrupa SBTS del norte del Mediterráneo realizados anualmente desde 1994 [^44]) y el muestreo de arrastre de fondo de Islandia realizado desde 2005 [^45] no están disponibles públicamente. En esfuerzos separados a este artículo, estos y otros estudios han sido integrados siguiendo la metodología descrita en este trabajo, después de obtener permiso de los proveedores de datos y expertos regionales e instituciones. Maureaud et al.[^13] proporciona metadatos y contactos para varios estudios que no están disponibles públicamente. El establecimiento de métodos estandarizados de procesamiento de datos facilita las colaboraciones incluso cuando los datos brutos de los estudios no están disponibles públicamente, ya que los datos pueden ser accesibles para proyectos de investigación específicos. Una metodología estandarizada y una red de usuarios también ayudan a mejorar la visibilidad de los esfuerzos de estudio existentes, generar nuevas oportunidades científicas y colaboraciones potenciales, y facilitar la transferencia de conocimientos entre comunidades científicas y países.
+
+# Metodos
+
+En esta sección se explican los pasos metodológicos desarrollados y aplicados para producir los datos de FISHGLOB_data. Primero, se estandarizo y armonizó cada SBTS en un formato único (Fig. 1, (I)). Segundo, se desarolló una metodología de etiquetado por SBTS para informar sobre posibles armonizaciones taxonómicas adicionales y asegurar una huella espacio-temporal consistente entre ellos (Fig. 1, (II)). Tercero, de produjeron resúmenes de los muestreos y entre muestreos para la validación técnica del procesamiento de datos (Fig. 1, (III)). Finalmente, se presentan instrucciones para realizar investigaciones utilizando el conjunto de datos (Fig. 1, (IV)).
+
+### Compilación de datos de encuestas públicas
+Los SBTS son programas regionales que muestrean comunidades demersales marinas que habitan en las plataformas continentales y taludes. Hoy en día muchos de estos muestreos son de acceso abierto: los muestreos europeos están disponibles a través del Consejo Internacional para la Exploración del Mar (*ICES*, por sus siglas en inglés) y el Instituto de Investigación Marina (*IMR*, por sus siglas en inglés), y los muestreos de Estados Unidos y Canadá están disponibles a través de la Administración Nacional Oceánica y Atmosférica (*NOAA*, por sus siglas en inglés) y Pesca y Océanos Canadá (*DFO*, por sus siglas en inglés). Con base en esfuerzos regionales previos que integraron SBTS (https://oceanadapt.rutgers.edu/, https://apps-st.fisheries.noaa.gov/dismap/DisMAP.html, https://datras.ices.dk/) [^26][^28][^29][^33][^46][^47], se compliaron 29 SBTS de acceso abierto desde 1963 hasta 2020 (Tabla Suplementaria S1, Fig. 2) que muestrean comunidades demersales desde las plataformas continentales subtropicales hasta los taludes polares marinos de América del Norte (Estados Unidos y Canadaá) y Europa.
+
+### Estandarización de datos
+
+Aunque los SBTS incluyen gremios ecológicos similares (peces y macroinvertebrados asociados al fondo marino), con equipos de muestreo similares (es decir, redes de arrastre de fondo), también existen muchas diferencias en los formatos de datos, variables reportadas, métodos de muestreo, tipo preciso de equipo, estación y ubicación de muestreo, así como otros aspectos. Aquí se desarolló un proceso de estandarización aprovechando el conocimiento y los métodos de expertos de SBTS para facilitar la investigación ecológica comparativa entre regiones de estudio. Investigadores que utilizen estos datos deben tener en cuenta que aun existen diferencias entre los muestreos que no pueden abordarse de manera fácil y/o sistemática. Se estandarizó cada conjunto de datos de manera individual a nivel de lance. Un "lance" es un evento único de pesca que constituye la unidad de muestreo; y una "estación" es el lugar donde se realiza el lance. Cada SBTS registra las capturas de arrastre de fondo por lance. La estandarización de muestreos se hizo de la siguiente manera: (*i*) se eliminaron datos que no pasaron los filtros de calidad, o que no estaban relacionados con las variables focales; (*ii*) cunado posible, se estimaron las variables focales faltantes a partir de la información disponible; (*iii*) se armonizó la taxonomía a una nomenclatura consistente; y (*iv*) se convirtieron los valores a unidades estandarizadas. A continuación se explica cada paso de manera detallada (Fig. 1).
+
+#### Filtros de calidad
+Se eliminaron todos los lances que no fueron considerados válidos según las "banderas" de control de calidad de cada muestreo (por ejemplo, lances en los que se indicaba que la red había fallado). Para permanecer en el conjunto de datos, un lance necesitaba tener una geolocalización precisa, fecha, identificación taxonómica, abundancia y/o peso de taxones, duración del lance y/o área barrida, y equipo utilizado. La duración del lance y el área barrida son *proxies* del esfuerzo de muestreo en términos de tiempo de muestreo y área cubierta por el arrastre de fondo. Solo se mantuvieron los lances muestreados con equipos de arrastre de fondo tipo *otter-trawl* mientras que los muestreos realizados con redes de arrastre de tipo viga fueron retirados ya que muestrean comunidades demersales con una capturabilidad y detectabilidad diferentes [^13][^48] (Tabla Suplementaria S1). Los muestreos con redes de arrastre de viga se centran en partes más someras de la plataforma continental y se realizan a una escala más pequeña que la mayoría de los muestreos con redes de arrastre de fondo tipo *otter-trawl*. Compilar una base de datos de redes de arrastre de viga sería un esfuerzo futuro interesante que requeriría un inventario significativo y la creación de consorcios entre regiones. Más abajo se proporcionan pasos adicionales de control de calidad en la sección de (Validación Técnica).
+
+#### Variables focales
+El esfuerzo se centró en asegurar que estuviera disponible la información esencial para la investigación ecológica de poblaciones y comunidades para todos los lances. Esta información incluyó variables de geolocalización del muestreo (latitud, longitud, profundidad, número de estación), fecha de muestreo (año, mes, día), área barrida (área superficial muestreada), duración del lance (tiempo total de muestreo), y capturas para cada taxón de peces muestreado (abundancia y/o peso). Se seleccionaron muestreos que reportaran todos los individuos de peces, excluyendo aquellos que se centraron únicamente en las especies comerciales más importantes. La definición y visión general de estas y otras variables se detallan en la Tabla Suplementaria S2.
+
+Algunos muestreos solo registraron capturas específicas de taxones en abundancia (es decir, número de individuos), mientras que otras lo hicieron solo en peso. Se hizo un esfuerzo para calcular las unidades de abundancia y biomasa faltantes para cada taxón y encuesta a partir de la información obtenida. Para los muestreos de *ICES*, se estimó el peso por taxón por lance utilizando datos de longitud de los datos brutos del muestreo y los coeficientes de relación longitud-peso '*a*' y '*b*' obtenidos de *FishBase*[^49], utilizando la ecuación $w = al^b$, donde *w* es el peso, y *l* la longitud. La información de abundancia y longitud para varios muestreos de la *NOAA* no está (públicamente) disponible, por lo tanto, el conjunto de datos solo contiene peso de taxones para estos muestreos.
+
+#### Taxonomía
+La información taxonómica en cada muestreo fue curada utilizando el *World Register of Marine Species* (*WoRMS*), una clasificación y catálogo taxonómico marino ampliamente utilizado y reconocido [^50]. Si bien WoRMS está integrando FishBase como una columna vertebral taxonómica de referencia, se utilizó *WoRMS* porque algunas STBS ya utilizan códigos WoRMS para reportar taxones. Solo se conservaron los taxones de peces muestreados por las encuestas seleccionadas porque los macroinvertebrados no fueron muestreados de manera tan exhaustiva o consistente en todos los SBTS. Esto se hizo seleccionando taxones incluidos en las siguientes clases taxonómicas: Elasmobranchii, Holocephali, Chondrostei, Holostei y Teleostei. En las encuestas de *ICES*, se proporciona el '*AphiaID*' para cada taxón, por lo que se determinó cada nombre científico correspondiente y su clasificación utilizando el paquete "*worms*" de *R* [^51]. Todos los demás muestreos solo proporcionaron el nombre científico. En estos casos, cada nombre se verificó con la columna vertebral taxonómica de *WoRMS* de noviembre de 2023, y los nombres se actualizaron a su nombre válido y clasificación más recientes. Esto aseguró que los nombres dados en el pasado y que ya no se consideran válidos, se armonizaran con nombres recientes. Para algunos muestreos específico, se corrigieron inconsistencias en la identificación taxonómica que los autores conocían. También se asoció cada nombre científico con su 'AphiaID' válido y rango de clasificación. Los nombres y códigos de los datos brutos de la encuesta se conservaron en el conjunto de datos para facilitar la homogeneización futura (los nombres de las columnas precedidos por 'verbatim') [^52]. Cuando un nombre no coincidía directamente con la columna vertebral taxonómica de *WoRMS*, se utilizó la herramienta de coincidencia difusa de *WoRMS* y se seleccionaron las coincidencias de manera manual. Los nombres que no se pudieron emparejar se eliminaron del conjunto de datos. Adicionalmente, se incluyó el '*SpecCode*' de FishBase[^49] cuando existía utilizando la versión actualizada de FishBase disponible a través del paquete "*rfishbase*" de *R* [^53]. Este enlace se incluyó para facilitar la interoperabilidad con FishBase ya que este conjunto de datos se utiliza ampliamente es estudios ecológicos. *WoRMS* sigue la columna vertebral taxonómica de FishBase, por lo que la     coincidencia de nombres científicos aceptados puede ser suficiente para permitir la interoperabilidad entre SBTS y FishBase.
+
+#### Unidades estandarizadas
+Los datos crudos de cada muestreo no incluyen las mismas métricas de abundancia y no todos registran el área barrida por cada lance. La duración del lance y el área barrida son necesarias para convertir las abundancias crudas en métricas estandarizadas comparables entre muestreos, como la captura por unidad de esfuerzo (CPUE) y la captura por unidad de área (CPUA). [^54] Para calcular CPUE y CPUA, se dividió el peso y/o la abundancia por la duración del lance y el área barrida, respectivamente. Para varios muestreos de *NOAA* la variable de área barrida estaba directamente disponible o ya se utilizaba para estandarizar la abundancia, sin embargo *ICES*, *DFO* e *IMR* no siempre contaban con dicha información. Para calcular el área barrida cuando esta variable no se reportaba directamente, se utilizó la distancia de muestreo y la apertura del equipo (cuando disponibles), o alternativamente la duración del lance, la velocidad del buque y la apertura del equipo [^54–56]. Para algunos lances, el área barrida no se pudo calcular debido a la falta de datos. En estos casos se ajustó un modelo lineal con el área barrida como variable de respuesta y datos del lance como posibles variables predictoras, utilizando combinaciones de duración del lance, profundidad de muestreo, longitud del barrido, país y buque de muestreo. Los valores faltantes de área barrida fueron proyectados a partir del modelo lineal específico para cada muestreo. Todos estos modelos se detallan en el script '*get_datras.R*' para las muestreos de *ICES*. Cuando no se pudo obtener la apertura del equipo a nivel de lance para calcular áreas barridas, se utilizó una apertura de equipo estandarizada comunicada por expertos en SBTS obtenidas del *DFO*. Se indican más detalles específicos de la fuente de unidades estandarizadas en la Tabla Suplementaria S3.
+
+En el conjunto de datos final llamado *FISHGLOB_data*, se proporcionan la(s) estimación(es) de abundancia y/o peso, la abundancia y/o peso estandarizado por la duración del lance (CPUE), y la abundancia y/o peso estandarizado por el área barrida (CPUA). Como se mencionó anteriormente en *Variables focales*, no todas las variables están disponibles para cada muestreo y algunas variables son estimaciones utilizando conversiones de longitud-peso en lugar de mediciones a bordo. Se proporcionan las variables focales agregadas por taxón por lance en el conjunto de datos final, que es el nivel de agregación que permite una mejor integración entre todas las regiones de muestreo.
+
+
+
+
+### Métodos de estandarizacion opcionales
+Se incluyeron procedimientos adicionales de estandarización de datos para que los usuarios pueden implementar según sus necesidades de investigación. En particular, se implementaron dos procedimientos frecuentemente utilizados para la identificación de anomalías en los datos relacionados con (*i*) taxones que pueden no estar consistentemente identificados a lo largo del tiempo por el muestreo; y (*ii*) para ubicaciones y años que caen fuera de una huella espacial que ha sido consistentemente muestreada a lo largo del tiempo para cada combinación de encuesta y temporada disponible.
+
+#### Identificación de anomalías taxonómicas temporales. 
+Si bien la estandarización taxonómica resuelve muchas de las discrepancias en las bases de datos, aun pueden persistir inconsistencias. Por ejemplo, algunos muestreos han cambiado el nivel taxonómico en el que registran ciertos taxones a partir de guías de campo mejoradas que permiten la identificación de un taxón a nivel de especie, en lugar de género, como en años anteriores. La clasificación taxonómica fue actualizada para casos donde las anomalías era conocidas por los expertos en el SBTS con el fin de mantener una consistencia a lo largo del tiempo (p.j., mover especies de un grupo particular al rango de género). Sin embargo, aún pueden persistir inconsistencias en los datos finales por lo que se identificó la presencia de taxones en cada SBTS y año que pudieran requerir atención adicional. Para que un taxón fuera identificado, éste debería de estar presente en menos del 95% de los años muestreados o haber tenido un cambio de presencia/ausencia (o viceversa) en menos de cuatro veces a lo largo de la serie temporal. Este método se realizó en el '*nombre_aceptado*', que ya incorporaba la armonización taxonómica en '*nombre_verbatim*' (Tabla Suplementaria S2). Estos criterios fueron diseñados para detectar especies que pudieran haber cambiado de convención de nomenclatura pero que no fueron identificadas durante la armonización taxonómica. Dependiendo del uso previsto, los usuarios pueden necesitar verificar estos registros con expertos familiarizados con el SBTS específico.
+
+<!-- TRABAJANDO ABAJO -->
+
+
+Banderas de muestreo espacio-temporales. Aunque los SBTS proporcionan una amplia cobertura de datos espacio-temporales, la huella espacial de cada encuesta a menudo varía a lo largo del tiempo debido a restricciones logísticas u oportunidades en un año en particular. Establecimos un sistema de banderas para identificar una huella espacial que haya sido muestreada consistentemente a lo largo del tiempo. Seguimos dos métodos principales para asegurar una cobertura espacial y temporalmente consistente: (i) un método de cobertura temporal de celda de rejilla espacial; y (ii) un método de estandarización desarrollado previamente para el conjunto de datos BioTime 57–59 (Fig. 3a–c). Para (i), dividimos los lances por separado en una rejilla hexagonal de área igual para cada unidad temporal de encuesta (es decir, una unidad temporal de encuesta es un código definido por la combinación de 'encuesta' y 'temporada' y/o 'trimestre' de la Tabla Suplementaria S2, como NS-IBTS trimestre 1). Utilizamos el paquete "dggridR" de R 60 con resoluciones espaciales de 7 y 8, que corresponden a celdas hexagonales de aproximadamente 23,320 km² y 7,770 km², respectivamente. Cada combinación de una celda de rejilla y el año en que se muestreó se denominó "celda de rejilla-año". Luego identificamos el conjunto más grande de celdas de rejilla y años de manera que todas las celdas de rejilla retenidas fueron muestreadas en todos los años retenidos (umbral de 0% de ausencia). También identificamos el conjunto más grande de celdas de rejilla y años de manera que como máximo el 2% de todas las celdas de rejilla-años de una unidad temporal de encuesta estuvieran ausentes (umbral de 2% de ausencia). Flaggeamos los lances de encuesta que no estaban en el conjunto básico de 0%/resolución 7, no en el conjunto básico de 0%/resolución 8, no en el conjunto de 2%/resolución 7, o no en el conjunto de 2%/resolución 8 (ver diagramas conceptualizados en Fig. 3a,b). Se debe tener en cuenta que para estos dos procesos de maximización (0% y 2%), tanto las celdas de rejilla como los años podrían estar flaggeados. Para (ii), dividimos los lances en una rejilla pre-diseñada para cada unidad temporal de encuesta 59,61 . La resolución de la rejilla es específica para cada encuesta y se establece como 1/5 del rango latitudinal y longitudinal. Cada celda de rejilla incluía las ubicaciones de los lances (combinación de latitud y longitud). Primero, se flaggeó un lance si su celda de rejilla correspondiente no fue muestreada al menos 4 veces en un año individual 61. El mínimo de 4 eventos de muestreo en una celda de rejilla garantiza que no esté sesgada por ruido de muestreo de solo unos pocos eventos. Segundo, las celdas de rejilla (que incluyen al menos 4 ubicaciones de muestreo por año) se eliminaron si incluían menos de 10 años de muestreo (Fig. 3c). Se consideran 10 años de muestreo como la serie temporal mínima necesaria para poder realizar análisis ecológicos temporales en este método 59,62, y más generalmente en ecología 63 . En total, asociamos cada lance de encuesta con cinco banderas de muestreo diferentes: 4 para el método (i) y 1 para el método (ii). Los usuarios finales pueden optar por utilizar uno de estos sistemas para estandarizar la huella espacial de las encuestas. Los diferentes métodos eliminan lances algo diferentes y resultan en conjuntos de datos básicos que son consistentes espacialmente a través del tiempo en diferentes grados (Fig. 4).
+
+
+<!-- TRABAJANDO ARRIBA -->
+
+## Datos
+
+El conjunto de datos final, FISHGLOB_data, incluyó 216,548 lances únicos muestreados a través de 29 encuestas, registrando la presencia, abundancia y/o peso de 2,170 taxones únicos de peces. El dataset está disponible para descarga desde el repositorio de GitHub (https://github.com/AquaAuma/FishGlob_data/tree/main/outputs/Compiled_data) y también se puede descargar desde Zenodo (https://zenodo.org/records/10218308) 64. Todas las encuestas están identificadas con un código único ('survey', Tabla Suplementaria S2), con la lista completa detallada en la Tabla Suplementaria S1. Todos los variables focales relevantes relacionadas con la geolocalización ('latitude', 'longitude', 'stratum', 'station', 'stat_rec', 'continent') y la fecha de muestreo ('year', 'month', 'day', 'season', 'quarter') se informan cuando corresponde (Tabla Suplementaria S2). Para cada encuesta, cuando estuvo disponible, se reportaron las abundancias y pesos por taxón a partir de los datos crudos y estandarizados por la duración del lance y el área barrida (Tabla Suplementaria S2). El conjunto de datos incluyó campos relacionados con la taxonomía extraída de WoRMS ('aphia_id', 'accepted_name' y clasificación relacionada), FishBase ('SpecCode'), y los nombres y códigos reportados originalmente en los conjuntos de datos crudos ('verbatim_name' y 'verbatim_aphia_id', respectivamente).
+
+
+El alcance espacial de las encuestas abarcó casi continuamente tres plataformas continentales del hemisferio norte, desde la costa noroeste del Pacífico hasta el noreste del Atlántico y el noroeste del Atlántico (Fig. 2). Los SBTS variaron desde series temporales relativamente largas (por ejemplo, el NS-IBTS del Mar del Norte y el NEUS del noreste de EE.UU. comenzaron en la década de 1960), hasta series temporales cortas (por ejemplo, el DFO-SOG del Estrecho de Georgia comenzó en 2012 y el NIGFS del Mar de Irlanda comenzó en 2005, Tabla Suplementaria S1, Fig. 2). La mayoría de las encuestas muestrearon sus regiones anualmente, pero algunas encuestas se realizaron cada dos años (por ejemplo, DFO-SOG, DFO-WCVI, DFO-QCS, DFO-HS, DFO-WCHG) o cada tres años (por ejemplo, WCTRI). Las encuestas también variaron en su muestreo intra-anual; el campo 'survey_unit' (Tabla Suplementaria S2) indica qué encuestas operaron en múltiples estaciones (por ejemplo, BITS, NS-IBTS, SWC-IBTS, NEUS, SEUS, SCS, SP-ARSA). En términos de extensión espacial y duración de las series temporales, las encuestas más extensas fueron NEUS (noreste de EE.UU.), NS-IBTS (Mar del Norte), Nor-BTS (Mar de Barents Noruego), GOA (Golfo de Alaska) y GSL-S y GSL-N (Golfo de San Lorenzo, norte y sur).
+
+
+# Referencias 
+<!-- [^1]: -->
+<!-- [^2]: -->
+<!-- [^3]: -->
+<!-- [^4]: -->
+<!-- [^5]: -->
+<!-- [^6]: -->
+<!-- [^7]: -->
+<!-- [^8]: -->
+<!-- [^9]: -->
+<!-- [^10]: -->
+<!-- [^11]: -->
+<!-- [^12]: -->
+<!-- [^13]: -->
+<!-- [^14]: -->
+<!-- [^15]: -->
+<!-- [^16]: -->
+<!-- [^17]: -->
+Ver referencias en [texto original](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058). 
+
+-   **Forma de Citar**: Palacios-Abrantes, J., Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1--17.
+
+-   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.

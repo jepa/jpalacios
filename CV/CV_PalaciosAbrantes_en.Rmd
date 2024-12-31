@@ -29,12 +29,12 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
     -	*Transboundary Fish Stocks and their Management Under Climate Change*
     - Semester abroad at the University of Vigo working with Dr. Elena Ojea (August - December, 2019)
 
-- **Master of Environmental Science and Management** (2016)
+- **Master in Environmental Science and Management** (2016)
   Bren School of Environmental Science and Management, University of California at Santa Barbara, USA; Advisor, Dr. John Melack
     -	*A Citizen Science Monitoring Protocol for the Rocky Intertidal Habitat*
     - Internship at Environmental Defense Fund, Mexico (2015)
 - **Bachelor of Science in Biology** (2012)
-  Universidad Autónoma Metropolitana campus Xochimilco, México City; Advisor, Dr. Virginia Melo
+  Universidad Autónoma Metropolitana unidad Xochimilco, México City; Advisor, Dr. Virginia Melo
     -	*Sea Cucumber as a Source of Macronutrients for Low-Income Coastal Communities in Mexico.*
     - Year abroad at the University of São Paulo, Brazil
 
@@ -45,6 +45,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 ```{r professional_experience, child = 'pro_exp.Rmd', eval = T}
 ```
+
 
 
 # Relevant Scientific Publications
@@ -80,9 +81,6 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 ```{r knowledge_mob, child = 'knowledge_mob.Rmd', eval = T}
 ```
 
-<!-- # Referees -->
-
-
 \center
 
 --- 
@@ -90,22 +88,18 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 # Annex
 
 \flushleft
-
 \setcounter{section}{1}
 
 
 # Professional Experience {#an_pro_exp}
-
 ```{r an_prof_exp, child = 'an_pro_exp.Rmd', eval = T}
 ```
 
 # Scientific Publications {#an_sci_pub}
-
 ```{r an_sci_pub, child = 'an_sci_pub.Rmd', eval = T}
 ```
 
 <!-- # Teaching Experience and Mentoring {#an_teaching} -->
-
 ```{r an_teaching, child = 'an_teaching.Rmd', eval = T}
 ```
 
@@ -123,13 +117,10 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 <!-- # Funding Acquisition {#an_funding} -->
 
 ```{r an_funding, child = 'an_funding.Rmd', eval = T}
-
 ```
 
 # Community Service {#an_cmmunity_service}
-
 ```{r an_cmmunity_service, child = 'an_community_service.Rmd', eval = T}
-
 ```
 
 # Knowledge Mobilization {#an_knowledge_mob}

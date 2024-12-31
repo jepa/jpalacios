@@ -16,7 +16,7 @@ MyFunctions::my_lib(c("bib2df","tidyverse","janitor"))
 ```{r load_data, eval = T, echo = T}
 
 
-df <- bib2df("/Users/jepa/gitHub/jpalacios/Data/export.bib",
+df <- bib2df("..//Data/my_referencesb.bib",
              separate_names = TRUE) %>% 
   clean_names() %>% 
   select(-address,-annote,-note)
@@ -188,6 +188,18 @@ df_fa %>%
 ```
 
 # Co-aturhos analysis
+
+
+```{r}
+df %>% 
+  unnest(author) %>% 
+  filter(last_name == "Amon")
+  group_by(first_name,last_name) %>% 
+  tally() %>% 
+  View()
+```
+
+
 
 In this part I analyze the number of different collaborators I have had over time. Below shows the number of different collaborators from all my papers and from all the papers as first author
 
