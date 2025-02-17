@@ -80,6 +80,21 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 </center>
 
+### 2025
+
+39. Eddy, T., Heneghan, R., Bryndum-Buchholz, A., Fulton, B., Harrison, C. S., Tittensor, D., Lotze, H. K., Ortega-Cisneros, K., Novaglio, C., Bianchi, D., Büchner, M., Bulman, C. M., Cheung, W., Christensen, V., Coll, M., Everett, J. D., Arcos, L. D. F., Galbraith, E. D., Gascuel, D., Guiet, J., Mackinson, S., Maury, O., Niiranen, S., Oliveros-Ramos, R., **Palacios-Abrantes, J.**, Piroddi, C., Pontavice, H. du, Reum, J. C., Richardson, A., Schewe, J., Shannon, L., Shin, Y.-J., Steenbeek, J. G., Volkholz, J., Walker, N., Woodworth-Jefcoats, P. and Blanchard, J. L., 2025. Global and regional marine ecosystem model climate change projections reveal key uncertainties. *Earth’s Future*,
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "" target="_blank">Full Paper</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "" target="_blank"> Tools</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://www.isimip.org/outputdata/isimip-repository/" target="_blank">Data</span></a>
+
+</center>
+
+
 ### 2024
 
 38. Blanchard, J. L., Novaglio, C., Maury, O., Harrison, C. S., Petrik, C. M., Fierro-Arcos, D., Ortega-Cisneros, K., Bryndum-Buchholz, A., Eddy, T. D., Heneghan, R., Roberts, K., Schewe, J., Bianchi, D., Guiet, J., Denderen, P. D. van, **Palacios-Abrantes, J.**, Liu, X., Stock, C. A., Rousseau, Y., Büchner, M., Adekoya, E. O., Bulman, C., Cheung, W., Christensen, V., Coll, M., Capitani, L., Datta, S., Fulton, E. A., Fuster, A., Garza, V., Lengaigne, M., Lindmark, M., Murphy, K., Ouled-Cheikh, J., Prasad, S. S., Oliveros-Ramos, R., Reum, J. C., Rynne, N., Scherrer, K. J. N., Shin, Y., Steenbeek, J., Woodworth-Jefcoats, P., Wu, Y. and Tittensor, D. P., 2024. Detecting, Attributing, and Projecting Global Marine Ecosystem and Fisheries Change: FishMIP 2.0. *Earth’s Future*, 12 (12).
@@ -403,7 +418,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 </center>
 
-### 2020
+### &le;2020
 
 12. **Palacios-Abrantes, J.**, Reygondeau, G., Wabnitz, C. C. C., and Cheung, W. W. L., 2020. The transboundary nature of the world’s exploited marine species. *Scientific Reports*, 10 (1), 415–12. DOI: 10.1038/s41598-020-74644-2
 
@@ -480,8 +495,6 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <a span class="label label-primary" href= "https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsz247/5704875" target="_blank">Full Paper</span></a>
 
 </center>
-
-### &le;2019
 
 5. **Palacios-Abrantes, J.**, Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodriguez, L., Arreguín-Sánchez, F., Aguilar, V., Domínguez-Sánchez, S., Fulton, S., López-Sagástegui, R., Reyes-Bonilla, H., Rivera-Campos, R., Salas, S., Simoes, N., and Cheung, W. W. L., 2019. A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. *PLoS ONE*, 14 (6), DOI 10.1371/journal.pone.0216723.
 
