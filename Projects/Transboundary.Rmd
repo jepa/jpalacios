@@ -41,6 +41,8 @@ Regulatory boundaries and species distributions often do not align. This is espe
 
 ## Related Publications
 
+<!-- - **Palacios-Abrantes, J.**,  *et al.* 2025. Climate change drives shifts in straddling fish stocks in the world’s ocean. *Science Advances.*  -->
+
 - Vogel, J.M.... **Palacios-Abrantes, J.**, *et al.* 2024. Fisheries in flux: Bridging science and policy for climate-resilient management of US fisheries under distributional change. *Marine Policy*, 170, 106385.
 
 - Vogel, J. M.... **Palacios-Abrantes, J.**, *et al.* 2023. Drivers of conflict and resilience in shifting transboundary fisheries. *Marine Policy*, 155, 105740.
