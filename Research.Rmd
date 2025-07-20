@@ -25,8 +25,8 @@ output:
 
 ## Credentials
 
-- Postdoctoral fellow (current) - *The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Canada*
-
+- Postdoctoral fellow (2022-current) - *The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Canada*
+- Postdoctoral researcher (2021 - 2022) - *Center for Limnology, University of Wisconsin-Madison, USA*
 - PhD. Zoology (2021) - *The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Canada*
 - MESM (2016) - *Bren School of Environmental Science and Management, University of California at Santa Barbara (UCSB), USA*
 - B.S. Biology (2012) - *Universidad Autónoma Metropolitana unidad Xochimilco (UAM-X), México*
@@ -663,7 +663,28 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 ## Traducciones al español
 
- - Análisis nutricional de *Octopus hubbsorum B* (Cephalopoda: Octopodidae) del Océano Pacífico, Acapulco, Guerrero, México [*Palacios-Abrantes et al. 2018* #1]
+Como parte de un esfuerzo de reducir la brecha de acceso a la información científica, traduzco algunos de mis artículos al español. Principalmente aquellos que considero importantes para la región y que tienen alguna importancia en política publica. Aquí están los enlaces a las traducciones:
+
+- <a span class="label label-success" href= "./Translations/fishglob_data.html" target="_blank">Traducción</span></a> FISHGLOB_data: un conjunto integrado de datos relacionados a la biodiversidad de peces a partir de muestreos científicos de arrastre de fondo [*Maureaud et al. 2024*, #25]
+
+- <a span class="label label-success" href= "./Translations/mayoria_tropical.html" target="_blank">Traducción</span></a> Es necesario involucrar a la Mayoría  Tropical para generar una gestión y ciencia marina más equitativa y efectiva [*Spalding et al. 2023* #24]
+
+ - <a span class="label label-success" href= "Translations/emerging_fish.html" target="_blank">Traducción</span></a> Desplazamiento y magnitud del cambio climático en las especies pesqueras transfronterizas desafían su gestión [*Palacios-Abrantes et al. 2022* #20]
+
+- <a span class="label label-success" href= "./Translations/FishMip/cmip5_vs_cmip6.html" target="_blank">Traducción</span></a> Comparación de modelos de cambio climático para pesquerías marinas: CMIP5 vs CMIP6 [*Tittensor et al. 2021* #16]  
+
+- <a span class="label label-success" href= "Translations/Fish_for_visa/Fish_for_visa_Esp.html" target="_blank">Traducción</span></a> La naturaleza transfronteriza de las especies marinas explotadas en el mundo [*Palacios-Abrantes et al. 2020* #12]
+
+ - <a span class="label label-success" href= "Translations/SESYNC/shifting_mpa_Esp.html" target="_blank">Traducción</span></a> Áreas marinas protegidas dinámicas para un océano cambiante [*Cashion et al. 2020* #8]
+
+ - <a span class="label label-success" href= "Translations/Metadata/Metadata_Esp.html" target="_blank">Traducción</span></a> Un enfoque de metadatos para evaluar el estado del conocimiento oceánico: fortalezas, limitaciones y aplicación a México [*Palacios-Abrantes et al. 2019* #5]
+ 
+ - <a span class="label label-success" href= "Translations/Callo_hacha/Callo_de_Hacha_Esp.html" target="_blank">Traducción</span></a> Evaluación del rendimiento bioeconómico de un plan de restauración de la pesquería de Callo de hacha (*Atrina maura, Atrina tuberculosa & Pinna rugosa*) en La Paz, México [*Palacios-Abrantes et al. 2018* #4]
+
+- <a span class="label label-success" href= "Translations/Border_Crossing/Border_Crossing_Esp.html" target="_blank">Traducción</span></a> Preparando la gobernanza oceánica para especies en movimiento [*Pinsky et al. 2018* #3]
+
+ - <a span class="label label-success" href= "Translations/UAM_Pulpos/Iron_Profile_Esp.pdf" target="_blank">Traducción</span></a> Análisis nutricional de *Octopus hubbsorum B* (Cephalopoda: Octopodidae) del Océano Pacífico, Acapulco, Guerrero, México [*Palacios-Abrantes et al. 2018* #1]
+ 
 
 
 ---- 
