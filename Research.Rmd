@@ -356,7 +356,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <!-- Press -->
 <a span class="label label-info" href= "https://stri.si.edu/story/ocean-protectors" target="_blank">Smithsonian TRI</span></a>
 <!-- Spanish version -->
-<a span class="label label-success" href= "./Translations/mayoria_tropical.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-success" href= "./Translations/mayoria_tropical/mayoria_tropical.html" target="_blank">Artículo en Español</span></a>
 
 </center>
 
