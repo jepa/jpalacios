@@ -1,11 +1,6 @@
 ---
 title: Es necesario involucrar a la Mayoría  Tropical 
-subtitle: Ana K. Spalding, Kirsten Grorud-Colvert, Edward H. Allison, Diva J. Amon,
-  Rachel Collin, Asha de Vos, Alan M. Friedlander,  Steven Mana'oakamai Johnson, Juan
-  Mayorga, Claire B. Paris, Cinda Scott, Daniel O. Suman, Andrés M. Cisneros-Montemayor,
-  Estradivari, Alfredo Giron-Nava, Georgina G. Gurney, Jean Harris, Christina Hicks,
-  Sangeeta Mangubhai, Fiorenza Micheli, Josheena Naggea, David Obura, Juliano Palacios-Abrantes,
-  Angelique Pouponneau, Rebecca Vega Thurber
+subtitle: Ana K. Spalding
 date: "01/2023"
 output:
   # word_document:
