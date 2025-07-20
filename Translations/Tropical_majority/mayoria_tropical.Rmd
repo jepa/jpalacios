@@ -110,47 +110,47 @@ Una oportunidad para solucionar la creciente desigualdad en la ciencia y la gest
 Las oportunidades de cambio incluyen compromisos para adoptar tipos de gestión  centrados en el empoderamiento indígena y local, así como en prácticas y costumbres tradicionales. Dichas oportunidades se alinean a una narrativa del océano en la que la gestión, la ciencia y los marcos legales reconocen, valoran y respaldan el liderazgo y los valores locales así como la conexión entre las personas y el océano. Los tomadores de decisión pueden impulsar este cambio tan necesario mediante el reconocimiento de las oportunidades presentadas por la Mayoría Tropical, la identificación de desigualdades sistémicas y la persistente exclusión de los valores y conocimientos locales; así como el establecimiento de metas y acciones específicas y cuantificables, en apoyo de una gestión y una ciencia marina que reviertan la desigualdad y reduzcan la brecha de conocimiento. Ante los eminentes efectos del cambio climático y la pérdida de biodiversidad, ahora es el momento de aprovechar el interés global y el liderazgo tropical para encontrar soluciones equitativas y efectivas para las personas y el océano.
 
 
-# Referencias 
+<!-- # Referencias  -->
 
-1. Kurien, J. People and the sea: A ‘tropical-majority’ world perspective. MAST 1, 9–26 (2002). 
+<!-- 1. Kurien, J. People and the sea: A ‘tropical-majority’ world perspective. MAST 1, 9–26 (2002).  -->
 
-2. Sale, P. F. et al. Transforming management of tropical coastal seas to cope with challenges of the 21st century. Mar. Poll. Bull. 85, 8–23 (2014). 
+<!-- 2. Sale, P. F. et al. Transforming management of tropical coastal seas to cope with challenges of the 21st century. Mar. Poll. Bull. 85, 8–23 (2014).  -->
 
-3. Álvarez-Romero, J. G. et al. Research advances and gaps in marine planning: towards a global database in systematic conservation planning. Biol. Cons. 227, 369–382 (2018). 
+<!-- 3. Álvarez-Romero, J. G. et al. Research advances and gaps in marine planning: towards a global database in systematic conservation planning. Biol. Cons. 227, 369–382 (2018).  -->
 
-4. Barlow, J. et al. The future of hyperdiverse tropical ecosystems. Nature 559, 517–526 (2018). 
+<!-- 4. Barlow, J. et al. The future of hyperdiverse tropical ecosystems. Nature 559, 517–526 (2018).  -->
 
-5. Fabinyi, M. The role of land tenure in livelihood transitions from ﬁshing to tourism. Mar. Stud. 19, 29–39 (2020).
+<!-- 5. Fabinyi, M. The role of land tenure in livelihood transitions from ﬁshing to tourism. Mar. Stud. 19, 29–39 (2020). -->
 
-6. Decker Sparks, J. L. & Sliva, S. M. An intersectionality-based analysis of high seas policy making stagnation and equity in United Nations negotiations. J. Comm. Prac. 27, 260–278 (2019). 
+<!-- 6. Decker Sparks, J. L. & Sliva, S. M. An intersectionality-based analysis of high seas policy making stagnation and equity in United Nations negotiations. J. Comm. Prac. 27, 260–278 (2019).  -->
 
-7. Ross, C. Beyond colonialism: Tropical environments and the legacies of empire. in Ecology and Power in the Age of Empire: Europe and the Transformation of the Tropical World (ed. Ross, C.) 0 (Oxford University Press, 2017).
+<!-- 7. Ross, C. Beyond colonialism: Tropical environments and the legacies of empire. in Ecology and Power in the Age of Empire: Europe and the Transformation of the Tropical World (ed. Ross, C.) 0 (Oxford University Press, 2017). -->
 
-8. de Vos, A. Stowing parachutes, strengthening science. Conserv. Sci. Pract. 4, e12709 (2022). 
+<!-- 8. de Vos, A. Stowing parachutes, strengthening science. Conserv. Sci. Pract. 4, e12709 (2022).  -->
 
-9. Liu, F., Rahwan, T. & AlShebli, B. Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations. Proc. Natl. Acad. Sci. U.S.A. 120, e2215324120 (2023). 
+<!-- 9. Liu, F., Rahwan, T. & AlShebli, B. Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations. Proc. Natl. Acad. Sci. U.S.A. 120, e2215324120 (2023).  -->
 
-10. Parsons, M., Taylor, L. & Crease, R. Indigenous environmental justice within marine ecosystems: A systematic review of the literature on Indigenous peoples' involvement in marine governance and management. Sustainability 13, 4217 (2021). 
+<!-- 10. Parsons, M., Taylor, L. & Crease, R. Indigenous environmental justice within marine ecosystems: A systematic review of the literature on Indigenous peoples' involvement in marine governance and management. Sustainability 13, 4217 (2021).  -->
 
-11. Jouffray, J.-B., Blasiak, R., Norström, A. V., Österblom, H. & Nyström, M. The Blue Acceleration: The trajectory of human expansion into the ocean. One Earth 2, 43–54 (2020). 
+<!-- 11. Jouffray, J.-B., Blasiak, R., Norström, A. V., Österblom, H. & Nyström, M. The Blue Acceleration: The trajectory of human expansion into the ocean. One Earth 2, 43–54 (2020).  -->
 
-12. Crosman, K. M. et al. Social equity is key to sustainable ocean governance. npj Ocean Sustain 1, 1–9 (2022). 
+<!-- 12. Crosman, K. M. et al. Social equity is key to sustainable ocean governance. npj Ocean Sustain 1, 1–9 (2022).  -->
 
-13. Pascual, U. et al. Summary for policymakers of the methodological assessment of the diverse values and valuation of nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES). (2022) 
+<!-- 13. Pascual, U. et al. Summary for policymakers of the methodological assessment of the diverse values and valuation of nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES). (2022)  -->
 
-14. Grorud-Colvert, K. et al. High-proﬁle international commitments for ocean protection: Empty promises or meaningful progress? Mar. Pol. 105, 52–66 (2019). 
+<!-- 14. Grorud-Colvert, K. et al. High-proﬁle international commitments for ocean protection: Empty promises or meaningful progress? Mar. Pol. 105, 52–66 (2019).  -->
 
-15. Lopez, F. Guía para el Monitoreo Participativo de Áreas Comunitarias de Manglar. (Ministerio del Ambiente de Ecuador, Conservación Internacional Ecuador, Instituto Humanista para la Cooperación con los Países en Desarrollo, Organización de las Naciones Unidas para la Alimentación y la Agricultura y Fondo para el Medio Ambiente Mundial., 2021). 
+<!-- 15. Lopez, F. Guía para el Monitoreo Participativo de Áreas Comunitarias de Manglar. (Ministerio del Ambiente de Ecuador, Conservación Internacional Ecuador, Instituto Humanista para la Cooperación con los Países en Desarrollo, Organización de las Naciones Unidas para la Alimentación y la Agricultura y Fondo para el Medio Ambiente Mundial., 2021).  -->
 
-16. De Santo, E. M., Jones, P. J. S. & Miller, A. M. M. Fortress conservation at sea: A commentary on the Chagos marine protected area. Mar. Pol. 35, 258–260 (2011). 
+<!-- 16. De Santo, E. M., Jones, P. J. S. & Miller, A. M. M. Fortress conservation at sea: A commentary on the Chagos marine protected area. Mar. Pol. 35, 258–260 (2011).  -->
 
-17. von der Porten, S., Ota, Y., Cisneros-Montemayor, A. & Pictou, S. The role of Indigenous resurgence in marine conservation. Coast. Manage. 47, 527–547 (2019). 
+<!-- 17. von der Porten, S., Ota, Y., Cisneros-Montemayor, A. & Pictou, S. The role of Indigenous resurgence in marine conservation. Coast. Manage. 47, 527–547 (2019).  -->
 
-18. Yeeting, A. D., Bush, S. R., Ram-Bidesi, V. & Bailey, M. Implications of new economic policy instruments for tuna management in the Western and Central Paciﬁc. Mar. Pol. 63, 45–52 (2016). 
+<!-- 18. Yeeting, A. D., Bush, S. R., Ram-Bidesi, V. & Bailey, M. Implications of new economic policy instruments for tuna management in the Western and Central Paciﬁc. Mar. Pol. 63, 45–52 (2016).  -->
 
-19. Kikiloi, K. et al. Papahānaumokuākea: Integrating culture in the design and management of one of the world’s largest marine protected areas. Coast. Manage. (2017). 
+<!-- 19. Kikiloi, K. et al. Papahānaumokuākea: Integrating culture in the design and management of one of the world’s largest marine protected areas. Coast. Manage. (2017).  -->
 
-20. Bambridge, T. The Rahui: Legal pluralism in Polynesian traditional management of resources and territories. (ANU Press, 2016). 21. Harden-Davies, H. et al. Capacity development in the Ocean Decade and beyond: Key questions about meanings, motivations, pathways, and measurements. Earth Syst. Gov. 12, 100138 (2022).
+<!-- 20. Bambridge, T. The Rahui: Legal pluralism in Polynesian traditional management of resources and territories. (ANU Press, 2016). 21. Harden-Davies, H. et al. Capacity development in the Ocean Decade and beyond: Key questions about meanings, motivations, pathways, and measurements. Earth Syst. Gov. 12, 100138 (2022). -->
 
 <br>
 <hr>
