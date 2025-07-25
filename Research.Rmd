@@ -199,6 +199,8 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <center>
 <!-- Original article -->
 <a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s44183-024-00087-1" target="_blank">Full Paper</span></a>
+<!-- <!-- Spanish version --> -->
+<!-- <a span class="label label-success" href= "./Translations/fostering?edi.html" target="_blank">Artículo en Español</span></a> -->
 
 </center> 
 
@@ -662,8 +664,8 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 
 ## Traducciones al español
-
-Como parte de un esfuerzo de reducir la brecha de acceso a la información científica, traduzco algunos de mis artículos al español. Principalmente aquellos que considero importantes para la región y que tienen alguna importancia en política publica. Aquí están los enlaces a las traducciones:
+  
+Como parte de un esfuerzo de reducir la brecha de acceso a la información científica, traduzco algunos de mis artículos al español. Principalmente aquellos que considero importantes para la región y que tienen alguna importancia en política publica. Aquí están los enlaces a las traducciones:  
 
 - <a span class="label label-success" href= "./Translations/fishglob_data.html" target="_blank">Traducción</span></a> FISHGLOB_data: un conjunto integrado de datos relacionados a la biodiversidad de peces a partir de muestreos científicos de arrastre de fondo [*Maureaud et al. 2024*, #25]
 

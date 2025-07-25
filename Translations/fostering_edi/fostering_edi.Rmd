@@ -1,0 +1,95 @@
+---
+title: 'Fomentando la diversidad, la equidad y la inclusión en la ciencia marina interdisciplinaria.'
+subtitle: "Laura Kaikkonen, Rebecca J. Shellock, Samiya Ahmed Selim, Renis Auma Ojwala,
+Beatriz S. Dias, Shenghui Li, Charles I. Addey, Ignacio Gianelli, Katherine M. Maltby,
+Sara Garcia-Morales, Juliano Palacios-Abrantes, Shan Jiang, Marta Albo-Puigserver,
+Virginia A. García Alonso, Chelsey A. Baker, Colleen B. Bove, Stephanie Brodie,
+Lol Iana Dahlet, Jewel Das, Aislinn Dunne, Sebastian C. A. Ferse, Ellen Johannesen,
+Julia Jung, Eugenia Merayo Garcia, Denis B. Karcher, Sarah Mahadeo, Lucia Millan,
+Kasali Oladepo Lawal, Ayodele Oloko, Kelly Ortega-Cisneros, Stephanie Otoabasi-
+Akpan, Durlave Roy, Samina Sharmin Rouf, Szymon Smoliński, Natasa Vaidianu,
+Chris Whidden & Mia Strand"
+date: "Publication: 2024, translation 2025"
+output:
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float: true
+  pdf_document:
+    toc: false
+---
+
+<!-- Logo -->
+<a href="https://www.nature.com/articles/s44183-024-00087-1" target="_blank" rel="noopener noreferrer">
+  <img src="../Images/Translations/fostering_edi.png" style="height:150px; float:right;" />
+</a>
+
+<!-- Google tag (gtag.js) -->
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HG1RRBT88J');
+</script>
+
+
+-   **NOTA: esta es una traducción al español del artículo:** *Fostering diversity, equity, and inclusion in interdisciplinary marine science*, escrito por Laura Kaikkonen y colaboradores y que se puede encontrar en la siguiente [liga](https://www.nature.com/articles/s44183-024-00087-1). No cuenta con la sección de XXXX.
+
+    -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.
+
+-   **Forma de Citar**: Kaikkonen, L., Shellock, R. J., Selim, S. A., Ojwala, R. A., Dias, B. S., Li, S., Addey, C. I., Gianelli, I., Maltby, K. M., Garcia-Morales, S., Palacios-Abrantes, J., Jiang, S., Albo-Puigserver, M., Alonso, V. A. G., Baker, C. A., Bove, C. B., Brodie, S., Dahlet, L. I., Das, J., Dunne, A., Ferse, S. C. A., Johannesen, E., Jung, J., Garcia, E. M., Karcher, D. B., Mahadeo, S., Millan, L., Lawal, K. O., Oloko, A., Ortega-Cisneros, K., Otoabasi-Akpan, S., Roy, D., Rouf, S. S., Smoliński, S., Vaidianu, N., Whidden, C. and Strand, M., 2024. Fostering diversity, equity, and inclusion in interdisciplinary marine science. *npj Ocean Sustainability*, 3 (1), 49.
+
+<center><a span class="label label-success" href= "LIGAPDF" >Descargar Artículo en Español</span></a></center>
+
+<br>
+
+<!-- Abstract rectangle -->
+
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding:20px;}
+</style>
+
+
+::: blue
+
+
+```{r setup, eval = T, echo=F, warning=F,message=F, results='hide'}
+
+#### Library ####
+packages <- c(
+  "knitr",
+  "kableExtra",
+  "png",
+  "grid"
+)
+
+MyFunctions::my_lib(packages)
+
+```
+
+# Resumen
+
+La investigación marina interdisciplinaria es fundamental para abordar los desafíos de sostenibilidad oceánica, pero puede excluir a diversos grupos por motivos socioeconómicos, culturales o identitarios. Basándonos en las perspectivas de investigadores marinos en etapa inicial de experiencia (ECR, por sus siglas en inglés), destacamos la importancia de la Diversidad, la Equidad y la Inclusión (DEI) para el avance de la ciencia marina interdisciplinaria y presentamos diez recomendaciones para fortalecerla. En la medida en que nuestros océanos enfrentan amenazas crecientes, fomentar la DEI no es sólo un objetivo deseado, sino un imperativo ético.
+
+<center>
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44183-024-00087-1/MediaObjects/44183_2024_87_Fig1_HTML.png?as=webp"/>
+
+**Diez recomendaciones para fomentar la Diversidad, Equidad e Inclusión en la ciencia marina interdisciplinaria.** 
+</center>
+
+*1. Implementar acciones específicas de DEI respecto a proyectos e instituciones. 2. Formular políticas integrales y transformadoras contra la discriminación. 3.Apoyar proyectos y redes internacionales equitativas. 4. Nombrar puntos focales designados para DEI en las instituciones de ciencia marina. 5. Mejorar la participación y accesibilidad en colaboraciones internacionales. 6. Promover la inclusión significativa de un grupo variado de expertos en la investigación. 7. Fomentar el valor de la investigación interdisciplinaria diversificada e inclusiva dentro de los programas académicos. 8. Desarrollar programas de mentoría para investigadores interdisciplinarios en etapa inicial (ECRs). 9. Considerar oportunidades de “discriminación positiva”, cuando sea posible, para promover la equidad. 10. Visibilizar y fortalecer iniciativas que fomenten la DEI.*
+
+
+
+<br>
+:::
+
+------------------------------------------------------------------------
+
