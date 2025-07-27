@@ -667,6 +667,8 @@ Latin America is a highly diverse and dynamic region and there are many contexts
   
 Como parte de un esfuerzo de reducir la brecha de acceso a la información científica, traduzco algunos de mis artículos al español. Principalmente aquellos que considero importantes para la región y que tienen alguna importancia en política publica. Aquí están los enlaces a las traducciones:  
 
+- <a span class="label label-success" href= "./Translations/fostering_edi.html" target="_blank">Traducción</span></a> Fomentando la equidad, diversidad e inclusión en la ciencia marina y la gestión oceánica [*Kaikkonen et al. 2023*, #37]
+
 - <a span class="label label-success" href= "./Translations/fishglob_data.html" target="_blank">Traducción</span></a> FISHGLOB_data: un conjunto integrado de datos relacionados a la biodiversidad de peces a partir de muestreos científicos de arrastre de fondo [*Maureaud et al. 2024*, #25]
 
 - <a span class="label label-success" href= "./Translations/mayoria_tropical.html" target="_blank">Traducción</span></a> Es necesario involucrar a la Mayoría  Tropical para generar una gestión y ciencia marina más equitativa y efectiva [*Spalding et al. 2023* #24]
