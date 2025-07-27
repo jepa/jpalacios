@@ -3,6 +3,7 @@ title: "Improving Fisheries Management and Marine Conservation in Latin America"
 output:
   html_document:
     theme: "yeti"
+    css: nav_button.css
 ---
 
 <center>
@@ -37,25 +38,15 @@ As a Brazilian-Mexican citizen, I am committed to support policy-making and reso
 ```{r metamares, child = 'Metamares.Rmd', eval = T}
 ```
 
-
----- 
-
-<center>
-
-**Contact**
-
-j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Bluesky](https://bsky.app/profile/julianop.bsky.social)
-
-</center>
-
-
-<!-- Google translator  -->
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
+<a href="../Research.html" class="btn btn-black-frame">
+  <i class="fa fa-arrow-left"></i> Research
+</a>
+<a href="conservation_cc.html" class="btn btn-black-frame">
+  Conservation <i class="fa fa-arrow-right"></i>
+</a>
+<a href="transboundary.html" class="btn btn-black-frame">
+  Transboundary <i class="fa fa-arrow-left"></i>
+</a>
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

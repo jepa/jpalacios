@@ -3,7 +3,9 @@ title: " Socio-Ecological Impacts of Climate Change to Marine Protected Areas"
 output:
   html_document:
     theme: "yeti"
+    css: nav_button.css
 ---
+
 
 
 <!-- Google tag (gtag.js) -->
@@ -49,19 +51,14 @@ Global society has set ambitious goals to reserve 30% of the ocean by 2030 aimin
 
 <center>
 
-<a class="btn btn-warning" href="https://www.julianopalacios.com/Research.html#Main_Research_Projects">Back to Research Projects</a>
+<a href="../Research.html" class="btn btn-black-frame">
+  <i class="fa fa-arrow-left"></i> Research
+</a>
+<a href="pescado_latino.html" class="btn btn-black-frame">
+  Management LatAm. <i class="fa fa-arrow-right"></i>
+</a>
+<a href="transboundary.html" class="btn btn-black-frame">
+  Transboundary <i class="fa fa-arrow-left"></i>
+</a>
 
----- 
 
-**Contact**
-
-j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Bluesky](https://bsky.app/profile/julianop.bsky.social){target="_blank"}
-
-</center>
-
-
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

@@ -1,0 +1,20 @@
+.btn-black-frame {
+  color: black !important;
+  border: 1px solid black !important;
+  background-color: transparent !important;
+  transition: all 0.3s ease;
+}
+
+.btn-black-frame i {
+  color: black !important;
+}
+
+/* Hover effect */
+.btn-black-frame:hover {
+  background-color: black !important;
+  color: white !important;
+}
+
+.btn-black-frame:hover i {
+  color: white !important;
+}
