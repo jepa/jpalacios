@@ -40,13 +40,13 @@ output:
 </script>
 ```
 
--   **NOTA: esta es una traducción al español del artículo:** *Fostering diversity, equity, and inclusion in interdisciplinary marine science*, escrito por Laura Kaikkonen y colaboradores y que se puede encontrar en la siguiente [liga](https://www.nature.com/articles/s44183-024-00087-1). No cuenta con la sección de XXXX.
+-   **NOTA: esta es una traducción al español del artículo:** *Fostering diversity, equity, and inclusion in interdisciplinary marine science*, escrito por Laura Kaikkonen y colaboradores y que se puede encontrar en la siguiente [liga](https://www.nature.com/articles/s44183-024-00087-1).
 
-    -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.
+    -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.  
 
 -   **Forma de Citar**: Kaikkonen, L., Shellock, R. J., Selim, S. A., Ojwala, R. A., Dias, B. S., Li, S., Addey, C. I., Gianelli, I., Maltby, K. M., Garcia-Morales, S., Palacios-Abrantes, J., Jiang, S., Albo-Puigserver, M., Alonso, V. A. G., Baker, C. A., Bove, C. B., Brodie, S., Dahlet, L. I., Das, J., Dunne, A., Ferse, S. C. A., Johannesen, E., Jung, J., Garcia, E. M., Karcher, D. B., Mahadeo, S., Millan, L., Lawal, K. O., Oloko, A., Ortega-Cisneros, K., Otoabasi-Akpan, S., Roy, D., Rouf, S. S., Smoliński, S., Vaidianu, N., Whidden, C. and Strand, M., 2024. Fostering diversity, equity, and inclusion in interdisciplinary marine science. *npj Ocean Sustainability*, 3 (1), 49.
 
-<center><a span class="label label-success" href= "LIGAPDF" >Descargar Artículo en Español</span></a></center>
+<center><a span class="label label-success" href= "./fostering_edi/kaikkonen_etal_2024_esp.pdf" >Descargar Artículo en Español</span></a></center>
 
 <br>
 
@@ -126,57 +126,49 @@ La investigación marina interdisciplinaria es fundamental para abordar los desa
 
 # Introducción
 
-La investigación marina interdisciplinaria es fundamental para abordar los desafíos de la sostenibilidad oceánica. Sin emabrgo, se corre el riesgo de excluir a grupos diversos desde el punto de vista socioeconómico, cultural o identitario. Basándonos en las perspectivas de investigadores marinos en etapas iniciales de su carrera (*Early Career Researchers, ECRs*), destacamos la importancia de la Diversidad, Equidad e Inclusión (DEI) en el avance de la ciencia marina interdisciplinaria y presentamos diez recomendaciones para fortalecerla. Frente a las crecientes amenazas que enfrenta nuestro océano, fomentar la DEI en este ámbito no es sólo una meta deseable, sino un imperativo ético (ver [Glosario](#Glosario)).
+En una era marcada por el reconocimiento creciente de la relación entre el medio ambiente y las sociedades humanas, la ciencia marina interdisciplinaria se consolida como un campo relativamente nuevo y esencial^1^. Con el potencial de abordar algunos de los desafíos globales más urgentes, ese tipo de investigación integra perspectivas y enfoques diversos de las ciencias naturales y sociales para generar una comprensión más holística de los sistemas socioecológicos marinos ^2,3,4^. Sin embargo, esta disciplina podría no alcanzar su máximo potencial debido a su falta de consideración por la DEI (ver [Glosario](#Glosario)). 
 
-En una era marcada por el reconocimiento creciente de la relación entre el medio ambiente y las sociedades humanas, la ciencia marina interdisciplinaria se consolida como un campo relativamente nuevo y esencial. Con el potencial de abordar algunos de los desafíos globales más urgentes, ese tipo de investigación integra perspectivas y enfoques diversos de las ciencias naturales y sociales para generar una comprensión más holística de los sistemas socioecológicos marinos.
+Se ha demostrado que la ciencia marina, en general, no logra incorporar adecuadamente la DEI^5,6^, y estudios recientes han puesto en evidencia desequilibrios persistentes relacionados con la equidad de género^7,8,9^, la representación cultural, la predominancia del idioma inglés y de las instituciones del Norte Global^10,11,12^, los costos de liderar y participar en la ciencia^13^, el sentido de pertenencia^14^, y la neurodiversidad^15^, entre otros temas^16^. Si bien ha habido poco enfoque específico sobre el estado de la DEI en la investigación marina interdisciplinaria y sobre hasta qué punto este campo logra integrar personas y grupos diversos, planteamos que los desafíos (y también los beneficios) de la DEI podrían ser incluso mayores en ese contexto. Esta dimensión es especialmente relevante para los investigadores en etapas tempranas de su carrera (ECRs), quienes representan la próxima generación de líderes científicos y desempeñan un papel clave en el desarrollo de esta disciplina^17,18,19^.
 
-Sin embargo, esta disciplina podría no alcanzar su máximo potencial debido a su falta de consideración por la DEI (ver [Glosario](#Glosario)). Se ha demostrado que la ciencia marina, en general, no logra incorporar adecuadamente la DEI, y estudios recientes han puesto en evidencia desequilibrios persistentes relacionados con la equidad de género, la representación cultural, la predominancia del idioma inglés y de las instituciones del Norte Global, los costos de liderar y participar en la ciencia, el sentido de pertenencia, y la neurodiversidad, entre otros temas.
+Para abordar esa brecha, este artículo se basa en un taller virtual organizado por la [Red Interdisciplinaria de Investigadores Marinos en Etapas Iniciales (IMECaN)](https://imber.info/imecan-interdisciplinary-marine-early-career-network/) del Proyecto de Investigación Integrada de la Biósfera Marina (IMBeR), realizado el 11 de octubre de 2022. El taller incluyó sesiones plenarias y grupos de discusión centrados en tres preguntas clave: (1) ¿Qué significa la DEI para tu comunidad científica?; (2) ¿Cuáles son los principales desafíos o barreras para la DEI que enfrentas como investigador marino interdisciplinario?; y (3) ¿Cómo puede mejorarse o fomentarse la DEI dentro de la ciencia marina interdisciplinaria? Integramos las experiencias y perspectivas colectivas de investigadores marinos en etapa inicial sobre la DEI en la ciencia marina interdisciplinaria y las utilizamos para formular tres declaraciones principales: (1) La diversidad es esencial para lograr una ciencia marina interdisciplinaria de alta calidad; (2) La interdisciplinariedad puede representar desafíos y una complejidad adicional para minorías^20^ al hacer ciencia; y (3) La ciencia marina interdisciplinaria puede excluir a estos grupos y estar asociada con discriminación, prejuicios y elitismo. Finalmente, discutimos posibles caminos para fomentar la DEI en la investigación marina interdisciplinaria.
 
-Si bien ha habido poco enfoque específico sobre el estado de la DEI en la investigación marina interdisciplinaria y sobre hasta qué punto este campo logra integrar personas y grupos diversos, planteamos que los desafíos (y también los beneficios) de la DEI podrían ser incluso mayores en ese contexto. Esta dimensión es especialmente relevante para los investigadores en etapas tempranas de su carrera (ECRs), quienes representan la próxima generación de líderes científicos y desempeñan un papel clave en el desarrollo de esta disciplina.
+## La diversidad es fundamental para la ciencia marina interdisciplinaria.
 
-Para abordar esa brecha, este artículo se basa en un taller virtual organizado por la [Red Interdisciplinaria de Investigadores Marinos en Etapas Iniciales (IMECaN)](https://imber.info/imecan-interdisciplinary-marine-early-career-network/) del Proyecto de Investigación Integrada de la Biósfera Marina (IMBeR), realizado el 11 de octubre de 2022. El taller incluyó sesiones plenarias y grupos de discusión centrados en tres preguntas clave: (1) ¿Qué significa la DEI para tu comunidad científica?; (2) ¿Cuáles son los principales desafíos o barreras para la DEI que enfrentas como investigador marino interdisciplinario?; y (3) ¿Cómo puede mejorarse o fomentarse la DEI dentro de la ciencia marina interdisciplinaria?
+La ciencia interdisciplinaria suele entenderse como la integración de disciplinas, pero debemos ir más allá de esta noción convencional y reflexionar sobre otras dimensiones fundamentales de la interdisciplinariedad; es decir, quiénes están llevando a cabo la investigación y cómo garantizar una mejor representación en la ciencia marina interdisciplinaria para responder a los desafíos globales^21^. Así como la interdisciplinariedad fortalece la investigación^22,23^ y la diversidad fortalece la ciencia, sostenemos que la diversidad fortalece la interdisciplinariedad. La investigación marina interdisciplinaria posee varias características que pueden facilitar o presentar desafíos en el contexto de la diversidad, equidad e inclusión (DEI):
 
-Integramos las experiencias y perspectivas colectivas de investigadores marinos en etapa inicial sobre la DEI en la ciencia marina interdisciplinaria y las utilizamos para formular tres declaraciones principales: (1) La diversidad es esencial para lograr una ciencia marina interdisciplinaria de alta calidad; (2) La interdisciplinariedad puede representar desafíos y una complejidad adicional para grupos minorizados al hacer ciencia; y (3) La ciencia marina interdisciplinaria puede excluir a estos grupos y estar asociada con discriminación, prejuicios y elitismo. Finalmente, discutimos posibles caminos para fomentar la DEI en la investigación marina interdisciplinaria.
+i.  *Naturaleza global de los problemas marinos:* La investigación marina aborda preocupaciones globales como el cambio climático, la pérdida de biodiversidad, las especies migratorias, la gestión transfronteriza del espacio y los recursos marinos, y la salud del océano^24,25^. La naturaleza interconectada del océano, combinada con estos desafíos, implica necesariamente la participación de un conjunto diverso de países y culturas, lo que convierte en esencial la consideración de la DEI.
 
-# La diversidad es fundamental para la ciencia marina interdisciplinaria.
+ii. *Práctica marina:* La ciencia marina a menudo incluye trabajo de campo y actividades en el mar (por ejemplo, campañas de investigación en cruceros), las cuales requieren equipos técnicos avanzados. Esto representa barreras^26^ considerables para países con recursos limitados. Además, puede incluir cuestiones culturalmente sensibles en ciertas sociedades (por ejemplo, mujeres entrevistando a pescadores). Por otro lado, dicha ciencia ha carecido de una perspectiva sensible al género, lo cual ha derivado en situaciones de acoso e inequidad para personas investigadoras no masculinas^27,28^. La investigación marina también puede desarrollarse en áreas más allá de las jurisdicciones nacionales (es decir, alta mar y fondos marinos profundos), donde sólo los países con mayores recursos económicos tienen condiciones para operar^29^.
 
-La ciencia interdisciplinaria suele entenderse como la integración de disciplinas, pero debemos ir más allá de esta noción convencional y reflexionar sobre otras dimensiones fundamentales de la interdisciplinariedad; es decir, quiénes están llevando a cabo la investigación y cómo garantizar una mejor representación en la ciencia marina interdisciplinaria para responder a los desafíos globales. Así como la interdisciplinariedad fortalece la investigación y la diversidad fortalece la ciencia, sostenemos que la diversidad fortalece la interdisciplinariedad.
+iii. *Diversidad de actores clave:* El entorno marino afecta a una gran variedad de actores con valores diversos, incluidos pueblos indígenas y comunidades locales (IPLC, por sus siglas en inglés), responsables políticos e industrias como la pesca, el transporte marítimo, la minería y el turismo. Integrar y valorar la DEI al llevar a cabo investigaciones interdisciplinarias se vuelve esencial para asegurar que estas voces, intereses y valores varios (incluyendo aquellos que han sido históricamente marginados) sean incluidos de manera significativa^30^.
 
-La investigación marina interdisciplinaria posee varias características que pueden facilitar o presentar desafíos en el contexto de la diversidad, equidad e inclusión (DEI):
+iv. *Colaboración transdisciplinaria:* La investigación marina interdisciplinaria suele requerir la colaboración de científicos de las ciencias naturales y sociales, expertos en políticas públicas y otros titulares de saberes como los IPLC. Esta diversidad de conocimientos y sistemas de saberes abre la puerta a una gama más amplia de perspectivas y actores, lo cual puede aprovecharse para lograr un enfoque más inclusivo en la investigación y una comprensión más holística de los desafíos oceánicos. Involucrar a esos grupos diversos requiere un equilibrio cuidadoso respecto a la carga que significa realizar investigaciones transdisciplinarias, y, al mismo tiempo, considerar, con atención, los desequilibrios de poder entre los distintos actores^31,32,33^.
 
-i.  *Naturaleza global de los problemas marinos:* La investigación marina aborda preocupaciones globales como el cambio climático, la pérdida de biodiversidad, las especies migratorias, la gestión transfronteriza del espacio y los recursos marinos, y la salud del océano. La naturaleza interconectada del océano, combinada con estos desafíos, implica necesariamente la participación de un conjunto diverso de países y culturas, lo que convierte en esencial la consideración de la DEI.
-
-ii. *Práctica marina:* La ciencia marina a menudo incluye trabajo de campo y actividades en el mar (por ejemplo, campañas de investigación en cruceros), las cuales requieren equipos técnicos avanzados. Esto representa barreras considerables para países con recursos limitados. Además, puede incluir cuestiones culturalmente sensibles en ciertas sociedades (por ejemplo, mujeres entrevistando a pescadores). Por otro lado, dicha ciencia ha carecido de una perspectiva sensible al género, lo cual ha derivado en situaciones de acoso e inequidad para personas investigadoras no masculinas. La investigación marina también puede desarrollarse en áreas más allá de las jurisdicciones nacionales (es decir, alta mar y fondos marinos profundos), donde sólo los países con mayores recursos económicos tienen condiciones para operar.
-
-iii. *Diversidad de actores clave:* El entorno marino afecta a una gran variedad de actores con valores diversos, incluidos pueblos indígenas y comunidades locales (IPLC, por sus siglas en inglés), responsables políticos e industrias como la pesca, el transporte marítimo, la minería y el turismo. Integrar y valorar la DEI al llevar a cabo investigaciones interdisciplinarias se vuelve esencial para asegurar que estas voces, intereses y valores varios (incluyendo aquellos que han sido históricamente marginados) sean incluidos de manera significativa.
-
-iv. *Colaboración transdisciplinaria:* La investigación marina interdisciplinaria suele requerir la colaboración de científicos de las ciencias naturales y sociales, expertos en políticas públicas y otros titulares de saberes como los IPLC. Esta diversidad de conocimientos y sistemas de saberes abre la puerta a una gama más amplia de perspectivas y actores, lo cual puede aprovecharse para lograr un enfoque más inclusivo en la investigación y una comprensión más holística de los desafíos oceánicos. Involucrar a esos grupos diversos requiere un equilibrio cuidadoso respecto a la carga que significa realizar investigaciones transdisciplinarias, y, al mismo tiempo, considerar, con atención, los desequilibrios de poder entre los distintos actores.
-
-v.  *Conocimiento indígena y local:* La ciencia marina interdisciplinaria necesita incorporar y operacionalizar múltiples tipos de conocimiento en la conservación y el uso sostenible de los recursos marinos. Muchos IPLC poseen conocimientos profundos sobre los ecosistemas marinos. Sin embargo, con frecuencia han sido excluidos, marginados o criminalizados en proyectos de ciencia oceánica y conservación marina. Reconocer e incorporar este conocimiento (con su participación y consentimiento) y considerar el legado histórico de su marginación no solo es fundamental para lograr investigaciones sólidas, sino también para mantener principios éticos y de DEI.
+v.  *Conocimiento indígena y local:* La ciencia marina interdisciplinaria necesita incorporar y operacionalizar múltiples tipos de conocimiento en la conservación y el uso sostenible de los recursos marinos^34^. Muchos IPLC poseen conocimientos profundos sobre los ecosistemas marinos. Sin embargo, con frecuencia han sido excluidos, marginados o criminalizados en proyectos de ciencia oceánica y conservación marina^35,36^. Reconocer e incorporar este conocimiento (con su participación y consentimiento) y considerar el legado histórico de su marginación no solo es fundamental para lograr investigaciones sólidas, sino también para mantener principios éticos y de DEI^37,38^.
 
 Por lo tanto, para avanzar en la ciencia marina interdisciplinaria y responder a los desafíos globales de sostenibilidad, la inclusión de voces y saberes diversos es primordial. Sin un enfoque deliberado en la DEI y esfuerzos concretos para promoverla, la ciencia marina interdisciplinaria no logrará cumplir su misión de abarcar una amplia gama de perspectivas y proporcionar una comprensión integral de los problemas que enfrenta el océano.
 
-# La interdisciplinariedad puede presentar desafíos y mayor complejidad para los grupos minorizados.
+## La interdisciplinariedad puede presentar desafíos y mayor complejidad para los grupos minorizados.
 
-La complejidad adicional de realizar ciencia interdisciplinaria puede tener consecuencias particulares para ciertos grupos dentro de la ciencia marina, y puede significar que algunas personas y colectivos tengan mayores probabilidades de ser incluidos que otros. A continuación, se describe cómo la ciencia marina interdisciplinaria puede ser especialmente desafiante para ECR y para grupos minorizados.
+La complejidad adicional de realizar ciencia interdisciplinaria puede tener consecuencias particulares para ciertos grupos dentro de la ciencia marina, y puede significar que algunas personas y colectivos tengan mayores probabilidades de ser incluidos que otros^31,32^. A continuación, se describe cómo la ciencia marina interdisciplinaria puede ser especialmente desafiante para ECR y para grupos minorizados.
 
-La investigación interdisciplinaria puede suponer desafíos adicionales para los ECR, quienes conforman una gran parte de la fuerza laboral académica, y enfrentan incertidumbre laboral, cargas de trabajo demandantes, estrés y agotamiento. Estos desafíos pueden variar entre los ECR dependiendo del apoyo institucional y del respaldo por parte de sus supervisores y mentores. Aquellos ECR que participan en investigaciones interdisciplinarias enfrentan, además, retos relacionados con la complejidad de los problemas, temas y fenómenos propios de los sistemas socioecológicos, la necesidad de contar con un conjunto de herramientas metodológicas más amplio, y la interacción con múltiples actores y perspectivas. Adicionalmente, los ECR interdisciplinarios requieren una mayor diversidad de conceptos y teorías relevantes para múltiples disciplinas, territorios, campos de estudio y procesos, así como más tiempo (por ejemplo, para la comunicación y coordinación), lo cual coloca en desventaja a quienes provienen de contextos menos consolidados o con menos recursos.
+La investigación interdisciplinaria puede suponer desafíos adicionales para los ECR, quienes conforman una gran parte de la fuerza laboral académica^39^, y enfrentan incertidumbre laboral, cargas de trabajo demandantes, estrés y agotamiento^19,40^. Estos desafíos pueden variar entre los ECR dependiendo del apoyo institucional y del respaldo por parte de sus supervisores y mentores^17^. Aquellos ECR que participan en investigaciones interdisciplinarias enfrentan, además, retos relacionados con la complejidad de los problemas, temas y fenómenos propios de los sistemas socioecológicos, la necesidad de contar con un conjunto de herramientas metodológicas más amplio, y la interacción con múltiples actores y perspectivas^41^. Adicionalmente, los ECR interdisciplinarios requieren una mayor diversidad de conceptos y teorías relevantes para múltiples disciplinas, territorios, campos de estudio y procesos^42^, así como más tiempo (por ejemplo, para la comunicación y coordinación), lo cual coloca en desventaja a quienes provienen de contextos menos consolidados o con menos recursos.
 
-Los desafíos de la investigación interdisciplinaria pueden ser aún más significativos para ECR pertenecientes a grupos minorizados, ya que enfrentan sesgos institucionales y barreras estructurales dentro de instituciones académicas y de investigación en ciencias marinas. Esto se debe a sistemas interseccionales de opresión y privilegio, así como al legado del colonialismo en la ciencia marina, elementos que afectan múltiples identidades sociales como el género, la nacionalidad, la etnicidad, la identidad sexual, la discapacidad, la clase económica y la edad. Esto puede generar sistemas entrelazados de racismo, sexismo, heterosexismo y clasismo a nivel estructural macro-social. Por ejemplo, diversas investigaciones han mostrado que las mujeres racializadas han sido las más afectadas por la pandemia de COVID-19, y que también han experimentado mayor acoso en los campos de ciencia, tecnología, ingeniería y matemáticas (STEM, por sus siglas en inglés).
+Los desafíos de la investigación interdisciplinaria pueden ser aún más significativos para ECR pertenecientes a minorías^5,43^, ya que enfrentan sesgos institucionales y barreras estructurales dentro de instituciones académicas y de investigación en ciencias marinas. Esto se debe a sistemas interseccionales de opresión y privilegio, así como al legado del colonialismo en la ciencia marina, elementos que afectan múltiples identidades sociales como el género^8,44^, la nacionalidad^45^, la etnicidad^46^, la identidad sexual, la discapacidad, la clase económica y la edad^47^. Esto puede generar sistemas entrelazados de racismo, sexismo, heterosexismo y clasismo a nivel estructural macro-social^48,49^. Por ejemplo, diversas investigaciones han mostrado que las mujeres racializadas han sido las más afectadas por la pandemia de COVID-19^50^, y que también han experimentado mayor acoso en los campos de ciencia, tecnología, ingeniería y matemáticas (STEM, por sus siglas en inglés)^51^.
 
-Los grupos minorizados enfrentan obstáculos adicionales en su desarrollo profesional debido a estereotipos, sesgos y a una falta de sentido de pertenencia en la academia, factores sumados a barreras institucionales y culturales. La ciencia marina interdisciplinaria suele estar influenciada por prioridades de investigación establecidas por grupos dominantes que actúan como guardianes del campo. Esto puede generar problemas de credibilidad, ya que otros pueden percibir sus intereses o capacidades como diferentes o menores debido a su identidad. Además, la necesidad de involucrarse con múltiples disciplinas puede exponer a los investigadores de grupos minorizados a una gama aún más amplia de prejuicios institucionales, complicando todavía más su labor investigativa. La intersección de estas barreras añade capas de complejidad que pueden afectar la capacidad de las minorías étnicas para emprender investigaciones (por ejemplo, por temores de ser marginadas o ignoradas) y reducir el número de sus publicaciones, disminuyendo así también la probabilidad de que mujeres y personas de minorías étnicas accedan a roles de liderazgo.
+Los grupos minorizados enfrentan obstáculos adicionales en su desarrollo profesional debido a estereotipos, sesgos y a una falta de sentido de pertenencia en la academia, factores sumados a barreras institucionales y culturales. La ciencia marina interdisciplinaria suele estar influenciada por prioridades de investigación establecidas por grupos dominantes que actúan como guardianes del campo^12^. Esto puede generar problemas de credibilidad, ya que otros pueden percibir sus intereses o capacidades como diferentes o menores debido a su identidad. Además, la necesidad de involucrarse con múltiples disciplinas puede exponer a los investigadores de grupos minorizados a una gama aún más amplia de prejuicios institucionales, complicando todavía más su labor investigativa. La intersección de estas barreras añade capas de complejidad que pueden afectar la capacidad de las minorías étnicas para emprender investigaciones (por ejemplo, por temores de ser marginadas o ignoradas) y reducir el número de sus publicaciones^52^, disminuyendo así también la probabilidad de que mujeres y personas de minorías étnicas accedan a roles de liderazgo^53,54^.
 
-# La ciencia marina interdisciplinaria corre el riesgo de no ser inclusiva.
+## La ciencia marina interdisciplinaria corre el riesgo de no ser inclusiva.
 
 De acuerdo con nuestra experiencia colectiva DEI no es suficientemente considerada en la investigación marina interdisciplinaria. A continuación, exponemos cuatro formas en las que esta ciencia corre el riesgo de no ser inclusiva:
 
-1.  *Falta de diversidad y representación*: Existe el riesgo de una baja representación de científicos y profesionales dentro de la comunidad de ciencia marina interdisciplinaria. Aunque en general los campos STEM suelen ser excluyentes, las áreas emergentes, como la ciencia marina interdisciplinaria, pueden ser especialmente vulnerables a dinámicas de elitismo y falta de diversidad. A menudo, las normas y culturas dentro de la ciencia marina (y de la academia en general) se centran en perspectivas masculinas y eurocéntricas, lo que puede llevar a que los científicos blancos sean percibidos como los principales portadores de conocimiento y guardianes del campo. Esto produce un acceso desigual a oportunidades tales como empleos, publicaciones y financiación. Si bien existen esfuerzos en curso para aumentar las oportunidades para mujeres, investigadores del Sur Global y comunidades marginadas, todavía queda mucho por hacer para implementar medidas con equidad y evitar el tokenismo (por ejemplo, el uso de personas símbolo en programas de fortalecimiento de capacidades oceánicas).
+1.  *Falta de diversidad y representación*: Existe el riesgo de una baja representación de científicos y profesionales dentro de la comunidad de ciencia marina interdisciplinaria. Aunque en general los campos STEM suelen ser excluyentes, las áreas emergentes, como la ciencia marina interdisciplinaria, pueden ser especialmente vulnerables a dinámicas de elitismo y falta de diversidad^51^. A menudo, las normas y culturas dentro de la ciencia marina (y de la academia en general) se centran en perspectivas masculinas y eurocéntricas, lo que puede llevar a que los científicos blancos sean percibidos como los principales portadores de conocimiento y guardianes del campo^45,55^. Esto produce un acceso desigual a oportunidades tales como empleos, publicaciones y financiación. Si bien existen esfuerzos en curso para aumentar las oportunidades para mujeres, investigadores del Sur Global y comunidades marginadas^56,57^, todavía queda mucho por hacer para implementar medidas con equidad y evitar el tokenismo (por ejemplo, el uso de personas símbolo en programas de fortalecimiento de capacidades oceánicas^27^).
 
-2.  *Acceso desigual a la formación interdisciplinaria*: Dado que la ciencia marina interdisciplinaria sigue evolucionando, en muchos lugares aún no se ofrece formación integral en este campo. El acceso de un ECR a dicha formación depende en gran medida de su institución, del financiamiento que reciba, del apoyo de sus mentores y/o de su ubicación geográfica. Estos factores también afectan su capacidad para realizar investigación interdisciplinaria, así como su credibilidad como científico. Estudios previos han demostrado que la investigación y los científicos interdisciplinarios pueden no ser tomados en serio ni valorados por sus colegas o instituciones. Además de la falta de formación y problemas de credibilidad, los ECR enfrentan otras barreras como financiamiento limitado, escaso apoyo, y pocas oportunidades para hacer trabajo de campo, asistir a congresos, acceder a literatura científica, programas de mentoría y redes. Estas oportunidades son esenciales para apoyar a los ECR, especialmente aquellos que enfrentan sistemas interseccionales de opresión. Reconocer estos desafíos es clave para mejorar la DEI en la ciencia marina interdisciplinaria. De lo contrario, ésta seguirá excluyendo a grupos minorizados y perpetuando la discriminación, el prejuicio y las prácticas elitistas.
+2.  *Acceso desigual a la formación interdisciplinaria*: Dado que la ciencia marina interdisciplinaria sigue evolucionando, en muchos lugares aún no se ofrece formación integral en este campo. El acceso de un ECR a dicha formación depende en gran medida de su institución, del financiamiento que reciba, del apoyo de sus mentores y/o de su ubicación geográfica^42^. Estos factores también afectan su capacidad para realizar investigación interdisciplinaria, así como su credibilidad como científico. Estudios previos han demostrado que la investigación y los científicos interdisciplinarios pueden no ser tomados en serio ni valorados por sus colegas o instituciones^58^. Además de la falta de formación y problemas de credibilidad, los ECR enfrentan otras barreras como financiamiento limitado, escaso apoyo, y pocas oportunidades para hacer trabajo de campo, asistir a congresos, acceder a literatura científica, programas de mentoría y redes. Estas oportunidades son esenciales para apoyar a los ECR, especialmente aquellos que enfrentan sistemas interseccionales de opresión^9^. Reconocer estos desafíos es clave para mejorar la DEI en la ciencia marina interdisciplinaria. De lo contrario, ésta seguirá excluyendo a grupos minorizados y perpetuando la discriminación, el prejuicio y las prácticas elitistas.
 
-3.  *Falta de integración de la DEI en el diseño e implementación de la investigación:* Esto tiene consecuencias para la calidad y la ética de la investigación. Dado que gran parte del enfoque se concentra en unas pocas instituciones de investigación, muchas de ellas ubicadas en el Norte Global y centradas en perspectivas euro-céntricas y occidentales, la ciencia marina interdisciplinaria no suele considerar las realidades y perspectivas del Sur Global, especialmente en contextos socioecológicos. Aunque existen algunos ejemplos, en general se percibe una falta de integración de formas y fuentes de conocimiento diversas, como el conocimiento local, tradicional e indígena. La conservación y gestión oceánica basada exclusivamente en el conocimiento científico puede ignorar o explotar el sistema de conocimiento y relaciones de los Pueblos Indígenas y comunidades locales (IPLC). Este conocimiento debe incorporarse mediante metodologías mixtas adecuadas y enfoques participativos en todas las etapas.
+3.  *Falta de integración de la DEI en el diseño e implementación de la investigación:* Esto tiene consecuencias para la calidad y la ética de la investigación. Dado que gran parte del enfoque se concentra en unas pocas instituciones de investigación, muchas de ellas ubicadas en el Norte Global y centradas en perspectivas euro-céntricas y occidentales^12^, la ciencia marina interdisciplinaria no suele considerar las realidades y perspectivas del Sur Global, especialmente en contextos socioecológicos. Aunque existen algunos ejemplos, en general se percibe una falta de integración de formas y fuentes de conocimiento diversas, como el conocimiento local, tradicional e indígena^33,59^. La conservación y gestión oceánica basada exclusivamente en el conocimiento científico puede ignorar o explotar el sistema de conocimiento y relaciones de los Pueblos Indígenas y comunidades locales (IPLC)^60,61^. Este conocimiento debe incorporarse mediante metodologías mixtas adecuadas y enfoques participativos en todas las etapas.
 
-4.  *Ciencia paracaidista:* Pese a las críticas, persiste la práctica de la “ciencia paracaidista”, en la que investigadores estudian contextos o poblaciones extranjeras, extrayendo datos y conocimiento sin involucrar ni beneficiar a las comunidades locales. Este fenómeno, con raíces coloniales, no sólo es responsabilidad de investigadores individuales, sino que está impulsado por estructuras institucionales y de financiamiento que priorizan colaboraciones internacionales sin garantizar beneficios ni participación local. Esto puede generar prácticas de investigación inequitativas e incluso perjudiciales. A diferencia de los científicos locales, los “paracaidistas” (frecuentemente del Norte Global) suelen carecer de conocimiento contextual, redes locales o interés genuino en apoyar el desarrollo de la región, y sus intervenciones pueden no alinearse con los intereses, necesidades o formas de conocimiento locales, causando potencialmente más daño que beneficio. Se necesita con urgencia una investigación e intervenciones que sean co-diseñadas o co-producidas junto con científicos nacionales, actores locales y comunidades para asegurar la equidad en la producción, uso y comunicación del conocimiento, así como en la distribución justa de los beneficios. Estos enfoques pueden mejorar la utilidad, validez, credibilidad y relevancia del conocimiento, lo que conduce a mejores resultados sociales, incluida mayor conciencia, aprendizaje, fortalecimiento de redes y generación de confianza.
+4.  *Ciencia paracaidista:* Pese a las críticas, persiste la práctica de la “ciencia paracaidista”, en la que investigadores estudian contextos o poblaciones extranjeras, extrayendo datos y conocimiento sin involucrar ni beneficiar a las comunidades locales^62,63^. Este fenómeno, con raíces coloniales, no sólo es responsabilidad de investigadores individuales, sino que está impulsado por estructuras institucionales y de financiamiento que priorizan colaboraciones internacionales sin garantizar beneficios ni participación local. Esto puede generar prácticas de investigación inequitativas e incluso perjudiciales^62^. A diferencia de los científicos locales, los “paracaidistas” (frecuentemente del Norte Global) suelen carecer de conocimiento contextual, redes locales o interés genuino en apoyar el desarrollo de la región, y sus intervenciones pueden no alinearse con los intereses, necesidades o formas de conocimiento locales^64^, causando potencialmente más daño que beneficio^66,66^. Se necesita con urgencia una investigación e intervenciones que sean co-diseñadas o co-producidas junto con científicos nacionales, actores locales y comunidades para asegurar la equidad en la producción, uso y comunicación del conocimiento, así como en la distribución justa de los beneficios^67^. Estos enfoques pueden mejorar la utilidad, validez, credibilidad y relevancia del conocimiento, lo que conduce a mejores resultados sociales, incluida mayor conciencia, aprendizaje, fortalecimiento de redes y generación de confianza^68^.
 
 
 ```{=html}
@@ -191,9 +183,9 @@ div.green-frame {
 
 <div class="green-frame">
 
-# Declaración de posicionalidad de los autores
+## Declaración de posicionalidad de los autores
 
-Los académicos involucrados en investigación en ciencias sociales deben evaluar cómo su propia posición puede influir en la interpretación de las experiencias vividas por las personas (es decir, los investigadores no están separados de los procesos sociales que estudian). La posición relevante de los investigadores incluye características personales como género, raza, afiliación, edad, orientación sexual, estatus migratorio, experiencias personales, tradición lingüística, creencias, sesgos, preferencias, posturas teóricas, políticas e ideológicas, así como sus respuestas emocionales hacia los otros participantes. Con base en las mejores prácticas, presentamos una declaración de reflexividad y posicionamiento.
+Los académicos involucrados en investigación en ciencias sociales deben evaluar cómo su propia posición puede influir en la interpretación de las experiencias vividas por las personas (es decir, los investigadores no están separados de los procesos sociales que estudian^70^). La posición relevante de los investigadores incluye características personales como género, raza, afiliación, edad, orientación sexual, estatus migratorio, experiencias personales, tradición lingüística, creencias, sesgos, preferencias, posturas teóricas, políticas e ideológicas, así como sus respuestas emocionales hacia los otros participantes^70^. Con base en las mejores prácticas, presentamos una declaración de reflexividad y posicionamiento^71,72^.
 
 En total, 37 autores contribuyeron a este artículo de perspectiva. El equipo estuvo compuesto por 24 mujeres, 12 hombres y una persona no binaria/género *queer*/género fluido. La mayoría de los/las autores/as eran post-doctorales, con cargos en instituciones académicas o en el sector de investigación, incluyendo investigadores post-doctorales (n = 6), investigadores asociados (n = 6), profesores/as titulares (n = 3) y profesores/as asistentes (n = 2). Otros cargos incluyeron: estudiantes de maestría (n = 1), consultores/as (n = 2), investigadores/as científicos/as (n = 3) y técnicos/as de investigación (n = 1). Once autores/as estaban cursando estudios, ya sea de doctorado (n = 9) o de licenciatura (n = 2).
 
@@ -211,11 +203,9 @@ Aunque el taller fue ampliamente difundido en redes sociales y a través de las 
 
 </div>
 
-# Caminos a seguir: Fomentar la diversidad, equidad e inclusión en la ciencia marina interdisciplinaria
+## Caminos a seguir: Fomentar la diversidad, equidad e inclusión en la ciencia marina interdisciplinaria
 
-Nuestra perspectiva pone en evidencia la falta de DEI en la ciencia marina interdisciplinaria, lo que afecta tanto a los grupos subrepresentados como a la validez del conocimiento generado por la investigación. Para promover y mantener la DEI, es fundamental crear una cultura que valore todas las voces. La ausencia de DEI limita la experiencia, el intercambio intercultural de conocimientos, la innovación y una gestión oceánica efectiva.
-
-Para abordar esto, enumeramos las siguientes proposiciones de manera a permitir una representación más amplia en las comunidades y disciplinas de las ciencias marinas, en busca de un futuro más inclusivo:
+Nuestra perspectiva pone en evidencia la falta de DEI en la ciencia marina interdisciplinaria, lo que afecta tanto a los grupos subrepresentados como a la validez del conocimiento generado por la investigación. Para promover y mantener la DEI, es fundamental crear una cultura que valore todas las voces. La ausencia de DEI limita la experiencia, el intercambio intercultural de conocimientos, la innovación y una gestión oceánica efectiva^69^. Para abordar esto, enumeramos las siguientes proposiciones de manera a permitir una representación más amplia en las comunidades y disciplinas de las ciencias marinas, en busca de un futuro más inclusivo:
 
 1)  *Implementar acciones específicas de DEI a nivel de proyectos e instituciones.* Aunque un número creciente de instituciones ha mostrado compromiso con la mejora de la DEI, muchos de estos esfuerzos dependen del trabajo voluntario de grupos e individuos dedicados. Para avanzar, dicho trabajo debe valorarse mediante la asignación de recursos y complementarse con medidas más amplias, como capacitaciones en DEI y la inclusión de los criterios de ésta en la evaluación de propuestas de financiamiento. Las tareas relacionadas con la DEI suelen recaer sobre miembros (o integrantes) de grupos subrepresentados, lo cual es en sí un problema de equidad, ya que desvía tiempo de su trabajo de investigación (como lo ejemplifica el propio trabajo invertido en este artículo). Para que los programas tengan éxito, deben ser diseñados, implementados y monitoreados por especialistas en DEI o con su participación directa.
 
@@ -275,3 +265,154 @@ Actualmente, la red cuenta con 1,243 miembros de 103 países en todos los contin
 #### Minorizado/a
 Es un enfoque basado en la construcción social en la que algunas personas son activamente marginadas por otras, en lugar de existir naturalmente como una minoría, como sugieren los términos “minoría racial” o “minoría étnica”.
 
+# Referencias
+
+1. Frazão Santos, C. et al. *Advancing interdisciplinary knowledge for ocean sustainability*. *npj Ocean Sustain* **2**, 1–7 (2023).
+
+2. Bennett, N. J., Blythe, J., White, C. S. & Campero, C. *Blue growth and blue justice: Ten risks and solutions for the ocean economy*. *Mar. Policy* **125**, 104387 (2021).
+
+3. McKinley, E., Acott, T. & Yates, K. L. *Marine social sciences: Looking towards a sustainable future*. *Environ. Sci. Policy* **108**, 85–92 (2020).
+
+4. van Putten, I. et al. *A decade of incorporating social sciences in the Integrated Marine Biosphere Research Project (IMBeR): Much Done, Much to Do?* *Front. Mar. Sci.* **8**, 662350 (2021).
+
+5. Johri, S. et al. *Pathways to justice, equity, diversity, and inclusion in marine science and conservation*. *Front. Mar. Sci.* **8**, 696180 (2021).
+
+6. de Vos, A. et al. *Towards equity and justice in ocean sciences*. *npj Ocean Sustain* **2**, 1–10 (2023).
+
+7. Giakoumi, S. et al. *Persistent gender bias in marine science and conservation calls for action to achieve equity*. *Biol. Conserv.* **257**, 109134 (2021).
+
+8. Johannesen, E., Barz, F., Dankel, D. J. & Kraak, S. B. M. *Gender and early career status: variables of participation at an international marine science conference*. *ICES J. Mar. Sci.* **80**, 1016–1027 (2023).
+
+9. Shellock, R. J. et al. *Breaking down barriers: The identification of actions to promote gender equality in interdisciplinary marine research institutions*. *One Earth* **5**, 687–708 (2022).
+
+10. Amano, T. et al. *The manifold costs of being a non-native English speaker in science*. *PLOS Biol.* **21**, e3002184 (2023).
+
+11. Mekonnen, A. et al. *What costs half a year’s pay for African scholars? Open access*. *Nature* **596**, 189–189 (2021).
+
+12. Spalding, A. K. et al. *Engaging the tropical majority to make ocean governance and science more equitable and effective*. *npj Ocean Sustain.* **2**, 1–4 (2023).
+
+13. Nabyonga-Orem, J., Asamani, J. A., Nyirenda, T. & Abimbola, S. *Article processing charges are stalling the progress of African researchers: a call for urgent reforms*. *BMJ Glob. Health* **5**, e003650 (2020).
+
+14. O’Brien, L. T., Bart, H. L. & Garcia, D. M. *Why are there so few ethnic minorities in ecology and evolutionary biology? Challenges to inclusion and the role of sense of belonging*. *Soc. Psychol. Educ.* **23**, 449–477 (2020).
+
+15. Cosentino, M. & Souviron-Priego, L. *Think of the early career researchers! Saving the oceans through collaborations*. *Front. Mar. Sci.* **8**, 574620 (2021).
+
+16. Osiecka, A. N., Wróbel, A., Hendricks, I.-W. & Osiecka-Brzeska, K. *Being ECR in marine science: Results of a survey among early-career marine scientists and conservationists*. *Front. Mar. Sci.* **9**, 835692 (2022).
+
+17. Andrews, E. J. et al. *Supporting early career researchers: insights from interdisciplinary marine scientists*. *ICES J. Mar. Sci.* **77**, 476–485 (2020).
+
+18. Haider, L. J. et al. *The undisciplinary journey: early-career perspectives in sustainability science*. *Sustain Sci.* **13**, 191–204 (2018).
+
+19. Shellock, R. J. et al. *Crossing disciplinary boundaries: motivations, challenges, and enablers for early career marine researchers moving from natural to social sciences*. *ICES J. Mar. Sci.* **80**, 40–55 (2023).
+
+20. Robinson, A. R., McCarthy, J. J. & Rothschild, B. J. *Interdisciplinary ocean science is evolving and a systems approach is essential*. *J. Mar. Syst.* **22**, 231–239 (1999).
+
+21. Miriti, M. N. *The identity crisis of ecological diversity*. *Ecol. Appl.* **31**, e02352 (2021).
+
+22. Hofstra, B. et al. *The Diversity–Innovation Paradox in science*. *Proc. Natl Acad. Sci.* **117**, 9284–9291 (2020).
+
+23. Nielsen, M. W. et al. *Gender diversity leads to better science*. *Proc. Natl Acad. Sci.* **114**, 1740–1742 (2017).
+
+24. Kaiser, B. A. et al. *The importance of connected ocean monitoring knowledge systems and communities*. *Front. Mar. Sci.* **6**, (2019).
+
+25. Palacios-Abrantes, J., Reygondeau, G., Wabnitz, C. C. C. & Cheung, W. W. L. *The transboundary nature of the world’s exploited marine species*. *Sci. Rep.* **10**, 17668 (2020).
+
+26. Tilbrook, B. et al. *An enhanced ocean acidification observing network: from people to technology to data synthesis and information exchange*. *Front. Mar. Sci.* **6**, 337 (2019).
+
+27. Amon, D. J., Filander, Z., Harris, L. & Harden-Davies, H. *Safe working environments are key to improving inclusion in open-ocean, deep-ocean, and high-seas science*. *Mar. Policy* **137**, 104947 (2022).
+
+28. Johannesen, E. et al. *The sea change needed for gender equality in ocean-going research*. *Mar. Technol. Soc. J.* **56**, 18–24 (2022).
+
+29. Caldeira, M., Teixeira, H. & Hilário, A. *Negotiations to implement area-based management tools beyond national jurisdiction: the scientific community’s view*. *Front. Mar. Sci.* **10**, 1173682 (2023).
+
+30. Pereira, L. M. et al. *Developing multiscale and integrative nature–people scenarios using the Nature Futures Framework*. *People Nat.* **2**, 1172–1195 (2020).
+
+31. Nyboer, E. A. et al. *Goals, challenges, and next steps in transdisciplinary fisheries research: perspectives and experiences from early-career researchers*. *Rev. Fish. Biol. Fish.* **33**, 349–374 (2023).
+
+32. Sellberg, M. M., Cockburn, J., Holden, P. B. & Lam, D. P. M. *Towards a caring transdisciplinary research practice: navigating science, society and self*. *Ecosyst. People* **17**, 292–305 (2021).
+
+33. Strand, M. et al. *Transdisciplinarity in transformative ocean governance research—reflections of early career researchers*. *ICES J. Mar. Sci.* **79**, 2163–2177 (2022).
+
+34. Mulalap, C. Y. et al. *Traditional knowledge and the BBNJ instrument*. *Mar. Policy* **122**, 104103 (2020).
+
+35. Bennett, N. J. et al. *Ocean defenders and human rights*. *Front. Mar. Sci.* **9**, 1089049 (2023).
+
+36. Oloko, A., Harper, S., Fakoya, K. & Sumaila, U. R. *The multi-dimensional perspectives of taboos on gender roles of fisherfolk in the Global South*. *Marit. Stud.* **23**, 1 (2024).
+
+37. Ban, N. C. et al. *Incorporate Indigenous perspectives for impactful research and effective management*. *Nat. Ecol. Evol.* **2**, 1680–1683 (2018).
+
+38. Vierros, M. K. et al. *Considering indigenous peoples and local communities in governance of the global ocean commons*. *Mar. Policy* **119**, 104039 (2020).
+
+39. Gibson, E. M. et al. *How support of early career researchers can reset science in the post-COVID19 world*. *Cell* **181**, 1445–1449 (2020).
+
+40. Sobey, A. J., Townsend, N. C., Metcalf, C. D., Bruce, K. D. & Fazi, F. M. *Incorporation of early career researchers within multidisciplinary research at academic institutions*. *Res. Eval.* **22**, 169–178 (2013).
+
+41. Cooke, S. J. et al. *Diverse perspectives on interdisciplinarity from Members of the College of the Royal Society of Canada*. *FACETS* **5**, 138–165 (2020).
+
+42. Kelly, R. et al. *Ten tips for developing interdisciplinary socio-ecological researchers*. *Socio Ecol. Pr. Res.* **1**, 149–161 (2019).
+
+43. Van Stavel, J. et al. *Towards an increase in Diversity, Equity and Inclusion in International Ocean Observing Practices and Initiatives*. In *OCEANS 2021: San Diego – Porto* 1–6 (2021). https://doi.org/10.23919/OCEANS44145.2021.9706081
+
+44. Ojwala, R. *Status of gender equality in ocean research, conservation and management institutions and organisations in Kenya*. *Afr. J. Mar. Sci.* **45**, 105–115 (2023).
+
+45. Ahmadia, G. N. et al. *Limited progress in improving gender and geographic representation in coral reef science*. *Front. Mar. Sci.* **8**, 731037 (2021).
+
+46. King, B. D. *Social identities, intersectionality, and the experiences of women and women of color in marine, aquatic, and fisheries science professions*. *Fisheries* **48**, 20–28 (2023).
+
+47. Rölfer, L. et al. *Disentangling obstacles to knowledge co-production for early-career researchers in the marine sciences*. *Front. Mar. Sci.* **9**, (2022).
+
+48. Bowleg, L. *The problem with the phrase women and minorities: intersectionality—an important theoretical framework for public health*. *Am. J. Public Health* **102**, 1267–1273 (2012).
+
+49. Crenshaw, K. *Demarginalizing the intersection of race and sex: a black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics*. In *Feminist Legal Theories* (Routledge, 1997).
+
+50. Staniscuaski, F. et al. *Gender, race and parenthood impact academic productivity during the COVID-19 pandemic: From survey to action*. *Front. Psychol.* **12**, 663252 (2021).
+
+51. Clancy, K. B. H., Lee, K. M. N., Rodgers, E. M. & Richey, C. *Double jeopardy in astronomy and planetary science: Women of color face greater risks of gendered and racial harassment*. *J. Geophys. Res.: Planets* **122**, 1610–1623 (2017).
+
+52. Wanelik, K. M., Griffin, J. S., Head, M. L., Ingleby, F. C. & Lewis, Z. *Breaking barriers? Ethnicity and socioeconomic background impact on early career progression in the fields of ecology and evolution*. *Ecol. Evol.* **10**, 6870–6880 (2020).
+
+53. Adamovic, M. & Leibbrandt, A. *Is there a glass ceiling for ethnic minorities to enter leadership positions? Evidence from a field experiment with over 12,000 job applications*. *Leadersh. Q.* **34**, 101655 (2023).
+
+54. Gillanders, B. M. & Heupel, M. R. *Women in marine science in Australia*. *Mar. Freshw. Res.* **70**, i–iii (2019).
+
+55. Bourabain, D. *Everyday sexism and racism in the ivory tower: The experiences of early career researchers on the intersection of gender and ethnicity in the academic workplace*. *Gend. Work Organ.* **28**, 248–267 (2021).
+
+56. Michalena, E., Straza, T. R. A., Singh, P., Morris, C. W. & Hills, J. M. *Promoting sustainable and inclusive oceans management in Pacific islands through women and science*. *Mar. Pollut. Bull.* **150**, 110711 (2020).
+
+57. Ojwala, R. A., Buckingham, S., Neat, F. & Kitada, M. *Understanding women’s roles, experiences and barriers to participation in ocean science education in Kenya: recommendations for better gender equality policy*. *Mar. Policy* **161**, 106000 (2024).
+
+58. McKinley, E. et al. *Development and expansion in the marine social sciences: Insights from the global community*. *iScience* **25**, 104735 (2022).
+
+59. Okafor-Yarwood, I. et al. *The blue economy–cultural livelihood–ecosystem conservation triangle: The African experience*. *Front. Mar. Sci.* **7**, 542908 (2020).
+
+60. Crosman, K. M. et al. *Social equity is key to sustainable ocean governance*. *npj Ocean Sustain* **1**, 1–9 (2022).
+
+61. Pauwelussen, A. & Verschoor, G. M. *Amphibious encounters: coral and people in conservation outreach in Indonesia*. *Engag. Sci. Technol. Soc.* **3**, 292–314 (2017).
+
+62. de Vos, A. *The problem of ‘Colonial Science’*. *Sci. Am.* https://www.scientificamerican.com/article/the-problem-of-colonial-science/ (2020).
+
+63. Stefanoudis, P. V. et al. *Turning the tide of parachute science*. *Curr. Biol.* **31**, R184–R185 (2021).
+
+64. Woodall, L. C. et al. *Co-development, co-production and co-dissemination of scientific research: a case study to demonstrate mutual benefits*. *Biol. Lett.* **17**, 20200699 (2021).
+
+65. Badstue, L., Petesch, P., Farnworth, C. R., Roeven, L. & Hailemariam, M. *Women farmers and agricultural innovation: marital status and normative expectations in rural Ethiopia*. *Sustainability* **12**, 9847 (2020).
+
+66. Singh-Peterson, L. et al. *Reflections from the South Pacific – Navigating Intersectionality and Customary Contexts to Progress Gender Equality and Gender Equity*. In *Integrating Gender in Agricultural Development* (eds. Singh-Peterson, L. & Carnegie, M.) 151–162 (Emerald Publishing Limited, 2019). https://doi.org/10.1108/978-1-78973-055-520191013
+
+67. Norström, A. V. et al. *Principles for knowledge co-production in sustainability research*. *Nat. Sustain* **3**, 182–190 (2020).
+
+68. Karcher, D. B., Cvitanovic, C., Colvin, R. M., van Putten, I. E. & Reed, M. S. *Is this what success looks like? Mismatches between the aims, claims, and evidence used to demonstrate impact from knowledge exchange processes at the interface of environmental science and policy*. *Environ. Sci. Policy* **125**, 202–218 (2021).
+
+69. Cisneros-Montemayor, A. M. et al. *Enabling conditions for an equitable and sustainable blue economy*. *Nature* **591**, 396–401 (2021).
+
+70. Holmes, A. G. D. *Researcher positionality - a consideration of its influence and place in qualitative research - a new researcher guide*. *Shanlax Int. J. Educ.* **8**, 1–10 (2020).
+
+71. Moon, K. & Blackman, D. *A guide to understanding social science research for natural scientists*. *Conserv. Biol.* **28**, 1167–1177 (2014).
+
+72. Secules, S. et al. *Positionality practices and dimensions of impact on equity research: A collaborative inquiry and call to the community*. *J. Eng. Educ.* **110**, 19–43 (2021).
+
+--- 
+
+-   **Forma de Citar**: Kaikkonen, L., Shellock, R. J., Selim, S. A., Ojwala, R. A., Dias, B. S., Li, S., Addey, C. I., Gianelli, I., Maltby, K. M., Garcia-Morales, S., Palacios-Abrantes, J., Jiang, S., Albo-Puigserver, M., Alonso, V. A. G., Baker, C. A., Bove, C. B., Brodie, S., Dahlet, L. I., Das, J., Dunne, A., Ferse, S. C. A., Johannesen, E., Jung, J., Garcia, E. M., Karcher, D. B., Mahadeo, S., Millan, L., Lawal, K. O., Oloko, A., Ortega-Cisneros, K., Otoabasi-Akpan, S., Roy, D., Rouf, S. S., Smoliński, S., Vaidianu, N., Whidden, C. and Strand, M., 2024. Fostering diversity, equity, and inclusion in interdisciplinary marine science. *npj Ocean Sustainability*, 3 (1), 49.
+
+-   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios. *ChatGPT* y *Google Translator* fueron utilizados en la traducción de este artículo del inglés al español.
