@@ -39,7 +39,7 @@ output:
 <img src="Images/Projects/Transboundary_Image.jpg" class="img-thumbnail" width="200px">
 </div>
 
-### [Management of shifting shared stocks](Projects/transboundary.html)
+### [Management of shifting shared stocks](projects/transboundary.html)
 
 <!-- **[Management of shifting shared stocks.](Projects/Transboundary.html)**  -->
 Regulatory boundaries and species distributions often do not align. This misalignment represents a challenge for fisheries management, as policies tend to focus at the national level, yet international collaborations are needed to maximize long-term ecological, social and economic benefits of shared marine species. My research aims to better understand (and inform) how fisheries management can prepare to shifts in the distribution of shared stocks.
@@ -50,7 +50,7 @@ Regulatory boundaries and species distributions often do not align. This misalig
 <img src="http://d2khr93zjdy3w9.cloudfront.net/Website/Official_MPA_map_April2016.png" class="img-thumbnail" width="200px">
 </div>
 
-### [Conservation under climate change](Projects/conservation_cc.html)
+### [Conservation under climate change](projects/conservation_cc.html)
 
 <!-- **[Conservation under climate change.](Projects/SESYNC.html)**  -->
 Marine protected areas (MPAs) are an important tool in the context of marine spatial planning to support both conservation and sustainable harvesting. Marine species are shifting their distribution because of climate change, potentially compromising the benefits and management objectives of currently established MPAs. My research focuses on better understanding the consequences of climate change to marine conservation.
@@ -61,7 +61,7 @@ Marine protected areas (MPAs) are an important tool in the context of marine spa
 <img src="Images/Projects/PescadoLatino.png" alt="Lights" class="img-thumbnail" width="200px">
 </div>
 
-### [Ocean management in Latin America](Projects/pescado_latino.html)
+### [Ocean management in Latin America](projects/pescado_latino.html)
 
 <!-- **[Ocean management in Latin America.](Projects/PescadoLatino.html)** -->
 Latin America is a highly diverse and dynamic region and there are many contexts to fisheries management and conservation. Nevertheless, there are several cross-cutting themes in Latin American countries, and very likely throughout the region. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries with a strong interdisciplinary science.
