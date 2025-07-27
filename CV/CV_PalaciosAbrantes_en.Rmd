@@ -1,6 +1,6 @@
 ---
 title: "Juliano E. Palacios Abrantes, PhD."
-author: "Email: j.palacios@oceans.ubc.ca | Web Page: www.julianopalacios.com"
+author: "Email: j.palacios@oceans.ubc.ca | www.julianopalacios.com | ORCID: 0000-0001-8969-5416"
 date: "Last updated, `r format(Sys.time(), '%B, %Y')`"
 output:
   pdf_document:
@@ -10,6 +10,7 @@ header-includes:
    - \usepackage{hyperref}
 ---
 
+ 
 
 <!-- Academic CV examples  -->
 <!-- Elsevier... https://www.elsevier.com/connect/writing-an-effective-academic-cv -->
@@ -53,7 +54,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 ```{r sci_publi, child = 'sci_pub.Rmd', eval = T}
 ```
 
-<!-- # Teaching Experience and Mentoring -->
+# Teaching Experience and Mentoring
 
 ```{r teaching, child = 'teaching.Rmd', eval = T}
 ```
@@ -68,7 +69,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 ```{r conference, child = 'conference.Rmd', eval = T}
 ```
 
-<!-- # Funding acquisition -->
+# Funding acquisition
 ```{r funding, child = 'funding.Rmd', eval = T}
 ```
 
@@ -85,6 +86,8 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 --- 
 
+\clearpage
+
 # Annex
 
 \flushleft
@@ -99,7 +102,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 ```{r an_sci_pub, child = 'an_sci_pub.Rmd', eval = T}
 ```
 
-<!-- # Teaching Experience and Mentoring {#an_teaching} -->
+# Teaching Experience and Mentoring {#an_teaching}
 ```{r an_teaching, child = 'an_teaching.Rmd', eval = T}
 ```
 
@@ -114,7 +117,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 ```
 
-<!-- # Funding Acquisition {#an_funding} -->
+# Funding Acquisition {#an_funding}
 
 ```{r an_funding, child = 'an_funding.Rmd', eval = T}
 ```
@@ -128,7 +131,7 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 ```
 
-<!-- # Other Experience {#an_other} -->
+# Other Experience {#an_other}
 
 ```{r an_other, child = 'an_other.Rmd', eval = T}
 
