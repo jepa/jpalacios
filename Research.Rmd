@@ -39,7 +39,7 @@ output:
 <img src="Images/Projects/Transboundary_Image.jpg" class="img-thumbnail" width="200px">
 </div>
 
-### [Management of shifting shared stocks](Projects/Transboundary.html)
+### [Management of shifting shared stocks](Projects/transboundary.html)
 
 <!-- **[Management of shifting shared stocks.](Projects/Transboundary.html)**  -->
 Regulatory boundaries and species distributions often do not align. This misalignment represents a challenge for fisheries management, as policies tend to focus at the national level, yet international collaborations are needed to maximize long-term ecological, social and economic benefits of shared marine species. My research aims to better understand (and inform) how fisheries management can prepare to shifts in the distribution of shared stocks.
@@ -61,7 +61,7 @@ Marine protected areas (MPAs) are an important tool in the context of marine spa
 <img src="Images/Projects/PescadoLatino.png" alt="Lights" class="img-thumbnail" width="200px">
 </div>
 
-### [Ocean management in Latin America](Projects/PescadoLatino.html)
+### [Ocean management in Latin America](Projects/pescado_latino.html)
 
 <!-- **[Ocean management in Latin America.](Projects/PescadoLatino.html)** -->
 Latin America is a highly diverse and dynamic region and there are many contexts to fisheries management and conservation. Nevertheless, there are several cross-cutting themes in Latin American countries, and very likely throughout the region. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries with a strong interdisciplinary science.
@@ -689,22 +689,3 @@ Como parte de un esfuerzo de reducir la brecha de acceso a la información cient
 
  - <a span class="label label-success" href= "Translations/UAM_Pulpos/Iron_Profile_Esp.pdf" target="_blank">Traducción</span></a> Análisis nutricional de *Octopus hubbsorum B* (Cephalopoda: Octopodidae) del Océano Pacífico, Acapulco, Guerrero, México [*Palacios-Abrantes et al. 2018* #1]
  
-
-
----- 
-
-<center>
-
-**Contact**
-
-j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Bluesky](https://bsky.app/profile/julianop.bsky.social){target="_blank"}
-
-</center>
-
-
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-

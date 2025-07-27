@@ -35,22 +35,3 @@ Overall, my research focuses on three main areas that relate to ocean health and
 These are complex narratives which require a mix of quantitative and qualitative methods, interdisciplinary collaborations, and genuine partnerships with local not-academic institutions.
 
 I support collaborative interdisciplinary work and I believe that all scientific work, data, and code ([GitHub](https://github.com/jepa?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=){target="_blank"}) should be public and open access. Always aligned with the recommendations on open science by [UNESCO](https://www.unesco.org/en/open-science) and the [FAIR](https://www.nature.com/articles/sdata201618) Guiding Principles for scientific data management and stewardship. As a Brazilian-Mexican citizen, I am committed to support policy-making and resource management decisions in Latin American countries. In parallel with my research, I work with different governmental and non-governmental organizations to tackle important problems facing fisheries and marine conservation in the region.
-
-<br>
-<hr>
-<center>
-
-**Contact**
-
-j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Bluesky](https://bsky.app/profile/julianop.bsky.social){target="_blank"}
-
-
-<!-- Google translator -->
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-
-<meta name="google-site-verification" content="a-gNWkz77aNh8H8s6f67IV1-OBWnJuxHRQWSVhyV7D0" />

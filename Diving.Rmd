@@ -98,22 +98,3 @@ leaflet(Diving_Data) %>%
 *“The sea is everything. It covers seven tenths of the terrestrial globe. Its breath is pure and healthy. It is an immense desert, where man is never lonely, for he feels life stirring on all sides. The sea is only the embodiment of a supernatural and wonderful existence. It is nothing but love and emotion; it is the Living Infinite. ”* 
 <br>
 Jules Verne, Twenty Thousand Leagues Under the Sea
-
-<br>
-<hr>
-
-<center>
-
-**Contact**
-
-j.palacios [at] oceans.ubc.ca | [Google Scholar](https://scholar.google.ca/citations?user=EZpBcjcAAAAJ&hl=en){target="_blank"} | [Bluesky](https://bsky.app/profile/julianop.bsky.social){target="_blank"}
-
-</center>
-
-
-
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,pt'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

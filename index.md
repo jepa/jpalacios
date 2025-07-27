@@ -4,6 +4,8 @@ output:
   html_document:
     css: cover.css
     keep_md: yes
+    includes:
+      after_body: null 
 ---
 
 <style>
