@@ -199,7 +199,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <center>
 <!-- Original article -->
 <a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s44183-024-00087-1" target="_blank">Full Paper</span></a>
-<!-- <!-- Spanish version --> -->
+<!-- <!-- Spanish version --> 
 <a span class="label label-success" href= "./Translations/fostering_edi.html" target="_blank">Artículo en Español</span></a>
 
 </center> 
