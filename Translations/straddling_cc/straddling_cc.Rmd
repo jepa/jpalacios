@@ -72,7 +72,7 @@ Los cambios en la distribución de especies a partir del cambio climático repre
 
 <center>
 
-<img src="../../Images/Translations/straddling_cc_abstract.png"/>
+<img src="../../Images/Translations/sta_cc.png"/>
 
 **Mapa mostrando el número de poblaciones de especies transfronterizas migratorias que visitan la alta mar (Imagen original, Palacios-Abrantes et al. 2025, Figure 1) **
 
