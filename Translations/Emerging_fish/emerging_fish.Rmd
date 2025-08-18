@@ -66,7 +66,7 @@ encuentran en Zonas Económicas Exclusivas (ZEEs) de países vecinos y en el alt
 
 <center>
 
-<img src="https://github.com/jepa/EmergingFish/blob/master/Figures/Fig00.png?raw=true" width="400" />
+<img src="https://github.com/jepa/EmergingFish/blob/master/Figures/Fig00.png?raw=true" width="600">
 
 **Resumen gráfico de la publicación**\
 **DOI:10.1111/gcb.16058**
