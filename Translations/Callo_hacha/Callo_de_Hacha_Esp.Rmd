@@ -44,7 +44,7 @@ Las pesquerías de pequeña escala contrinuyen de manera importante a la econom�
 <!-- Image for Abstract -->
 <center>
 
-<img src="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209431.g002&type=large" width="200px">
+<img src="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209431.g002&type=large" width="600px">
 
 **Simulaciones del valor presente neto para cada escenario de callo de hacha. Se realizaron 1000 simulaciones para cada escenario.** https://doi.org/10.1371/journal.pone.0209431.g002
 
