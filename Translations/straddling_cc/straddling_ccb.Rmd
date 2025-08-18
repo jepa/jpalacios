@@ -70,14 +70,6 @@ MyFunctions::my_lib(packages)
 
 Los cambios en la distribución de especies a partir del cambio climático representan un desafío particular para las pesquerías que capturan poblaciones de peces compartidas entre Zonas Eeconómicas Exclusivas (ZEE) y alta mar, conocidas como poblaciones transfronterizas (*straddling stocks*). En este estudio, combinamos múltiples conjuntos de datos y modelos ecosistémicos para identificar la presencia de poblaciones transfronterizas a nivel mundial y considerar lo que significan para la gestión pesquera bajo cambio climático. Identificamos 347 poblaciones transfronterizas pertenecientes a 67 especies, incluyendo tanto especies altamente migratorias como otras menos móviles. Nuestros resultados sugieren que, independientemente del escenario climático, al menos el 37% y el 54% de las poblaciones están proyectadas a cambiar entre ZEE y alta mar para los años 2030 y 2050, respectivamente. Se espera que más poblaciones se desplacen hacia alta mar, y que las especies altamente migratorias se muevan entre distintas Organizaciones Regionales de Ordenación Pesquera (OROP, *RFMO en inglés*). Los Estados costeros y las OROP deben revisar sus marcos de gobernanza para apoyar una adaptación sostenible y equitativa ante el desplazamiento de las poblaciones. Desarrollar estas estrategias requiere cooperación entre los organismos de gestión dentro de las ZEE y en alta mar.
 
-<center>
-
-<img src="../../Images/Translations/straddling_cc_abstract.png"/>
-
-**Mapa mostrando el número de poblaciones de especies transfronterizas migratorias que visitan la alta mar (Imagen original, Palacios-Abrantes et al. 2025, Figure 1) **
-
-</center>
-
 <br>
 :::
 
