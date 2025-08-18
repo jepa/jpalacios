@@ -1,5 +1,5 @@
 ---
-title: 'El cambio climático impulsa cambios en la distribución de poblaciones de peces transfronterizos migratorios en los océanos del mundo'
+title: 'B.El cambio climático impulsa cambios en la distribución de poblaciones de peces transfronterizos migratorios en los océanos del mundo'
 subtitle: "Juliano Palacios-Abrantes, Bianca S. Santos, Thomas Frölicher, Gabriel Reygondeau, Rashid Sumaila, Colette C.C. Wabnitz and William W.L. Cheung"
 date: "Publicación y traducción, 2025"
 output:
@@ -10,6 +10,11 @@ output:
   pdf_document:
     toc: false
 urlcolor: blue
+header-includes:
+  - '<meta property="og:title" content="Straddling CC – Fish Distribution">'
+  - '<meta property="og:description" content="Translation of the Straddling CC study">'
+  - '<meta property="og:image" content="https://www.julianopalacios.com/Translations/path/to/preview-image.png">'
+  - '<meta property="og:url" content="https://www.julianopalacios.com/Translations/straddling_cc.html">'
 ---
 
 <!-- Logo -->
