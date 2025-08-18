@@ -9,6 +9,7 @@ output:
     toc_float: true
   pdf_document:
     toc: false
+urlcolor: blue
 ---
 
 <!-- Logo -->
