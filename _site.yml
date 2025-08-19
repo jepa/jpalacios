@@ -18,5 +18,5 @@ output:
     theme: yeti
     highlight: textmate
     includes:
-      in_header: fontawesome.html
+      in_header: header.html
       after_body: footer.html

@@ -34,6 +34,54 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HG1RRBT88J');
+
+  // rack PDF downloads
+  document.addEventListener("click", function(e) {
+    let el = e.target.closest("a");
+    if (el && el.href.match(/\.pdf$/i)) {
+      gtag('event', 'download', {
+        'event_category': 'PDF',
+        'event_label': el.href
+      });
+    }
+  });
+
+  // Track outbound link clicks
+  document.addEventListener("click", function(e) {
+    let el = e.target.closest("a");
+    if (el && el.hostname !== window.location.hostname) {
+      gtag('event', 'click', {
+        'event_category': 'outbound',
+        'event_label': el.href
+      });
+    }
+  });
+
+  // rack scroll depth (50% and 90%)
+  let scrollTracked = {50: false, 90: false};
+  window.addEventListener("scroll", function() {
+    let scrollDepth = Math.round((window.scrollY + window.innerHeight) / document.body.scrollHeight * 100);
+    [50, 90].forEach(function(threshold) {
+      if (!scrollTracked[threshold] && scrollDepth >= threshold) {
+        gtag('event', 'scroll', {
+          'event_category': 'engagement',
+          'event_label': threshold + '% depth'
+        });
+        scrollTracked[threshold] = true;
+      }
+    });
+  });
+</script>
+  
+  
+
 <style type="text/css">
   code{white-space: pre-wrap;}
   span.smallcaps{font-variant: small-caps;}
@@ -275,15 +323,6 @@ $(document).ready(function () {
 </div>
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HG1RRBT88J');
-</script>
 <p><img src="Images/Diving/YoMero.png" /></p>
 <p><br></p>
 <p>My first official contact with the underwater world was in 2008.

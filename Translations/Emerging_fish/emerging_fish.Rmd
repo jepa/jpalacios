@@ -11,16 +11,6 @@ output:
     toc_float: yes
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HG1RRBT88J');
-</script>
-
 -   **NOTA: esta es una traducción al español del artículo:** *Timing and magnitude of climate driven range shifts in transboundary fish stocks challenge their management*, escrito por Juliano Palacios-Abrantes, Thomas Frölitcher, Gabriel Reygondeau, U. Rashid Sumaila, Alexander Tagliabue, Colette C.C. Wabnitz y William W.L. Cheung y que se puede encontrar en la siguiente [liga](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16058). No cuenta con la sección de métodos traducida.
 
     -   Traducido por Juliano Palacios. Revisión técnica de Guillermo Palacios.

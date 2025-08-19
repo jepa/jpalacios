@@ -11,16 +11,6 @@ output:
     toc: no
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HG1RRBT88J');
-</script>
-
 
 - **NOTA: esta es una traducción al español del artículo** *Evaluating the bio-economic performance of a Callo de hacha (Atrina maura, Atrina tuberculosa & Pinna rugosa) fishery restoration plan in La Paz, Mexico.* escrito por Juliano Palacios Abrantes, Juliana Herrera, Salvador Rodríguez, Jacy Brunkow y Renato Molina y que se puede encontrar en el siguiente [link](https://doi.org/10.1371/journal.pone.0209431).
 

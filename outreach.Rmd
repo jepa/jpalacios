@@ -7,17 +7,6 @@ output:
     theme: "yeti"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HG1RRBT88J');
-</script>
-
-
 <img src="Images/sci_comm_banner.jpg" width="800px">
 
 <br>
