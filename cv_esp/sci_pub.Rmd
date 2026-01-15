@@ -1,0 +1,18 @@
+---
+title: "Relevant Scientific Publications"
+---
+
+
+*Total of 51 scientific publications including 4 book chapters and 3 contributing author sections. [GoogleScholar](https://scholar.google.com/citations?user=EZpBcjcAAAAJ&hl=en) h-index: 20, i10-index: 25, 2,688 citations.* **See [*Annex Scientific Publications*](#an_sci_pub) for full list of publications**
+
+<!-- OJO Harvard Bou style -->
+
+- **Palacios-Abrantes, J.**, Santos, B. S., Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Wabnitz, C. C. C. and Cheung, W. W. L., 2025. Climate change drives shifts in straddling fish stocks in the world’s ocean. *Science Advances*, adq5976 (11).
+
+- **Palacios-Abrantes, J.,** Crosson, S., Dumas, C., Fujita, R., Levine, A., Longo, C., Jensen, O.P., 2023. Quantifying fish range shifts across poorly defined management boundaries. *Plos One* 18, e0279025.
+
+- **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 28, 2312-2326.
+
+- Fredston, A. L., Cheung, W. W. L., Frölicher, T. L., Kitchel, Z. J., Maureaud, A. A., Thorson, J. T., Auber, A., Mérigot, B., **Palacios-Abrantes, J**., Palomares, M. L. D., Pecuchet, L., Shackell, N. L. and Pinsky, M. L., 2023. Marine heatwaves are not a dominant driver of change in demersal fishes. *Nature*, 1–6.
+
+- Cheung, W.W.L., **Palacios‐Abrantes, J.**, Frölicher, T.L., Palomares, M.L., Clarke, T., Lam, V.W.Y., Oyinlola, M.A., Pauly, D., Reygondeau, G., Sumaila, U.R., Teh, L.C.L. and Wabnitz, C.C.C. 2022. Rebuilding fish biomass for the world's marine ecoregions under climate change, *Global Change Biology*

@@ -1,0 +1,31 @@
+---
+title: "Annex Teaching Experience and Mentoring"
+---
+
+## Teaching Experience
+
+- Curso de limpeza e análise de dados para realizar modelos de distribuição de espécies. Co-production with Burnno Oliveira. Created the curricula, material and imparted the course for graduate students of the *Universidade Federal do Rio Grande do Norte*, Brasil.
+
+- Imparting multiple courses on data analysis for social-ecological studies (Ongoing). Some of the material can be found here: https://github.com/jepa/studyGroup/tree/gh-pages/lessons
+
+- Fundamentals of data analysis for social-ecological research (2019). Created the curricula, material and imparted the course for graduate students of the University of Vigo.
+
+- Land Food and Community: Quantitative Data Analysis (2018). Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems. Faculty of Land and Food Systems, University of British Columbia
+
+- Diving Instructor (2011–2015). Instructed over 30 divers in different levels of sport diving. Assisted more than 50 courses over a 4-year period.
+
+- Undergrad Teacher Assistant (2010–2012). Instructed classes of 20-30 students when needed.
+
+## Guest lecturers
+
+- Fisheries management under a changing climate. Guest lecture on climate change and fisheries for University of Victoria 4th year class lead by Dr. Julia K. Baum (2024, 2023)
+
+- Introduction to fisheries management. Guest lecture on EOSC 478 Introduction to Fisheries Science of the University of British Columbia lead by Yevhenii Pakhomov (2023, 2022)
+
+- Transboundary fisheries management under Climate Change. Guest lecture on Sustainable Development class for Simon Fraser University 4th year class lead by Dr. Andres Cisneros-Montemayor (2023)
+
+## Mentoring
+
+- Mentoring of 7 undergrad students from The University of British Columbia (2021-2022) through the Biology Undergraduate Diversity in Research Program (BUDR), a program designed to support students from historically marginalized and disenfranchised backgrounds.
+
+- Thesis co-direction for a bachelor's degree in biology. González, L.M. (2013). Macronutrientes de cefalopodos de importancia comercial en México, Universidad Nacional Autónoma de México.

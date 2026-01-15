@@ -1,7 +1,7 @@
 ---
 title: "Juliano E. Palacios Abrantes, PhD."
 author: "Email: j.palacios@oceans.ubc.ca | www.julianopalacios.com | ORCID: 0000-0001-8969-5416"
-date: "Last updated, `r format(Sys.time(), '%B, %Y')`"
+date: "Última actualización, `r format(Sys.time(), '%B, %Y')`"
 output:
   pdf_document:
     extra_dependencies: xcolor
@@ -22,60 +22,61 @@ header-includes:
 <!-- Juliano Palacios Abrantes' work looks at how climate change is shifting the distribution of marine species generating uncertain feedbacks on marine ecosystems and dependent fishing communities. Specifically, he looks at how such shifts affect shared stocks (e.g., stocks that are shared between neighboring states) threatening the sustainability of marine resources and accentuating sources of conflict. His work spans from global to local studies highlighting the need for adaptive, collaborative, equitable and ecosystem- based management strategies. Born in Brazil and raised in Mexico, he has a special interest in supporting ocean governance in the Latin American region. Juliano holds a bachelor's degree in Biology from the Metropolitan Autonomous University of Mexico City and a masters in environmental science and management from the Bren School at the University of California, Santa Barbara. He recently completed his PhD. here at the Institute for the Oceans and Fisheries with Dr. William Cheung and then worked as a postdoctoral researcher at the Center for Limnology of the University of Wisconsin, Madison. Currently, he works as a postdoctoral researcher at the Institute for the Oceans and Fisheries of the University of British Columbia, Canada. -->
 <!-- \clearpage -->
 
-# Academic Qualifications
+# Calificaciones académicas
 
 
-- **Doctor in Philosophy; Zoology** (2021)
-The Institute for the Oceans and Fisheries, University of British Columbia, Canada; Advisor, Dr. William Cheung
-    -	*Transboundary Fish Stocks and their Management Under Climate Change*
-    - Semester abroad at the University of Vigo working with Dr. Elena Ojea (August - December, 2019)
+- **Doctorado en Zoologíay** (2021)
+Intituto para los Océanos y Pesquerías, La Universidad de Columbia Británica, Canadá; Asesor, Dr. William Cheung
+    -	Tesis: *Poblaciones de peces transfronterizos y su gestión frente al cambio climático*
+    - Semestre de intercambio en la Universidad de Vigo con la Dra. Elena Ojea (Agosto - Diciembre, 2019)
 
-- **Master in Environmental Science and Management** (2016)
-  Bren School of Environmental Science and Management, University of California at Santa Barbara, USA; Advisor, Dr. John Melack
-    -	*A Citizen Science Monitoring Protocol for the Rocky Intertidal Habitat*
-    - Internship at Environmental Defense Fund, Mexico (2015)
-- **Bachelor of Science in Biology** (2012)
-  Universidad Autónoma Metropolitana unidad Xochimilco, México City; Advisor, Dr. Virginia Melo
-    -	*Sea Cucumber as a Source of Macronutrients for Low-Income Coastal Communities in Mexico.*
-    - Year abroad at the University of São Paulo, Brazil
+- **Maestría en Ciencias Ambientales y Gestión** (2016)
+Bren School of Environmental Science and Management, University of California, Santa Barbara, EUA; asesor: Dr. John Melack
+	-	Tesis: *Un protocolo de monitoreo de ciencia ciudadana para el hábitat intermareal rocoso*
+	-	Prácticas profesionales: Environmental Defense Fund, México (2015)
+	
+- **Licenciatura en Biología** (2012)
+Universidad Autónoma Metropolitana, Unidad Xochimilco, Ciudad de México; Asesora: Dra. Virginia Melo
+	-	Tesis: *El pepino de mar como fuente de macronutrientes para comunidades costeras de bajos ingresos en México*
+	-	Año académico en el extranjero: Universidade de São Paulo, Brasil
 
-**Keywords:** *Climate change; Fisheries management; Shared fisheries; Marine conservation: Data science; Multidisciplinary; Social-ecological systems*
+**Palabras clave**: Cambio climático; Manejo pesquero; Pesquerías transfronterizas; Conservación marina; Ciencia de datos; Multidisciplinario; Sistemas socio-ecológicos
 
 
-# Professional Experience
+# Experiencia Profecional
 
 ```{r professional_experience, child = 'pro_exp.Rmd', eval = T}
 ```
 
-# Relevant Scientific Publications
+# Publicaciones Científicas Relevantes
 
 ```{r sci_publi, child = 'sci_pub.Rmd', eval = T}
 ```
 
-# Teaching Experience and Mentoring
+# Experiencia de docente y mentoría
 
 ```{r teaching, child = 'teaching.Rmd', eval = T}
 ```
 
-# Invited Seminars
+# Seminarios Invitados   
 
 ```{r seminar, child = 'seminar.Rmd', eval = T}
 ```
 
-# Participation in Conferences and Workshops
+# Participación en Conferencias y Talleres
 
 ```{r conference, child = 'conference.Rmd', eval = T}
 ```
 
-# Funding acquisition
+# Fondos obtenidos
 ```{r funding, child = 'funding.Rmd', eval = T}
 ```
 
-# Community Service
+# Servicio a la Comunidad
 ```{r community_service, child = 'community_service.Rmd', eval = T}
 ```
 
-# Knowledge Mobilization
+# Entrevistas y apariciones en medios
 
 ```{r knowledge_mob, child = 'knowledge_mob.Rmd', eval = T}
 ```
@@ -86,45 +87,45 @@ The Institute for the Oceans and Fisheries, University of British Columbia, Cana
 
 \clearpage
 
-# Annex
+# Anexo
 
 \flushleft
 \setcounter{section}{1}
 
 
-# Professional Experience {#an_pro_exp}
+# Experiencia Profecional {#an_pro_exp}
 ```{r an_prof_exp, child = 'an_pro_exp.Rmd', eval = T}
 ```
 
-# Scientific Publications {#an_sci_pub}
+# Publicaciones Científicas Relevantes {#an_sci_pub}
 ```{r an_sci_pub, child = 'an_sci_pub.Rmd', eval = T}
 ```
 
-# Teaching Experience and Mentoring {#an_teaching}
+# Experiencia de docente y mentoría {#an_teaching}
 ```{r an_teaching, child = 'an_teaching.Rmd', eval = T}
 ```
 
-# Invited Seminars {#an_seminar}
+# Seminarios Invitados    {#an_seminar}
 
 ```{r an_seminars, child = 'an_seminar.Rmd', eval = T}
 ```
 
-# Conferences and Workshops {#an_conference}
+# Participación en Conferencias y Talleres {#an_conference}
 
 ```{r an_conference, child = 'an_conference.Rmd', eval = T}
 
 ```
 
-# Funding Acquisition {#an_funding}
+# Fondos obtenidos {#an_funding}
 
 ```{r an_funding, child = 'an_funding.Rmd', eval = T}
 ```
 
-# Community Service {#an_cmmunity_service}
+# Servicio a la Comunidad {#an_cmmunity_service}
 ```{r an_cmmunity_service, child = 'an_community_service.Rmd', eval = T}
 ```
 
-# Knowledge Mobilization {#an_knowledge_mob}
+# Entrevistas y apariciones en medios {#an_knowledge_mob}
 ```{r an_knowledge_mob, child = 'an_knowledge_mob.Rmd', eval = T}
 
 ```
