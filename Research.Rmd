@@ -69,6 +69,45 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 ### 2025
 
+52. **Palacios-Abrantes, J.**, Llompart, F., Cardoso, L. G., Defeo, O., Gianelli, I., Jaureguizar, A. J., Lopes, P. F. M., Perez, J. A. A., Piccolo, N. I. P., Piola, A. R., Polejack, A., Prado, L. F. and Saraceno, M., 2026. Integrated ocean governance is needed in the Southwest Atlantic Ocean to foster fisheries, conservation and resilience to climate change. Discover Oceans, 3 (1), 19.
+  
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://link.springer.com/article/10.1007/s44289-026-00134-4" target="_blank">Full Paper</span></a>
+<a span class="label label-primary" title ="" href= "https://link.springer.com/article/10.1007/s44289-026-00134-4" target="_blank">Policy Brief</span></a>
+<!-- <!-- Spanish version --> 
+<a span class="label label-success" href= "./Translations/swao_esp.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-success" href= "./Translations/swao_esp.html" target="_blank">Policy Brief (Es)</span></a>
+<!-- <!-- Portuguese version --> 
+<a span class="label label-success" href= "./Translations/swao_pt.html" target="_blank">Artigo em Português</span></a>
+<a span class="label label-success" href= "./Translations/swao_esp.html" target="_blank">Policy Brief (Pt)</span></a>
+<!-- Press -->
+<a span class="label label-info" href= "https://abori.com.br/oceanografia/coordenacao-regional-biodiversidade-marinha/" target="_blank">Agência Bori</span></a>
+
+
+</center>
+
+
+51. Chin, J.-L. L., Rabone, M., **Palacios-Abrantes, J.**, Gobin, J., Jute, A., Kanhai, L. D. K. and Amon, D. J., 2026. A baseline assessment of deep-sea biodiversity, and guide for future actions to inform stewardship, in Trinidad and Tobago. Discover Oceans, 3 (1), 18.
+  
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://link.springer.com/article/10.1007/s44289-026-00119-3" target="_blank">Full Paper</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://obis.org/dataset/7eca348a-9a68-4440-9333-c9b685527f96." target="_blank">Data & Code</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/tt_deepsea_biodiv" target="_blank"> Code </span></a> 
+
+</center>
+
+50. Selig, E. R., Achi, N. G., Sundnes, F., Wabnitz, C. C. C., Nakayama, S., Hjermann, D. ø., **Palacios-Abrantes, J.**, Spijkers, J., Hara, M., Isaacs, M., McClanahan, T. R., McKown, E., Mensah, A., Overå, R., Rustad, S. A., Thorarinsdottir, T. L. and Tollefsen, A. F., 2026. Patterns of marine resource conflicts across Africa highlight need for fair access and benefit sharing for a blue economy. One Earth, 101644.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.cell.com/one-earth/fulltext/S2590-3322(26)00045-X" target="_blank">Full Paper</span></a>
+
+</center>
+
 49. Koerner, L. M., **Palacios-Abrantes, J.**, Novaglio, C., Blanchard, J., Melnychuk, M. C., Essington, T. E., Everett, J. D., Guiet, J., Harrison, C. S., Heneghan, R. F., Currey, R. J. C., Jardim, E., Polidoro, B. and Longo, C., 2025. Climate change risks to future sustainable fishing using global seafood ecolabel data. C*ell Reports Sustainability*, 100555.
 
 <center>
