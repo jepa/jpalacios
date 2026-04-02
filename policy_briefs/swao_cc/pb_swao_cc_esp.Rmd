@@ -1,0 +1,163 @@
+---
+title: ""
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    keep_tex: false
+fontsize: 10.5pt
+geometry: margin=1.4cm
+header-includes:
+  - \usepackage[table]{xcolor}
+  - \usepackage{graphicx}
+  - \usepackage{fancyhdr}
+  - \usepackage{tcolorbox}
+  - \tcbuselibrary{skins,breakable}
+  - \usepackage{enumitem}
+  - \usepackage{parskip}
+  - \usepackage{titlesec}
+  - \usepackage{booktabs}
+  - \usepackage{multicol}
+  - \usepackage{helvet}
+  - \usepackage{caption}
+  - \renewcommand{\familydefault}{\sfdefault}
+  - \definecolor{ocean}{HTML}{083D77}
+  - \definecolor{teal}{HTML}{1C7C7D}
+  - \definecolor{sky}{HTML}{DCEFF2}
+  - \definecolor{mist}{HTML}{F5F9FA}
+  - \definecolor{gold}{HTML}{E3B23C}
+  - \definecolor{textgray}{HTML}{3A3A3A}
+  - \definecolor{softline}{HTML}{C8D9DE}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  # - \fancyhead[L]{\small\textcolor{ocean}{\textbf{POLICY BRIEF}}}
+  # - \fancyhead[R]{\small\textcolor{textgray}{Southwest Atlantic Ocean}}
+  - \fancyfoot[C]{\small\thepage}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \titleformat{\section}{\Large\bfseries\color{ocean}}{}{0em}{}
+  - \titleformat{\subsection}{\normalsize\bfseries\color{teal}}{}{0em}{}
+  - \captionsetup[figure]{font=small,labelfont=bf}
+---
+
+\begin{tcolorbox}[
+colback=ocean,
+colframe=ocean,
+boxrule=0pt,
+arc=1.5mm,
+left=5mm,right=5mm,top=4mm,bottom=4mm]
+\begin{center}
+{\color{white}\Huge\textbf{Un océano conectado, una respuesta fragmentada}}\\[1.5mm]
+{\color{white}\Large Cambio climático y brechas de gobernanza en el Atlántico Sudoccidental}\\[2mm]
+{\color{white}\normalsize Marzo de 2026}
+\end{center}
+
+\end{tcolorbox}
+
+\vspace{0.25cm}
+
+\begin{tcolorbox}[
+colback=sky,
+colframe=teal,
+boxrule=0.7pt,
+arc=1mm,
+left=3mm,right=3mm,top=2mm,bottom=2mm]
+\textcolor{textgray}{\large El Atlántico Sudoccidental enfrenta presiones crecientes derivadas del cambio climático, el aumento del esfuerzo pesquero y la fragmentación de la gobernanza, pero la región también cuenta con una sólida capacidad científica y una larga tradición de cooperación internacional.}
+\end{tcolorbox}
+
+\vspace{0.2cm}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.98\textwidth]{../../Images/Infographics/swao_infograohic_es.png}
+\caption*{El Atlántico Sudoccidental está configurado por la conectividad ecológica entre aguas jurisdiccionales nacionales y áreas de alta mar adyacentes, lo que subraya la necesidad de una gobernanza coordinada.}
+\end{figure}
+
+\vspace{0.15cm}
+
+\begin{tcolorbox}[
+colback=mist,
+colframe=gold,
+title=\textbf{Panorama general},
+fonttitle=\bfseries,
+coltitle=ocean,
+colbacktitle=mist,
+breakable,
+arc=1mm]
+\begin{itemize}[leftmargin=*, itemsep=4pt]
+\item \textbf{17 millones de km$^2$}: extensión del Atlántico Sudoccidental.
+\item \textbf{900,000 medios de vida}: personas sostenidas por pesquerías industriales y artesanales.
+\item \textbf{2 millones de toneladas}: capturas anuales estimadas.
+\item \textbf{USD 5 mil millones}: valor anual aproximado en desembarque.
+\item \textbf{Sin organismo regional de gobernanza}: a pesar de la fuerte conectividad ecológica entre Brasil, Uruguay y Argentina.
+\end{itemize}
+\end{tcolorbox}
+
+\vspace{0.9cm}
+
+\begin{multicols}{2}
+
+\section{Importancia de la región}
+
+Con una extensión de más de 17 millones de km$^2$, el ASO incluye ecosistemas de plataforma altamente productivos y grandes corrientes oceánicas que sostienen una biodiversidad rica y pesquerías de alto valor.
+
+La región sostiene pesquerías industriales y artesanales que generan empleo para cerca de 900,000 personas, con capturas anuales estimadas en aproximadamente 2 millones de toneladas y un valor cercano a USD 5 mil millones.
+
+Las especies marinas del ASO se desplazan con frecuencia entre fronteras nacionales y entre las Zonas Económicas Exclusivas (ZEE) y las áreas de alta mar adyacentes. Por ello, muchas poblaciones de interés comercial son transfronterizas o transzonales, lo que requiere una gestión coordinada entre los países.
+
+Sin embargo, a diferencia de otras regiones marinas comparables, el ASO aún carece de un organismo regional dedicado a abordar estos desafíos compartidos.
+
+\section{Presiones de gobernanza}
+
+\subsection{Instituciones fragmentadas}
+La gobernanza oceánica en el ASO sigue siendo en gran medida fragmentada y se basa principalmente en acuerdos bilaterales o iniciativas sectoriales, en lugar de una coordinación regional más amplia.
+
+\subsection{Pesca Ilegal, no declarada y no reglamentada (INDNR)}
+La creciente presencia de flotas de aguas distantes, orientadas a especies de alto valor como el calamar, ha intensificado la competencia con las pesquerías nacionales. Los vacíos de gobernanza en áreas adyacentes de alta mar también continúan facilitando la INDNR.
+
+\subsection{Brechas de información}
+El monitoreo ambiental y pesquero limitado e inconsistente, especialmente en las pesquerías artesanales, restringe la capacidad de evaluar los impactos del cambio climático, el estado de los recursos y las opciones de manejo más eficaces.
+
+\subsection{Cambios asociados al clima}
+El cambio climático ya está reconfigurando la dinámica oceanográfica del ASO. El aumento de la temperatura del océano, los cambios en los patrones de circulación y la mayor frecuencia de olas de calor marinas están impulsando cambios en la distribución de las especies, incluyendo su desplazamiento hacia el sur y una mayor expansión hacia la alta mar.
+
+\columnbreak
+
+\section{Acciones prioritarias}
+
+\begin{tcolorbox}[
+colback=sky,
+colframe=teal,
+boxrule=0.5pt,
+arc=1mm,
+breakable]
+\begin{enumerate}[leftmargin=*, itemsep=7pt]
+\item \textbf{Poner en marcha un diálogo regional estructurado sobre gobernanza oceánica} entre los países del ASO.
+\item \textbf{Fortalecer la diplomacia científica oceánica} mediante monitoreo conjunto, sistemas de datos compartidos e investigación colaborativa.
+\item \textbf{Mejorar el monitoreo regional y el intercambio de datos} sobre pesquerías y cambio ambiental.
+\item \textbf{Implementar una gestión pesquera basada en ecosistemas y resiliente al clima} que pueda responder a poblaciones en desplazamiento.
+\item \textbf{Desarrollar estrategias regionales de conservación}, incluidas iniciativas transfronterizas y su articulación con la implementación del BBNJ.
+\end{enumerate}
+\end{tcolorbox}
+
+\section{Ventana de oportunidad}
+
+El actual impulso político regional y global, incluida la implementación del Acuerdo BBNJ y el Decenio de las Ciencias Oceánicas de la ONU, crea una oportunidad única para fortalecer una gobernanza oceánica integrada en el Atlántico Sudoccidental.
+
+\begin{tcolorbox}[
+colback=teal,
+colframe=teal,
+boxrule=0pt,
+arc=1mm,
+left=3mm,right=3mm,top=2mm,bottom=2mm]
+\color{white}\large
+\textit{Avanzar hacia una gobernanza compartida para fomentar pesquerías sostenibles, ecosistemas resilientes y una gestión oceánica de largo plazo en el ASO ya no debe verse como una aspiración, sino como una respuesta práctica y cada vez más necesaria frente a los desafíos compartidos en materia de pesca, clima y gobernanza.}
+\end{tcolorbox}
+
+\vspace{0.15cm}
+
+\section{Referencia}
+
+\footnotesize
+Palacios-Abrantes J., Llompart F., Cardoso L.G., Defeo O., Gianelli I., Jaureguizar J.J., Lopes P.F.M., Perez J.A.A., Piccolo N.I.P., Piola A.R.P., Polejack A., Prado L.F., and Saraceno M. 2026. \textit{Se necesita una gobernanza oceánica integrada en el Atlántico Sudoccidental para impulsar la pesca, la conservación y la resiliencia frente al cambio climático}. Discover Oceans. https://doi.org/10.1007/s44289-026-00134-4
+
+\end{multicols}

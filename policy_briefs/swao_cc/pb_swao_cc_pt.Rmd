@@ -1,0 +1,163 @@
+---
+title: ""
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    keep_tex: false
+fontsize: 10.5pt
+geometry: margin=1.4cm
+header-includes:
+  - \usepackage[table]{xcolor}
+  - \usepackage{graphicx}
+  - \usepackage{fancyhdr}
+  - \usepackage{tcolorbox}
+  - \tcbuselibrary{skins,breakable}
+  - \usepackage{enumitem}
+  - \usepackage{parskip}
+  - \usepackage{titlesec}
+  - \usepackage{booktabs}
+  - \usepackage{multicol}
+  - \usepackage{helvet}
+  - \usepackage{caption}
+  - \renewcommand{\familydefault}{\sfdefault}
+  - \definecolor{ocean}{HTML}{083D77}
+  - \definecolor{teal}{HTML}{1C7C7D}
+  - \definecolor{sky}{HTML}{DCEFF2}
+  - \definecolor{mist}{HTML}{F5F9FA}
+  - \definecolor{gold}{HTML}{E3B23C}
+  - \definecolor{textgray}{HTML}{3A3A3A}
+  - \definecolor{softline}{HTML}{C8D9DE}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  # - \fancyhead[L]{\small\textcolor{ocean}{\textbf{POLICY BRIEF}}}
+  # - \fancyhead[R]{\small\textcolor{textgray}{Southwest Atlantic Ocean}}
+  - \fancyfoot[C]{\small\thepage}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \titleformat{\section}{\Large\bfseries\color{ocean}}{}{0em}{}
+  - \titleformat{\subsection}{\normalsize\bfseries\color{teal}}{}{0em}{}
+  - \captionsetup[figure]{font=small,labelfont=bf}
+---
+
+\begin{tcolorbox}[
+colback=ocean,
+colframe=ocean,
+boxrule=0pt,
+arc=1.5mm,
+left=5mm,right=5mm,top=4mm,bottom=4mm]
+\begin{center}
+{\color{white}\Huge\textbf{Um oceano conectado, uma resposta fragmentada}}\\[1.5mm]
+{\color{white}\Large Mudança do clima e lacunas de governança no Oceano Atlântico Sudoeste}\\[2mm]
+{\color{white}\normalsize Março de 2026}
+\end{center}
+
+\end{tcolorbox}
+
+\vspace{0.25cm}
+
+\begin{tcolorbox}[
+colback=sky,
+colframe=teal,
+boxrule=0.7pt,
+arc=1mm,
+left=3mm,right=3mm,top=2mm,bottom=2mm]
+\textcolor{textgray}{\large O Oceano Atlântico Sudoeste (OAS) enfrenta pressões crescentes decorrentes da mudança do clima, do aumento do esforço pesqueiro e da fragmentação da governança, mas a região também possui sólida capacidade científica e longa tradição de cooperação internacional.}
+\end{tcolorbox}
+
+\vspace{0.2cm}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.98\textwidth]{../../Images/Infographics/swao_infograohic_pt.png}
+\caption*{O Oceano Atlântico Sudoeste é configurado pela conectividade ecológica entre águas jurisdicionais nacionais e áreas adjacentes de alto-mar, o que reforça a necessidade de governança coordenada.}
+\end{figure}
+
+\vspace{0.15cm}
+
+\begin{tcolorbox}[
+colback=mist,
+colframe=gold,
+title=\textbf{Panorama geral},
+fonttitle=\bfseries,
+coltitle=ocean,
+colbacktitle=mist,
+breakable,
+arc=1mm]
+\begin{itemize}[leftmargin=*, itemsep=4pt]
+\item \textbf{17 milhões de km$^2$}: extensão do Atlântico Sudoeste.
+\item \textbf{900 mil meios de vida}: pessoas sustentadas por pescarias industriais e artesanais.
+\item \textbf{2 milhões de toneladas}: capturas de pescado anuais estimadas.
+\item \textbf{USD 5 bilhões}: valor anual aproximado do pescado desembarcado.
+\item \textbf{Sem organismo regional de governança}: apesar da forte conectividade ecológica entre Brasil, Uruguai e Argentina.
+\end{itemize}
+\end{tcolorbox}
+
+\vspace{0.9cm}
+
+\begin{multicols}{2}
+
+\section{Importância da região}
+
+Com uma extensão superior a 17 milhões de km$^2$, o OAS abriga ecossistemas de plataforma altamente produtivos e grandes correntes oceânicas que sustentam rica biodiversidade e pescarias de alto valor.
+
+A região sustenta pescarias industriais e artesanais que geram empregos para cerca de 900 mil pessoas, com capturas anuais estimadas em aproximadamente 2 milhões de toneladas e valor próximo a USD 5 bilhões.
+
+As espécies marinhas do OAS se deslocam frequentemente entre fronteiras nacionais e entre as Zonas Econômicas Exclusivas (ZEE) e áreas adjacentes de alto-mar. Assim, muitas populações de interesse comercial são transfronteiriças ou transzonais, exigindo gestão coordenada entre os países.
+
+No entanto, ao contrário de outras regiões marinhas comparáveis, o OAS ainda carece de um organismo regional dedicado a enfrentar esses desafios compartilhados.
+
+\section{Pressões de governança}
+
+\subsection{Instituições fragmentadas}
+A governança oceânica no OAS permanece amplamente fragmentada e se baseia principalmente em acordos bilaterais ou iniciativas setoriais, em vez de uma coordenação regional mais ampla.
+
+\subsection{Pesca INN}
+A crescente presença de frotas de águas distantes, voltadas a espécies de alto valor como a lula, intensificou a competição com as pescarias nacionais. As lacunas de governança em áreas adjacentes de alto-mar também continuam facilitando a pesca ilegal, não declarada e não regulamentada (INN).
+
+\subsection{Lacunas de informação}
+O monitoramento ambiental e pesqueiro limitado e inconsistente, especialmente nas pescarias artesanais, restringe a capacidade de avaliar os impactos da mudança do clima, o estado dos recursos e as opções de manejo mais eficazes.
+
+\subsection{Mudanças associadas ao clima}
+A mudança do clima já está reconfigurando a dinâmica oceanográfica do OAS. O aumento da temperatura do oceano, as mudanças nos padrões de circulação e a maior frequência de ondas de calor marinhas estão impulsionando alterações na distribuição das espécies, incluindo deslocamento para o sul e maior expansão para o alto-mar.
+
+\columnbreak
+
+\section{Ações prioritárias}
+
+\begin{tcolorbox}[
+colback=sky,
+colframe=teal,
+boxrule=0.5pt,
+arc=1mm,
+breakable]
+\begin{enumerate}[leftmargin=*, itemsep=7pt]
+\item \textbf{Lançar um diálogo regional estruturado sobre governança oceânica} entre os países do OAS.
+\item \textbf{Fortalecer a diplomacia científica oceânica} por meio de monitoramento conjunto, sistemas de dados compartilhados e pesquisa colaborativa.
+\item \textbf{Aprimorar o monitoramento regional e o compartilhamento de dados} sobre pescarias e mudanças ambientais.
+\item \textbf{Implementar uma gestão pesqueira baseada em ecossistemas e resiliente ao clima} que possa responder a populações em deslocamento.
+\item \textbf{Desenvolver estratégias regionais de conservação}, incluindo iniciativas transfronteiriças e articulação com a implementação do BBNJ.
+\end{enumerate}
+\end{tcolorbox}
+
+\section{Janela de oportunidade}
+
+O atual impulso político regional e global, incluindo a implementação do Acordo BBNJ e a Década da Ciência Oceânica da ONU, cria uma oportunidade estratégica para fortalecer uma governança oceânica integrada no Atlântico Sudoeste.
+
+\begin{tcolorbox}[
+colback=teal,
+colframe=teal,
+boxrule=0pt,
+arc=1mm,
+left=3mm,right=3mm,top=2mm,bottom=2mm]
+\color{white}\large
+\textit{Avançar rumo a uma via compartilhada para pescarias sustentáveis, ecossistemas resilientes e gestão oceânica de longo prazo no OAS não deve mais ser visto como uma aspiração, mas como uma resposta prática e cada vez mais necessária frente aos desafios compartilhados em pesca, clima e governança.}
+\end{tcolorbox}
+
+\vspace{0.15cm}
+
+\section{Referência}
+
+\footnotesize
+Palacios-Abrantes J., Llompart F., Cardoso L.G., Defeo O., Gianelli I., Jaureguizar J.J., Lopes P.F.M., Perez J.A.A., Piccolo N.I.P., Piola A.R.P., Polejack A., Prado L.F., and Saraceno M. 2026. \textit{A governança oceânica integrada é necessária no Atlântico Sudoeste para impulsionar a pesca, a conservação e a resiliência frente à mudança climática}. Discover Oceans. https://doi.org/10.1007/s44289-026-00134-4
+
+\end{multicols}

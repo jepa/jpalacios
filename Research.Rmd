@@ -74,13 +74,13 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <center>
 <!-- Original article -->
 <a span class="label label-primary" title ="" href= "https://link.springer.com/article/10.1007/s44289-026-00134-4" target="_blank">Full Paper</span></a>
-<a span class="label label-primary" title ="" href= "https://link.springer.com/article/10.1007/s44289-026-00134-4" target="_blank">Policy Brief</span></a>
+<a span class="label label-primary" title ="" href= "./policy_briefs/swao_cc/pb_swao_cc_en.pdf" target="_blank">Policy Brief</span></a>
 <!-- <!-- Spanish version --> 
-<a span class="label label-success" href= "./Translations/swao_esp.html" target="_blank">Artículo en Español</span></a>
-<a span class="label label-success" href= "./Translations/swao_esp.html" target="_blank">Policy Brief (Es)</span></a>
+<a span class="label label-success" href= "./Translations/swao_cc_esp.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-success" href= "./policy_briefs/swao_cc/pb_swao_cc_esp.pdf" target="_blank">Policy Brief (Es)</span></a>
 <!-- <!-- Portuguese version --> 
-<a span class="label label-success" href= "./Translations/swao_pt.html" target="_blank">Artigo em Português</span></a>
-<a span class="label label-success" href= "./Translations/swao_esp.html" target="_blank">Policy Brief (Pt)</span></a>
+<a span class="label label-success" href= "./Translations/swao_cc_pt.html" target="_blank">Artigo em Português</span></a>
+<a span class="label label-success" href= "./policy_briefs/swao_cc/pb_swao_cc_pt.pdf" target="_blank">Policy Brief (Pt)</span></a>
 <!-- Press -->
 <a span class="label label-info" href= "https://abori.com.br/oceanografia/coordenacao-regional-biodiversidade-marinha/" target="_blank">Agência Bori</span></a>
 

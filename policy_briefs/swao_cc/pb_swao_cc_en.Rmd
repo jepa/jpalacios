@@ -1,0 +1,163 @@
+---
+title: ""
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    keep_tex: false
+fontsize: 10.5pt
+geometry: margin=1.4cm
+header-includes:
+  - \usepackage[table]{xcolor}
+  - \usepackage{graphicx}
+  - \usepackage{fancyhdr}
+  - \usepackage{tcolorbox}
+  - \tcbuselibrary{skins,breakable}
+  - \usepackage{enumitem}
+  - \usepackage{parskip}
+  - \usepackage{titlesec}
+  - \usepackage{booktabs}
+  - \usepackage{multicol}
+  - \usepackage{helvet}
+  - \usepackage{caption}
+  - \renewcommand{\familydefault}{\sfdefault}
+  - \definecolor{ocean}{HTML}{083D77}
+  - \definecolor{teal}{HTML}{1C7C7D}
+  - \definecolor{sky}{HTML}{DCEFF2}
+  - \definecolor{mist}{HTML}{F5F9FA}
+  - \definecolor{gold}{HTML}{E3B23C}
+  - \definecolor{textgray}{HTML}{3A3A3A}
+  - \definecolor{softline}{HTML}{C8D9DE}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  # - \fancyhead[L]{\small\textcolor{ocean}{\textbf{POLICY BRIEF}}}
+  # - \fancyhead[R]{\small\textcolor{textgray}{Southwest Atlantic Ocean}}
+  - \fancyfoot[C]{\small\thepage}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \titleformat{\section}{\Large\bfseries\color{ocean}}{}{0em}{}
+  - \titleformat{\subsection}{\normalsize\bfseries\color{teal}}{}{0em}{}
+  - \captionsetup[figure]{font=small,labelfont=bf}
+---
+
+\begin{tcolorbox}[
+colback=ocean,
+colframe=ocean,
+boxrule=0pt,
+arc=1.5mm,
+left=5mm,right=5mm,top=4mm,bottom=4mm]
+\begin{center}
+{\color{white}\Huge\textbf{A Connected Ocean, a Fragmented Response}}\\[1.5mm]
+{\color{white}\Large Climate Change and Governance Gaps in the Southwest Atlantic}\\[2mm]
+{\color{white}\normalsize March 2026}
+\end{center}
+
+\end{tcolorbox}
+
+\vspace{0.25cm}
+
+\begin{tcolorbox}[
+colback=sky,
+colframe=teal,
+boxrule=0.7pt,
+arc=1mm,
+left=3mm,right=3mm,top=2mm,bottom=2mm]
+\textcolor{textgray}{\large The Southwest Atlantic Ocean faces mounting pressures from climate change, increasing fishing effort, and fragmented governance, yet the region also holds strong scientific capacity and a long tradition of international cooperation.}
+\end{tcolorbox}
+
+\vspace{0.2cm}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.98\textwidth]{../../Images/Infographics/swao_infograohic_en.png}
+\caption*{The Southwest Atlantic is shaped by ecological connectivity across national waters and adjacent high seas, underscoring the need for coordinated governance.}
+\end{figure}
+
+\vspace{0.15cm}
+
+\begin{tcolorbox}[
+colback=mist,
+colframe=gold,
+title=\textbf{At a glance},
+fonttitle=\bfseries,
+coltitle=ocean,
+colbacktitle=mist,
+breakable,
+arc=1mm]
+\begin{itemize}[leftmargin=*, itemsep=4pt]
+\item \textbf{17 million km$^2$}: scale of the Southwest Atlantic Ocean.
+\item \textbf{900,000 livelihoods}: people supported by industrial and small-scale fisheries.
+\item \textbf{2 million tons}: estimated annual catches.
+\item \textbf{USD 5 billion}: approximate annual landed value.
+\item \textbf{No regional governance body}: despite strong ecological connectivity across Brazil, Uruguay, and Argentina.
+\end{itemize}
+\end{tcolorbox}
+
+\vspace{0.9cm}
+
+\begin{multicols}{2}
+
+\section{Why the region matters}
+
+Spanning more than 17 million km$^2$, the SWAO includes highly productive shelf ecosystems and major oceanographic currents that support rich biodiversity and high-value fisheries.
+
+The region sustains large industrial and small-scale fisheries employing nearly 900,000 people, with annual catches estimated at approximately 2 million tons valued at around USD 5 billion.
+
+Marine species in the SWAO frequently move across national boundaries and between Exclusive Economic Zones (EEZs) and adjacent high seas areas. Many commercially important stocks are therefore transboundary or straddling, requiring coordinated management among countries.
+
+Yet unlike many comparable marine regions, the SWAO still lacks a dedicated regional governance body to address these shared challenges.
+
+\section{Governance pressures}
+
+\subsection{Fragmented institutions}
+Ocean governance in the SWAO remains largely fragmented and is mainly based on bilateral agreements or sectoral initiatives rather than broader regional coordination.
+
+\subsection{IUU fishing}
+The growing presence of distant-water fishing fleets targeting highly valuable species, such as squid, has intensified competition with domestic fisheries. Governance gaps in adjacent high-seas areas also continue to enable illegal, unreported, and unregulated fishing.
+
+\subsection{Data gaps}
+Limited and inconsistent environmental and fisheries monitoring, particularly for small-scale fisheries, constrains the ability to assess the impacts of climate change, stock status, and effective management options.
+
+\subsection{Climate shifts}
+Climate change is already reshaping the oceanographic dynamics of the SWAO. Rising ocean temperatures, changes in circulation patterns, and more frequent marine heatwaves are driving shifts in species distributions, including poleward movement and greater spillover into the high seas.
+
+\columnbreak
+
+\section{Priority actions}
+
+\begin{tcolorbox}[
+colback=sky,
+colframe=teal,
+boxrule=0.5pt,
+arc=1mm,
+breakable]
+\begin{enumerate}[leftmargin=*, itemsep=7pt]
+\item \textbf{Launch a structured regional governance dialogue} among SWAO countries.
+\item \textbf{Strengthen ocean science diplomacy} through joint monitoring, shared data systems, and collaborative research.
+\item \textbf{Improve regional monitoring and data sharing} for fisheries and environmental change.
+\item \textbf{Implement climate-resilient, ecosystem-based fisheries management} that can respond to shifting stocks.
+\item \textbf{Develop regional conservation strategies}, including transboundary initiatives and links to BBNJ implementation.
+\end{enumerate}
+\end{tcolorbox}
+
+\section{Policy window}
+
+Current regional and global policy momentum, including implementation of the BBNJ Agreement and the UN Ocean Decade, creates a timely opportunity to strengthen integrated ocean governance in the Southwest Atlantic.
+
+\begin{tcolorbox}[
+colback=teal,
+colframe=teal,
+boxrule=0pt,
+arc=1mm,
+left=3mm,right=3mm,top=2mm,bottom=2mm]
+\color{white}\large
+\textit{A shared pathway toward sustainable fisheries, resilient ecosystems, and long-term ocean stewardship in the SWAO should no longer be seen as an aspiration, but as a practical and increasingly necessary response to shared fisheries, climate, and governance challenges.}
+\end{tcolorbox}
+
+\vspace{0.15cm}
+
+\section{Reference}
+
+\footnotesize
+Palacios-Abrantes J., Llompart F., Cardoso L.G., Defeo O., Gianelli I., Jaureguizar J.J., Lopes P.F.M., Perez J.A.A., Piccolo N.I.P., Piola A.R.P., Polejack A., Prado L.F., and Saraceno M. 2026. \textit{Integrated ocean governance is needed in the Southwest Atlantic Ocean to foster fisheries, conservation and resilience to climate change}. Discover Oceans. https://doi.org/10.1007/s44289-026-00134-4
+
+\end{multicols}
