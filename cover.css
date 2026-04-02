@@ -12,5 +12,6 @@ body{
 
 body{ /* Normal  */
    font-size: 16px;
+   font-variant-position: bottom;
 }
 
