@@ -125,7 +125,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <!-- Original article -->
 <a span class="label label-primary" title ="" href= "https://www.science.org/doi/10.1126/sciadv.adq5976" target="_blank">Full Paper</span></a>
 <!-- <!-- Spanish version --> 
-<a span class="label label-success" href= "./Translations/straddling_cc/straddling_ccb.html" target="_blank">Artículo en Español</span></a>
+<a span class="label label-success" href= "./Translations/straddling_cc/straddling_cc.html" target="_blank">Artículo en Español</span></a>
 <!-- Press -->
 <a span class="label label-info" href= "https://oceans.ubc.ca/2025/07/30/straddlingfishstocks/" target="_blank">UBC story</span></a>
 <!-- Github -->
