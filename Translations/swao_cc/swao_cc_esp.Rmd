@@ -12,7 +12,23 @@ output:
 urlcolor: blue
 ---
 
+<!-- Logo -->
+<a href="https://link.springer.com/article/10.1007/s44289-026-00134-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260331&utm_content=10.1007/s44289-026-00134-4" target="_blank" rel="noopener noreferrer">
+  <img src="../Images/Translations/swao_cc.png" style="height:150px; float:right;" />
+</a>
 
+<!-- Google tag (gtag.js) -->
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG1RRBT88J"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HG1RRBT88J');
+</script>
 
 
 -   **NOTA: esta es una traducción al español del artículo:** *Integrated ocean governance is needed in the Southwest Atlantic Ocean to foster fisheries, conservation and resilience to climate change*, escrito por Palacios-Abrantes J.y colaboradores y que se puede encontrar en la siguiente [liga](https://doi.org/10.1007/s44289-026-00134-4).
