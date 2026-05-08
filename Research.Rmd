@@ -23,7 +23,7 @@ output:
 ## Main Research Lines 
 
 <div style= "float:left;position: relative; right: 10px;">
-<img src="Images/projects/Transboundary_Image.jpg" class="img-thumbnail" width="200px">
+<img src="Images/Transboundary_Image.jpg" class="img-thumbnail" width="200px">
 </div>
 
 ### [Management of shifting shared stocks](projects/transboundary.html)
@@ -45,7 +45,7 @@ Marine protected areas (MPAs) are an important tool in the context of marine spa
 <br>
 
 <div style= "float:left;position: relative; right: 10px;">
-<img src="./Images/projects/PescadoLatino.png" alt="Lights" class="img-thumbnail" width="200px">
+<img src="./Images/PescadoLatino.png" alt="Lights" class="img-thumbnail" width="200px">
 </div>
 
 ### [Ocean management in Latin America](projects/pescado_latino.html)
