@@ -12,7 +12,7 @@ output:
 
 ## Credentials
 
-- Postdoctoral fellow (2022-current) - *The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Canada*
+- Postdoctoral fellow (2022-2026) - *The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Canada*
 - Postdoctoral researcher (2021 - 2022) - *Center for Limnology, University of Wisconsin-Madison, USA*
 - PhD. Zoology (2021) - *The Institute for the Oceans and Fisheries, University of British Columbia (UBC), Canada*
 - MESM (2016) - *Bren School of Environmental Science and Management, University of California at Santa Barbara (UCSB), USA*
@@ -67,9 +67,38 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 </center>
 
-### 2025
+### 2026
 
-52. **Palacios-Abrantes, J.**, Llompart, F., Cardoso, L. G., Defeo, O., Gianelli, I., Jaureguizar, A. J., Lopes, P. F. M., Perez, J. A. A., Piccolo, N. I. P., Piola, A. R., Polejack, A., Prado, L. F. and Saraceno, M., 2026. Integrated ocean governance is needed in the Southwest Atlantic Ocean to foster fisheries, conservation and resilience to climate change. Discover Oceans, 3 (1), 19.
+56. **Palacios-Abrantes, J.**, Clarke, T. M., Jiménez, A. B., Romero-Chaves, R., Villalobos-Rojas, F., Sánchez-Godínez, C., Viteri-Mejía, C., Martínez-Fernández, D., Moity, N., Ramírez, J. and Cheung, W. W. L., 2026. Climate change and ocean management shape marine biomass resilience in the Marine Corridor of the Eastern Tropical Pacific. Discover Oceans, 3 (1), 38.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://link.springer.com/article/10.1007/s44289-026-00151-3" target="_blank">Full Paper</span></a>
+<a span class="label label-primary" title ="" href= "https://marviva.net/wp-content/uploads/2026/07/ELFUTU2.pdf" target="_blank">Policy Brief</span></a>
+<!-- <!-- Code & Data  --> 
+<a span class="label label-warning" href= "https://github.com/jepa/etpmc_cc" target="_blank">Code</span></a>
+<a span class="label label-warning" href= "https://doi.org/10.5683/SP3/INWOTL" target="_blank">Data</span></a>
+<a span class="label label-warning" href= "https://geoportal.marviva.net/apps/9f1e01844dab4efca81afb466b80975a/explore" target="_blank">Tool</span></a>
+<!-- <!-- Espanol version --> 
+<a span class="label label-success" href= "./Translations/etpmc_cc_es.html" target="_blank">Articulo en Español</span></a>
+
+</center>
+
+<center>
+
+55. Cheung, W.W.L., Frölicher, T.L., Morgante, I., **Palacios-Abrantes, J.**, 2026. Large fisheries declines linked to compound and extreme climate events. *Nat Commun* 17, 8897. https://doi.org/10.1038/s41467-026-77077-z
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://www.nature.com/articles/s41467-026-77077-z" target="_blank">Full Paper</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-026-77077-z/MediaObjects/41467_2026_77077_MOESM4_ESM.zip" target="_blank">Data & Code</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://doi.org/10.5281/zenodo.21350761" target="_blank"> Code </span></a> 
+
+</center>
+
+54. **Palacios-Abrantes, J.**, Llompart, F., Cardoso, L. G., Defeo, O., Gianelli, I., Jaureguizar, A. J., Lopes, P. F. M., Perez, J. A. A., Piccolo, N. I. P., Piola, A. R., Polejack, A., Prado, L. F. and Saraceno, M., 2026. Integrated ocean governance is needed in the Southwest Atlantic Ocean to foster fisheries, conservation and resilience to climate change. Discover Oceans, 3 (1), 19.
   
 <center>
 <!-- Original article -->
@@ -83,7 +112,27 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <a span class="label label-success" href= "./policy_briefs/swao_cc/pb_swao_cc_pt.pdf" target="_blank">Policy Brief (Pt)</span></a>
 <!-- Press -->
 <a span class="label label-info" href= "https://abori.com.br/oceanografia/coordenacao-regional-biodiversidade-marinha/" target="_blank">Agência Bori</span></a>
+</center>
+  
+  
+53. Sumaila, U. R., Cheung, W. W. L., **Palacios-Abrantes, J**. and Burnside, D., 2026. Climate change strengthens the case for a high seas fishing ban. *Frontiers of Biogeography*.
 
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://biogeography.pensoft.net/article/183549/" target="_blank">Full Paper</span></a>
+
+</center>
+
+
+52. Foster, K., Rabone, M., **Palacios-Abrantes, J.**, Gobin, J., Kanhai, L. D. K., Vallès, H. and Amon, D., 2026. Assessing the state of deep-sea biological knowledge and charting a path for scientific research in Barbados. *PeerJ*, 14, e21380.
+
+<center>
+<!-- Original article -->
+<a span class="label label-primary" title ="" href= "https://peerj.com/articles/21380/" target="_blank">Full Paper</span></a>
+<!-- Data -->
+<a span class="label label-warning" href= "https://obis.org/dataset/e130c58b-3f35-4353-93ec-1b7ad028325f" target="_blank">Data & Code</span></a>
+<!-- Github -->
+<a span class="label label-warning" href= "https://github.com/jepa/barbados_deepsea_biodiv" target="_blank"> Code </span></a> 
 
 </center>
 
@@ -118,6 +167,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 
 </center>
 
+### 2025
 
 48. **Palacios-Abrantes, J.**, Santos B.S., Frölicher, T.L., Reygondeau, G., Sumaila, U.R., Wabnitz, C.C.C., and Cheung, W.W.L. 2025. Climate change drives shifts in straddling fish stocks in the world’s ocean. *Sci. Adv*.11,eadq5976
 
@@ -440,7 +490,7 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 </center>
 
 
-### 2022
+### &le;2022
 
 20. **Palacios-Abrantes, J.**, Frölicher, T. L., Reygondeau, G., Sumaila, U. R., Tagliabue, A., Wabnitz, C. C. C., and Cheung, W. W. L., 2022. Timing and magnitude of climate-driven range shifts in transboundary fish stocks challenge their management. *Global Change Biology*, 00, 1–17.
 
@@ -494,8 +544,6 @@ Latin America is a highly diverse and dynamic region and there are many contexts
 <a span class="label label-warning" href= "https://www.nature.com/articles/s41467-022-30991-4#data-availability" target="_blank">Data</span></a>
 
 </center>
-
-### &le;2021
 
 16. Tittensor, D. P., Novaglio, C., Harrison, C. S., Heneghan, R. F., Barrier, N., Bianchi, D., Bopp, L., Bryndum-Buchholz, A., Britten, G. L., Büchner, M., Cheung, W. W. L., Christensen, V., Coll, M., Dunne, J. P., Eddy, T. D., Everett, J. D., Fernandes-Salvador, J. A., Fulton, E. A., Galbraith, E. D., Gascuel, D., Guiet, J., John, J. G., Link, J. S., Lotze, H. K., Maury, O., Ortega-Cisneros, K., **Palacios-Abrantes, J**., Petrik, C. M., du Pontavice, H., Rault, J., Richardson, A. J., Shannon, L., Shin, Y.-J., Steenbeek, J., Stock, C. A. and Blanchard, J. L., 2021. Next-generation ensemble projections reveal higher climate risks for marine ecosystems. *Nature Climate Change*
 

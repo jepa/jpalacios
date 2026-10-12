@@ -13,7 +13,7 @@ output:
 </div>
 
 
-I am a Latin American marine scientist motivated to answer complex, real-life questions threatening the ocean and its social-ecological systems. I am particularly interested on how climate change is affecting the oceans and the management and conservation of marine resources. Currently, I hold a position as a Postdoctoral fellow at the [Changing Ocean Research Unit](https://coru.oceans.ubc.ca/) of the Institute for the Oceans and Fisheries for the University of British Columbia.
+I am a Latin American marine scientist motivated to answer complex, real-life questions threatening the ocean and its social-ecological systems. I am particularly interested on how climate change is affecting the oceans and the management and conservation of marine resources. 
 
 Overall, my research focuses on three main areas that relate to ocean health and responsible usage of marine resources: 
 
